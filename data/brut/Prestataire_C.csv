@@ -1,0 +1,1816 @@
+﻿Reference_Dossier,Jour,Nom_Agent,Duree_Min,Dossier_Cloture,Note_Client,Prix_Prestation,Type_Contact,Objet,Traite,Repris,Conformite_Controle,NPS_Client,Est_Reclamation
+DOS50000,44947,AGT-19,5.8,TRUE,5.0,27.28,Chat,Changement d'offre,TRUE,0,Conforme,9.0,VRAI
+DOS50001,44957,AGT-12,4.6,FAUX,3.0,24.11,Courrier,Déménagement,TRUE,0,,,FAUX
+DOS50002,45052,AGT-03,1.9,FAUX,5.0,24.25,Email,Relevé compteur,TRUE,0,Conforme,10.0,VRAI
+DOS50003,45084,AGT-12,2.6,VRAI,5.0,51.21,Email,Facturation,TRUE,0,Conforme,,FAUX
+DOS50004,45123,AGT-03,5.7,FALSE,5.0,50.74,Courrier,Facturation,TRUE,0,,,VRAI
+DOS50005,44930,AGT-03,8.8,FAUX,3.0,25.46,Chat,Résiliation,FALSE,0,,,VRAI
+DOS50006,45283,AGT-12,5.3,TRUE,5.0,33.05,Courrier,Déménagement,FALSE,0,Conforme,2.0,VRAI
+DOS50007,44932,AGT-08,10.7,TRUE,5.0,31.61,Email,Réclamation,TRUE,1,Non Conforme,1.0,FAUX
+DOS50008,45012,AGT-08,6.5,VRAI,5.0,31.41,Chat,Souscription contrat,FALSE,1,Conforme,10.0,FAUX
+DOS50009,45051,AGT-03,3.7,FALSE,,53.22,Courrier,Litige paiement,FALSE,0,Conforme,8.0,FAUX
+DOS50010,45196,AGT-08,6.9,TRUE,,52.45,Chat,Relevé compteur,TRUE,0,Conforme,6.0,VRAI
+DOS50011,45136,AGT-11,2.9,FALSE,,40.53,Téléphone,Souscription contrat,FALSE,0,Conforme,,FAUX
+DOS50012,45089,AGT-08,5.5,VRAI,,27.49,Chat,Facturation,TRUE,0,NC,8.0,FAUX
+DOS50013,44999,AGT-08,5.5,FALSE,2.0,37.81,Téléphone,Résiliation,FALSE,0,Non Conforme,6.0,VRAI
+DOS50014,45241,AGT-12,5.4,TRUE,4.0,21.91,Téléphone,Relevé compteur,FALSE,0,Conforme,,VRAI
+DOS50015,45137,AGT-25,2.8,TRUE,5.0,43.98,Email,Facturation,TRUE,0,NC,,FAUX
+DOS50016,45203,AGT-08,0.3,FAUX,5.0,23.56,Chat,Réclamation,FALSE,0,,,FAUX
+DOS50017,45219,AGT-25,0.0,FALSE,3.0,54.94,Téléphone,Résiliation,FALSE,0,Non Conforme,,VRAI
+DOS50018,45037,AGT-03,4.7,FALSE,5.0,53.8,Téléphone,Demande d'information,FALSE,1,Conforme,6.0,VRAI
+DOS50019,44958,AGT-08,5.9,TRUE,4.0,18.14,Email,Relevé compteur,TRUE,1,Conforme,,FAUX
+DOS50020,45270,AGT-03,8.1,TRUE,5.0,27.77,Courrier,Résiliation,FALSE,1,Conforme,7.0,FAUX
+DOS50021,45183,AGT-12,5.9,VRAI,,54.05,Courrier,Changement d'offre,FALSE,0,Non Conforme,8.0,VRAI
+DOS50022,45088,AGT-19,2.9,FAUX,3.0,32.04,Courrier,Facturation,FALSE,0,,8.0,VRAI
+DOS50023,44928,AGT-25,4.8,TRUE,4.0,-41.2,Email,Souscription contrat,TRUE,0,Conforme,,VRAI
+DOS50024,45114,AGT-11,4.9,FALSE,4.0,37.53,Courrier,Changement d'offre,TRUE,0,Conforme,,FAUX
+DOS50025,45265,AGT-12,7.7,FALSE,5.0,23.5,Chat,Souscription contrat,FALSE,0,Non Conforme,,FAUX
+DOS50026,45120,AGT-12,2.0,FALSE,,53.06,Téléphone,Réclamation,TRUE,0,Conforme,,VRAI
+DOS50027,45071,AGT-12,0.0,FALSE,5.0,32.78,Téléphone,Panne compteur,TRUE,1,Conforme,4.0,VRAI
+DOS50028,45126,AGT-07,3.2,FAUX,4.0,22.51,Chat,Relevé compteur,FALSE,0,,7.0,VRAI
+DOS50029,45109,AGT-11,4.1,TRUE,3.0,47.81,Téléphone,Déménagement,TRUE,0,Conforme,,FAUX
+DOS50030,44943,AGT-19,6.7,TRUE,4.0,21.97,Courrier,Réclamation,FALSE,0,NC,,FAUX
+DOS50031,45081,AGT-07,5.6,TRUE,1.0,17.21,Téléphone,Demande d'information,TRUE,0,Conforme,6.0,VRAI
+DOS50032,45100,AGT-12,5.2,FAUX,3.0,54.93,Courrier,Réclamation,FALSE,0,Non Conforme,,FAUX
+DOS50033,45044,AGT-25,4.8,FALSE,3.0,41.88,Téléphone,Réclamation,FALSE,0,Conforme,,VRAI
+DOS50034,45283,AGT-11,6.7,VRAI,5.0,45.61,Email,Demande d'information,TRUE,0,,7.0,FAUX
+DOS50035,45051,AGT-12,4.5,FALSE,,12.66,Courrier,Facturation,TRUE,0,Conforme,,VRAI
+DOS50036,44979,AGT-19,4.1,TRUE,5.0,-18.44,Courrier,Facturation,FALSE,0,Conforme,,FAUX
+DOS50037,45184,AGT-11,7.0,TRUE,5.0,21.73,Téléphone,Résiliation,TRUE,0,NC,,VRAI
+DOS50038,45174,AGT-19,0.2,TRUE,5.0,24.42,Téléphone,Souscription contrat,TRUE,0,Conforme,,FAUX
+DOS50039,45228,AGT-19,3.1,TRUE,5.0,19.41,Téléphone,Facturation,TRUE,0,Conforme,5.0,FAUX
+DOS50040,45217,AGT-12,3.8,VRAI,3.0,22.53,Téléphone,Relevé compteur,FALSE,1,,,FAUX
+DOS50041,45173,AGT-12,7.2,TRUE,5.0,21.36,Téléphone,Changement d'offre,FALSE,0,Non Conforme,8.0,FAUX
+DOS50042,45256,AGT-03,5.5,TRUE,2.0,38.03,Email,Litige paiement,FALSE,1,NC,,FAUX
+DOS50043,45046,AGT-12,3.0,VRAI,4.0,42.34,Chat,Changement d'offre,FALSE,0,Conforme,,VRAI
+DOS50044,45091,AGT-11,2.9,TRUE,,26.2,Chat,Déménagement,TRUE,1,Conforme,8.0,FAUX
+DOS50045,45001,AGT-08,7.2,FAUX,,41.31,Chat,Déménagement,FALSE,0,NC,9.0,FAUX
+DOS50046,45242,AGT-08,2.9,TRUE,2.0,28.1,Email,Litige paiement,TRUE,0,,7.0,VRAI
+DOS50047,45180,AGT-25,4.0,FAUX,4.0,23.7,Chat,Facturation,TRUE,0,Conforme,0.0,VRAI
+DOS50048,44978,AGT-12,4.4,FAUX,5.0,14.79,Téléphone,Panne compteur,TRUE,1,Conforme,9.0,FAUX
+DOS50049,45240,AGT-12,6.2,VRAI,,43.77,Courrier,Résiliation,TRUE,1,,,VRAI
+DOS50050,44992,AGT-07,4.2,FALSE,5.0,14.76,Email,Demande d'information,FALSE,1,NC,,FAUX
+DOS50051,45055,AGT-03,2.6,FAUX,5.0,21.73,Téléphone,Déménagement,FALSE,0,Non Conforme,8.0,FAUX
+DOS50052,45045,AGT-08,6.4,TRUE,4.0,20.9,Chat,Facturation,FALSE,0,Conforme,,FAUX
+DOS50053,45063,AGT-03,6.3,VRAI,3.0,26.44,Chat,Litige paiement,TRUE,0,Conforme,,FAUX
+DOS50054,44981,AGT-11,8.3,FAUX,5.0,48.12,Téléphone,Demande d'information,TRUE,0,Conforme,9.0,VRAI
+DOS50055,45134,AGT-12,5.7,FALSE,,46.69,Téléphone,Changement d'offre,TRUE,0,Conforme,3.0,FAUX
+DOS50056,45246,AGT-07,2.8,FALSE,,54.25,Email,Souscription contrat,FALSE,0,Non Conforme,,VRAI
+DOS50057,45061,AGT-19,8.2,FAUX,5.0,40.61,Téléphone,Relevé compteur,FALSE,1,Conforme,7.0,VRAI
+DOS50058,45014,AGT-07,4.4,FALSE,4.0,54.55,Email,Réclamation,FALSE,0,Conforme,,FAUX
+DOS50059,45206,AGT-25,6.8,VRAI,3.0,18.78,Chat,Déménagement,TRUE,0,NC,10.0,VRAI
+DOS50060,45108,AGT-25,8.1,VRAI,,30.6,Chat,Panne compteur,TRUE,0,Conforme,9.0,VRAI
+DOS50061,45181,AGT-03,5.4,VRAI,4.0,32.13,Téléphone,Relevé compteur,TRUE,0,Conforme,1.0,VRAI
+DOS50062,45037,AGT-03,5.1,FALSE,3.0,37.98,Email,Demande d'information,FALSE,0,Conforme,9.0,FAUX
+DOS50063,45020,AGT-08,5.7,VRAI,5.0,14.35,Chat,Litige paiement,FALSE,0,Conforme,6.0,FAUX
+DOS50064,45033,AGT-08,6.1,VRAI,5.0,29.37,Téléphone,Panne compteur,FALSE,0,NC,9.0,VRAI
+DOS50065,45131,AGT-07,7.2,VRAI,,12.7,Courrier,Résiliation,TRUE,1,Non Conforme,,VRAI
+DOS50066,45204,AGT-12,4.8,FALSE,2.0,12.05,Email,Demande d'information,TRUE,0,Conforme,,FAUX
+DOS50067,45150,AGT-25,5.3,TRUE,,38.49,Courrier,Panne compteur,FALSE,0,NC,,FAUX
+DOS50068,45003,AGT-25,4.2,TRUE,3.0,40.09,Email,Changement d'offre,TRUE,0,Conforme,,FAUX
+DOS50069,45202,AGT-08,4.2,FALSE,3.0,14.31,Courrier,Demande d'information,FALSE,0,Conforme,8.0,VRAI
+DOS50070,45288,AGT-07,0.0,FALSE,,36.95,Chat,Déménagement,FALSE,1,Conforme,,VRAI
+DOS50071,44944,AGT-12,4.3,TRUE,5.0,40.46,Courrier,Panne compteur,FALSE,0,Conforme,10.0,VRAI
+DOS50072,45040,AGT-11,3.3,TRUE,5.0,15.84,Email,Demande d'information,FALSE,1,Conforme,8.0,FAUX
+DOS50073,45057,AGT-12,6.9,FAUX,1.0,15.38,Courrier,Résiliation,TRUE,0,Conforme,10.0,FAUX
+DOS50074,44932,AGT-08,6.5,VRAI,4.0,21.36,Courrier,Facturation,FALSE,0,,9.0,VRAI
+DOS50075,45235,AGT-25,5.0,FALSE,4.0,23.04,Chat,Demande d'information,TRUE,1,Conforme,10.0,FAUX
+DOS50076,45005,AGT-12,5.6,TRUE,5.0,41.23,Chat,Souscription contrat,TRUE,0,NC,8.0,FAUX
+DOS50077,45252,AGT-25,3.5,FAUX,3.0,39.65,Email,Déménagement,TRUE,0,Conforme,,VRAI
+DOS50078,45188,AGT-08,5.1,FALSE,5.0,17.78,Téléphone,Changement d'offre,FALSE,0,,,FAUX
+DOS50079,45015,AGT-25,7.5,FALSE,,24.44,Courrier,Panne compteur,FALSE,0,Conforme,,FAUX
+DOS50080,45048,AGT-11,7.4,FAUX,2.0,34.83,Email,Changement d'offre,FALSE,0,Conforme,,FAUX
+DOS50081,45140,AGT-11,8.4,FAUX,3.0,41.37,Téléphone,Demande d'information,FALSE,0,Non Conforme,8.0,VRAI
+DOS50082,45281,AGT-12,6.9,FALSE,4.0,37.2,Courrier,Litige paiement,TRUE,0,Conforme,6.0,VRAI
+DOS50083,45161,AGT-08,5.8,FALSE,4.0,45.48,Courrier,Demande d'information,TRUE,0,Conforme,7.0,VRAI
+DOS50084,45073,AGT-19,6.8,FALSE,,50.79,Chat,Souscription contrat,TRUE,0,Conforme,,VRAI
+DOS50085,45022,AGT-07,2.9,VRAI,4.0,28.59,Téléphone,Facturation,FALSE,0,Conforme,7.0,VRAI
+DOS50086,45013,AGT-03,6.6,FALSE,4.0,14.56,Chat,Souscription contrat,FALSE,0,Conforme,9.0,VRAI
+DOS50087,45276,AGT-12,7.0,VRAI,4.0,37.0,Chat,Relevé compteur,TRUE,0,NC,8.0,FAUX
+DOS50088,45219,AGT-25,5.1,VRAI,5.0,17.24,Chat,Demande d'information,FALSE,0,Conforme,9.0,FAUX
+DOS50089,44981,AGT-07,5.3,TRUE,4.0,37.56,Chat,Panne compteur,TRUE,0,Conforme,,VRAI
+DOS50090,45128,AGT-25,4.7,TRUE,4.0,35.29,Courrier,Réclamation,FALSE,0,Conforme,,FAUX
+DOS50091,45285,AGT-03,5.0,VRAI,4.0,28.68,Email,Facturation,FALSE,0,Conforme,,FAUX
+DOS50092,44967,AGT-07,5.5,FAUX,3.0,47.36,Chat,Résiliation,FALSE,0,NC,,FAUX
+DOS50093,45246,AGT-19,5.7,VRAI,5.0,21.31,Courrier,Réclamation,FALSE,0,,8.0,FAUX
+DOS50094,45066,AGT-25,3.5,VRAI,4.0,44.9,Téléphone,Demande d'information,TRUE,0,Conforme,,VRAI
+DOS50095,45205,AGT-11,3.9,FAUX,,52.76,Téléphone,Relevé compteur,FALSE,0,NC,,VRAI
+DOS50096,45085,AGT-25,6.5,FAUX,4.0,39.46,Courrier,Changement d'offre,FALSE,0,,3.0,FAUX
+DOS50097,45222,AGT-12,5.9,TRUE,,28.67,Chat,Litige paiement,TRUE,0,Conforme,,VRAI
+DOS50098,45085,AGT-07,3.7,FAUX,4.0,13.35,Courrier,Changement d'offre,FALSE,0,Conforme,4.0,FAUX
+DOS50099,44966,AGT-19,4.9,VRAI,5.0,41.91,Chat,Souscription contrat,FALSE,0,Non Conforme,,VRAI
+DOS50100,44944,AGT-19,8.7,TRUE,4.0,35.98,Chat,Résiliation,FALSE,0,Conforme,,FAUX
+DOS50101,45280,AGT-11,1.1,VRAI,4.0,23.93,Courrier,Litige paiement,FALSE,0,,8.0,FAUX
+DOS50102,45167,AGT-19,0.2,FAUX,4.0,28.7,Email,Déménagement,TRUE,0,Non Conforme,,VRAI
+DOS50103,45245,AGT-19,1.1,VRAI,4.0,47.29,Chat,Demande d'information,TRUE,0,Conforme,,VRAI
+DOS50104,45111,AGT-25,9.6,FALSE,2.0,50.51,Email,Facturation,FALSE,0,Conforme,1.0,FAUX
+DOS50105,45068,AGT-07,3.1,TRUE,4.0,49.25,Courrier,Déménagement,FALSE,0,Conforme,7.0,FAUX
+DOS50106,45213,AGT-08,4.6,VRAI,1.0,13.5,Email,Réclamation,TRUE,0,Conforme,,VRAI
+DOS50107,45068,AGT-19,6.3,TRUE,4.0,23.23,Téléphone,Facturation,FALSE,1,Conforme,,VRAI
+DOS50108,44928,AGT-12,6.1,TRUE,4.0,39.92,Courrier,Litige paiement,FALSE,0,Conforme,,VRAI
+DOS50109,44996,AGT-11,4.7,TRUE,5.0,15.51,Téléphone,Panne compteur,TRUE,0,Conforme,8.0,FAUX
+DOS50110,44970,AGT-03,8.0,FALSE,4.0,48.96,Chat,Panne compteur,TRUE,0,Conforme,9.0,FAUX
+DOS50111,45134,AGT-12,6.7,FALSE,4.0,52.45,Email,Facturation,TRUE,1,Conforme,,FAUX
+DOS50112,45002,AGT-19,3.9,TRUE,,22.33,Email,Demande d'information,TRUE,0,Non Conforme,10.0,VRAI
+DOS50113,45068,AGT-11,3.2,FAUX,,27.43,Courrier,Changement d'offre,FALSE,0,Conforme,,VRAI
+DOS50114,44969,AGT-03,5.5,TRUE,4.0,43.74,Chat,Relevé compteur,FALSE,0,Conforme,9.0,VRAI
+DOS50115,45268,AGT-11,6.8,FALSE,5.0,33.08,Chat,Relevé compteur,TRUE,0,Conforme,8.0,FAUX
+DOS50116,44971,AGT-03,8.8,FALSE,,21.26,Courrier,Changement d'offre,FALSE,0,Conforme,8.0,VRAI
+DOS50117,45080,AGT-12,5.8,VRAI,5.0,43.04,Email,Résiliation,TRUE,0,Conforme,,FAUX
+DOS50118,45166,AGT-07,4.5,TRUE,,44.1,Téléphone,Demande d'information,FALSE,0,Conforme,9.0,FAUX
+DOS50119,44974,AGT-08,7.7,FALSE,3.0,-29.37,Courrier,Litige paiement,TRUE,1,Non Conforme,,VRAI
+DOS50120,45257,AGT-19,7.4,FAUX,,54.65,Chat,Panne compteur,TRUE,0,Conforme,,FAUX
+DOS50121,45247,AGT-25,6.7,VRAI,5.0,26.85,Courrier,Litige paiement,TRUE,0,Conforme,,VRAI
+DOS50122,44983,AGT-07,2.9,FALSE,5.0,20.78,Chat,Litige paiement,FALSE,0,Conforme,9.0,VRAI
+DOS50123,44966,AGT-11,4.6,FAUX,,41.82,Téléphone,Facturation,TRUE,0,NC,8.0,VRAI
+DOS50124,45236,AGT-12,4.8,TRUE,4.0,19.73,Téléphone,Relevé compteur,FALSE,0,Conforme,,FAUX
+DOS50125,45216,AGT-07,6.7,TRUE,5.0,24.26,Email,Réclamation,TRUE,1,Conforme,,FAUX
+DOS50126,45273,AGT-12,1.6,TRUE,5.0,22.04,Email,Facturation,FALSE,0,NC,7.0,VRAI
+DOS50127,45244,AGT-12,4.4,FALSE,5.0,43.65,Courrier,Panne compteur,TRUE,0,,9.0,FAUX
+DOS50128,45066,AGT-07,5.2,FALSE,3.0,46.13,Courrier,Relevé compteur,TRUE,0,,,VRAI
+DOS50129,45112,AGT-25,4.8,VRAI,5.0,23.45,Téléphone,Changement d'offre,TRUE,0,Conforme,,FAUX
+DOS50130,45128,AGT-07,8.5,FAUX,3.0,40.17,Chat,Réclamation,TRUE,0,Conforme,9.0,VRAI
+DOS50131,44954,AGT-11,7.2,FAUX,,31.17,Email,Déménagement,FALSE,1,Conforme,7.0,FAUX
+DOS50132,45216,AGT-08,7.2,VRAI,4.0,44.61,Email,Panne compteur,FALSE,0,,9.0,FAUX
+DOS50133,45015,AGT-12,4.3,FAUX,5.0,25.81,Chat,Souscription contrat,FALSE,0,Conforme,8.0,VRAI
+DOS50134,44951,AGT-08,5.5,TRUE,5.0,14.22,Courrier,Réclamation,TRUE,0,Conforme,7.0,FAUX
+DOS50135,45178,AGT-12,3.5,FALSE,,26.49,Courrier,Résiliation,TRUE,0,Conforme,10.0,VRAI
+DOS50136,45006,AGT-07,3.6,FALSE,,44.82,Téléphone,Facturation,FALSE,0,Conforme,,VRAI
+DOS50137,45262,AGT-03,7.2,FAUX,5.0,44.06,Téléphone,Facturation,TRUE,0,Conforme,0.0,FAUX
+DOS50138,44951,AGT-12,6.8,FALSE,5.0,44.15,Téléphone,Panne compteur,TRUE,1,Conforme,8.0,FAUX
+DOS50139,44941,AGT-07,3.4,VRAI,5.0,29.09,Téléphone,Souscription contrat,FALSE,0,Conforme,6.0,VRAI
+DOS50140,45167,AGT-25,5.4,VRAI,5.0,51.62,Chat,Déménagement,FALSE,0,Conforme,5.0,VRAI
+DOS50141,45037,AGT-12,2.3,FALSE,4.0,39.5,Téléphone,Réclamation,FALSE,0,Conforme,9.0,VRAI
+DOS50142,45236,AGT-19,6.2,FALSE,4.0,30.37,Email,Facturation,TRUE,0,Conforme,,VRAI
+DOS50143,45085,AGT-08,3.3,FAUX,5.0,37.44,Courrier,Facturation,TRUE,0,,7.0,VRAI
+DOS50144,44980,AGT-12,5.4,FAUX,4.0,47.0,Téléphone,Souscription contrat,TRUE,1,Conforme,,VRAI
+DOS50145,45108,AGT-08,8.7,VRAI,5.0,43.05,Email,Relevé compteur,FALSE,0,,9.0,FAUX
+DOS50146,45199,AGT-19,3.1,FALSE,5.0,47.95,Courrier,Souscription contrat,FALSE,0,Conforme,10.0,FAUX
+DOS50147,44985,AGT-25,5.9,FAUX,4.0,52.24,Courrier,Réclamation,FALSE,0,NC,,VRAI
+DOS50148,45259,AGT-12,5.1,FAUX,3.0,23.13,Chat,Déménagement,TRUE,0,Conforme,,VRAI
+DOS50149,44960,AGT-08,2.9,TRUE,4.0,44.44,Email,Résiliation,TRUE,0,Conforme,9.0,VRAI
+DOS50150,45069,AGT-03,3.8,VRAI,3.0,49.71,Courrier,Changement d'offre,TRUE,0,Conforme,2.0,VRAI
+DOS50151,45067,AGT-07,6.1,TRUE,3.0,19.78,Chat,Changement d'offre,TRUE,0,Conforme,,FAUX
+DOS50152,44931,AGT-19,4.8,FALSE,5.0,26.12,Courrier,Souscription contrat,TRUE,1,Conforme,4.0,FAUX
+DOS50153,44991,AGT-08,8.0,FAUX,5.0,18.8,Chat,Réclamation,TRUE,0,Non Conforme,,VRAI
+DOS50154,45030,AGT-07,6.2,FALSE,2.0,35.67,Chat,Réclamation,TRUE,0,Non Conforme,8.0,FAUX
+DOS50155,45115,AGT-12,3.2,FALSE,5.0,17.25,Email,Déménagement,TRUE,0,Conforme,,FAUX
+DOS50156,45228,AGT-07,6.9,VRAI,5.0,14.51,Chat,Réclamation,FALSE,0,Conforme,,VRAI
+DOS50157,44955,AGT-03,7.2,VRAI,5.0,36.09,Téléphone,Changement d'offre,FALSE,0,Conforme,,FAUX
+DOS50158,45067,AGT-25,5.8,FAUX,2.0,51.83,Téléphone,Résiliation,FALSE,0,Conforme,9.0,FAUX
+DOS50159,45185,AGT-12,6.3,FAUX,4.0,46.89,Email,Panne compteur,TRUE,0,Conforme,,FAUX
+DOS50160,45041,AGT-19,5.7,VRAI,,25.16,Chat,Litige paiement,FALSE,0,NC,,FAUX
+DOS50161,45261,AGT-19,7.7,VRAI,5.0,21.37,Téléphone,Demande d'information,FALSE,0,Conforme,,FAUX
+DOS50162,45159,AGT-25,7.4,VRAI,5.0,19.42,Email,Résiliation,FALSE,0,Conforme,3.0,FAUX
+DOS50163,45196,AGT-25,2.3,FALSE,,23.12,Courrier,Résiliation,FALSE,0,Conforme,7.0,VRAI
+DOS50164,45290,AGT-25,2.1,FAUX,5.0,37.31,Chat,Résiliation,TRUE,0,,,FAUX
+DOS50165,44953,AGT-25,4.8,FALSE,,51.7,Chat,Demande d'information,FALSE,0,,7.0,FAUX
+DOS50166,45049,AGT-07,6.8,TRUE,5.0,37.06,Courrier,Facturation,FALSE,0,Conforme,,VRAI
+DOS50167,45177,AGT-12,7.6,VRAI,5.0,32.98,Courrier,Facturation,FALSE,0,,8.0,VRAI
+DOS50168,45147,AGT-11,0.0,FAUX,5.0,44.25,Email,Changement d'offre,FALSE,0,Conforme,10.0,FAUX
+DOS50169,45218,AGT-03,4.8,VRAI,5.0,19.55,Téléphone,Demande d'information,FALSE,0,Conforme,,FAUX
+DOS50170,45128,AGT-19,4.6,FAUX,4.0,17.89,Chat,Déménagement,TRUE,1,Conforme,0.0,VRAI
+DOS50171,45070,AGT-03,5.0,TRUE,5.0,19.45,Courrier,Souscription contrat,TRUE,0,Conforme,5.0,VRAI
+DOS50172,45080,AGT-03,5.5,TRUE,4.0,-47.99,Courrier,Facturation,TRUE,0,Conforme,,FAUX
+DOS50173,44934,AGT-03,4.3,FALSE,4.0,28.05,Téléphone,Facturation,TRUE,0,Conforme,5.0,VRAI
+DOS50174,45228,AGT-12,4.6,TRUE,4.0,25.99,Email,Résiliation,FALSE,1,,,VRAI
+DOS50175,45090,AGT-03,6.0,FALSE,3.0,18.48,Email,Relevé compteur,TRUE,0,Conforme,6.0,FAUX
+DOS50176,45101,AGT-07,2.7,FAUX,,38.37,Chat,Demande d'information,TRUE,0,Conforme,,FAUX
+DOS50177,45290,AGT-08,8.9,FAUX,5.0,44.75,Courrier,Souscription contrat,TRUE,0,Conforme,,VRAI
+DOS50178,45139,AGT-25,9.5,VRAI,5.0,52.22,Chat,Résiliation,FALSE,0,Conforme,,VRAI
+DOS50179,45093,AGT-11,6.7,FAUX,4.0,24.86,Courrier,Déménagement,TRUE,0,Conforme,,VRAI
+DOS50180,45290,AGT-19,7.9,TRUE,2.0,38.29,Chat,Souscription contrat,FALSE,0,Conforme,,FAUX
+DOS50181,45157,AGT-12,3.4,FALSE,5.0,19.68,Chat,Relevé compteur,FALSE,0,Conforme,,VRAI
+DOS50182,45259,AGT-25,4.0,FAUX,5.0,30.03,Courrier,Changement d'offre,TRUE,0,Non Conforme,6.0,FAUX
+DOS50183,45070,AGT-25,0.7,TRUE,4.0,19.67,Chat,Relevé compteur,FALSE,0,Conforme,6.0,FAUX
+DOS50184,45175,AGT-19,5.3,FAUX,5.0,32.7,Email,Panne compteur,FALSE,1,Conforme,,VRAI
+DOS50185,45100,AGT-19,5.4,FAUX,3.0,41.24,Email,Réclamation,TRUE,0,Conforme,,FAUX
+DOS50186,44994,AGT-03,5.8,VRAI,,46.36,Courrier,Changement d'offre,TRUE,0,Conforme,7.0,FAUX
+DOS50187,45220,AGT-12,1.9,TRUE,4.0,13.56,Téléphone,Souscription contrat,FALSE,0,Conforme,10.0,FAUX
+DOS50188,45024,AGT-07,5.1,VRAI,2.0,27.45,Courrier,Résiliation,FALSE,0,Conforme,0.0,FAUX
+DOS50189,45099,AGT-19,5.9,VRAI,4.0,24.59,Email,Résiliation,TRUE,0,Conforme,,FAUX
+DOS50190,45025,AGT-08,6.2,FALSE,5.0,53.08,Email,Souscription contrat,TRUE,0,Conforme,,FAUX
+DOS50191,45220,AGT-08,4.1,FAUX,5.0,29.79,Courrier,Réclamation,TRUE,0,Conforme,7.0,VRAI
+DOS50192,45274,AGT-25,9.3,FALSE,4.0,30.7,Email,Réclamation,FALSE,0,Conforme,7.0,FAUX
+DOS50193,45202,AGT-11,4.8,TRUE,5.0,36.03,Courrier,Résiliation,TRUE,0,,7.0,FAUX
+DOS50194,45137,AGT-03,5.5,FAUX,,14.27,Courrier,Changement d'offre,TRUE,0,Conforme,8.0,VRAI
+DOS50195,45280,AGT-08,4.5,TRUE,4.0,47.13,Téléphone,Changement d'offre,TRUE,0,Non Conforme,1.0,VRAI
+DOS50196,45264,AGT-11,4.1,VRAI,3.0,25.92,Courrier,Réclamation,TRUE,0,Conforme,7.0,FAUX
+DOS50197,45290,AGT-12,6.5,FAUX,3.0,32.7,Email,Souscription contrat,TRUE,0,,5.0,VRAI
+DOS50198,45045,AGT-03,2.0,FALSE,3.0,37.48,Téléphone,Facturation,TRUE,0,Conforme,,FAUX
+DOS50199,44929,AGT-25,6.6,FAUX,4.0,24.8,Email,Résiliation,FALSE,0,Conforme,9.0,FAUX
+DOS50200,45030,AGT-03,5.4,TRUE,,53.34,Email,Souscription contrat,FALSE,0,Conforme,,VRAI
+DOS50201,45246,AGT-19,4.9,VRAI,5.0,30.36,Téléphone,Souscription contrat,TRUE,0,Conforme,10.0,FAUX
+DOS50202,45025,AGT-03,2.8,FALSE,,35.69,Email,Panne compteur,FALSE,0,Non Conforme,8.0,VRAI
+DOS50203,44944,AGT-25,5.3,FALSE,,18.22,Courrier,Litige paiement,FALSE,0,NC,5.0,VRAI
+DOS50204,44954,AGT-08,6.5,TRUE,3.0,20.42,Email,Demande d'information,TRUE,0,NC,,VRAI
+DOS50205,45018,AGT-12,5.5,VRAI,5.0,44.88,Courrier,Relevé compteur,FALSE,0,Conforme,9.0,FAUX
+DOS50206,44930,AGT-19,5.1,TRUE,5.0,16.76,Chat,Relevé compteur,FALSE,0,Conforme,,VRAI
+DOS50207,45280,AGT-12,4.7,VRAI,5.0,27.16,Téléphone,Changement d'offre,TRUE,0,Non Conforme,9.0,VRAI
+DOS50208,45222,AGT-25,4.3,FALSE,,29.95,Email,Panne compteur,TRUE,0,NC,8.0,VRAI
+DOS50209,45027,AGT-19,3.0,VRAI,,24.93,Téléphone,Déménagement,TRUE,1,NC,8.0,VRAI
+DOS50210,45151,AGT-03,6.5,VRAI,2.0,29.23,Chat,Changement d'offre,TRUE,0,Conforme,0.0,FAUX
+DOS50211,44986,AGT-08,5.7,FAUX,1.0,20.27,Courrier,Réclamation,FALSE,0,Non Conforme,,FAUX
+DOS50212,45267,AGT-03,6.6,FAUX,5.0,36.58,Courrier,Panne compteur,TRUE,0,Non Conforme,,VRAI
+DOS50213,45022,AGT-07,4.3,VRAI,5.0,31.57,Téléphone,Facturation,TRUE,0,,9.0,VRAI
+DOS50214,45111,AGT-08,4.9,FAUX,3.0,23.98,Courrier,Relevé compteur,TRUE,0,Conforme,,FAUX
+DOS50215,45032,AGT-19,2.9,FALSE,5.0,52.56,Courrier,Facturation,FALSE,0,Conforme,9.0,FAUX
+DOS50216,45028,AGT-12,2.1,FALSE,5.0,29.66,Chat,Souscription contrat,TRUE,0,Conforme,1.0,VRAI
+DOS50217,45064,AGT-19,5.4,VRAI,,49.7,Email,Panne compteur,FALSE,1,Conforme,,VRAI
+DOS50218,45246,AGT-12,1.1,TRUE,,20.94,Email,Relevé compteur,TRUE,0,Conforme,8.0,FAUX
+DOS50219,45110,AGT-07,5.9,FALSE,,46.41,Email,Réclamation,FALSE,0,Non Conforme,,VRAI
+DOS50220,45094,AGT-03,4.0,VRAI,4.0,21.35,Chat,Souscription contrat,FALSE,1,Conforme,,FAUX
+DOS50221,45079,AGT-12,9.7,VRAI,5.0,26.37,Courrier,Demande d'information,TRUE,0,NC,8.0,FAUX
+DOS50222,45104,AGT-07,5.3,VRAI,3.0,29.23,Téléphone,Panne compteur,TRUE,1,Non Conforme,8.0,FAUX
+DOS50223,45218,AGT-11,6.3,FALSE,3.0,34.42,Email,Réclamation,TRUE,0,Conforme,9.0,VRAI
+DOS50224,45187,AGT-25,3.9,FALSE,4.0,19.68,Courrier,Relevé compteur,FALSE,0,Conforme,,VRAI
+DOS50225,45042,AGT-19,7.5,TRUE,5.0,37.15,Chat,Réclamation,TRUE,0,NC,8.0,FAUX
+DOS50226,45166,AGT-12,7.7,VRAI,5.0,49.93,Téléphone,Résiliation,TRUE,0,Conforme,8.0,VRAI
+DOS50227,45174,AGT-12,7.1,FAUX,5.0,27.96,Chat,Facturation,TRUE,0,Conforme,,FAUX
+DOS50228,45140,AGT-11,9.2,FAUX,3.0,40.65,Email,Changement d'offre,FALSE,1,NC,1.0,VRAI
+DOS50229,45251,AGT-03,3.1,VRAI,2.0,35.5,Email,Souscription contrat,FALSE,0,Conforme,9.0,VRAI
+DOS50230,45142,AGT-07,6.5,FALSE,4.0,46.56,Téléphone,Litige paiement,FALSE,1,Conforme,,VRAI
+DOS50231,45276,AGT-19,3.7,TRUE,4.0,35.78,Courrier,Changement d'offre,FALSE,0,Conforme,7.0,VRAI
+DOS50232,44994,AGT-07,3.2,FAUX,,15.61,Courrier,Litige paiement,FALSE,0,Conforme,6.0,VRAI
+DOS50233,45033,AGT-12,5.1,FAUX,4.0,26.6,Téléphone,Relevé compteur,TRUE,0,,8.0,VRAI
+DOS50234,45190,AGT-07,5.7,FAUX,5.0,45.7,Email,Réclamation,FALSE,0,Conforme,8.0,FAUX
+DOS50235,45164,AGT-07,5.0,FALSE,,40.38,Courrier,Demande d'information,FALSE,0,NC,,VRAI
+DOS50236,45024,AGT-07,2.7,FALSE,4.0,54.07,Téléphone,Résiliation,TRUE,0,,7.0,VRAI
+DOS50237,45231,AGT-07,5.3,VRAI,1.0,28.13,Téléphone,Résiliation,FALSE,0,Conforme,3.0,FAUX
+DOS50238,45165,AGT-12,5.2,VRAI,3.0,49.58,Chat,Souscription contrat,TRUE,0,,,VRAI
+DOS50239,45185,AGT-03,3.2,TRUE,3.0,50.15,Téléphone,Panne compteur,TRUE,0,Non Conforme,,VRAI
+DOS50240,45255,AGT-08,8.1,VRAI,2.0,46.96,Email,Changement d'offre,TRUE,0,Conforme,,FAUX
+DOS50241,45108,AGT-11,9.0,FALSE,5.0,45.81,Email,Réclamation,FALSE,0,,0.0,VRAI
+DOS50242,45247,AGT-12,5.5,FALSE,5.0,53.61,Email,Résiliation,FALSE,0,Conforme,8.0,FAUX
+DOS50243,44964,AGT-07,7.1,FALSE,5.0,54.83,Email,Changement d'offre,FALSE,0,NC,8.0,VRAI
+DOS50244,45208,AGT-07,0.3,TRUE,5.0,38.36,Email,Facturation,FALSE,1,Conforme,4.0,FAUX
+DOS50245,45141,AGT-07,5.2,TRUE,5.0,14.41,Chat,Demande d'information,FALSE,0,Conforme,8.0,VRAI
+DOS50246,45266,AGT-07,7.4,FALSE,3.0,21.18,Chat,Réclamation,TRUE,0,Conforme,,VRAI
+DOS50247,45284,AGT-12,5.2,TRUE,4.0,30.33,Téléphone,Relevé compteur,TRUE,0,Conforme,,VRAI
+DOS50248,45148,AGT-03,5.0,TRUE,5.0,27.41,Email,Souscription contrat,FALSE,0,Conforme,6.0,FAUX
+DOS50249,45234,AGT-03,6.5,TRUE,4.0,30.94,Courrier,Panne compteur,TRUE,0,Conforme,8.0,VRAI
+DOS50250,44962,AGT-11,9.7,TRUE,2.0,46.43,Courrier,Litige paiement,TRUE,1,Non Conforme,,VRAI
+DOS50251,45080,AGT-08,5.9,FALSE,4.0,31.44,Téléphone,Demande d'information,FALSE,1,NC,,FAUX
+DOS50252,45119,AGT-07,5.5,FAUX,3.0,26.55,Courrier,Relevé compteur,FALSE,0,Conforme,,VRAI
+DOS50253,44974,AGT-08,7.9,VRAI,5.0,40.29,Téléphone,Réclamation,TRUE,1,Conforme,,FAUX
+DOS50254,45277,AGT-12,6.1,FAUX,4.0,14.43,Chat,Résiliation,TRUE,0,Conforme,8.0,FAUX
+DOS50255,45138,AGT-07,8.7,VRAI,4.0,19.3,Chat,Litige paiement,TRUE,0,Conforme,,FAUX
+DOS50256,45158,AGT-07,3.2,FAUX,3.0,40.96,Chat,Litige paiement,TRUE,0,NC,4.0,FAUX
+DOS50257,44960,AGT-08,3.2,VRAI,4.0,12.79,Téléphone,Demande d'information,TRUE,0,Conforme,,VRAI
+DOS50258,45152,AGT-07,3.6,VRAI,2.0,25.33,Email,Panne compteur,FALSE,0,Conforme,10.0,VRAI
+DOS50259,45039,AGT-11,7.0,FALSE,3.0,34.7,Email,Résiliation,FALSE,0,NC,,VRAI
+DOS50260,45151,AGT-12,5.9,FALSE,,15.67,Email,Demande d'information,TRUE,0,,,FAUX
+DOS50261,45005,AGT-07,4.7,VRAI,,31.11,Courrier,Réclamation,FALSE,0,,5.0,FAUX
+DOS50262,45071,AGT-11,5.9,FAUX,2.0,24.57,Téléphone,Facturation,FALSE,0,Conforme,8.0,VRAI
+DOS50263,45221,AGT-11,7.3,VRAI,5.0,30.09,Email,Résiliation,TRUE,0,Non Conforme,6.0,VRAI
+DOS50264,45105,AGT-07,4.6,FALSE,4.0,54.92,Email,Résiliation,TRUE,0,Conforme,9.0,VRAI
+DOS50265,45119,AGT-07,6.7,VRAI,4.0,12.15,Téléphone,Changement d'offre,FALSE,1,Conforme,4.0,FAUX
+DOS50266,45175,AGT-11,4.4,VRAI,2.0,43.41,Email,Changement d'offre,FALSE,0,Conforme,,VRAI
+DOS50267,45279,AGT-07,2.2,FALSE,5.0,38.85,Courrier,Demande d'information,TRUE,0,Conforme,8.0,FAUX
+DOS50268,45255,AGT-07,5.2,TRUE,,51.83,Courrier,Changement d'offre,FALSE,1,,0.0,VRAI
+DOS50269,45036,AGT-07,2.0,TRUE,4.0,47.05,Téléphone,Relevé compteur,FALSE,0,Conforme,7.0,VRAI
+DOS50270,45161,AGT-08,4.6,TRUE,1.0,13.51,Email,Panne compteur,FALSE,0,,5.0,FAUX
+DOS50271,45109,AGT-07,5.5,TRUE,5.0,19.24,Chat,Réclamation,FALSE,0,Conforme,7.0,VRAI
+DOS50272,45192,AGT-12,3.6,TRUE,5.0,33.99,Chat,Facturation,FALSE,0,NC,,VRAI
+DOS50273,45032,AGT-11,6.4,VRAI,4.0,16.01,Chat,Changement d'offre,FALSE,0,Conforme,,VRAI
+DOS50274,45275,AGT-25,4.7,FALSE,5.0,51.05,Téléphone,Changement d'offre,FALSE,0,Conforme,9.0,VRAI
+DOS50275,45124,AGT-25,6.4,FALSE,5.0,52.63,Téléphone,Relevé compteur,TRUE,0,Conforme,,VRAI
+DOS50276,44935,AGT-12,5.2,FAUX,4.0,13.06,Téléphone,Litige paiement,TRUE,0,Conforme,9.0,FAUX
+DOS50277,45277,AGT-11,4.8,FALSE,2.0,51.07,Email,Relevé compteur,FALSE,0,Conforme,8.0,FAUX
+DOS50278,45193,AGT-19,3.6,FAUX,5.0,16.74,Courrier,Changement d'offre,FALSE,0,Conforme,10.0,FAUX
+DOS50279,45284,AGT-08,5.3,FALSE,4.0,28.49,Courrier,Souscription contrat,TRUE,0,Conforme,,VRAI
+DOS50280,44967,AGT-25,5.5,FAUX,3.0,49.31,Email,Changement d'offre,FALSE,0,Conforme,10.0,VRAI
+DOS50281,44944,AGT-03,5.9,FAUX,5.0,27.76,Courrier,Souscription contrat,TRUE,0,Conforme,,FAUX
+DOS50282,45271,AGT-19,5.7,TRUE,2.0,39.4,Téléphone,Résiliation,TRUE,1,Conforme,,VRAI
+DOS50283,45058,AGT-11,2.6,FAUX,5.0,43.79,Email,Déménagement,FALSE,0,Conforme,,VRAI
+DOS50284,45177,AGT-11,7.2,FALSE,3.0,35.22,Téléphone,Résiliation,TRUE,0,NC,,VRAI
+DOS50285,45137,AGT-11,6.0,VRAI,5.0,29.81,Courrier,Panne compteur,FALSE,0,Conforme,8.0,VRAI
+DOS50286,44927,AGT-07,5.3,VRAI,5.0,49.28,Téléphone,Panne compteur,TRUE,0,Conforme,3.0,FAUX
+DOS50287,45003,AGT-07,5.9,VRAI,5.0,52.99,Email,Réclamation,TRUE,1,,,FAUX
+DOS50288,44934,AGT-11,6.3,VRAI,4.0,12.15,Courrier,Demande d'information,FALSE,0,Non Conforme,7.0,VRAI
+DOS50289,45131,AGT-08,9.1,VRAI,4.0,13.72,Chat,Réclamation,TRUE,0,Conforme,8.0,FAUX
+DOS50290,45252,AGT-07,4.1,FALSE,3.0,22.95,Chat,Facturation,FALSE,0,Conforme,,VRAI
+DOS50291,44973,AGT-07,4.2,FAUX,5.0,25.11,Email,Changement d'offre,FALSE,0,Conforme,,FAUX
+DOS50292,45029,AGT-07,3.1,FALSE,4.0,16.25,Chat,Réclamation,TRUE,0,,10.0,FAUX
+DOS50293,45137,AGT-25,1.5,FAUX,5.0,13.82,Chat,Réclamation,TRUE,1,Non Conforme,,FAUX
+DOS50294,45042,AGT-03,6.1,TRUE,5.0,31.1,Chat,Changement d'offre,FALSE,0,Conforme,5.0,VRAI
+DOS50295,45148,AGT-19,9.2,FAUX,5.0,39.28,Chat,Changement d'offre,FALSE,0,NC,9.0,VRAI
+DOS50296,44967,AGT-03,4.7,FAUX,5.0,39.57,Chat,Déménagement,FALSE,0,Conforme,8.0,VRAI
+DOS50297,45004,AGT-25,7.7,FAUX,3.0,53.0,Email,Relevé compteur,FALSE,0,Conforme,,VRAI
+DOS50298,45212,AGT-25,4.7,TRUE,5.0,39.72,Courrier,Réclamation,FALSE,0,NC,,FAUX
+DOS50299,45102,AGT-19,7.6,VRAI,4.0,19.61,Email,Panne compteur,FALSE,0,Conforme,8.0,FAUX
+DOS50300,45083,AGT-03,5.9,VRAI,,34.29,Email,Facturation,FALSE,0,Conforme,8.0,FAUX
+DOS50301,45080,AGT-19,5.3,FAUX,4.0,51.89,Chat,Déménagement,TRUE,0,Conforme,9.0,FAUX
+DOS50302,45203,AGT-25,4.1,VRAI,5.0,37.23,Chat,Panne compteur,FALSE,0,NC,,VRAI
+DOS50303,45214,AGT-25,5.4,TRUE,4.0,23.81,Email,Demande d'information,TRUE,0,Non Conforme,9.0,FAUX
+DOS50304,45059,AGT-03,6.9,TRUE,5.0,24.39,Chat,Changement d'offre,FALSE,0,Conforme,6.0,VRAI
+DOS50305,45012,AGT-07,3.9,TRUE,5.0,20.36,Email,Facturation,TRUE,0,Non Conforme,,FAUX
+DOS50306,44943,AGT-12,5.1,FAUX,3.0,37.86,Courrier,Facturation,TRUE,0,Conforme,5.0,VRAI
+DOS50307,45082,AGT-03,5.6,FALSE,5.0,38.23,Courrier,Relevé compteur,FALSE,0,Conforme,0.0,VRAI
+DOS50308,45214,AGT-07,6.9,TRUE,1.0,41.0,Email,Litige paiement,FALSE,0,Conforme,8.0,FAUX
+DOS50309,45101,AGT-03,5.4,FALSE,3.0,-29.36,Téléphone,Changement d'offre,FALSE,0,Conforme,0.0,VRAI
+DOS50310,45263,AGT-08,4.7,TRUE,4.0,35.4,Courrier,Changement d'offre,FALSE,0,Conforme,8.0,FAUX
+DOS50311,45193,AGT-19,5.8,FALSE,,52.87,Téléphone,Souscription contrat,TRUE,0,Conforme,6.0,FAUX
+DOS50312,45010,AGT-19,7.5,TRUE,5.0,40.1,Chat,Litige paiement,FALSE,1,,8.0,FAUX
+DOS50313,45024,AGT-08,6.1,FALSE,5.0,48.09,Courrier,Souscription contrat,FALSE,0,Conforme,8.0,FAUX
+DOS50314,45166,AGT-12,5.1,TRUE,3.0,19.3,Chat,Litige paiement,TRUE,0,Conforme,10.0,VRAI
+DOS50315,45207,AGT-11,5.3,FAUX,1.0,32.81,Courrier,Changement d'offre,TRUE,0,Conforme,,VRAI
+DOS50316,45180,AGT-03,3.2,TRUE,5.0,12.18,Email,Changement d'offre,FALSE,0,Conforme,,FAUX
+DOS50317,45023,AGT-12,6.7,VRAI,5.0,26.75,Chat,Facturation,FALSE,0,Conforme,,FAUX
+DOS50318,45179,AGT-12,2.7,TRUE,4.0,27.31,Chat,Réclamation,TRUE,0,,8.0,FAUX
+DOS50319,45017,AGT-11,4.4,FAUX,4.0,19.3,Téléphone,Facturation,FALSE,0,Conforme,8.0,FAUX
+DOS50320,45201,AGT-08,4.9,FALSE,,31.85,Email,Réclamation,TRUE,0,Non Conforme,,VRAI
+DOS50321,45124,AGT-25,4.4,VRAI,4.0,20.81,Courrier,Panne compteur,FALSE,1,Non Conforme,,FAUX
+DOS50322,44950,AGT-08,3.3,FALSE,,45.29,Courrier,Changement d'offre,TRUE,1,Conforme,8.0,FAUX
+DOS50323,44994,AGT-19,3.9,VRAI,5.0,42.64,Téléphone,Panne compteur,FALSE,0,,8.0,VRAI
+DOS50324,45036,AGT-19,2.6,VRAI,4.0,51.09,Courrier,Facturation,TRUE,0,,,FAUX
+DOS50325,45234,AGT-08,8.3,FAUX,,53.69,Chat,Litige paiement,FALSE,0,Non Conforme,,FAUX
+DOS50326,45267,AGT-07,4.2,FALSE,5.0,34.6,Chat,Réclamation,TRUE,0,Conforme,6.0,VRAI
+DOS50327,45087,AGT-25,4.0,VRAI,2.0,15.92,Courrier,Facturation,FALSE,0,,,VRAI
+DOS50328,44934,AGT-08,9.2,FAUX,4.0,34.45,Téléphone,Déménagement,TRUE,0,Conforme,,VRAI
+DOS50329,44961,AGT-08,2.1,FAUX,5.0,26.23,Email,Litige paiement,TRUE,0,Conforme,8.0,FAUX
+DOS50330,45070,AGT-12,6.3,TRUE,5.0,20.86,Chat,Facturation,FALSE,0,NC,2.0,FAUX
+DOS50331,45240,AGT-07,5.3,TRUE,,40.16,Courrier,Relevé compteur,TRUE,0,Conforme,,FAUX
+DOS50332,45282,AGT-19,3.3,VRAI,,12.96,Téléphone,Changement d'offre,TRUE,0,,,FAUX
+DOS50333,45066,AGT-03,5.4,VRAI,2.0,19.38,Téléphone,Souscription contrat,TRUE,0,Conforme,,FAUX
+DOS50334,44929,AGT-25,8.7,FAUX,1.0,20.71,Email,Facturation,FALSE,0,Conforme,9.0,FAUX
+DOS50335,45036,AGT-19,6.3,VRAI,3.0,40.74,Chat,Panne compteur,TRUE,0,Conforme,2.0,FAUX
+DOS50336,44940,AGT-12,6.0,FAUX,5.0,29.71,Chat,Facturation,TRUE,0,Conforme,,FAUX
+DOS50337,44931,AGT-07,2.8,FALSE,,40.11,Chat,Litige paiement,FALSE,0,Non Conforme,8.0,VRAI
+DOS50338,44943,AGT-12,3.6,FALSE,5.0,15.94,Chat,Déménagement,FALSE,0,Conforme,7.0,VRAI
+DOS50339,45204,AGT-03,2.3,FALSE,5.0,-16.83,Email,Réclamation,TRUE,0,Conforme,,VRAI
+DOS50340,45085,AGT-03,5.4,TRUE,1.0,38.26,Téléphone,Relevé compteur,TRUE,0,Conforme,9.0,VRAI
+DOS50341,45056,AGT-19,5.3,FAUX,,42.78,Courrier,Relevé compteur,FALSE,0,Conforme,,FAUX
+DOS50342,45174,AGT-12,3.6,VRAI,4.0,13.94,Chat,Déménagement,FALSE,0,Conforme,,FAUX
+DOS50343,45265,AGT-19,6.9,FAUX,3.0,12.08,Chat,Facturation,TRUE,0,,7.0,VRAI
+DOS50344,45230,AGT-12,2.7,FAUX,3.0,14.68,Chat,Changement d'offre,TRUE,0,Conforme,,VRAI
+DOS50345,45202,AGT-11,3.8,TRUE,5.0,19.72,Chat,Déménagement,TRUE,0,Conforme,,FAUX
+DOS50346,45025,AGT-07,5.4,FAUX,,37.5,Chat,Réclamation,FALSE,0,Conforme,9.0,FAUX
+DOS50347,45160,AGT-12,2.9,FALSE,5.0,35.37,Courrier,Panne compteur,FALSE,1,,6.0,VRAI
+DOS50348,45088,AGT-07,4.6,FAUX,4.0,14.2,Téléphone,Résiliation,TRUE,0,Non Conforme,8.0,FAUX
+DOS50349,45037,AGT-19,3.9,FAUX,,29.01,Chat,Changement d'offre,TRUE,0,Conforme,6.0,FAUX
+DOS50350,45172,AGT-07,5.7,FALSE,3.0,41.79,Téléphone,Relevé compteur,TRUE,0,Non Conforme,6.0,VRAI
+DOS50351,45249,AGT-03,2.6,VRAI,,34.88,Courrier,Souscription contrat,FALSE,0,Conforme,,VRAI
+DOS50352,45134,AGT-07,1.2,TRUE,5.0,48.19,Téléphone,Panne compteur,TRUE,0,Conforme,7.0,VRAI
+DOS50353,45203,AGT-11,2.9,VRAI,5.0,21.43,Chat,Panne compteur,FALSE,0,Non Conforme,,VRAI
+DOS50354,45076,AGT-25,7.0,VRAI,2.0,30.03,Chat,Panne compteur,FALSE,1,Conforme,,FAUX
+DOS50355,45178,AGT-12,6.8,VRAI,4.0,24.78,Téléphone,Relevé compteur,TRUE,0,NC,,VRAI
+DOS50356,45026,AGT-12,3.4,FALSE,,13.97,Chat,Réclamation,FALSE,0,NC,7.0,VRAI
+DOS50357,45121,AGT-12,5.1,FALSE,4.0,16.8,Téléphone,Panne compteur,TRUE,0,Conforme,,VRAI
+DOS50358,45224,AGT-12,5.2,VRAI,,48.51,Email,Litige paiement,TRUE,0,Conforme,10.0,FAUX
+DOS50359,45124,AGT-07,2.5,TRUE,5.0,22.13,Courrier,Demande d'information,FALSE,0,Conforme,9.0,VRAI
+DOS50360,45063,AGT-11,3.9,TRUE,5.0,36.46,Email,Panne compteur,TRUE,0,Conforme,,VRAI
+DOS50361,45277,AGT-03,4.8,FAUX,5.0,36.02,Chat,Demande d'information,FALSE,0,Conforme,,FAUX
+DOS50362,45058,AGT-07,0.9,VRAI,5.0,19.99,Email,Changement d'offre,FALSE,1,Conforme,8.0,FAUX
+DOS50363,45122,AGT-03,5.4,FAUX,5.0,12.21,Courrier,Litige paiement,FALSE,0,Conforme,9.0,FAUX
+DOS50364,45194,AGT-08,11.0,VRAI,5.0,47.47,Courrier,Panne compteur,FALSE,0,,0.0,VRAI
+DOS50365,45108,AGT-08,6.2,VRAI,5.0,33.7,Courrier,Facturation,TRUE,1,Conforme,,FAUX
+DOS50366,45064,AGT-08,5.6,TRUE,1.0,48.13,Courrier,Réclamation,TRUE,0,,,VRAI
+DOS50367,45281,AGT-08,6.6,FALSE,5.0,18.38,Chat,Réclamation,FALSE,0,Non Conforme,8.0,FAUX
+DOS50368,45266,AGT-08,6.1,TRUE,2.0,19.32,Chat,Réclamation,TRUE,0,Conforme,,VRAI
+DOS50369,45283,AGT-11,6.9,FAUX,5.0,20.16,Téléphone,Réclamation,FALSE,0,Conforme,,VRAI
+DOS50370,44995,AGT-19,1.3,VRAI,5.0,40.6,Chat,Réclamation,TRUE,0,,,FAUX
+DOS50371,45007,AGT-08,4.4,VRAI,4.0,48.1,Téléphone,Relevé compteur,FALSE,0,Conforme,7.0,FAUX
+DOS50372,45041,AGT-12,3.2,FAUX,5.0,54.22,Chat,Résiliation,TRUE,0,NC,,VRAI
+DOS50373,44953,AGT-25,1.4,FAUX,4.0,45.71,Chat,Résiliation,FALSE,0,Non Conforme,9.0,FAUX
+DOS50374,45124,AGT-12,4.9,FALSE,5.0,22.07,Courrier,Réclamation,TRUE,0,Conforme,,FAUX
+DOS50375,44936,AGT-07,7.0,FAUX,5.0,29.71,Chat,Changement d'offre,FALSE,0,,9.0,FAUX
+DOS50376,45028,AGT-19,4.0,VRAI,5.0,23.63,Email,Réclamation,TRUE,0,Conforme,7.0,FAUX
+DOS50377,45085,AGT-08,5.9,FALSE,,14.01,Chat,Demande d'information,TRUE,0,Conforme,,FAUX
+DOS50378,45092,AGT-19,7.7,TRUE,5.0,13.06,Chat,Relevé compteur,FALSE,0,Conforme,9.0,FAUX
+DOS50379,45290,AGT-08,4.7,FAUX,5.0,41.04,Téléphone,Changement d'offre,FALSE,0,Conforme,9.0,FAUX
+DOS50380,45166,AGT-11,7.3,FAUX,5.0,40.99,Téléphone,Facturation,TRUE,0,Non Conforme,,VRAI
+DOS50381,45165,AGT-07,7.1,VRAI,,26.45,Courrier,Demande d'information,FALSE,0,Conforme,,VRAI
+DOS50382,45053,AGT-19,5.8,TRUE,3.0,32.8,Téléphone,Déménagement,TRUE,0,Conforme,,FAUX
+DOS50383,45161,AGT-11,2.8,VRAI,5.0,43.34,Chat,Réclamation,TRUE,0,,,FAUX
+DOS50384,44946,AGT-07,1.3,FALSE,4.0,24.62,Email,Panne compteur,TRUE,0,Non Conforme,9.0,FAUX
+DOS50385,44969,AGT-08,3.8,FAUX,4.0,21.09,Courrier,Changement d'offre,TRUE,0,Non Conforme,3.0,VRAI
+DOS50386,45228,AGT-07,4.3,TRUE,5.0,26.91,Courrier,Souscription contrat,FALSE,0,Conforme,,VRAI
+DOS50387,45253,AGT-07,4.7,TRUE,4.0,13.57,Chat,Déménagement,TRUE,0,Non Conforme,,FAUX
+DOS50388,44974,AGT-03,6.4,FAUX,,26.0,Téléphone,Panne compteur,TRUE,0,Conforme,8.0,VRAI
+DOS50389,45179,AGT-25,3.7,TRUE,3.0,40.73,Téléphone,Facturation,FALSE,0,Non Conforme,,VRAI
+DOS50390,45084,AGT-08,6.4,FAUX,,53.22,Courrier,Panne compteur,FALSE,0,Conforme,,VRAI
+DOS50391,45186,AGT-03,8.5,FAUX,4.0,12.92,Chat,Changement d'offre,TRUE,0,Conforme,8.0,FAUX
+DOS50392,45259,AGT-12,4.8,TRUE,,26.05,Téléphone,Souscription contrat,TRUE,0,Conforme,7.0,VRAI
+DOS50393,45204,AGT-25,5.6,FAUX,4.0,19.42,Email,Litige paiement,FALSE,0,Conforme,,FAUX
+DOS50394,45053,AGT-25,8.3,FAUX,5.0,25.63,Chat,Litige paiement,FALSE,0,Conforme,,VRAI
+DOS50395,45010,AGT-03,6.7,FAUX,3.0,35.2,Email,Litige paiement,TRUE,0,,7.0,VRAI
+DOS50396,45134,AGT-11,3.8,FALSE,5.0,48.72,Courrier,Panne compteur,FALSE,0,,,FAUX
+DOS50397,44970,AGT-11,8.7,VRAI,5.0,45.18,Téléphone,Résiliation,TRUE,0,NC,,VRAI
+DOS50398,45181,AGT-25,5.5,TRUE,5.0,22.12,Courrier,Déménagement,FALSE,0,Conforme,10.0,VRAI
+DOS50399,45075,AGT-07,4.0,TRUE,5.0,35.97,Chat,Réclamation,TRUE,0,Conforme,5.0,VRAI
+DOS50400,45036,AGT-11,2.0,FAUX,5.0,22.08,Chat,Litige paiement,FALSE,0,Non Conforme,7.0,FAUX
+DOS50401,44991,AGT-19,3.7,FALSE,4.0,34.9,Courrier,Souscription contrat,TRUE,0,Conforme,,VRAI
+DOS50402,45166,AGT-12,0.0,FAUX,3.0,12.06,Chat,Panne compteur,TRUE,0,Conforme,10.0,VRAI
+DOS50403,45076,AGT-03,3.2,VRAI,5.0,25.93,Email,Facturation,FALSE,0,Conforme,,FAUX
+DOS50404,44981,AGT-03,3.5,VRAI,4.0,15.99,Chat,Litige paiement,FALSE,0,Conforme,,FAUX
+DOS50405,45075,AGT-12,7.8,FALSE,3.0,34.22,Email,Réclamation,FALSE,0,Conforme,,FAUX
+DOS50406,45189,AGT-08,5.6,FAUX,5.0,47.92,Email,Réclamation,FALSE,0,,,VRAI
+DOS50407,44951,AGT-07,2.3,FALSE,3.0,38.48,Chat,Déménagement,FALSE,0,NC,8.0,FAUX
+DOS50408,45252,AGT-03,6.5,FAUX,,51.87,Courrier,Souscription contrat,TRUE,0,Conforme,7.0,VRAI
+DOS50409,44972,AGT-07,9.5,FAUX,4.0,52.07,Email,Changement d'offre,FALSE,0,Conforme,,VRAI
+DOS50410,45029,AGT-25,1.3,FAUX,5.0,31.76,Courrier,Demande d'information,FALSE,0,Conforme,9.0,FAUX
+DOS50411,45059,AGT-25,5.5,TRUE,4.0,20.02,Chat,Panne compteur,TRUE,0,Non Conforme,,VRAI
+DOS50412,45243,AGT-03,5.2,FALSE,5.0,16.44,Courrier,Déménagement,TRUE,0,Conforme,5.0,FAUX
+DOS50413,45103,AGT-03,9.8,VRAI,3.0,20.5,Courrier,Litige paiement,TRUE,0,,,VRAI
+DOS50414,45000,AGT-08,7.2,TRUE,4.0,36.35,Courrier,Déménagement,TRUE,0,Conforme,4.0,VRAI
+DOS50415,44982,AGT-11,5.1,VRAI,,41.31,Téléphone,Déménagement,FALSE,0,Non Conforme,10.0,VRAI
+DOS50416,45139,AGT-19,6.9,VRAI,4.0,31.24,Courrier,Changement d'offre,TRUE,1,Non Conforme,,VRAI
+DOS50417,45168,AGT-25,1.5,FALSE,,40.34,Chat,Réclamation,FALSE,0,Conforme,,FAUX
+DOS50418,45063,AGT-12,5.2,FALSE,5.0,24.73,Téléphone,Panne compteur,TRUE,1,Conforme,,VRAI
+DOS50419,45021,AGT-11,3.9,TRUE,1.0,26.03,Email,Relevé compteur,FALSE,0,,0.0,VRAI
+DOS50420,44933,AGT-25,5.4,FALSE,3.0,49.11,Email,Panne compteur,TRUE,0,Conforme,8.0,VRAI
+DOS50421,44940,AGT-08,1.3,TRUE,5.0,29.92,Email,Litige paiement,TRUE,0,Conforme,10.0,FAUX
+DOS50422,45090,AGT-11,6.5,FAUX,5.0,25.33,Chat,Résiliation,TRUE,0,Conforme,,FAUX
+DOS50423,44927,AGT-12,6.1,TRUE,4.0,28.89,Email,Demande d'information,TRUE,0,NC,5.0,FAUX
+DOS50424,44955,AGT-03,7.3,FALSE,5.0,13.91,Email,Résiliation,FALSE,0,Non Conforme,,FAUX
+DOS50425,45090,AGT-12,4.3,TRUE,4.0,25.26,Téléphone,Demande d'information,TRUE,0,,5.0,VRAI
+DOS50426,45283,AGT-03,6.5,TRUE,3.0,30.76,Chat,Changement d'offre,FALSE,0,Conforme,,FAUX
+DOS50427,45080,AGT-03,8.9,TRUE,5.0,35.22,Email,Réclamation,FALSE,0,,6.0,VRAI
+DOS50428,45278,AGT-07,4.6,TRUE,5.0,33.57,Email,Déménagement,TRUE,0,Conforme,,VRAI
+DOS50429,45257,AGT-03,2.5,TRUE,3.0,50.75,Téléphone,Souscription contrat,TRUE,0,,,VRAI
+DOS50430,45184,AGT-08,6.4,VRAI,5.0,39.7,Email,Souscription contrat,TRUE,0,Conforme,10.0,FAUX
+DOS50431,45159,AGT-19,4.4,TRUE,5.0,12.87,Téléphone,Réclamation,TRUE,0,Conforme,,VRAI
+DOS50432,45049,AGT-08,3.1,TRUE,2.0,28.4,Email,Changement d'offre,TRUE,0,Conforme,,FAUX
+DOS50433,45011,AGT-25,3.5,FALSE,3.0,27.32,Email,Résiliation,TRUE,1,Conforme,,FAUX
+DOS50434,44943,AGT-12,2.3,TRUE,4.0,38.71,Email,Déménagement,FALSE,0,Conforme,4.0,VRAI
+DOS50435,45275,AGT-11,3.1,TRUE,4.0,19.06,Email,Changement d'offre,FALSE,0,Conforme,6.0,VRAI
+DOS50436,44965,AGT-03,5.9,VRAI,,32.49,Téléphone,Souscription contrat,TRUE,0,,,FAUX
+DOS50437,45047,AGT-07,6.0,FAUX,,48.67,Courrier,Litige paiement,TRUE,0,Conforme,8.0,FAUX
+DOS50438,45065,AGT-12,3.6,FAUX,4.0,36.39,Chat,Litige paiement,TRUE,0,NC,10.0,VRAI
+DOS50439,45039,AGT-12,9.6,FAUX,,50.67,Courrier,Déménagement,TRUE,0,Non Conforme,7.0,VRAI
+DOS50440,45169,AGT-11,5.4,VRAI,4.0,44.85,Chat,Litige paiement,TRUE,0,Conforme,8.0,VRAI
+DOS50441,45231,AGT-08,5.8,VRAI,,15.6,Courrier,Relevé compteur,FALSE,0,Conforme,6.0,VRAI
+DOS50442,45200,AGT-25,6.2,TRUE,5.0,30.55,Chat,Déménagement,FALSE,0,Conforme,,FAUX
+DOS50443,45139,AGT-11,3.7,FALSE,4.0,31.18,Email,Litige paiement,TRUE,0,Non Conforme,8.0,VRAI
+DOS50444,45174,AGT-25,7.0,FAUX,3.0,19.96,Courrier,Panne compteur,FALSE,0,Conforme,9.0,VRAI
+DOS50445,45260,AGT-07,2.0,FAUX,4.0,38.96,Téléphone,Déménagement,TRUE,0,Conforme,7.0,FAUX
+DOS50446,44991,AGT-11,2.9,VRAI,5.0,50.23,Chat,Réclamation,FALSE,0,Non Conforme,,VRAI
+DOS50447,45216,AGT-03,3.8,VRAI,,14.36,Téléphone,Litige paiement,TRUE,0,NC,,VRAI
+DOS50448,45079,AGT-25,5.6,TRUE,,32.69,Chat,Déménagement,FALSE,0,Conforme,,FAUX
+DOS50449,44938,AGT-03,2.6,FALSE,4.0,13.97,Email,Souscription contrat,TRUE,0,Conforme,,VRAI
+DOS50450,45247,AGT-08,2.8,TRUE,4.0,32.23,Email,Déménagement,TRUE,0,Non Conforme,,VRAI
+DOS50451,45189,AGT-19,8.1,VRAI,,23.46,Chat,Changement d'offre,FALSE,1,Conforme,,VRAI
+DOS50452,45165,AGT-12,7.7,TRUE,5.0,49.96,Chat,Souscription contrat,FALSE,0,Conforme,9.0,FAUX
+DOS50453,45289,AGT-25,0.0,FALSE,4.0,19.92,Chat,Demande d'information,FALSE,0,Conforme,3.0,FAUX
+DOS50454,45218,AGT-25,3.6,VRAI,4.0,53.27,Chat,Souscription contrat,TRUE,0,Conforme,10.0,FAUX
+DOS50455,45281,AGT-11,5.0,TRUE,3.0,49.8,Chat,Réclamation,TRUE,0,Non Conforme,4.0,VRAI
+DOS50456,45182,AGT-12,6.3,FAUX,5.0,41.67,Email,Facturation,TRUE,0,Conforme,8.0,FAUX
+DOS50457,45149,AGT-25,4.3,FALSE,4.0,49.4,Courrier,Réclamation,TRUE,0,Conforme,,FAUX
+DOS50458,45180,AGT-07,4.0,FAUX,2.0,45.3,Chat,Déménagement,FALSE,0,Conforme,,FAUX
+DOS50459,44974,AGT-03,7.5,FAUX,3.0,23.29,Email,Litige paiement,TRUE,0,Conforme,8.0,FAUX
+DOS50460,45210,AGT-19,3.8,FALSE,4.0,52.21,Email,Litige paiement,FALSE,0,,,FAUX
+DOS50461,45240,AGT-19,4.6,FALSE,5.0,24.51,Téléphone,Litige paiement,TRUE,0,,,FAUX
+DOS50462,45228,AGT-11,0.4,VRAI,4.0,53.28,Email,Changement d'offre,TRUE,0,Conforme,10.0,FAUX
+DOS50463,45024,AGT-19,6.1,FALSE,3.0,26.41,Chat,Déménagement,TRUE,0,Conforme,,VRAI
+DOS50464,45134,AGT-12,6.2,FALSE,5.0,30.73,Courrier,Résiliation,FALSE,0,Conforme,,VRAI
+DOS50465,45076,AGT-12,6.0,TRUE,5.0,28.26,Téléphone,Souscription contrat,TRUE,0,Non Conforme,,VRAI
+DOS50466,45051,AGT-19,5.9,FALSE,,44.46,Email,Relevé compteur,FALSE,0,Conforme,,VRAI
+DOS50467,44972,AGT-03,5.6,VRAI,5.0,21.77,Chat,Changement d'offre,TRUE,0,Conforme,5.0,VRAI
+DOS50468,44983,AGT-25,4.7,FAUX,3.0,36.78,Téléphone,Facturation,TRUE,1,Conforme,9.0,VRAI
+DOS50469,44995,AGT-11,7.0,TRUE,5.0,47.75,Chat,Changement d'offre,FALSE,1,Conforme,1.0,FAUX
+DOS50470,45133,AGT-08,6.3,FALSE,,37.64,Chat,Panne compteur,FALSE,1,Conforme,7.0,FAUX
+DOS50471,45083,AGT-19,4.0,FAUX,5.0,50.41,Courrier,Relevé compteur,TRUE,0,Conforme,9.0,FAUX
+DOS50472,45225,AGT-07,4.6,TRUE,1.0,47.81,Email,Déménagement,FALSE,0,Conforme,8.0,FAUX
+DOS50473,45038,AGT-11,2.8,VRAI,2.0,12.83,Courrier,Demande d'information,TRUE,0,Conforme,,VRAI
+DOS50474,45062,AGT-07,4.2,FAUX,5.0,44.37,Téléphone,Facturation,FALSE,1,Conforme,9.0,FAUX
+DOS50475,45274,AGT-25,3.0,TRUE,,40.28,Email,Demande d'information,FALSE,0,,,FAUX
+DOS50476,45070,AGT-03,7.0,TRUE,4.0,48.27,Email,Résiliation,FALSE,0,Conforme,3.0,VRAI
+DOS50477,45095,AGT-11,10.2,VRAI,4.0,-22.1,Chat,Litige paiement,TRUE,0,Conforme,,FAUX
+DOS50478,45160,AGT-03,2.8,FALSE,5.0,37.63,Téléphone,Résiliation,TRUE,0,Conforme,,FAUX
+DOS50479,45145,AGT-12,4.8,FALSE,4.0,22.77,Email,Litige paiement,FALSE,0,Conforme,,FAUX
+DOS50480,45213,AGT-25,4.5,FALSE,5.0,13.15,Chat,Relevé compteur,FALSE,0,Conforme,9.0,FAUX
+DOS50481,44939,AGT-11,1.1,TRUE,4.0,15.95,Courrier,Litige paiement,TRUE,0,Conforme,,VRAI
+DOS50482,45149,AGT-07,3.8,FALSE,5.0,49.19,Email,Déménagement,TRUE,1,Conforme,7.0,VRAI
+DOS50483,45199,AGT-12,8.8,TRUE,2.0,41.87,Email,Litige paiement,FALSE,0,Conforme,2.0,FAUX
+DOS50484,45134,AGT-11,5.5,VRAI,5.0,54.63,Courrier,Souscription contrat,TRUE,0,Conforme,4.0,VRAI
+DOS50485,44934,AGT-03,4.8,FAUX,4.0,34.84,Email,Souscription contrat,FALSE,0,NC,0.0,VRAI
+DOS50486,45003,AGT-07,3.0,FAUX,5.0,30.82,Courrier,Facturation,FALSE,0,,,FAUX
+DOS50487,45012,AGT-11,6.7,VRAI,5.0,48.81,Chat,Changement d'offre,FALSE,0,Conforme,,FAUX
+DOS50488,45216,AGT-07,4.2,FAUX,5.0,31.15,Téléphone,Résiliation,TRUE,0,Conforme,,VRAI
+DOS50489,45004,AGT-08,3.7,FALSE,5.0,42.63,Courrier,Facturation,TRUE,0,Conforme,10.0,VRAI
+DOS50490,45074,AGT-08,6.5,FALSE,,16.06,Téléphone,Relevé compteur,FALSE,0,Conforme,,FAUX
+DOS50491,45072,AGT-12,4.8,FAUX,5.0,27.94,Chat,Facturation,FALSE,0,Conforme,,VRAI
+DOS50492,45011,AGT-08,3.3,FALSE,,40.23,Chat,Relevé compteur,TRUE,0,Conforme,7.0,VRAI
+DOS50493,45121,AGT-25,6.7,VRAI,5.0,19.06,Courrier,Souscription contrat,TRUE,0,Conforme,6.0,FAUX
+DOS50494,45177,AGT-08,5.4,FALSE,,46.24,Courrier,Facturation,TRUE,0,NC,5.0,FAUX
+DOS50495,45168,AGT-03,6.7,TRUE,2.0,26.3,Chat,Facturation,TRUE,0,Non Conforme,10.0,VRAI
+DOS50496,45272,AGT-08,4.9,FAUX,3.0,52.67,Chat,Demande d'information,FALSE,0,Conforme,,VRAI
+DOS50497,45177,AGT-03,10.4,FALSE,,44.15,Email,Déménagement,TRUE,0,Conforme,,FAUX
+DOS50498,44973,AGT-11,2.0,TRUE,4.0,51.9,Chat,Souscription contrat,TRUE,0,Conforme,,VRAI
+DOS50499,44999,AGT-03,10.1,TRUE,4.0,23.07,Courrier,Souscription contrat,FALSE,0,NC,,VRAI
+DOS50500,44979,AGT-03,4.0,FAUX,5.0,22.46,Téléphone,Demande d'information,FALSE,0,,4.0,VRAI
+DOS50501,44932,AGT-12,2.1,VRAI,,17.55,Téléphone,Demande d'information,FALSE,0,NC,,FAUX
+DOS50502,44960,AGT-25,5.6,FAUX,5.0,49.04,Courrier,Souscription contrat,TRUE,0,Conforme,,VRAI
+DOS50503,45277,AGT-11,7.4,FAUX,5.0,47.74,Courrier,Panne compteur,TRUE,0,Conforme,,FAUX
+DOS50504,45194,AGT-19,6.0,FAUX,4.0,15.58,Courrier,Litige paiement,TRUE,0,Conforme,,FAUX
+DOS50505,45254,AGT-19,1.7,FALSE,5.0,51.36,Email,Déménagement,TRUE,0,Conforme,,VRAI
+DOS50506,44939,AGT-12,1.9,TRUE,5.0,25.02,Chat,Résiliation,FALSE,0,Conforme,3.0,FAUX
+DOS50507,45162,AGT-11,2.2,FALSE,3.0,31.81,Téléphone,Relevé compteur,FALSE,0,Conforme,,VRAI
+DOS50508,45102,AGT-11,3.8,FALSE,4.0,46.4,Courrier,Relevé compteur,FALSE,1,Non Conforme,9.0,FAUX
+DOS50509,45051,AGT-11,2.5,VRAI,4.0,47.87,Courrier,Facturation,FALSE,0,Conforme,6.0,VRAI
+DOS50510,44961,AGT-12,4.6,FALSE,4.0,49.57,Chat,Déménagement,TRUE,0,Conforme,,FAUX
+DOS50511,45113,AGT-03,1.4,VRAI,5.0,14.26,Courrier,Litige paiement,TRUE,0,,,FAUX
+DOS50512,45050,AGT-25,4.7,TRUE,4.0,41.18,Email,Panne compteur,FALSE,0,Conforme,8.0,FAUX
+DOS50513,44941,AGT-08,5.9,FALSE,,37.05,Téléphone,Changement d'offre,TRUE,0,Conforme,7.0,FAUX
+DOS50514,44994,AGT-25,7.4,TRUE,4.0,16.37,Chat,Facturation,TRUE,0,Conforme,6.0,VRAI
+DOS50515,45022,AGT-03,5.5,FALSE,4.0,26.92,Courrier,Litige paiement,FALSE,0,Conforme,8.0,FAUX
+DOS50516,45253,AGT-07,7.9,FALSE,3.0,21.31,Courrier,Facturation,TRUE,0,NC,,FAUX
+DOS50517,45171,AGT-25,5.5,TRUE,4.0,46.53,Email,Souscription contrat,TRUE,0,Conforme,4.0,VRAI
+DOS50518,45078,AGT-12,2.7,FALSE,5.0,44.64,Chat,Changement d'offre,FALSE,0,Conforme,8.0,FAUX
+DOS50519,45235,AGT-25,4.4,VRAI,3.0,15.91,Téléphone,Panne compteur,FALSE,0,Conforme,,VRAI
+DOS50520,45058,AGT-07,3.7,TRUE,5.0,27.33,Chat,Souscription contrat,FALSE,1,Conforme,7.0,FAUX
+DOS50521,45131,AGT-08,5.2,TRUE,4.0,37.85,Email,Résiliation,FALSE,0,Conforme,,FAUX
+DOS50522,45040,AGT-03,1.0,FAUX,5.0,30.45,Chat,Facturation,TRUE,1,Conforme,7.0,VRAI
+DOS50523,45202,AGT-11,7.7,FALSE,3.0,21.75,Chat,Réclamation,TRUE,0,,7.0,FAUX
+DOS50524,45064,AGT-07,6.4,VRAI,,48.57,Téléphone,Litige paiement,TRUE,0,,6.0,VRAI
+DOS50525,45249,AGT-12,5.1,FALSE,4.0,18.25,Téléphone,Souscription contrat,TRUE,0,Conforme,,FAUX
+DOS50526,45235,AGT-19,10.2,VRAI,5.0,45.57,Chat,Demande d'information,FALSE,0,Conforme,,VRAI
+DOS50527,45198,AGT-11,8.8,TRUE,5.0,25.53,Courrier,Réclamation,FALSE,0,Conforme,10.0,VRAI
+DOS50528,45189,AGT-07,6.2,VRAI,,40.9,Téléphone,Litige paiement,TRUE,0,,,FAUX
+DOS50529,45093,AGT-07,5.2,FAUX,4.0,18.61,Téléphone,Souscription contrat,FALSE,0,Conforme,9.0,VRAI
+DOS50530,45067,AGT-12,4.6,VRAI,3.0,44.97,Courrier,Facturation,FALSE,0,NC,,FAUX
+DOS50531,45205,AGT-19,4.4,FAUX,,24.7,Courrier,Déménagement,TRUE,0,Conforme,7.0,FAUX
+DOS50532,45041,AGT-03,3.7,FAUX,4.0,30.15,Email,Litige paiement,FALSE,0,Non Conforme,4.0,VRAI
+DOS50533,45203,AGT-12,3.7,VRAI,3.0,51.58,Chat,Déménagement,FALSE,0,Conforme,8.0,FAUX
+DOS50534,45139,AGT-07,5.0,FAUX,4.0,29.67,Téléphone,Litige paiement,TRUE,0,Conforme,,FAUX
+DOS50535,45043,AGT-11,7.3,FAUX,3.0,35.87,Téléphone,Facturation,TRUE,0,Non Conforme,,FAUX
+DOS50536,45250,AGT-11,4.9,VRAI,3.0,-33.14,Téléphone,Changement d'offre,FALSE,1,Conforme,8.0,FAUX
+DOS50537,45205,AGT-11,2.4,FALSE,3.0,12.79,Email,Demande d'information,FALSE,0,Conforme,,FAUX
+DOS50538,45096,AGT-19,4.5,FAUX,4.0,41.4,Chat,Résiliation,TRUE,0,Conforme,5.0,VRAI
+DOS50539,45188,AGT-12,3.1,TRUE,5.0,21.82,Téléphone,Résiliation,TRUE,0,Conforme,9.0,FAUX
+DOS50540,45180,AGT-07,8.3,VRAI,4.0,50.21,Courrier,Litige paiement,TRUE,0,Conforme,,FAUX
+DOS50541,45017,AGT-12,1.1,VRAI,4.0,26.02,Email,Changement d'offre,FALSE,0,Conforme,4.0,FAUX
+DOS50542,45019,AGT-07,5.1,FAUX,4.0,44.11,Email,Litige paiement,FALSE,1,NC,10.0,FAUX
+DOS50543,45237,AGT-07,3.0,FAUX,5.0,16.72,Chat,Panne compteur,FALSE,0,,,VRAI
+DOS50544,45131,AGT-25,4.6,FAUX,,13.44,Téléphone,Panne compteur,FALSE,0,Conforme,6.0,FAUX
+DOS50545,45262,AGT-19,5.1,VRAI,5.0,32.77,Téléphone,Relevé compteur,TRUE,0,Conforme,,VRAI
+DOS50546,45285,AGT-03,6.8,FALSE,,-37.89,Téléphone,Panne compteur,FALSE,0,Non Conforme,8.0,VRAI
+DOS50547,45023,AGT-12,4.2,FALSE,4.0,31.52,Chat,Demande d'information,FALSE,0,NC,,FAUX
+DOS50548,45090,AGT-08,5.0,TRUE,,13.74,Chat,Relevé compteur,FALSE,0,NC,9.0,FAUX
+DOS50549,45027,AGT-12,-0.0,TRUE,4.0,50.39,Email,Panne compteur,TRUE,0,Conforme,,VRAI
+DOS50550,45129,AGT-03,7.7,VRAI,3.0,48.46,Email,Demande d'information,TRUE,0,Conforme,5.0,VRAI
+DOS50551,45147,AGT-25,7.7,FALSE,5.0,44.33,Téléphone,Résiliation,FALSE,0,Conforme,,FAUX
+DOS50552,45021,AGT-11,9.5,TRUE,3.0,41.6,Chat,Facturation,TRUE,0,NC,10.0,VRAI
+DOS50553,45274,AGT-03,3.3,FAUX,5.0,34.05,Téléphone,Déménagement,TRUE,0,,6.0,VRAI
+DOS50554,45214,AGT-25,9.6,VRAI,4.0,35.97,Courrier,Panne compteur,FALSE,0,Conforme,7.0,FAUX
+DOS50555,45219,AGT-08,4.5,VRAI,3.0,39.69,Téléphone,Demande d'information,TRUE,1,Conforme,6.0,FAUX
+DOS50556,44982,AGT-07,8.2,FAUX,4.0,39.64,Courrier,Demande d'information,TRUE,0,Conforme,,FAUX
+DOS50557,45200,AGT-19,6.7,FAUX,5.0,34.35,Email,Résiliation,TRUE,1,NC,,VRAI
+DOS50558,45222,AGT-11,4.1,TRUE,5.0,22.39,Chat,Changement d'offre,TRUE,0,Conforme,8.0,FAUX
+DOS50559,44930,AGT-03,9.0,TRUE,4.0,12.06,Courrier,Panne compteur,FALSE,0,Conforme,,VRAI
+DOS50560,44953,AGT-11,9.3,FAUX,2.0,53.8,Courrier,Panne compteur,TRUE,0,Conforme,,FAUX
+DOS50561,44956,AGT-03,7.9,FAUX,4.0,27.54,Téléphone,Réclamation,TRUE,0,NC,6.0,VRAI
+DOS50562,45026,AGT-03,2.7,TRUE,,-15.03,Chat,Résiliation,TRUE,0,Conforme,10.0,VRAI
+DOS50563,45125,AGT-08,4.3,FAUX,5.0,45.23,Email,Réclamation,TRUE,0,Non Conforme,7.0,VRAI
+DOS50564,45073,AGT-11,6.4,FAUX,2.0,41.57,Courrier,Résiliation,FALSE,0,Conforme,,FAUX
+DOS50565,45249,AGT-03,2.3,FALSE,3.0,32.26,Courrier,Réclamation,FALSE,0,Conforme,10.0,VRAI
+DOS50566,45159,AGT-25,4.9,FAUX,4.0,24.25,Téléphone,Réclamation,TRUE,0,Non Conforme,,VRAI
+DOS50567,45087,AGT-12,7.3,VRAI,3.0,50.53,Email,Demande d'information,TRUE,0,NC,,FAUX
+DOS50568,45171,AGT-11,4.9,FALSE,5.0,13.12,Email,Changement d'offre,TRUE,0,Conforme,,FAUX
+DOS50569,45167,AGT-12,5.5,FALSE,5.0,15.87,Chat,Litige paiement,FALSE,0,Non Conforme,7.0,VRAI
+DOS50570,45006,AGT-25,1.1,VRAI,,50.21,Chat,Facturation,TRUE,0,Conforme,5.0,FAUX
+DOS50571,45136,AGT-25,7.1,FALSE,4.0,31.48,Téléphone,Relevé compteur,FALSE,0,Conforme,9.0,VRAI
+DOS50572,45230,AGT-11,6.0,FALSE,1.0,48.53,Chat,Litige paiement,TRUE,0,Conforme,4.0,FAUX
+DOS50573,45259,AGT-11,4.9,TRUE,4.0,48.28,Chat,Facturation,TRUE,0,Conforme,9.0,VRAI
+DOS50574,45278,AGT-07,8.2,TRUE,4.0,19.71,Courrier,Souscription contrat,FALSE,0,Conforme,,FAUX
+DOS50575,45026,AGT-08,5.3,FALSE,,36.65,Chat,Facturation,FALSE,0,Conforme,,FAUX
+DOS50576,45210,AGT-12,5.1,VRAI,2.0,13.71,Courrier,Souscription contrat,FALSE,0,Conforme,,VRAI
+DOS50577,45000,AGT-03,8.1,FAUX,4.0,44.81,Téléphone,Relevé compteur,FALSE,0,Conforme,,FAUX
+DOS50578,45121,AGT-08,6.1,FALSE,2.0,15.68,Chat,Panne compteur,TRUE,0,Conforme,5.0,FAUX
+DOS50579,45105,AGT-07,3.0,FAUX,5.0,52.72,Email,Déménagement,FALSE,0,Conforme,,FAUX
+DOS50580,45143,AGT-25,3.3,VRAI,,17.55,Chat,Changement d'offre,TRUE,0,Conforme,8.0,FAUX
+DOS50581,44966,AGT-03,3.7,FAUX,,52.68,Téléphone,Litige paiement,FALSE,0,Conforme,8.0,VRAI
+DOS50582,45041,AGT-19,7.2,FAUX,3.0,33.47,Courrier,Facturation,FALSE,0,Conforme,6.0,VRAI
+DOS50583,45110,AGT-07,7.0,FAUX,,32.41,Téléphone,Changement d'offre,TRUE,1,,3.0,VRAI
+DOS50584,45015,AGT-12,5.5,TRUE,5.0,22.62,Téléphone,Souscription contrat,FALSE,0,Conforme,,VRAI
+DOS50585,45179,AGT-07,3.3,FAUX,5.0,54.02,Téléphone,Facturation,TRUE,0,Conforme,7.0,FAUX
+DOS50586,44945,AGT-11,4.4,TRUE,2.0,18.51,Téléphone,Litige paiement,TRUE,0,Conforme,,FAUX
+DOS50587,45276,AGT-11,7.9,VRAI,,45.77,Téléphone,Changement d'offre,FALSE,0,Conforme,,FAUX
+DOS50588,45056,AGT-25,4.8,TRUE,,21.1,Email,Panne compteur,TRUE,0,Conforme,7.0,VRAI
+DOS50589,45157,AGT-25,4.7,FALSE,4.0,35.95,Chat,Résiliation,TRUE,0,Conforme,6.0,FAUX
+DOS50590,45189,AGT-03,3.9,FALSE,,15.64,Chat,Litige paiement,FALSE,0,Non Conforme,,VRAI
+DOS50591,45008,AGT-07,7.3,FAUX,4.0,31.98,Chat,Réclamation,TRUE,0,Conforme,4.0,FAUX
+DOS50592,45106,AGT-07,3.6,FAUX,,21.46,Email,Relevé compteur,TRUE,0,Non Conforme,6.0,FAUX
+DOS50593,45043,AGT-11,6.6,TRUE,2.0,52.73,Téléphone,Souscription contrat,FALSE,0,Conforme,9.0,VRAI
+DOS50594,45285,AGT-03,4.2,FAUX,1.0,21.12,Courrier,Changement d'offre,FALSE,0,NC,,VRAI
+DOS50595,45259,AGT-19,6.2,FALSE,3.0,26.63,Chat,Déménagement,TRUE,1,Conforme,8.0,FAUX
+DOS50596,45093,AGT-19,5.7,FAUX,2.0,45.93,Email,Relevé compteur,FALSE,0,Conforme,0.0,FAUX
+DOS50597,45219,AGT-03,5.0,FAUX,5.0,43.13,Email,Litige paiement,FALSE,0,Conforme,6.0,VRAI
+DOS50598,45258,AGT-25,4.5,TRUE,1.0,49.46,Téléphone,Relevé compteur,FALSE,0,Conforme,3.0,VRAI
+DOS50599,45012,AGT-08,5.9,TRUE,,23.71,Chat,Relevé compteur,FALSE,1,NC,,FAUX
+DOS50600,45056,AGT-12,5.7,VRAI,4.0,40.11,Chat,Relevé compteur,TRUE,0,Conforme,7.0,VRAI
+DOS50601,45168,AGT-19,4.0,FAUX,4.0,16.08,Chat,Changement d'offre,FALSE,0,Conforme,,VRAI
+DOS50602,45271,AGT-11,7.5,FALSE,5.0,21.16,Courrier,Souscription contrat,FALSE,0,Conforme,,VRAI
+DOS50603,45228,AGT-25,7.0,FAUX,,15.39,Téléphone,Résiliation,FALSE,0,Conforme,3.0,FAUX
+DOS50604,45264,AGT-11,3.3,FALSE,4.0,22.09,Courrier,Litige paiement,TRUE,0,Conforme,,FAUX
+DOS50605,45285,AGT-25,3.5,FAUX,4.0,20.29,Chat,Résiliation,FALSE,1,Conforme,4.0,VRAI
+DOS50606,45108,AGT-07,1.6,FALSE,,47.27,Courrier,Souscription contrat,FALSE,0,Conforme,,FAUX
+DOS50607,45026,AGT-12,6.8,TRUE,5.0,19.91,Chat,Résiliation,TRUE,0,,8.0,FAUX
+DOS50608,45244,AGT-07,4.6,FALSE,5.0,32.71,Téléphone,Facturation,TRUE,0,Conforme,5.0,FAUX
+DOS50609,45183,AGT-08,5.2,FALSE,1.0,14.4,Courrier,Réclamation,TRUE,0,Conforme,6.0,FAUX
+DOS50610,45199,AGT-07,3.5,VRAI,4.0,37.48,Courrier,Panne compteur,FALSE,1,NC,6.0,FAUX
+DOS50611,45072,AGT-25,5.2,VRAI,5.0,44.63,Téléphone,Panne compteur,FALSE,0,Conforme,,VRAI
+DOS50612,44987,AGT-07,5.8,FAUX,5.0,47.01,Téléphone,Litige paiement,TRUE,0,Non Conforme,9.0,FAUX
+DOS50613,45001,AGT-11,2.6,TRUE,3.0,45.03,Téléphone,Réclamation,TRUE,0,Conforme,6.0,FAUX
+DOS50614,45122,AGT-12,5.7,TRUE,4.0,52.32,Email,Résiliation,FALSE,0,Conforme,2.0,VRAI
+DOS50615,45131,AGT-07,5.6,TRUE,,29.44,Téléphone,Réclamation,TRUE,1,NC,,VRAI
+DOS50616,45126,AGT-07,8.0,VRAI,4.0,41.98,Email,Facturation,TRUE,0,Conforme,8.0,FAUX
+DOS50617,44965,AGT-08,5.9,TRUE,4.0,54.81,Email,Facturation,FALSE,0,NC,7.0,VRAI
+DOS50618,44966,AGT-08,3.3,VRAI,4.0,21.57,Email,Relevé compteur,TRUE,0,Conforme,7.0,FAUX
+DOS50619,44965,AGT-11,3.4,VRAI,4.0,42.49,Courrier,Panne compteur,TRUE,0,Conforme,,FAUX
+DOS50620,45020,AGT-07,5.6,FAUX,,41.82,Chat,Souscription contrat,FALSE,0,Conforme,,VRAI
+DOS50621,45097,AGT-08,4.5,FALSE,4.0,22.78,Téléphone,Changement d'offre,FALSE,0,,,VRAI
+DOS50622,45216,AGT-08,6.6,VRAI,,44.77,Email,Demande d'information,FALSE,0,Conforme,,FAUX
+DOS50623,45147,AGT-19,2.5,VRAI,5.0,49.69,Chat,Résiliation,FALSE,0,,,FAUX
+DOS50624,44965,AGT-12,6.9,VRAI,5.0,46.77,Email,Changement d'offre,TRUE,0,Conforme,2.0,FAUX
+DOS50625,45261,AGT-12,5.5,TRUE,5.0,50.47,Courrier,Litige paiement,TRUE,0,NC,10.0,VRAI
+DOS50626,45281,AGT-11,8.1,VRAI,4.0,17.47,Email,Litige paiement,TRUE,0,Conforme,10.0,VRAI
+DOS50627,44972,AGT-19,4.9,TRUE,4.0,29.03,Téléphone,Litige paiement,FALSE,0,Conforme,8.0,VRAI
+DOS50628,45079,AGT-19,3.3,VRAI,5.0,17.3,Téléphone,Changement d'offre,FALSE,0,Conforme,9.0,VRAI
+DOS50629,45022,AGT-25,3.2,FAUX,5.0,46.65,Téléphone,Déménagement,FALSE,0,Conforme,9.0,FAUX
+DOS50630,45246,AGT-07,5.9,VRAI,5.0,22.93,Courrier,Litige paiement,TRUE,0,NC,,FAUX
+DOS50631,44947,AGT-12,2.8,VRAI,3.0,23.14,Chat,Litige paiement,TRUE,0,Conforme,0.0,FAUX
+DOS50632,45188,AGT-25,9.5,VRAI,5.0,17.22,Téléphone,Litige paiement,TRUE,0,Non Conforme,,VRAI
+DOS50633,45095,AGT-12,4.9,FALSE,4.0,19.55,Chat,Déménagement,TRUE,0,,9.0,VRAI
+DOS50634,45269,AGT-11,8.3,FAUX,4.0,22.39,Téléphone,Litige paiement,TRUE,0,Conforme,8.0,FAUX
+DOS50635,44978,AGT-12,0.0,TRUE,4.0,33.09,Chat,Souscription contrat,TRUE,0,NC,7.0,VRAI
+DOS50636,45027,AGT-25,0.4,FAUX,4.0,17.89,Email,Réclamation,TRUE,0,Conforme,,VRAI
+DOS50637,45253,AGT-25,3.7,VRAI,,41.57,Courrier,Résiliation,TRUE,0,,6.0,FAUX
+DOS50638,45157,AGT-11,6.0,VRAI,3.0,47.76,Courrier,Changement d'offre,TRUE,0,NC,,FAUX
+DOS50639,45032,AGT-07,5.4,FALSE,5.0,31.93,Téléphone,Déménagement,FALSE,1,Conforme,,FAUX
+DOS50640,45252,AGT-25,4.0,FAUX,2.0,34.02,Chat,Changement d'offre,FALSE,1,Conforme,,VRAI
+DOS50641,45064,AGT-07,6.0,FAUX,5.0,24.0,Téléphone,Facturation,TRUE,0,Conforme,4.0,VRAI
+DOS50642,45097,AGT-12,4.7,FALSE,5.0,17.63,Courrier,Litige paiement,FALSE,0,Conforme,8.0,FAUX
+DOS50643,45038,AGT-19,2.8,VRAI,4.0,42.06,Téléphone,Réclamation,FALSE,0,Non Conforme,,FAUX
+DOS50644,45073,AGT-03,8.7,VRAI,5.0,18.29,Courrier,Changement d'offre,FALSE,0,Conforme,,VRAI
+DOS50645,45082,AGT-08,0.3,FAUX,5.0,18.01,Email,Panne compteur,TRUE,0,NC,,FAUX
+DOS50646,45054,AGT-12,5.7,VRAI,5.0,16.14,Téléphone,Changement d'offre,FALSE,0,,,FAUX
+DOS50647,44977,AGT-07,5.3,FALSE,,24.29,Email,Relevé compteur,TRUE,0,Conforme,,VRAI
+DOS50648,45275,AGT-11,5.3,FALSE,1.0,29.56,Téléphone,Réclamation,FALSE,0,Non Conforme,,FAUX
+DOS50649,45083,AGT-11,7.3,TRUE,4.0,25.32,Courrier,Demande d'information,TRUE,1,NC,,VRAI
+DOS50650,45278,AGT-19,3.1,FALSE,2.0,50.05,Chat,Panne compteur,FALSE,0,Conforme,7.0,FAUX
+DOS50651,45199,AGT-19,3.0,VRAI,5.0,43.12,Chat,Relevé compteur,TRUE,0,Non Conforme,,VRAI
+DOS50652,45190,AGT-25,7.3,FAUX,,23.06,Courrier,Réclamation,TRUE,1,Non Conforme,,VRAI
+DOS50653,45046,AGT-08,6.4,VRAI,3.0,38.58,Courrier,Changement d'offre,FALSE,1,Conforme,9.0,VRAI
+DOS50654,45194,AGT-19,8.2,FAUX,3.0,25.3,Email,Réclamation,TRUE,0,Conforme,,VRAI
+DOS50655,44969,AGT-03,4.8,FAUX,3.0,39.66,Chat,Réclamation,TRUE,1,,,FAUX
+DOS50656,44987,AGT-25,4.7,VRAI,1.0,14.86,Chat,Réclamation,FALSE,0,Conforme,,FAUX
+DOS50657,45253,AGT-25,7.1,VRAI,3.0,34.19,Courrier,Souscription contrat,FALSE,0,Conforme,8.0,FAUX
+DOS50658,44932,AGT-19,7.8,VRAI,4.0,52.89,Email,Changement d'offre,FALSE,0,Conforme,8.0,FAUX
+DOS50659,45200,AGT-11,2.9,FALSE,1.0,-32.88,Téléphone,Déménagement,TRUE,1,NC,10.0,FAUX
+DOS50660,45033,AGT-08,9.4,FALSE,3.0,16.45,Courrier,Litige paiement,FALSE,0,,,VRAI
+DOS50661,44997,AGT-07,4.3,VRAI,5.0,22.9,Courrier,Panne compteur,FALSE,0,Conforme,8.0,FAUX
+DOS50662,45100,AGT-25,5.7,FALSE,5.0,12.58,Courrier,Panne compteur,TRUE,0,NC,,FAUX
+DOS50663,45059,AGT-11,6.4,FALSE,,20.8,Courrier,Résiliation,FALSE,0,,,VRAI
+DOS50664,44963,AGT-08,7.4,TRUE,5.0,48.11,Chat,Facturation,TRUE,0,Conforme,4.0,FAUX
+DOS50665,45006,AGT-11,6.7,FALSE,5.0,24.56,Courrier,Panne compteur,FALSE,0,,7.0,FAUX
+DOS50666,45210,AGT-11,0.0,FAUX,2.0,41.95,Email,Panne compteur,FALSE,0,Conforme,6.0,VRAI
+DOS50667,45032,AGT-07,6.7,FALSE,5.0,37.66,Email,Réclamation,FALSE,0,,,FAUX
+DOS50668,45026,AGT-08,4.5,TRUE,5.0,46.99,Courrier,Résiliation,FALSE,0,Conforme,,FAUX
+DOS50669,45231,AGT-08,4.1,TRUE,3.0,38.6,Téléphone,Souscription contrat,FALSE,0,Conforme,,VRAI
+DOS50670,45225,AGT-25,5.3,FALSE,4.0,28.21,Courrier,Réclamation,TRUE,0,Conforme,8.0,FAUX
+DOS50671,45185,AGT-25,7.7,FALSE,4.0,51.64,Email,Réclamation,TRUE,0,NC,9.0,FAUX
+DOS50672,45107,AGT-12,6.3,FAUX,5.0,17.99,Email,Litige paiement,TRUE,0,Conforme,6.0,FAUX
+DOS50673,45201,AGT-12,4.3,FAUX,3.0,36.95,Email,Changement d'offre,TRUE,0,Conforme,9.0,FAUX
+DOS50674,45126,AGT-07,5.1,TRUE,,44.1,Chat,Facturation,FALSE,0,Conforme,9.0,FAUX
+DOS50675,45105,AGT-12,7.2,FAUX,5.0,46.6,Chat,Souscription contrat,FALSE,0,,,FAUX
+DOS50676,44988,AGT-11,5.8,FALSE,5.0,31.21,Téléphone,Déménagement,TRUE,0,Conforme,9.0,VRAI
+DOS50677,45176,AGT-11,5.5,FALSE,,19.44,Chat,Demande d'information,FALSE,0,Conforme,,VRAI
+DOS50678,45070,AGT-03,5.6,VRAI,5.0,19.95,Email,Relevé compteur,TRUE,1,Conforme,9.0,FAUX
+DOS50679,44929,AGT-12,3.0,FALSE,4.0,13.67,Courrier,Panne compteur,FALSE,1,NC,9.0,VRAI
+DOS50680,45059,AGT-19,0.0,FAUX,,50.45,Téléphone,Réclamation,FALSE,0,Conforme,,FAUX
+DOS50681,45115,AGT-19,7.5,FAUX,5.0,15.02,Courrier,Panne compteur,FALSE,0,,9.0,VRAI
+DOS50682,45243,AGT-12,5.3,FAUX,5.0,19.89,Courrier,Demande d'information,TRUE,0,,,VRAI
+DOS50683,45196,AGT-11,5.6,TRUE,5.0,41.2,Chat,Résiliation,FALSE,0,Non Conforme,7.0,VRAI
+DOS50684,44971,AGT-03,4.4,VRAI,,49.05,Chat,Relevé compteur,TRUE,0,Conforme,,FAUX
+DOS50685,45023,AGT-08,8.2,FALSE,4.0,18.48,Chat,Souscription contrat,TRUE,0,,8.0,VRAI
+DOS50686,45026,AGT-25,4.2,FALSE,3.0,21.07,Chat,Demande d'information,TRUE,0,Non Conforme,5.0,FAUX
+DOS50687,45095,AGT-19,4.7,TRUE,4.0,22.27,Chat,Demande d'information,FALSE,0,Conforme,6.0,FAUX
+DOS50688,45121,AGT-03,7.4,VRAI,3.0,50.64,Téléphone,Facturation,TRUE,1,Conforme,10.0,FAUX
+DOS50689,45163,AGT-11,0.2,VRAI,4.0,54.9,Email,Panne compteur,TRUE,0,NC,9.0,FAUX
+DOS50690,44946,AGT-07,0.0,FAUX,3.0,29.28,Chat,Facturation,FALSE,0,Conforme,,FAUX
+DOS50691,45106,AGT-08,5.7,TRUE,4.0,39.8,Courrier,Panne compteur,FALSE,0,Conforme,9.0,VRAI
+DOS50692,45084,AGT-07,2.6,FAUX,4.0,36.83,Courrier,Litige paiement,TRUE,0,,10.0,VRAI
+DOS50693,45125,AGT-08,3.5,VRAI,4.0,52.14,Chat,Déménagement,TRUE,0,Conforme,7.0,FAUX
+DOS50694,45080,AGT-11,2.3,TRUE,5.0,35.45,Chat,Résiliation,FALSE,1,NC,,VRAI
+DOS50695,45165,AGT-25,5.4,VRAI,4.0,44.91,Courrier,Relevé compteur,TRUE,0,Conforme,6.0,VRAI
+DOS50696,45113,AGT-08,5.5,TRUE,5.0,20.4,Email,Demande d'information,TRUE,0,,,VRAI
+DOS50697,45200,AGT-12,5.6,FAUX,5.0,37.79,Chat,Déménagement,FALSE,0,Non Conforme,7.0,VRAI
+DOS50698,44952,AGT-12,4.7,FALSE,5.0,48.24,Email,Facturation,FALSE,0,NC,,VRAI
+DOS50699,45282,AGT-03,4.8,TRUE,4.0,23.12,Chat,Déménagement,FALSE,0,Conforme,8.0,FAUX
+DOS50700,45005,AGT-25,3.9,VRAI,4.0,16.42,Courrier,Déménagement,FALSE,0,Conforme,,VRAI
+DOS50701,45035,AGT-07,4.5,VRAI,5.0,15.33,Téléphone,Facturation,TRUE,1,Conforme,,FAUX
+DOS50702,45232,AGT-08,2.7,VRAI,4.0,27.53,Email,Souscription contrat,TRUE,0,Conforme,10.0,VRAI
+DOS50703,45145,AGT-08,6.0,VRAI,4.0,49.07,Chat,Souscription contrat,FALSE,0,,9.0,FAUX
+DOS50704,44964,AGT-19,6.8,FAUX,5.0,33.41,Email,Changement d'offre,TRUE,0,Conforme,6.0,FAUX
+DOS50705,44995,AGT-11,4.9,FALSE,5.0,29.15,Téléphone,Réclamation,FALSE,0,Conforme,,FAUX
+DOS50706,45166,AGT-03,4.8,FALSE,5.0,15.85,Chat,Souscription contrat,FALSE,1,NC,,VRAI
+DOS50707,45246,AGT-07,5.4,FALSE,5.0,40.03,Téléphone,Résiliation,TRUE,0,Conforme,,VRAI
+DOS50708,45102,AGT-11,8.1,VRAI,3.0,51.4,Courrier,Changement d'offre,TRUE,0,Conforme,,FAUX
+DOS50709,45203,AGT-03,5.1,FALSE,4.0,28.7,Courrier,Demande d'information,TRUE,0,Conforme,10.0,VRAI
+DOS50710,44931,AGT-19,5.2,FALSE,5.0,54.21,Courrier,Relevé compteur,FALSE,0,Conforme,2.0,FAUX
+DOS50711,45214,AGT-12,10.3,FALSE,5.0,47.74,Courrier,Réclamation,TRUE,0,Conforme,6.0,FAUX
+DOS50712,45254,AGT-07,4.8,VRAI,5.0,45.22,Email,Litige paiement,FALSE,0,Conforme,,FAUX
+DOS50713,45283,AGT-11,5.9,VRAI,4.0,23.42,Chat,Facturation,TRUE,0,Non Conforme,8.0,VRAI
+DOS50714,44981,AGT-08,5.8,FALSE,5.0,23.86,Courrier,Litige paiement,TRUE,0,NC,6.0,VRAI
+DOS50715,45178,AGT-08,4.5,FAUX,5.0,27.08,Courrier,Facturation,FALSE,0,Non Conforme,6.0,FAUX
+DOS50716,44953,AGT-03,6.0,VRAI,5.0,26.97,Chat,Changement d'offre,FALSE,0,Conforme,,VRAI
+DOS50717,45217,AGT-07,2.4,FALSE,,40.27,Téléphone,Litige paiement,TRUE,0,Conforme,8.0,FAUX
+DOS50718,44996,AGT-19,4.8,FALSE,5.0,47.04,Courrier,Déménagement,FALSE,0,Conforme,9.0,VRAI
+DOS50719,45279,AGT-12,3.4,FALSE,,50.19,Courrier,Panne compteur,TRUE,0,Conforme,7.0,FAUX
+DOS50720,45147,AGT-08,6.1,FALSE,2.0,45.04,Courrier,Réclamation,TRUE,0,Conforme,7.0,FAUX
+DOS50721,45276,AGT-03,2.1,VRAI,5.0,24.42,Téléphone,Souscription contrat,FALSE,0,Conforme,,FAUX
+DOS50722,45252,AGT-07,6.5,TRUE,5.0,17.8,Chat,Demande d'information,TRUE,0,Conforme,,FAUX
+DOS50723,45003,AGT-08,0.2,TRUE,4.0,13.12,Téléphone,Réclamation,TRUE,0,Conforme,7.0,VRAI
+DOS50724,44946,AGT-25,6.0,FAUX,4.0,15.17,Courrier,Déménagement,FALSE,0,Conforme,,VRAI
+DOS50725,45232,AGT-12,3.1,FALSE,5.0,20.16,Courrier,Souscription contrat,FALSE,0,Conforme,4.0,VRAI
+DOS50726,45158,AGT-11,4.0,VRAI,5.0,20.24,Email,Litige paiement,TRUE,0,Conforme,,FAUX
+DOS50727,44981,AGT-25,4.7,TRUE,5.0,51.18,Email,Panne compteur,TRUE,0,Conforme,6.0,VRAI
+DOS50728,45040,AGT-11,8.3,FAUX,5.0,37.31,Téléphone,Litige paiement,FALSE,0,Conforme,,VRAI
+DOS50729,45067,AGT-25,3.1,TRUE,4.0,21.61,Email,Souscription contrat,TRUE,0,Conforme,9.0,VRAI
+DOS50730,45272,AGT-19,5.1,FALSE,,47.37,Téléphone,Relevé compteur,TRUE,0,Conforme,,VRAI
+DOS50731,45138,AGT-08,7.6,TRUE,4.0,29.46,Email,Relevé compteur,FALSE,0,Conforme,,VRAI
+DOS50732,45244,AGT-12,5.2,TRUE,5.0,-32.37,Téléphone,Déménagement,TRUE,0,,9.0,VRAI
+DOS50733,45212,AGT-19,6.3,FALSE,4.0,44.48,Courrier,Résiliation,TRUE,0,Conforme,7.0,FAUX
+DOS50734,45130,AGT-19,7.3,TRUE,,21.06,Chat,Souscription contrat,FALSE,0,Conforme,8.0,VRAI
+DOS50735,45071,AGT-07,0.0,FALSE,3.0,35.46,Courrier,Demande d'information,TRUE,0,Non Conforme,9.0,FAUX
+DOS50736,45014,AGT-11,4.2,FAUX,5.0,52.05,Courrier,Changement d'offre,FALSE,1,Conforme,10.0,VRAI
+DOS50737,45158,AGT-03,3.1,TRUE,3.0,18.28,Téléphone,Litige paiement,TRUE,1,Conforme,10.0,VRAI
+DOS50738,45133,AGT-19,7.6,VRAI,5.0,17.19,Chat,Résiliation,TRUE,0,,9.0,VRAI
+DOS50739,45247,AGT-25,8.7,FALSE,3.0,26.02,Chat,Facturation,FALSE,0,,8.0,VRAI
+DOS50740,45097,AGT-19,2.6,VRAI,5.0,46.43,Téléphone,Souscription contrat,TRUE,0,Conforme,8.0,VRAI
+DOS50741,45226,AGT-12,5.7,VRAI,5.0,53.8,Téléphone,Souscription contrat,TRUE,0,Conforme,,VRAI
+DOS50742,44950,AGT-25,4.0,FALSE,5.0,31.56,Email,Demande d'information,FALSE,0,,,VRAI
+DOS50743,45224,AGT-07,4.1,FAUX,3.0,44.15,Email,Relevé compteur,TRUE,0,Non Conforme,10.0,FAUX
+DOS50744,45019,AGT-08,6.4,VRAI,4.0,28.82,Courrier,Relevé compteur,FALSE,0,Conforme,9.0,VRAI
+DOS50745,44957,AGT-07,5.3,FAUX,3.0,30.07,Chat,Déménagement,FALSE,0,Conforme,,FAUX
+DOS50746,45208,AGT-11,6.2,TRUE,4.0,53.91,Courrier,Panne compteur,FALSE,0,NC,,VRAI
+DOS50747,45148,AGT-08,8.6,FALSE,5.0,41.62,Téléphone,Déménagement,FALSE,0,Non Conforme,3.0,FAUX
+DOS50748,45187,AGT-25,5.8,FAUX,4.0,43.61,Courrier,Souscription contrat,FALSE,0,,5.0,FAUX
+DOS50749,45016,AGT-25,6.4,TRUE,4.0,24.49,Courrier,Relevé compteur,FALSE,0,Conforme,8.0,VRAI
+DOS50750,45086,AGT-19,7.2,FAUX,3.0,24.76,Courrier,Litige paiement,FALSE,0,,8.0,VRAI
+DOS50751,44933,AGT-07,3.8,TRUE,4.0,36.2,Email,Facturation,TRUE,0,Conforme,10.0,VRAI
+DOS50752,45019,AGT-25,6.6,FAUX,5.0,16.75,Courrier,Panne compteur,TRUE,0,Non Conforme,,FAUX
+DOS50753,45205,AGT-19,4.1,FAUX,,47.67,Email,Litige paiement,FALSE,0,Conforme,7.0,VRAI
+DOS50754,45139,AGT-19,2.7,FAUX,,35.31,Email,Relevé compteur,TRUE,0,Conforme,,VRAI
+DOS50755,45222,AGT-25,6.0,TRUE,5.0,24.15,Téléphone,Réclamation,TRUE,0,Conforme,,FAUX
+DOS50756,44930,AGT-19,2.9,TRUE,4.0,14.72,Email,Relevé compteur,TRUE,1,Conforme,5.0,FAUX
+DOS50757,44930,AGT-03,2.5,FAUX,,54.4,Téléphone,Résiliation,FALSE,0,,9.0,FAUX
+DOS50758,45049,AGT-08,5.3,TRUE,5.0,27.96,Email,Panne compteur,TRUE,0,Conforme,9.0,FAUX
+DOS50759,45080,AGT-19,4.9,VRAI,2.0,39.78,Chat,Litige paiement,FALSE,0,Conforme,10.0,FAUX
+DOS50760,45163,AGT-11,8.0,FAUX,4.0,43.36,Téléphone,Résiliation,FALSE,0,,10.0,VRAI
+DOS50761,45256,AGT-19,2.9,FALSE,4.0,41.69,Chat,Réclamation,FALSE,0,Conforme,,FAUX
+DOS50762,45020,AGT-07,5.8,FALSE,4.0,24.04,Téléphone,Souscription contrat,TRUE,0,Conforme,2.0,VRAI
+DOS50763,45064,AGT-12,3.6,VRAI,,13.24,Chat,Déménagement,FALSE,0,Conforme,,FAUX
+DOS50764,45212,AGT-03,2.2,TRUE,4.0,32.09,Chat,Déménagement,FALSE,0,Conforme,0.0,FAUX
+DOS50765,45262,AGT-11,1.3,VRAI,3.0,42.31,Téléphone,Litige paiement,FALSE,0,Conforme,,FAUX
+DOS50766,45069,AGT-12,3.0,TRUE,4.0,14.6,Email,Panne compteur,TRUE,0,Conforme,8.0,VRAI
+DOS50767,45071,AGT-03,2.9,TRUE,5.0,41.53,Téléphone,Changement d'offre,FALSE,0,NC,8.0,VRAI
+DOS50768,44953,AGT-03,1.4,FALSE,,42.32,Email,Demande d'information,FALSE,0,Conforme,,VRAI
+DOS50769,45190,AGT-19,6.9,FAUX,3.0,35.11,Chat,Litige paiement,FALSE,0,Conforme,10.0,VRAI
+DOS50770,45075,AGT-08,7.5,FAUX,5.0,39.36,Téléphone,Déménagement,FALSE,0,Conforme,,VRAI
+DOS50771,44963,AGT-03,-1.0,FAUX,4.0,40.38,Chat,Panne compteur,FALSE,0,,,VRAI
+DOS50772,45273,AGT-12,3.7,FAUX,4.0,18.74,Courrier,Réclamation,FALSE,0,NC,,FAUX
+DOS50773,44945,AGT-07,4.3,FAUX,5.0,39.49,Email,Résiliation,TRUE,1,Conforme,7.0,VRAI
+DOS50774,44985,AGT-07,4.7,FALSE,4.0,19.29,Courrier,Souscription contrat,TRUE,0,Conforme,,VRAI
+DOS50775,45094,AGT-07,7.2,TRUE,4.0,44.53,Courrier,Facturation,TRUE,1,,10.0,VRAI
+DOS50776,45158,AGT-19,7.2,TRUE,3.0,12.66,Chat,Relevé compteur,TRUE,0,Non Conforme,10.0,VRAI
+DOS50777,45210,AGT-08,5.8,FALSE,5.0,16.61,Courrier,Souscription contrat,FALSE,0,,8.0,VRAI
+DOS50778,45225,AGT-08,5.7,TRUE,4.0,14.99,Téléphone,Facturation,FALSE,0,Conforme,,FAUX
+DOS50779,45261,AGT-25,4.2,VRAI,4.0,33.34,Téléphone,Litige paiement,FALSE,0,,5.0,VRAI
+DOS50780,45023,AGT-08,1.3,VRAI,1.0,49.43,Chat,Facturation,TRUE,0,Conforme,8.0,FAUX
+DOS50781,45078,AGT-25,4.6,FAUX,2.0,19.33,Chat,Déménagement,TRUE,0,Conforme,,FAUX
+DOS50782,45211,AGT-07,7.6,TRUE,3.0,13.31,Téléphone,Litige paiement,TRUE,0,Conforme,7.0,FAUX
+DOS50783,44979,AGT-12,3.9,FALSE,4.0,40.94,Email,Déménagement,FALSE,0,Conforme,10.0,VRAI
+DOS50784,45272,AGT-07,4.5,TRUE,5.0,37.21,Email,Facturation,FALSE,1,Non Conforme,,FAUX
+DOS50785,45153,AGT-25,6.7,FAUX,5.0,15.32,Email,Changement d'offre,TRUE,0,Conforme,8.0,VRAI
+DOS50786,45044,AGT-08,4.4,FAUX,4.0,25.55,Email,Déménagement,FALSE,0,Conforme,,FAUX
+DOS50787,45019,AGT-07,4.7,VRAI,5.0,49.63,Courrier,Déménagement,TRUE,1,Conforme,,VRAI
+DOS50788,44987,AGT-25,6.8,VRAI,4.0,30.64,Courrier,Déménagement,TRUE,0,Conforme,9.0,VRAI
+DOS50789,45250,AGT-25,1.3,VRAI,,31.73,Email,Résiliation,FALSE,0,Conforme,10.0,FAUX
+DOS50790,44978,AGT-07,2.9,FALSE,,14.63,Email,Relevé compteur,FALSE,1,NC,7.0,FAUX
+DOS50791,45110,AGT-03,8.9,VRAI,1.0,33.04,Chat,Demande d'information,TRUE,0,Conforme,5.0,VRAI
+DOS50792,45219,AGT-19,6.8,VRAI,3.0,36.3,Email,Facturation,TRUE,1,Conforme,4.0,VRAI
+DOS50793,45186,AGT-03,7.0,FAUX,5.0,32.13,Téléphone,Litige paiement,FALSE,0,Conforme,7.0,VRAI
+DOS50794,45154,AGT-07,5.8,FALSE,2.0,46.91,Téléphone,Relevé compteur,TRUE,0,Conforme,,FAUX
+DOS50795,44953,AGT-07,6.0,FAUX,5.0,46.97,Téléphone,Changement d'offre,TRUE,0,Conforme,4.0,VRAI
+DOS50796,45109,AGT-11,4.0,TRUE,5.0,49.18,Email,Souscription contrat,FALSE,0,Conforme,4.0,VRAI
+DOS50797,44951,AGT-25,9.4,FALSE,3.0,51.82,Email,Souscription contrat,FALSE,0,Conforme,0.0,VRAI
+DOS50798,45283,AGT-12,4.6,VRAI,5.0,17.12,Téléphone,Réclamation,FALSE,0,Conforme,7.0,VRAI
+DOS50799,45035,AGT-03,7.1,TRUE,4.0,15.46,Téléphone,Déménagement,FALSE,0,Conforme,6.0,FAUX
+DOS50800,45251,AGT-19,0.0,VRAI,4.0,33.01,Téléphone,Facturation,TRUE,0,Conforme,9.0,FAUX
+DOS50801,45203,AGT-03,3.9,TRUE,,42.16,Courrier,Déménagement,TRUE,1,,,VRAI
+DOS50802,45187,AGT-25,5.1,FAUX,4.0,34.28,Chat,Relevé compteur,TRUE,1,Conforme,10.0,VRAI
+DOS50803,45165,AGT-08,5.8,FAUX,5.0,34.44,Email,Déménagement,TRUE,0,Conforme,,VRAI
+DOS50804,45212,AGT-03,7.8,FAUX,5.0,12.38,Chat,Réclamation,FALSE,0,NC,,VRAI
+DOS50805,45011,AGT-07,10.9,VRAI,4.0,12.07,Email,Déménagement,FALSE,0,Conforme,,VRAI
+DOS50806,45121,AGT-03,3.3,FAUX,4.0,50.47,Email,Résiliation,TRUE,0,Conforme,5.0,FAUX
+DOS50807,45065,AGT-25,6.5,VRAI,5.0,51.93,Courrier,Changement d'offre,TRUE,0,NC,9.0,FAUX
+DOS50808,45220,AGT-11,5.4,VRAI,5.0,19.54,Email,Facturation,TRUE,0,Conforme,3.0,FAUX
+DOS50809,45077,AGT-12,1.7,FALSE,5.0,46.67,Chat,Souscription contrat,FALSE,0,Non Conforme,,VRAI
+DOS50810,45199,AGT-19,8.3,VRAI,,16.2,Courrier,Déménagement,FALSE,0,,,VRAI
+DOS50811,45120,AGT-12,4.4,VRAI,5.0,13.73,Courrier,Souscription contrat,FALSE,0,NC,,FAUX
+DOS50812,45209,AGT-11,4.3,TRUE,5.0,54.81,Email,Panne compteur,FALSE,0,Conforme,,FAUX
+DOS50813,45145,AGT-12,8.3,TRUE,5.0,16.18,Chat,Demande d'information,TRUE,0,NC,,VRAI
+DOS50814,45055,AGT-11,5.1,TRUE,4.0,47.57,Chat,Résiliation,FALSE,0,Conforme,9.0,VRAI
+DOS50815,45112,AGT-11,7.5,FALSE,4.0,47.14,Courrier,Réclamation,TRUE,0,,3.0,VRAI
+DOS50816,45172,AGT-12,4.7,FAUX,5.0,52.84,Téléphone,Panne compteur,FALSE,0,Conforme,,FAUX
+DOS50817,44943,AGT-03,6.2,FALSE,4.0,18.52,Courrier,Facturation,FALSE,0,Conforme,,VRAI
+DOS50818,45108,AGT-25,4.9,FAUX,3.0,47.62,Email,Litige paiement,FALSE,0,,,VRAI
+DOS50819,44938,AGT-19,3.6,VRAI,2.0,32.36,Email,Déménagement,FALSE,0,Conforme,2.0,FAUX
+DOS50820,45203,AGT-07,6.3,FAUX,,21.01,Téléphone,Facturation,FALSE,0,Conforme,9.0,FAUX
+DOS50821,45222,AGT-03,6.7,VRAI,2.0,52.8,Courrier,Souscription contrat,FALSE,0,Conforme,8.0,FAUX
+DOS50822,45141,AGT-11,5.2,FALSE,5.0,30.16,Chat,Résiliation,TRUE,0,,,VRAI
+DOS50823,45071,AGT-25,1.3,FAUX,4.0,19.39,Téléphone,Facturation,FALSE,0,Conforme,9.0,FAUX
+DOS50824,45216,AGT-07,2.9,TRUE,5.0,20.77,Email,Panne compteur,FALSE,0,NC,3.0,VRAI
+DOS50825,45079,AGT-08,4.2,VRAI,4.0,20.04,Téléphone,Panne compteur,FALSE,0,Conforme,6.0,VRAI
+DOS50826,45020,AGT-08,8.1,FALSE,,36.47,Téléphone,Résiliation,TRUE,1,Non Conforme,6.0,FAUX
+DOS50827,45172,AGT-19,5.1,FAUX,,50.41,Courrier,Litige paiement,TRUE,1,NC,,VRAI
+DOS50828,45218,AGT-07,8.0,TRUE,2.0,40.71,Courrier,Panne compteur,FALSE,0,Conforme,,FAUX
+DOS50829,45062,AGT-25,7.2,FALSE,,31.33,Chat,Relevé compteur,TRUE,0,Conforme,,VRAI
+DOS50830,44986,AGT-19,4.3,FAUX,1.0,48.97,Email,Litige paiement,TRUE,0,Non Conforme,,FAUX
+DOS50831,45030,AGT-19,5.6,FALSE,2.0,45.45,Téléphone,Panne compteur,FALSE,0,Conforme,,VRAI
+DOS50832,44955,AGT-03,6.8,VRAI,5.0,12.54,Email,Déménagement,FALSE,0,Conforme,,FAUX
+DOS50833,45141,AGT-19,3.7,FALSE,5.0,21.34,Téléphone,Souscription contrat,FALSE,0,,,VRAI
+DOS50834,45042,AGT-25,6.6,FAUX,5.0,12.19,Chat,Facturation,FALSE,0,Non Conforme,,FAUX
+DOS50835,45246,AGT-12,6.4,FALSE,3.0,33.55,Email,Litige paiement,TRUE,0,Conforme,,VRAI
+DOS50836,45156,AGT-25,3.6,FAUX,,39.94,Courrier,Litige paiement,TRUE,0,NC,8.0,FAUX
+DOS50837,45256,AGT-19,6.2,FALSE,4.0,15.62,Courrier,Résiliation,TRUE,0,Conforme,9.0,FAUX
+DOS50838,44958,AGT-12,5.0,FALSE,,40.1,Email,Déménagement,FALSE,0,Non Conforme,10.0,FAUX
+DOS50839,44972,AGT-19,2.5,FAUX,,18.27,Email,Souscription contrat,FALSE,0,,,FAUX
+DOS50840,45115,AGT-19,4.2,FALSE,5.0,22.26,Courrier,Facturation,TRUE,0,Conforme,,FAUX
+DOS50841,45092,AGT-19,4.1,VRAI,4.0,21.74,Chat,Facturation,TRUE,0,Non Conforme,10.0,VRAI
+DOS50842,45000,AGT-11,8.5,VRAI,5.0,30.84,Email,Résiliation,TRUE,0,Conforme,,FAUX
+DOS50843,45289,AGT-19,3.0,VRAI,5.0,45.37,Chat,Résiliation,TRUE,0,Conforme,,VRAI
+DOS50844,45048,AGT-11,3.9,TRUE,1.0,14.1,Courrier,Panne compteur,TRUE,0,Non Conforme,0.0,VRAI
+DOS50845,44954,AGT-07,6.0,TRUE,4.0,49.75,Courrier,Réclamation,FALSE,0,,6.0,VRAI
+DOS50846,45134,AGT-08,5.3,VRAI,1.0,37.04,Chat,Résiliation,TRUE,0,NC,7.0,FAUX
+DOS50847,45087,AGT-08,4.8,FAUX,1.0,54.44,Chat,Litige paiement,TRUE,0,Conforme,5.0,VRAI
+DOS50848,45229,AGT-25,4.8,FAUX,5.0,27.98,Chat,Relevé compteur,TRUE,1,Conforme,10.0,FAUX
+DOS50849,45046,AGT-12,7.1,TRUE,5.0,24.76,Email,Panne compteur,FALSE,0,,6.0,FAUX
+DOS50850,45027,AGT-08,3.6,TRUE,5.0,53.35,Email,Changement d'offre,FALSE,0,Conforme,4.0,VRAI
+DOS50851,44930,AGT-11,3.1,TRUE,,36.87,Courrier,Facturation,TRUE,0,Conforme,,FAUX
+DOS50852,45287,AGT-19,1.3,FAUX,4.0,19.86,Courrier,Souscription contrat,FALSE,0,Non Conforme,,VRAI
+DOS50853,45199,AGT-08,4.3,FAUX,5.0,18.16,Courrier,Réclamation,TRUE,0,Conforme,4.0,FAUX
+DOS50854,45238,AGT-25,2.6,VRAI,5.0,27.65,Téléphone,Déménagement,TRUE,0,NC,,VRAI
+DOS50855,45118,AGT-25,4.6,FAUX,4.0,17.55,Courrier,Réclamation,TRUE,0,Conforme,7.0,FAUX
+DOS50856,45248,AGT-11,1.8,FALSE,2.0,27.13,Chat,Résiliation,TRUE,0,Conforme,8.0,FAUX
+DOS50857,45255,AGT-11,4.5,FALSE,1.0,16.06,Chat,Réclamation,TRUE,0,,,FAUX
+DOS50858,45000,AGT-11,5.8,FALSE,,26.14,Email,Facturation,TRUE,0,Conforme,8.0,FAUX
+DOS50859,45046,AGT-07,5.1,TRUE,3.0,49.69,Chat,Litige paiement,TRUE,0,Conforme,7.0,VRAI
+DOS50860,45070,AGT-08,6.4,FALSE,3.0,48.83,Courrier,Demande d'information,TRUE,1,Conforme,,FAUX
+DOS50861,45118,AGT-25,7.4,FALSE,,15.25,Email,Réclamation,TRUE,0,Conforme,10.0,FAUX
+DOS50862,45062,AGT-12,5.7,TRUE,5.0,45.09,Chat,Réclamation,FALSE,0,Conforme,,FAUX
+DOS50863,45068,AGT-11,5.2,FALSE,5.0,53.37,Téléphone,Réclamation,TRUE,0,,4.0,VRAI
+DOS50864,45105,AGT-08,6.0,FAUX,4.0,42.38,Chat,Panne compteur,TRUE,0,Conforme,,FAUX
+DOS50865,45120,AGT-03,5.8,TRUE,,44.7,Chat,Résiliation,TRUE,0,Non Conforme,6.0,VRAI
+DOS50866,45151,AGT-25,6.8,TRUE,,47.48,Email,Panne compteur,FALSE,0,Conforme,,VRAI
+DOS50867,45052,AGT-07,5.3,FALSE,3.0,48.29,Courrier,Litige paiement,FALSE,0,Non Conforme,4.0,FAUX
+DOS50868,44945,AGT-19,2.8,TRUE,3.0,13.53,Chat,Panne compteur,FALSE,0,Conforme,5.0,FAUX
+DOS50869,45190,AGT-03,7.3,VRAI,2.0,52.23,Téléphone,Résiliation,FALSE,0,Conforme,,VRAI
+DOS50870,44966,AGT-08,1.9,TRUE,5.0,18.41,Téléphone,Réclamation,FALSE,0,,,VRAI
+DOS50871,45154,AGT-11,6.6,VRAI,3.0,47.67,Email,Relevé compteur,TRUE,1,Conforme,7.0,VRAI
+DOS50872,45251,AGT-07,6.0,VRAI,,39.74,Courrier,Panne compteur,FALSE,0,Conforme,3.0,VRAI
+DOS50873,45086,AGT-12,6.0,VRAI,3.0,27.74,Téléphone,Relevé compteur,FALSE,0,Conforme,,VRAI
+DOS50874,44990,AGT-12,5.3,TRUE,5.0,34.65,Chat,Changement d'offre,FALSE,1,Conforme,,VRAI
+DOS50875,45238,AGT-08,9.8,FALSE,4.0,51.85,Téléphone,Réclamation,TRUE,0,Conforme,0.0,VRAI
+DOS50876,45045,AGT-12,3.8,TRUE,,45.93,Email,Changement d'offre,FALSE,0,Non Conforme,9.0,VRAI
+DOS50877,45251,AGT-19,5.0,VRAI,3.0,34.77,Courrier,Déménagement,TRUE,0,Conforme,,VRAI
+DOS50878,45157,AGT-03,7.7,FAUX,5.0,30.83,Chat,Souscription contrat,FALSE,0,Non Conforme,9.0,FAUX
+DOS50879,45090,AGT-03,6.1,VRAI,,35.85,Courrier,Résiliation,FALSE,0,,10.0,FAUX
+DOS50880,44949,AGT-08,6.1,VRAI,1.0,21.66,Courrier,Panne compteur,FALSE,0,Conforme,10.0,VRAI
+DOS50881,45128,AGT-25,7.7,VRAI,4.0,38.36,Téléphone,Résiliation,FALSE,0,Conforme,5.0,FAUX
+DOS50882,45168,AGT-19,8.0,TRUE,5.0,38.7,Téléphone,Facturation,TRUE,0,Conforme,6.0,FAUX
+DOS50883,45120,AGT-07,6.7,FAUX,3.0,53.68,Chat,Litige paiement,TRUE,0,Conforme,9.0,VRAI
+DOS50884,45015,AGT-07,9.2,FALSE,,16.28,Email,Demande d'information,TRUE,0,NC,7.0,FAUX
+DOS50885,45065,AGT-11,6.1,FAUX,,28.36,Téléphone,Panne compteur,TRUE,0,Conforme,,FAUX
+DOS50886,45220,AGT-08,6.7,FAUX,2.0,13.73,Email,Demande d'information,TRUE,1,Conforme,,VRAI
+DOS50887,45036,AGT-25,7.2,FAUX,,35.5,Chat,Litige paiement,FALSE,0,Conforme,,VRAI
+DOS50888,45013,AGT-03,7.9,FAUX,4.0,31.01,Courrier,Déménagement,TRUE,0,NC,,VRAI
+DOS50889,44957,AGT-08,3.4,TRUE,1.0,40.17,Téléphone,Résiliation,FALSE,0,Conforme,9.0,FAUX
+DOS50890,44971,AGT-12,2.6,TRUE,2.0,30.25,Courrier,Demande d'information,TRUE,0,Non Conforme,,VRAI
+DOS50891,45062,AGT-03,2.9,TRUE,2.0,18.26,Téléphone,Relevé compteur,TRUE,1,Conforme,,FAUX
+DOS50892,45226,AGT-03,4.3,TRUE,4.0,29.21,Courrier,Demande d'information,FALSE,0,Conforme,,VRAI
+DOS50893,44992,AGT-07,7.2,FAUX,4.0,50.44,Téléphone,Déménagement,TRUE,1,Conforme,,VRAI
+DOS50894,45247,AGT-11,11.4,VRAI,5.0,53.13,Courrier,Demande d'information,FALSE,0,Non Conforme,7.0,VRAI
+DOS50895,45059,AGT-11,4.7,TRUE,3.0,50.13,Courrier,Panne compteur,FALSE,0,Non Conforme,8.0,FAUX
+DOS50896,45095,AGT-03,5.0,VRAI,5.0,53.77,Chat,Déménagement,FALSE,0,Conforme,,VRAI
+DOS50897,45003,AGT-03,2.6,TRUE,2.0,28.01,Courrier,Demande d'information,FALSE,1,Conforme,4.0,VRAI
+DOS50898,45118,AGT-19,2.8,FALSE,5.0,16.92,Chat,Relevé compteur,TRUE,0,Conforme,4.0,VRAI
+DOS50899,44964,AGT-19,4.2,TRUE,,43.83,Téléphone,Litige paiement,FALSE,0,Conforme,7.0,FAUX
+DOS50900,45258,AGT-03,3.7,VRAI,4.0,13.73,Téléphone,Demande d'information,FALSE,0,Conforme,,FAUX
+DOS50901,45036,AGT-12,6.8,FAUX,4.0,54.37,Chat,Souscription contrat,FALSE,0,Conforme,7.0,VRAI
+DOS50902,45251,AGT-07,2.6,VRAI,1.0,50.96,Chat,Panne compteur,FALSE,0,,,VRAI
+DOS50903,45001,AGT-25,3.0,TRUE,3.0,37.16,Email,Facturation,TRUE,0,Conforme,,FAUX
+DOS50904,44929,AGT-07,5.8,FAUX,5.0,54.71,Courrier,Souscription contrat,TRUE,0,Non Conforme,5.0,VRAI
+DOS50905,45001,AGT-03,4.8,VRAI,5.0,15.73,Téléphone,Litige paiement,TRUE,0,NC,9.0,VRAI
+DOS50906,45155,AGT-08,4.6,TRUE,5.0,34.54,Téléphone,Souscription contrat,FALSE,0,Non Conforme,,FAUX
+DOS50907,44954,AGT-07,7.2,FALSE,4.0,51.34,Chat,Demande d'information,FALSE,0,Conforme,,VRAI
+DOS50908,45194,AGT-08,4.6,TRUE,5.0,29.71,Email,Panne compteur,TRUE,0,Conforme,8.0,VRAI
+DOS50909,45045,AGT-12,5.3,VRAI,4.0,15.16,Chat,Litige paiement,FALSE,1,NC,8.0,VRAI
+DOS50910,45070,AGT-19,4.2,FAUX,5.0,47.91,Téléphone,Relevé compteur,TRUE,0,Conforme,3.0,VRAI
+DOS50911,44980,AGT-25,5.0,FALSE,,21.02,Téléphone,Changement d'offre,TRUE,0,Conforme,9.0,FAUX
+DOS50912,44963,AGT-19,6.8,TRUE,4.0,44.09,Téléphone,Souscription contrat,FALSE,0,Conforme,,VRAI
+DOS50913,45260,AGT-19,4.4,TRUE,,21.42,Téléphone,Panne compteur,FALSE,1,Conforme,6.0,FAUX
+DOS50914,44973,AGT-08,5.6,FALSE,4.0,28.8,Courrier,Demande d'information,TRUE,0,Conforme,,FAUX
+DOS50915,45011,AGT-19,4.5,VRAI,5.0,44.94,Courrier,Changement d'offre,FALSE,0,NC,6.0,FAUX
+DOS50916,45264,AGT-12,1.2,FAUX,4.0,31.4,Email,Litige paiement,TRUE,0,Conforme,9.0,FAUX
+DOS50917,45088,AGT-25,3.8,FALSE,,44.19,Email,Panne compteur,FALSE,0,Conforme,10.0,FAUX
+DOS50918,45279,AGT-11,4.2,TRUE,5.0,32.14,Email,Souscription contrat,FALSE,0,NC,,FAUX
+DOS50919,44933,AGT-08,5.3,FAUX,5.0,50.07,Courrier,Facturation,FALSE,0,Conforme,10.0,FAUX
+DOS50920,45117,AGT-25,6.4,FALSE,5.0,39.12,Chat,Souscription contrat,TRUE,0,Conforme,,VRAI
+DOS50921,45100,AGT-19,4.8,FALSE,5.0,52.17,Chat,Déménagement,FALSE,0,Conforme,10.0,FAUX
+DOS50922,45038,AGT-03,4.4,FALSE,4.0,21.94,Téléphone,Panne compteur,TRUE,1,Conforme,,VRAI
+DOS50923,45095,AGT-11,5.7,FAUX,4.0,28.95,Courrier,Litige paiement,FALSE,1,NC,,FAUX
+DOS50924,45010,AGT-25,5.2,TRUE,,-32.27,Chat,Changement d'offre,FALSE,0,Conforme,8.0,FAUX
+DOS50925,44944,AGT-19,2.6,FALSE,,53.12,Téléphone,Litige paiement,FALSE,0,NC,,FAUX
+DOS50926,45094,AGT-25,8.0,TRUE,4.0,52.5,Email,Litige paiement,TRUE,0,Conforme,9.0,VRAI
+DOS50927,45030,AGT-07,4.5,TRUE,,49.71,Téléphone,Changement d'offre,TRUE,0,Conforme,10.0,FAUX
+DOS50928,45256,AGT-19,5.2,FALSE,3.0,26.95,Courrier,Litige paiement,TRUE,0,,,VRAI
+DOS50929,45183,AGT-25,2.3,FAUX,2.0,29.19,Chat,Résiliation,FALSE,0,,9.0,FAUX
+DOS50930,44957,AGT-12,7.4,TRUE,5.0,31.44,Téléphone,Panne compteur,FALSE,0,Conforme,7.0,FAUX
+DOS50931,45107,AGT-12,4.3,TRUE,,34.52,Courrier,Résiliation,TRUE,1,Non Conforme,8.0,FAUX
+DOS50932,44947,AGT-07,8.3,VRAI,4.0,18.5,Téléphone,Déménagement,FALSE,0,Non Conforme,7.0,VRAI
+DOS50933,45158,AGT-03,5.1,VRAI,1.0,38.3,Courrier,Réclamation,TRUE,0,NC,,FAUX
+DOS50934,45193,AGT-11,6.3,TRUE,3.0,26.07,Email,Relevé compteur,FALSE,1,Conforme,,FAUX
+DOS50935,45106,AGT-19,4.5,FAUX,,26.15,Chat,Relevé compteur,FALSE,0,Conforme,9.0,VRAI
+DOS50936,45191,AGT-03,2.7,FALSE,4.0,24.25,Chat,Résiliation,FALSE,0,NC,10.0,VRAI
+DOS50937,45156,AGT-03,6.0,VRAI,4.0,29.92,Courrier,Litige paiement,TRUE,1,Conforme,9.0,FAUX
+DOS50938,45285,AGT-08,5.9,FALSE,3.0,37.78,Téléphone,Réclamation,TRUE,1,NC,0.0,FAUX
+DOS50939,44950,AGT-03,0.9,TRUE,3.0,36.37,Email,Résiliation,FALSE,0,Conforme,,FAUX
+DOS50940,44969,AGT-25,2.6,TRUE,3.0,17.44,Chat,Souscription contrat,TRUE,0,Conforme,,VRAI
+DOS50941,45008,AGT-25,7.3,TRUE,5.0,44.71,Email,Relevé compteur,TRUE,0,Conforme,6.0,FAUX
+DOS50942,44980,AGT-25,4.3,TRUE,5.0,29.5,Email,Souscription contrat,FALSE,0,Conforme,7.0,FAUX
+DOS50943,45099,AGT-07,6.5,VRAI,3.0,33.44,Courrier,Demande d'information,TRUE,1,Conforme,5.0,VRAI
+DOS50944,44954,AGT-11,9.3,FALSE,5.0,13.79,Courrier,Réclamation,TRUE,0,Conforme,,FAUX
+DOS50945,45034,AGT-25,6.1,FAUX,,43.02,Courrier,Réclamation,TRUE,0,Conforme,,FAUX
+DOS50946,45269,AGT-11,5.1,FAUX,5.0,47.59,Email,Relevé compteur,FALSE,0,Conforme,6.0,VRAI
+DOS50947,44973,AGT-08,3.8,VRAI,3.0,31.4,Chat,Souscription contrat,FALSE,0,Conforme,,FAUX
+DOS50948,45099,AGT-07,5.7,VRAI,5.0,29.69,Téléphone,Litige paiement,TRUE,1,Conforme,9.0,VRAI
+DOS50949,45254,AGT-07,6.0,FAUX,,19.91,Email,Facturation,TRUE,0,Conforme,0.0,FAUX
+DOS50950,45155,AGT-07,5.3,VRAI,5.0,48.65,Téléphone,Changement d'offre,FALSE,0,Non Conforme,9.0,FAUX
+DOS50951,45007,AGT-11,6.6,TRUE,,26.71,Courrier,Relevé compteur,FALSE,0,Conforme,4.0,FAUX
+DOS50952,45188,AGT-25,2.9,VRAI,3.0,21.45,Chat,Relevé compteur,FALSE,1,Conforme,6.0,VRAI
+DOS50953,45235,AGT-07,5.3,TRUE,3.0,32.72,Téléphone,Facturation,FALSE,0,Non Conforme,9.0,VRAI
+DOS50954,45082,AGT-11,5.1,FALSE,4.0,30.01,Courrier,Résiliation,TRUE,0,Conforme,7.0,FAUX
+DOS50955,45272,AGT-07,4.0,FAUX,5.0,45.51,Email,Demande d'information,TRUE,0,,,FAUX
+DOS50956,45072,AGT-19,5.9,VRAI,5.0,15.86,Courrier,Facturation,TRUE,0,Conforme,7.0,VRAI
+DOS50957,44977,AGT-12,2.7,FALSE,4.0,43.56,Téléphone,Relevé compteur,FALSE,0,Conforme,,FAUX
+DOS50958,44994,AGT-25,3.6,FALSE,5.0,47.91,Téléphone,Changement d'offre,FALSE,0,,10.0,VRAI
+DOS50959,44932,AGT-12,10.9,TRUE,2.0,52.25,Courrier,Déménagement,TRUE,0,Conforme,,FAUX
+DOS50960,45185,AGT-03,4.5,TRUE,4.0,23.68,Courrier,Facturation,FALSE,0,Conforme,5.0,VRAI
+DOS50961,45038,AGT-19,4.8,TRUE,4.0,45.02,Téléphone,Résiliation,TRUE,0,Conforme,9.0,FAUX
+DOS50962,45221,AGT-25,6.0,FALSE,4.0,39.14,Courrier,Réclamation,FALSE,0,NC,7.0,VRAI
+DOS50963,45181,AGT-08,6.2,TRUE,5.0,34.1,Courrier,Litige paiement,FALSE,0,Conforme,,FAUX
+DOS50964,44936,AGT-08,3.6,VRAI,,48.18,Email,Résiliation,FALSE,1,Conforme,9.0,VRAI
+DOS50965,45129,AGT-07,8.3,FAUX,5.0,41.12,Chat,Changement d'offre,FALSE,1,Conforme,,VRAI
+DOS50966,45106,AGT-19,5.9,FALSE,4.0,50.06,Email,Facturation,TRUE,0,Conforme,,FAUX
+DOS50967,45117,AGT-07,9.0,FAUX,4.0,22.84,Email,Réclamation,FALSE,0,Conforme,8.0,VRAI
+DOS50968,45157,AGT-25,7.8,TRUE,5.0,33.19,Chat,Déménagement,FALSE,0,NC,,VRAI
+DOS50969,45126,AGT-03,4.1,TRUE,4.0,50.24,Chat,Réclamation,TRUE,1,Conforme,,FAUX
+DOS50970,45238,AGT-03,2.7,FAUX,,50.22,Téléphone,Demande d'information,FALSE,0,Conforme,,VRAI
+DOS50971,44936,AGT-08,2.3,TRUE,3.0,31.97,Téléphone,Facturation,TRUE,0,Conforme,,VRAI
+DOS50972,44945,AGT-12,1.0,FALSE,5.0,23.9,Email,Résiliation,FALSE,0,Conforme,,FAUX
+DOS50973,45156,AGT-12,5.6,TRUE,5.0,40.21,Email,Relevé compteur,FALSE,0,Non Conforme,9.0,FAUX
+DOS50974,44959,AGT-19,3.9,FAUX,4.0,41.84,Courrier,Changement d'offre,FALSE,0,,8.0,VRAI
+DOS50975,45090,AGT-08,6.3,FALSE,,37.91,Chat,Changement d'offre,TRUE,0,,6.0,FAUX
+DOS50976,45025,AGT-19,4.0,FAUX,5.0,29.59,Chat,Souscription contrat,FALSE,0,NC,,FAUX
+DOS50977,45082,AGT-03,3.6,FAUX,4.0,42.07,Courrier,Facturation,FALSE,0,Conforme,10.0,VRAI
+DOS50978,45217,AGT-07,6.2,FALSE,4.0,-45.04,Chat,Facturation,FALSE,0,Conforme,9.0,FAUX
+DOS50979,44951,AGT-03,9.6,TRUE,5.0,44.59,Courrier,Déménagement,TRUE,1,,,VRAI
+DOS50980,45179,AGT-07,7.8,FALSE,,26.37,Téléphone,Réclamation,TRUE,0,Conforme,,VRAI
+DOS50981,45143,AGT-12,6.2,FAUX,4.0,49.89,Email,Déménagement,TRUE,0,Non Conforme,8.0,FAUX
+DOS50982,45156,AGT-19,7.5,VRAI,5.0,35.49,Chat,Réclamation,TRUE,0,Non Conforme,6.0,FAUX
+DOS50983,45047,AGT-25,6.0,VRAI,3.0,21.39,Courrier,Panne compteur,FALSE,0,Conforme,10.0,FAUX
+DOS50984,45279,AGT-12,0.9,VRAI,,41.99,Courrier,Réclamation,TRUE,0,Conforme,,VRAI
+DOS50985,45239,AGT-11,6.6,TRUE,5.0,32.46,Email,Panne compteur,FALSE,0,Conforme,,FAUX
+DOS50986,45155,AGT-25,6.2,FALSE,4.0,41.44,Courrier,Facturation,TRUE,0,Conforme,2.0,FAUX
+DOS50987,45004,AGT-03,7.0,VRAI,5.0,21.34,Courrier,Relevé compteur,TRUE,0,Conforme,8.0,VRAI
+DOS50988,44937,AGT-19,3.9,FAUX,4.0,35.03,Chat,Changement d'offre,TRUE,0,NC,,VRAI
+DOS50989,45012,AGT-03,7.4,FALSE,3.0,17.9,Email,Déménagement,TRUE,1,Non Conforme,8.0,VRAI
+DOS50990,44931,AGT-11,2.9,TRUE,4.0,35.78,Courrier,Souscription contrat,TRUE,0,NC,4.0,FAUX
+DOS50991,45120,AGT-19,5.5,FAUX,4.0,39.9,Téléphone,Relevé compteur,FALSE,0,Conforme,,FAUX
+DOS50992,45022,AGT-19,5.1,FALSE,5.0,49.65,Email,Demande d'information,FALSE,1,Conforme,4.0,FAUX
+DOS50993,45146,AGT-07,0.3,VRAI,5.0,16.67,Téléphone,Déménagement,FALSE,0,Conforme,8.0,FAUX
+DOS50994,45035,AGT-19,4.1,TRUE,5.0,13.58,Courrier,Litige paiement,TRUE,0,Conforme,8.0,FAUX
+DOS50995,45115,AGT-08,6.1,VRAI,5.0,19.98,Chat,Réclamation,FALSE,1,NC,9.0,VRAI
+DOS50996,45204,AGT-07,4.2,VRAI,4.0,49.52,Courrier,Résiliation,TRUE,0,Non Conforme,,VRAI
+DOS50997,45227,AGT-08,8.1,VRAI,4.0,34.56,Courrier,Changement d'offre,TRUE,0,Conforme,7.0,FAUX
+DOS50998,45249,AGT-19,5.6,VRAI,5.0,19.23,Téléphone,Résiliation,TRUE,0,Conforme,10.0,FAUX
+DOS50999,45124,AGT-25,4.6,TRUE,,26.85,Courrier,Relevé compteur,TRUE,1,Conforme,,VRAI
+DOS51000,45102,AGT-07,7.4,FAUX,4.0,20.2,Courrier,Relevé compteur,FALSE,0,Conforme,8.0,FAUX
+DOS51001,44990,AGT-03,4.3,VRAI,5.0,46.71,Chat,Litige paiement,FALSE,1,NC,,VRAI
+DOS51002,45165,AGT-03,3.0,TRUE,4.0,25.01,Téléphone,Résiliation,FALSE,1,Conforme,,FAUX
+DOS51003,44941,AGT-03,6.3,VRAI,4.0,17.67,Courrier,Panne compteur,TRUE,0,Conforme,,VRAI
+DOS51004,45263,AGT-03,2.7,TRUE,5.0,39.69,Email,Panne compteur,TRUE,0,Conforme,,FAUX
+DOS51005,44942,AGT-03,4.2,VRAI,5.0,54.76,Téléphone,Demande d'information,FALSE,1,NC,9.0,VRAI
+DOS51006,45073,AGT-12,5.2,FAUX,5.0,36.67,Téléphone,Relevé compteur,TRUE,0,Conforme,7.0,VRAI
+DOS51007,45083,AGT-08,4.6,FAUX,3.0,51.31,Courrier,Souscription contrat,TRUE,0,Non Conforme,9.0,FAUX
+DOS51008,44975,AGT-11,11.4,TRUE,4.0,32.28,Téléphone,Changement d'offre,TRUE,0,Conforme,8.0,FAUX
+DOS51009,45193,AGT-19,6.0,FAUX,2.0,23.56,Email,Réclamation,FALSE,0,Conforme,,VRAI
+DOS51010,45045,AGT-11,4.9,VRAI,4.0,14.26,Téléphone,Litige paiement,FALSE,0,Conforme,,VRAI
+DOS51011,45253,AGT-25,4.0,FAUX,4.0,35.67,Chat,Déménagement,FALSE,1,Conforme,,FAUX
+DOS51012,45195,AGT-12,5.9,TRUE,3.0,17.77,Chat,Résiliation,TRUE,0,NC,,VRAI
+DOS51013,45268,AGT-08,1.4,FAUX,5.0,52.1,Chat,Changement d'offre,TRUE,0,Conforme,0.0,FAUX
+DOS51014,45268,AGT-12,7.5,VRAI,3.0,16.11,Email,Litige paiement,TRUE,0,Conforme,8.0,VRAI
+DOS51015,44994,AGT-19,2.0,FAUX,2.0,27.25,Chat,Facturation,TRUE,0,,7.0,FAUX
+DOS51016,45003,AGT-12,5.8,TRUE,4.0,48.66,Courrier,Réclamation,TRUE,0,Conforme,3.0,FAUX
+DOS51017,44974,AGT-03,4.8,TRUE,4.0,36.93,Email,Demande d'information,FALSE,1,Conforme,,FAUX
+DOS51018,45003,AGT-12,6.7,FALSE,3.0,52.09,Chat,Demande d'information,FALSE,0,Conforme,9.0,FAUX
+DOS51019,45078,AGT-11,5.3,TRUE,3.0,53.68,Chat,Facturation,TRUE,0,,,VRAI
+DOS51020,45263,AGT-03,6.1,TRUE,5.0,12.79,Téléphone,Réclamation,FALSE,0,NC,,VRAI
+DOS51021,45162,AGT-11,9.1,VRAI,5.0,14.66,Téléphone,Réclamation,FALSE,0,Conforme,8.0,FAUX
+DOS51022,45216,AGT-08,6.8,VRAI,5.0,37.53,Chat,Facturation,FALSE,0,Conforme,8.0,FAUX
+DOS51023,45243,AGT-12,4.6,TRUE,5.0,46.65,Téléphone,Changement d'offre,TRUE,0,NC,8.0,VRAI
+DOS51024,45068,AGT-25,3.3,TRUE,,30.65,Chat,Litige paiement,TRUE,0,Conforme,0.0,VRAI
+DOS51025,45163,AGT-12,4.8,FALSE,5.0,31.66,Téléphone,Panne compteur,TRUE,0,NC,9.0,VRAI
+DOS51026,45238,AGT-12,3.3,TRUE,,54.63,Email,Changement d'offre,FALSE,0,Conforme,,FAUX
+DOS51027,45284,AGT-03,5.4,VRAI,5.0,22.5,Courrier,Relevé compteur,TRUE,1,Non Conforme,9.0,VRAI
+DOS51028,45201,AGT-25,5.5,TRUE,3.0,35.1,Courrier,Résiliation,FALSE,0,Conforme,6.0,FAUX
+DOS51029,45083,AGT-03,2.4,VRAI,5.0,30.91,Email,Changement d'offre,FALSE,0,Non Conforme,8.0,FAUX
+DOS51030,44945,AGT-08,5.4,FALSE,,38.22,Téléphone,Souscription contrat,FALSE,0,Conforme,,VRAI
+DOS51031,44947,AGT-07,8.3,VRAI,5.0,43.12,Téléphone,Souscription contrat,TRUE,0,,0.0,FAUX
+DOS51032,45217,AGT-19,5.3,TRUE,1.0,50.02,Chat,Changement d'offre,TRUE,0,Conforme,7.0,FAUX
+DOS51033,45126,AGT-03,4.4,FAUX,5.0,12.75,Téléphone,Relevé compteur,TRUE,0,Conforme,8.0,FAUX
+DOS51034,45021,AGT-08,6.6,VRAI,,27.19,Email,Litige paiement,TRUE,0,NC,7.0,VRAI
+DOS51035,45077,AGT-25,4.9,TRUE,,31.73,Courrier,Changement d'offre,FALSE,0,Conforme,8.0,VRAI
+DOS51036,45284,AGT-08,5.0,VRAI,,34.11,Email,Souscription contrat,FALSE,0,Conforme,5.0,VRAI
+DOS51037,45211,AGT-03,7.4,FAUX,5.0,47.94,Courrier,Souscription contrat,FALSE,0,Conforme,,VRAI
+DOS51038,45096,AGT-03,3.4,FAUX,2.0,12.73,Email,Litige paiement,FALSE,0,Conforme,,VRAI
+DOS51039,44995,AGT-25,7.0,TRUE,3.0,32.63,Chat,Souscription contrat,TRUE,0,Conforme,,FAUX
+DOS51040,44942,AGT-08,2.3,VRAI,5.0,45.32,Chat,Réclamation,TRUE,0,Conforme,9.0,FAUX
+DOS51041,45069,AGT-03,9.4,FALSE,4.0,43.81,Chat,Relevé compteur,TRUE,0,Conforme,6.0,VRAI
+DOS51042,45004,AGT-11,3.5,FALSE,5.0,51.82,Courrier,Souscription contrat,TRUE,0,Conforme,8.0,FAUX
+DOS51043,45215,AGT-03,5.4,VRAI,4.0,31.59,Téléphone,Litige paiement,TRUE,0,Conforme,5.0,VRAI
+DOS51044,44936,AGT-11,7.9,TRUE,3.0,40.98,Téléphone,Réclamation,FALSE,0,NC,6.0,FAUX
+DOS51045,44987,AGT-12,2.3,FAUX,4.0,21.06,Chat,Changement d'offre,TRUE,1,Conforme,7.0,VRAI
+DOS51046,44979,AGT-03,4.2,TRUE,3.0,20.03,Email,Demande d'information,FALSE,0,Conforme,,FAUX
+DOS51047,45208,AGT-08,6.8,FAUX,5.0,29.48,Téléphone,Souscription contrat,FALSE,0,Conforme,5.0,VRAI
+DOS51048,45131,AGT-11,1.7,VRAI,4.0,47.61,Email,Litige paiement,TRUE,0,Non Conforme,,VRAI
+DOS51049,45003,AGT-07,6.2,VRAI,4.0,40.9,Courrier,Panne compteur,FALSE,0,Conforme,6.0,FAUX
+DOS51050,45282,AGT-19,5.9,TRUE,4.0,22.28,Courrier,Litige paiement,TRUE,0,Conforme,8.0,VRAI
+DOS51051,45076,AGT-12,-2.3,TRUE,2.0,37.37,Téléphone,Souscription contrat,TRUE,0,Conforme,7.0,FAUX
+DOS51052,44952,AGT-19,1.5,VRAI,4.0,27.6,Email,Facturation,FALSE,0,Non Conforme,,VRAI
+DOS51053,45187,AGT-12,1.2,VRAI,5.0,12.73,Email,Réclamation,TRUE,0,Conforme,8.0,FAUX
+DOS51054,44947,AGT-19,1.0,FALSE,5.0,12.06,Email,Résiliation,TRUE,0,Conforme,,VRAI
+DOS51055,45020,AGT-19,5.8,TRUE,3.0,25.24,Courrier,Relevé compteur,TRUE,0,Non Conforme,8.0,FAUX
+DOS51056,45199,AGT-25,3.7,TRUE,5.0,17.67,Chat,Relevé compteur,TRUE,0,,7.0,FAUX
+DOS51057,45069,AGT-11,2.2,VRAI,5.0,33.83,Email,Résiliation,FALSE,0,Conforme,6.0,VRAI
+DOS51058,45009,AGT-11,7.2,TRUE,3.0,46.56,Email,Résiliation,FALSE,0,Conforme,,VRAI
+DOS51059,45232,AGT-07,8.1,VRAI,5.0,31.44,Email,Souscription contrat,FALSE,0,Conforme,10.0,FAUX
+DOS51060,45257,AGT-11,8.0,FALSE,3.0,30.39,Email,Changement d'offre,TRUE,0,Conforme,,VRAI
+DOS51061,44937,AGT-08,5.4,FALSE,5.0,42.17,Chat,Demande d'information,TRUE,1,Conforme,,FAUX
+DOS51062,45052,AGT-07,1.3,FALSE,2.0,44.69,Courrier,Réclamation,FALSE,0,Conforme,,VRAI
+DOS51063,44965,AGT-03,2.1,FALSE,1.0,19.52,Chat,Demande d'information,TRUE,0,Conforme,,VRAI
+DOS51064,45121,AGT-19,2.9,FALSE,5.0,27.44,Chat,Relevé compteur,TRUE,1,Conforme,7.0,VRAI
+DOS51065,45173,AGT-08,3.8,FALSE,2.0,21.91,Chat,Demande d'information,TRUE,0,Conforme,,VRAI
+DOS51066,44986,AGT-25,7.9,FAUX,5.0,45.82,Email,Déménagement,FALSE,0,Conforme,4.0,FAUX
+DOS51067,45165,AGT-19,5.9,VRAI,4.0,27.67,Téléphone,Déménagement,FALSE,0,Conforme,9.0,FAUX
+DOS51068,45267,AGT-08,5.3,FAUX,5.0,29.17,Chat,Déménagement,FALSE,0,Conforme,,VRAI
+DOS51069,45114,AGT-19,5.5,FAUX,,47.93,Email,Panne compteur,FALSE,0,Conforme,2.0,FAUX
+DOS51070,44993,AGT-08,7.0,TRUE,5.0,20.43,Chat,Relevé compteur,FALSE,1,,2.0,VRAI
+DOS51071,45108,AGT-08,6.9,VRAI,5.0,32.14,Courrier,Résiliation,TRUE,0,Conforme,8.0,FAUX
+DOS51072,44940,AGT-19,5.2,FALSE,4.0,41.39,Email,Litige paiement,FALSE,1,Conforme,0.0,VRAI
+DOS51073,45218,AGT-08,7.5,FALSE,5.0,37.28,Email,Souscription contrat,TRUE,1,Conforme,8.0,VRAI
+DOS51074,45067,AGT-19,4.2,TRUE,5.0,36.75,Email,Déménagement,FALSE,1,Conforme,6.0,VRAI
+DOS51075,45257,AGT-11,6.8,TRUE,4.0,17.3,Chat,Relevé compteur,TRUE,0,Conforme,,FAUX
+DOS51076,45057,AGT-19,7.4,VRAI,5.0,13.84,Courrier,Réclamation,TRUE,0,Conforme,5.0,VRAI
+DOS51077,45115,AGT-08,7.0,VRAI,3.0,41.06,Courrier,Demande d'information,TRUE,0,Conforme,8.0,VRAI
+DOS51078,45090,AGT-19,3.2,FALSE,4.0,30.06,Téléphone,Déménagement,TRUE,0,Conforme,6.0,VRAI
+DOS51079,45049,AGT-19,4.7,FAUX,2.0,20.35,Courrier,Réclamation,TRUE,0,Conforme,,VRAI
+DOS51080,45007,AGT-19,1.6,FAUX,5.0,43.75,Téléphone,Facturation,TRUE,1,Conforme,8.0,FAUX
+DOS51081,45212,AGT-07,2.6,VRAI,,45.29,Email,Relevé compteur,TRUE,0,Non Conforme,,FAUX
+DOS51082,45285,AGT-12,4.6,TRUE,4.0,52.03,Chat,Résiliation,FALSE,0,Non Conforme,4.0,FAUX
+DOS51083,45151,AGT-12,5.3,FALSE,2.0,41.51,Téléphone,Souscription contrat,TRUE,0,Conforme,5.0,FAUX
+DOS51084,45227,AGT-11,5.9,TRUE,4.0,32.07,Téléphone,Facturation,TRUE,0,Non Conforme,,FAUX
+DOS51085,44954,AGT-07,2.5,VRAI,5.0,30.05,Chat,Réclamation,TRUE,1,NC,,FAUX
+DOS51086,45026,AGT-07,4.9,TRUE,5.0,15.24,Chat,Litige paiement,TRUE,0,NC,1.0,VRAI
+DOS51087,45064,AGT-25,7.1,TRUE,1.0,52.71,Chat,Panne compteur,TRUE,0,Non Conforme,8.0,VRAI
+DOS51088,45133,AGT-19,5.7,VRAI,4.0,32.12,Téléphone,Résiliation,FALSE,1,Conforme,,FAUX
+DOS51089,45159,AGT-07,6.3,FALSE,4.0,15.99,Courrier,Facturation,FALSE,1,Non Conforme,,FAUX
+DOS51090,45066,AGT-03,5.3,TRUE,5.0,18.89,Téléphone,Litige paiement,FALSE,0,Conforme,7.0,VRAI
+DOS51091,44939,AGT-08,3.7,FAUX,4.0,12.33,Téléphone,Demande d'information,FALSE,0,Conforme,7.0,VRAI
+DOS51092,44983,AGT-11,3.1,FAUX,4.0,18.9,Chat,Résiliation,TRUE,0,NC,9.0,VRAI
+DOS51093,45277,AGT-12,4.7,VRAI,4.0,15.31,Téléphone,Souscription contrat,FALSE,0,Conforme,7.0,VRAI
+DOS51094,45216,AGT-19,6.5,TRUE,3.0,46.78,Téléphone,Résiliation,FALSE,0,Conforme,,FAUX
+DOS51095,45015,AGT-11,3.4,TRUE,1.0,31.46,Chat,Souscription contrat,TRUE,0,Conforme,8.0,FAUX
+DOS51096,45020,AGT-07,4.2,TRUE,5.0,14.98,Chat,Changement d'offre,TRUE,0,Conforme,9.0,FAUX
+DOS51097,45216,AGT-03,5.2,VRAI,4.0,23.08,Email,Facturation,FALSE,0,Conforme,,FAUX
+DOS51098,45270,AGT-11,8.5,VRAI,4.0,38.02,Email,Facturation,FALSE,0,Conforme,7.0,VRAI
+DOS51099,45186,AGT-12,5.8,FALSE,3.0,28.86,Courrier,Déménagement,FALSE,0,Conforme,,FAUX
+DOS51100,45218,AGT-25,5.7,FAUX,,27.64,Téléphone,Souscription contrat,FALSE,0,Conforme,6.0,VRAI
+DOS51101,45056,AGT-08,4.5,FAUX,3.0,43.65,Courrier,Déménagement,TRUE,0,Conforme,10.0,FAUX
+DOS51102,45125,AGT-19,8.6,FAUX,5.0,51.01,Email,Déménagement,TRUE,0,,,FAUX
+DOS51103,44969,AGT-19,5.4,TRUE,5.0,51.6,Chat,Litige paiement,TRUE,0,Conforme,,VRAI
+DOS51104,45026,AGT-12,7.2,TRUE,4.0,23.42,Courrier,Réclamation,TRUE,0,Conforme,9.0,VRAI
+DOS51105,44955,AGT-08,0.0,VRAI,5.0,52.24,Email,Demande d'information,FALSE,0,,,VRAI
+DOS51106,45073,AGT-03,3.1,VRAI,5.0,30.61,Chat,Panne compteur,FALSE,1,Conforme,10.0,FAUX
+DOS51107,45140,AGT-19,5.0,TRUE,2.0,17.46,Email,Litige paiement,FALSE,0,Conforme,9.0,VRAI
+DOS51108,45026,AGT-19,11.0,TRUE,2.0,26.52,Chat,Facturation,FALSE,0,Conforme,,FAUX
+DOS51109,44941,AGT-07,5.4,TRUE,4.0,15.08,Courrier,Résiliation,TRUE,0,Non Conforme,10.0,FAUX
+DOS51110,45194,AGT-12,4.4,FALSE,4.0,44.72,Chat,Déménagement,FALSE,0,Conforme,8.0,FAUX
+DOS51111,45160,AGT-19,7.3,FALSE,4.0,32.87,Email,Réclamation,FALSE,0,Conforme,7.0,VRAI
+DOS51112,45096,AGT-07,4.6,TRUE,,26.84,Téléphone,Changement d'offre,FALSE,0,Conforme,3.0,VRAI
+DOS51113,44974,AGT-08,4.7,FALSE,5.0,17.91,Courrier,Facturation,TRUE,0,Non Conforme,8.0,VRAI
+DOS51114,45099,AGT-25,1.7,TRUE,,24.93,Téléphone,Résiliation,TRUE,0,Conforme,4.0,FAUX
+DOS51115,44980,AGT-25,0.9,VRAI,5.0,36.57,Chat,Résiliation,FALSE,1,NC,5.0,FAUX
+DOS51116,45181,AGT-11,6.0,TRUE,4.0,26.3,Courrier,Souscription contrat,TRUE,0,Conforme,4.0,FAUX
+DOS51117,45275,AGT-03,4.2,TRUE,4.0,37.43,Téléphone,Changement d'offre,FALSE,0,Conforme,,VRAI
+DOS51118,45253,AGT-03,6.4,VRAI,3.0,47.94,Chat,Déménagement,FALSE,0,Conforme,8.0,VRAI
+DOS51119,45238,AGT-03,5.9,FALSE,2.0,38.16,Téléphone,Changement d'offre,TRUE,0,Conforme,6.0,FAUX
+DOS51120,44995,AGT-03,5.3,FALSE,5.0,45.06,Courrier,Relevé compteur,TRUE,0,Conforme,8.0,FAUX
+DOS51121,44970,AGT-25,0.3,FAUX,,49.73,Courrier,Facturation,TRUE,0,,8.0,VRAI
+DOS51122,45060,AGT-03,4.7,FAUX,4.0,45.37,Email,Relevé compteur,FALSE,0,Conforme,,FAUX
+DOS51123,44959,AGT-03,3.5,FALSE,,30.56,Chat,Demande d'information,TRUE,0,Conforme,,FAUX
+DOS51124,45196,AGT-07,3.4,FAUX,4.0,-37.92,Téléphone,Résiliation,FALSE,0,,8.0,FAUX
+DOS51125,45268,AGT-25,1.7,VRAI,4.0,54.99,Email,Litige paiement,FALSE,0,Conforme,10.0,FAUX
+DOS51126,45132,AGT-08,2.3,VRAI,5.0,19.0,Chat,Panne compteur,TRUE,0,Conforme,,VRAI
+DOS51127,45006,AGT-19,5.1,VRAI,5.0,13.82,Chat,Litige paiement,TRUE,0,Conforme,,FAUX
+DOS51128,45160,AGT-07,8.5,VRAI,,20.83,Chat,Relevé compteur,TRUE,0,Conforme,,FAUX
+DOS51129,45041,AGT-12,9.6,TRUE,,41.9,Téléphone,Souscription contrat,TRUE,0,NC,9.0,VRAI
+DOS51130,45149,AGT-12,3.4,FAUX,2.0,26.8,Courrier,Réclamation,FALSE,0,,6.0,FAUX
+DOS51131,45058,AGT-08,7.0,FAUX,5.0,54.59,Téléphone,Souscription contrat,FALSE,0,Non Conforme,6.0,FAUX
+DOS51132,45104,AGT-25,7.9,FAUX,,31.47,Email,Panne compteur,TRUE,0,NC,,FAUX
+DOS51133,45016,AGT-08,3.9,TRUE,3.0,46.11,Email,Changement d'offre,TRUE,0,Conforme,,FAUX
+DOS51134,44938,AGT-03,6.6,VRAI,5.0,48.76,Courrier,Réclamation,FALSE,0,Conforme,2.0,VRAI
+DOS51135,45009,AGT-11,7.5,TRUE,4.0,52.39,Chat,Réclamation,FALSE,0,Conforme,10.0,VRAI
+DOS51136,45204,AGT-07,2.2,FAUX,4.0,29.14,Email,Facturation,FALSE,0,Conforme,,FAUX
+DOS51137,45083,AGT-03,6.1,VRAI,4.0,44.61,Chat,Réclamation,FALSE,0,Conforme,,FAUX
+DOS51138,44969,AGT-11,3.1,FAUX,2.0,14.2,Email,Changement d'offre,FALSE,0,Non Conforme,7.0,FAUX
+DOS51139,44963,AGT-12,6.2,FALSE,4.0,41.37,Téléphone,Réclamation,FALSE,0,Non Conforme,,VRAI
+DOS51140,45246,AGT-08,5.2,VRAI,5.0,44.11,Téléphone,Souscription contrat,TRUE,0,Conforme,,FAUX
+DOS51141,45084,AGT-08,1.9,TRUE,5.0,36.19,Chat,Résiliation,TRUE,0,NC,7.0,VRAI
+DOS51142,45056,AGT-03,3.8,TRUE,4.0,36.31,Chat,Facturation,TRUE,0,Non Conforme,,FAUX
+DOS51143,44944,AGT-03,3.5,FAUX,5.0,33.67,Chat,Litige paiement,FALSE,0,Conforme,9.0,FAUX
+DOS51144,45054,AGT-25,7.4,TRUE,5.0,-48.5,Chat,Changement d'offre,TRUE,0,Conforme,4.0,VRAI
+DOS51145,45030,AGT-12,5.0,TRUE,3.0,34.0,Téléphone,Facturation,TRUE,0,Conforme,,VRAI
+DOS51146,44990,AGT-11,3.4,TRUE,4.0,41.6,Chat,Souscription contrat,FALSE,0,Conforme,8.0,FAUX
+DOS51147,45094,AGT-07,6.4,VRAI,,23.71,Chat,Déménagement,TRUE,0,Conforme,10.0,VRAI
+DOS51148,44980,AGT-25,4.6,TRUE,4.0,49.89,Téléphone,Relevé compteur,TRUE,0,Conforme,,VRAI
+DOS51149,45221,AGT-11,5.6,VRAI,,25.08,Chat,Souscription contrat,FALSE,0,Conforme,,VRAI
+DOS51150,45080,AGT-12,4.9,TRUE,5.0,27.75,Email,Panne compteur,TRUE,0,Conforme,8.0,FAUX
+DOS51151,45133,AGT-03,9.5,FALSE,5.0,39.75,Chat,Panne compteur,TRUE,0,Conforme,,VRAI
+DOS51152,44944,AGT-11,5.6,FALSE,4.0,46.71,Chat,Déménagement,TRUE,0,Conforme,,FAUX
+DOS51153,44968,AGT-11,6.7,TRUE,4.0,28.51,Email,Réclamation,FALSE,0,NC,,FAUX
+DOS51154,45069,AGT-07,7.4,FALSE,5.0,29.84,Courrier,Demande d'information,TRUE,0,Conforme,8.0,VRAI
+DOS51155,44979,AGT-08,5.0,FAUX,5.0,34.99,Courrier,Demande d'information,TRUE,0,Conforme,,VRAI
+DOS51156,45249,AGT-07,7.9,TRUE,5.0,37.05,Email,Souscription contrat,FALSE,0,Conforme,6.0,FAUX
+DOS51157,45184,AGT-19,7.0,FAUX,,18.16,Courrier,Facturation,TRUE,0,Non Conforme,9.0,FAUX
+DOS51158,45057,AGT-11,1.1,TRUE,3.0,33.31,Chat,Relevé compteur,FALSE,0,Conforme,10.0,FAUX
+DOS51159,44965,AGT-11,3.7,FALSE,4.0,49.42,Chat,Souscription contrat,TRUE,0,Conforme,,VRAI
+DOS51160,45171,AGT-11,5.1,FAUX,3.0,50.28,Téléphone,Litige paiement,FALSE,1,Conforme,6.0,VRAI
+DOS51161,45081,AGT-07,5.3,TRUE,4.0,32.29,Email,Souscription contrat,FALSE,0,Conforme,,VRAI
+DOS51162,45277,AGT-12,4.0,VRAI,5.0,40.84,Email,Déménagement,FALSE,0,Conforme,9.0,VRAI
+DOS51163,45227,AGT-25,6.0,FAUX,3.0,22.16,Téléphone,Changement d'offre,TRUE,0,NC,1.0,FAUX
+DOS51164,45102,AGT-07,4.6,VRAI,2.0,18.52,Email,Déménagement,TRUE,0,Non Conforme,,FAUX
+DOS51165,44985,AGT-07,5.1,FALSE,5.0,15.96,Courrier,Litige paiement,TRUE,0,,7.0,FAUX
+DOS51166,45213,AGT-19,4.5,FALSE,5.0,41.75,Chat,Déménagement,TRUE,0,Conforme,3.0,FAUX
+DOS51167,45213,AGT-07,4.7,TRUE,4.0,13.25,Courrier,Relevé compteur,FALSE,0,Conforme,8.0,FAUX
+DOS51168,45208,AGT-19,3.2,FAUX,5.0,52.64,Chat,Résiliation,FALSE,1,,6.0,VRAI
+DOS51169,45239,AGT-11,5.9,FAUX,2.0,52.12,Chat,Litige paiement,TRUE,0,Conforme,,FAUX
+DOS51170,45225,AGT-08,6.3,TRUE,4.0,13.2,Courrier,Résiliation,FALSE,0,Conforme,10.0,FAUX
+DOS51171,45139,AGT-11,2.5,VRAI,4.0,52.07,Téléphone,Changement d'offre,TRUE,0,Conforme,9.0,FAUX
+DOS51172,45029,AGT-19,4.0,VRAI,5.0,26.73,Email,Déménagement,TRUE,0,Conforme,8.0,FAUX
+DOS51173,45218,AGT-12,5.3,TRUE,5.0,15.3,Courrier,Panne compteur,FALSE,0,Conforme,6.0,FAUX
+DOS51174,45244,AGT-12,8.4,FALSE,4.0,32.21,Courrier,Relevé compteur,TRUE,0,Conforme,,VRAI
+DOS51175,45129,AGT-12,3.2,VRAI,4.0,28.5,Email,Réclamation,TRUE,0,Conforme,,VRAI
+DOS51176,44944,AGT-25,4.5,TRUE,5.0,16.31,Courrier,Résiliation,FALSE,0,,,VRAI
+DOS51177,45010,AGT-03,4.2,TRUE,5.0,46.72,Chat,Réclamation,FALSE,0,NC,5.0,FAUX
+DOS51178,45205,AGT-08,5.7,VRAI,4.0,26.74,Email,Relevé compteur,TRUE,0,Conforme,9.0,VRAI
+DOS51179,45273,AGT-07,3.1,FAUX,2.0,21.72,Courrier,Facturation,FALSE,0,Conforme,4.0,VRAI
+DOS51180,45222,AGT-25,3.9,TRUE,5.0,29.21,Téléphone,Changement d'offre,FALSE,1,Conforme,,FAUX
+DOS51181,45055,AGT-25,9.4,FALSE,3.0,37.49,Téléphone,Panne compteur,FALSE,1,,9.0,VRAI
+DOS51182,44976,AGT-08,1.3,FAUX,4.0,36.04,Chat,Litige paiement,TRUE,0,NC,9.0,FAUX
+DOS51183,45103,AGT-11,5.0,FAUX,,40.79,Courrier,Litige paiement,FALSE,0,Conforme,,VRAI
+DOS51184,44994,AGT-07,5.1,FALSE,1.0,14.48,Email,Litige paiement,FALSE,1,,9.0,VRAI
+DOS51185,45007,AGT-08,0.0,VRAI,4.0,20.02,Email,Résiliation,TRUE,1,Conforme,,VRAI
+DOS51186,45189,AGT-12,0.0,FAUX,,49.96,Courrier,Réclamation,FALSE,0,,,FAUX
+DOS51187,45169,AGT-07,5.6,FALSE,5.0,15.01,Chat,Demande d'information,TRUE,0,Conforme,,FAUX
+DOS51188,45267,AGT-25,8.7,TRUE,4.0,18.32,Chat,Litige paiement,FALSE,0,Conforme,8.0,FAUX
+DOS51189,44939,AGT-03,0.0,FALSE,1.0,44.91,Téléphone,Facturation,FALSE,0,Conforme,6.0,FAUX
+DOS51190,45208,AGT-11,6.0,FALSE,,12.36,Email,Litige paiement,TRUE,0,NC,9.0,VRAI
+DOS51191,45209,AGT-19,5.7,VRAI,2.0,21.32,Courrier,Relevé compteur,FALSE,0,Conforme,10.0,FAUX
+DOS51192,45136,AGT-25,6.2,TRUE,4.0,50.46,Chat,Résiliation,FALSE,0,Conforme,6.0,FAUX
+DOS51193,45157,AGT-08,7.2,VRAI,2.0,14.46,Courrier,Déménagement,FALSE,0,Conforme,8.0,FAUX
+DOS51194,45106,AGT-19,8.0,FALSE,5.0,13.53,Courrier,Souscription contrat,FALSE,0,NC,4.0,FAUX
+DOS51195,45147,AGT-07,9.1,FALSE,,34.08,Email,Demande d'information,TRUE,0,NC,9.0,FAUX
+DOS51196,45222,AGT-08,2.7,FAUX,4.0,23.75,Chat,Résiliation,FALSE,0,NC,7.0,VRAI
+DOS51197,45274,AGT-11,6.1,VRAI,4.0,39.53,Email,Changement d'offre,TRUE,1,Conforme,10.0,VRAI
+DOS51198,44929,AGT-11,7.5,VRAI,4.0,26.72,Chat,Litige paiement,TRUE,0,Conforme,,VRAI
+DOS51199,44967,AGT-07,5.0,FALSE,4.0,23.47,Téléphone,Souscription contrat,FALSE,0,,,VRAI
+DOS51200,45255,AGT-25,3.3,FAUX,3.0,47.23,Chat,Résiliation,FALSE,1,Conforme,8.0,FAUX
+DOS51201,45012,AGT-11,3.3,TRUE,5.0,42.56,Téléphone,Changement d'offre,FALSE,0,Conforme,10.0,VRAI
+DOS51202,45013,AGT-25,8.6,FAUX,,54.98,Téléphone,Résiliation,TRUE,0,Conforme,7.0,FAUX
+DOS51203,45291,AGT-25,3.8,VRAI,,42.54,Chat,Litige paiement,TRUE,0,Conforme,,FAUX
+DOS51204,45109,AGT-07,5.9,FAUX,3.0,48.58,Téléphone,Panne compteur,TRUE,0,,8.0,FAUX
+DOS51205,44967,AGT-12,3.9,FAUX,2.0,53.04,Email,Changement d'offre,FALSE,0,Conforme,8.0,FAUX
+DOS51206,45087,AGT-03,5.2,VRAI,3.0,41.26,Chat,Panne compteur,TRUE,0,Conforme,7.0,FAUX
+DOS51207,45062,AGT-07,2.2,FAUX,,22.64,Chat,Litige paiement,FALSE,0,Conforme,10.0,VRAI
+DOS51208,45221,AGT-07,2.2,FALSE,5.0,26.34,Téléphone,Panne compteur,TRUE,0,Conforme,6.0,VRAI
+DOS51209,45206,AGT-08,6.4,FALSE,4.0,30.99,Chat,Litige paiement,FALSE,0,,8.0,VRAI
+DOS51210,45045,AGT-19,0.1,VRAI,4.0,33.21,Courrier,Facturation,TRUE,0,Conforme,,FAUX
+DOS51211,45042,AGT-12,8.1,TRUE,4.0,24.84,Chat,Relevé compteur,TRUE,1,Non Conforme,7.0,FAUX
+DOS51212,45076,AGT-03,5.9,FALSE,5.0,45.8,Email,Réclamation,FALSE,0,Non Conforme,3.0,VRAI
+DOS51213,45264,AGT-03,2.6,TRUE,5.0,19.28,Courrier,Litige paiement,TRUE,0,Conforme,,VRAI
+DOS51214,44933,AGT-03,5.8,TRUE,5.0,25.12,Courrier,Relevé compteur,FALSE,0,Conforme,,VRAI
+DOS51215,45245,AGT-12,4.3,TRUE,3.0,52.91,Téléphone,Résiliation,TRUE,0,Conforme,4.0,VRAI
+DOS51216,45187,AGT-25,3.3,FAUX,3.0,24.45,Chat,Relevé compteur,TRUE,0,Conforme,10.0,VRAI
+DOS51217,45018,AGT-03,7.6,VRAI,4.0,34.52,Email,Changement d'offre,TRUE,0,Conforme,,FAUX
+DOS51218,45271,AGT-08,6.2,FALSE,4.0,34.1,Email,Déménagement,TRUE,0,NC,,VRAI
+DOS51219,44985,AGT-08,4.0,FAUX,5.0,12.45,Email,Litige paiement,FALSE,0,Conforme,,VRAI
+DOS51220,45052,AGT-08,3.6,VRAI,4.0,33.97,Courrier,Déménagement,FALSE,0,Conforme,,FAUX
+DOS51221,45190,AGT-19,8.8,FAUX,,21.21,Courrier,Litige paiement,TRUE,0,Conforme,,VRAI
+DOS51222,45006,AGT-25,6.0,TRUE,5.0,15.16,Courrier,Facturation,FALSE,0,,10.0,VRAI
+DOS51223,44960,AGT-25,5.3,TRUE,,24.21,Téléphone,Demande d'information,FALSE,0,Conforme,,FAUX
+DOS51224,44977,AGT-19,3.6,FAUX,2.0,28.28,Email,Souscription contrat,TRUE,0,Conforme,,FAUX
+DOS51225,45071,AGT-12,3.6,TRUE,4.0,47.18,Chat,Changement d'offre,FALSE,0,Conforme,5.0,FAUX
+DOS51226,44959,AGT-08,9.5,FALSE,4.0,34.44,Téléphone,Résiliation,TRUE,0,Conforme,4.0,VRAI
+DOS51227,45043,AGT-25,6.5,FALSE,5.0,30.67,Email,Panne compteur,FALSE,0,Conforme,6.0,VRAI
+DOS51228,45126,AGT-11,5.1,FALSE,5.0,29.25,Courrier,Réclamation,TRUE,0,Conforme,,FAUX
+DOS51229,45227,AGT-07,2.4,TRUE,4.0,46.21,Courrier,Panne compteur,FALSE,0,Conforme,10.0,FAUX
+DOS51230,45179,AGT-12,4.2,FAUX,5.0,15.81,Email,Relevé compteur,TRUE,0,Conforme,4.0,VRAI
+DOS51231,45270,AGT-12,6.0,VRAI,3.0,51.05,Téléphone,Demande d'information,FALSE,0,,,VRAI
+DOS51232,44991,AGT-07,7.5,FALSE,5.0,14.5,Email,Relevé compteur,FALSE,0,Conforme,,FAUX
+DOS51233,44953,AGT-07,0.0,VRAI,1.0,34.64,Email,Facturation,FALSE,0,Conforme,9.0,VRAI
+DOS51234,45062,AGT-07,7.5,FAUX,5.0,16.2,Chat,Panne compteur,FALSE,0,Conforme,6.0,FAUX
+DOS51235,45121,AGT-19,5.4,FAUX,3.0,22.34,Email,Déménagement,FALSE,0,Conforme,9.0,VRAI
+DOS51236,45082,AGT-11,7.3,VRAI,5.0,52.37,Chat,Demande d'information,TRUE,1,NC,,FAUX
+DOS51237,45029,AGT-12,4.7,TRUE,3.0,54.69,Téléphone,Résiliation,TRUE,1,Conforme,1.0,FAUX
+DOS51238,45002,AGT-03,7.3,FAUX,4.0,50.38,Téléphone,Résiliation,FALSE,0,Conforme,9.0,FAUX
+DOS51239,45009,AGT-07,4.3,FAUX,3.0,20.03,Email,Panne compteur,TRUE,0,Non Conforme,,FAUX
+DOS51240,45004,AGT-03,6.6,TRUE,4.0,31.94,Chat,Réclamation,FALSE,0,Conforme,,VRAI
+DOS51241,45105,AGT-19,5.6,VRAI,4.0,16.45,Courrier,Litige paiement,TRUE,0,Conforme,,VRAI
+DOS51242,45212,AGT-03,0.8,TRUE,5.0,36.84,Téléphone,Déménagement,FALSE,0,Conforme,,VRAI
+DOS51243,45033,AGT-03,3.7,FALSE,4.0,30.86,Email,Résiliation,FALSE,0,,8.0,VRAI
+DOS51244,45020,AGT-19,0.0,FAUX,4.0,53.05,Téléphone,Relevé compteur,TRUE,0,Conforme,10.0,VRAI
+DOS51245,45169,AGT-08,0.0,FAUX,,18.7,Courrier,Facturation,TRUE,1,Non Conforme,9.0,VRAI
+DOS51246,45125,AGT-12,6.2,FALSE,5.0,23.22,Chat,Réclamation,TRUE,0,Conforme,10.0,VRAI
+DOS51247,45122,AGT-11,4.2,FALSE,5.0,46.37,Courrier,Souscription contrat,FALSE,0,Conforme,1.0,VRAI
+DOS51248,44990,AGT-25,2.4,VRAI,4.0,44.59,Téléphone,Facturation,TRUE,0,Conforme,7.0,VRAI
+DOS51249,45236,AGT-12,5.4,VRAI,4.0,39.57,Chat,Résiliation,TRUE,0,Conforme,6.0,VRAI
+DOS51250,45089,AGT-25,6.2,FALSE,4.0,39.59,Téléphone,Demande d'information,FALSE,0,Conforme,8.0,VRAI
+DOS51251,45026,AGT-11,4.1,TRUE,3.0,40.76,Chat,Résiliation,FALSE,0,Conforme,,VRAI
+DOS51252,45034,AGT-08,5.7,TRUE,,-32.04,Courrier,Changement d'offre,FALSE,0,,,FAUX
+DOS51253,45235,AGT-08,7.6,FAUX,4.0,39.38,Chat,Résiliation,TRUE,0,Conforme,10.0,FAUX
+DOS51254,45011,AGT-07,3.4,FAUX,3.0,38.51,Courrier,Réclamation,FALSE,0,Conforme,6.0,FAUX
+DOS51255,45118,AGT-08,4.1,FAUX,4.0,22.06,Chat,Panne compteur,FALSE,0,Non Conforme,,VRAI
+DOS51256,45067,AGT-07,2.0,TRUE,5.0,44.35,Téléphone,Relevé compteur,TRUE,1,,6.0,FAUX
+DOS51257,45196,AGT-03,7.7,FALSE,5.0,28.13,Email,Panne compteur,FALSE,0,NC,,FAUX
+DOS51258,45069,AGT-25,0.1,FALSE,4.0,39.97,Courrier,Demande d'information,FALSE,1,,,VRAI
+DOS51259,45282,AGT-08,4.4,TRUE,,27.31,Téléphone,Réclamation,TRUE,0,Conforme,9.0,VRAI
+DOS51260,45073,AGT-19,8.6,VRAI,,43.91,Courrier,Résiliation,FALSE,0,NC,9.0,VRAI
+DOS51261,45127,AGT-07,0.5,FALSE,,41.93,Téléphone,Changement d'offre,TRUE,0,NC,,FAUX
+DOS51262,45136,AGT-25,5.9,VRAI,4.0,54.91,Courrier,Panne compteur,TRUE,0,Conforme,8.0,FAUX
+DOS51263,45044,AGT-19,6.4,FAUX,4.0,26.99,Email,Changement d'offre,TRUE,0,Conforme,,VRAI
+DOS51264,45040,AGT-12,6.2,TRUE,5.0,41.73,Chat,Changement d'offre,TRUE,0,Conforme,4.0,VRAI
+DOS51265,45093,AGT-11,6.9,VRAI,5.0,26.01,Téléphone,Souscription contrat,FALSE,0,Conforme,3.0,VRAI
+DOS51266,45051,AGT-12,5.6,TRUE,4.0,21.4,Téléphone,Facturation,FALSE,0,Conforme,9.0,VRAI
+DOS51267,45017,AGT-11,5.5,FALSE,3.0,38.9,Chat,Panne compteur,TRUE,1,Conforme,10.0,VRAI
+DOS51268,45123,AGT-08,2.1,FAUX,5.0,28.42,Courrier,Résiliation,FALSE,0,Conforme,7.0,VRAI
+DOS51269,45267,AGT-19,5.0,FAUX,5.0,40.12,Email,Relevé compteur,FALSE,0,Conforme,,FAUX
+DOS51270,45178,AGT-19,5.6,TRUE,,52.04,Chat,Demande d'information,FALSE,0,Conforme,,VRAI
+DOS51271,45076,AGT-03,3.8,FAUX,3.0,48.57,Courrier,Relevé compteur,FALSE,0,Conforme,,FAUX
+DOS51272,45026,AGT-19,3.5,VRAI,3.0,12.53,Téléphone,Changement d'offre,FALSE,0,NC,8.0,VRAI
+DOS51273,44927,AGT-07,0.0,FAUX,5.0,19.37,Courrier,Relevé compteur,FALSE,0,Conforme,10.0,FAUX
+DOS51274,45000,AGT-08,6.7,FAUX,5.0,37.2,Chat,Déménagement,TRUE,0,Conforme,,FAUX
+DOS51275,45077,AGT-11,3.6,TRUE,3.0,45.66,Email,Déménagement,FALSE,0,Conforme,,VRAI
+DOS51276,45085,AGT-12,4.7,FAUX,,35.8,Email,Demande d'information,FALSE,0,Conforme,,FAUX
+DOS51277,45277,AGT-08,5.9,TRUE,5.0,39.7,Email,Relevé compteur,FALSE,0,Conforme,,FAUX
+DOS51278,45173,AGT-12,3.8,FAUX,5.0,52.3,Chat,Demande d'information,TRUE,0,Conforme,,FAUX
+DOS51279,45118,AGT-07,5.2,FALSE,4.0,37.21,Courrier,Litige paiement,TRUE,1,Conforme,7.0,VRAI
+DOS51280,45160,AGT-11,5.7,FAUX,1.0,47.89,Chat,Changement d'offre,FALSE,0,Non Conforme,9.0,VRAI
+DOS51281,45195,AGT-12,9.0,FAUX,3.0,13.42,Téléphone,Réclamation,TRUE,0,,,FAUX
+DOS51282,45029,AGT-11,4.7,VRAI,,15.29,Courrier,Demande d'information,TRUE,0,Conforme,9.0,VRAI
+DOS51283,45254,AGT-19,1.7,VRAI,3.0,42.35,Email,Souscription contrat,FALSE,0,Conforme,,VRAI
+DOS51284,45250,AGT-11,2.2,TRUE,,12.15,Email,Souscription contrat,FALSE,0,Conforme,10.0,VRAI
+DOS51285,45095,AGT-07,3.8,FAUX,5.0,42.95,Courrier,Panne compteur,TRUE,0,Non Conforme,8.0,VRAI
+DOS51286,45098,AGT-11,4.5,FAUX,2.0,36.26,Chat,Panne compteur,FALSE,1,NC,,VRAI
+DOS51287,45063,AGT-08,7.5,FAUX,4.0,21.79,Chat,Panne compteur,FALSE,0,Conforme,,FAUX
+DOS51288,45019,AGT-25,9.6,FALSE,1.0,51.48,Téléphone,Déménagement,FALSE,0,,,FAUX
+DOS51289,44989,AGT-08,4.9,FAUX,3.0,28.4,Chat,Souscription contrat,FALSE,0,NC,5.0,VRAI
+DOS51290,45193,AGT-19,6.2,FAUX,2.0,51.86,Téléphone,Changement d'offre,FALSE,0,Conforme,4.0,FAUX
+DOS51291,44966,AGT-12,8.0,FALSE,4.0,29.13,Courrier,Résiliation,TRUE,0,Conforme,,VRAI
+DOS51292,44949,AGT-03,6.6,FALSE,5.0,14.12,Chat,Déménagement,FALSE,0,Conforme,6.0,VRAI
+DOS51293,45267,AGT-03,4.5,FAUX,1.0,17.86,Email,Panne compteur,FALSE,1,Non Conforme,,FAUX
+DOS51294,45044,AGT-08,5.0,FAUX,5.0,29.27,Chat,Réclamation,TRUE,0,NC,,VRAI
+DOS51295,45053,AGT-19,5.2,TRUE,,20.03,Email,Litige paiement,TRUE,1,Conforme,,VRAI
+DOS51296,45034,AGT-03,8.2,FAUX,5.0,32.96,Téléphone,Réclamation,FALSE,0,Conforme,7.0,VRAI
+DOS51297,45005,AGT-03,7.3,VRAI,3.0,13.74,Courrier,Réclamation,TRUE,1,,,FAUX
+DOS51298,44977,AGT-07,7.1,FALSE,5.0,42.97,Téléphone,Demande d'information,TRUE,0,Conforme,9.0,FAUX
+DOS51299,44969,AGT-11,6.1,VRAI,3.0,47.69,Téléphone,Déménagement,FALSE,0,,8.0,FAUX
+DOS51300,45256,AGT-08,5.6,FAUX,3.0,25.85,Courrier,Facturation,FALSE,0,NC,,FAUX
+DOS51301,45050,AGT-03,4.9,VRAI,4.0,12.58,Chat,Réclamation,TRUE,0,Conforme,,VRAI
+DOS51302,44987,AGT-08,2.8,VRAI,3.0,22.83,Téléphone,Demande d'information,FALSE,0,NC,,FAUX
+DOS51303,44941,AGT-11,6.6,TRUE,5.0,32.06,Courrier,Facturation,FALSE,0,NC,9.0,FAUX
+DOS51304,44967,AGT-12,4.1,TRUE,5.0,46.77,Téléphone,Réclamation,TRUE,0,Non Conforme,3.0,FAUX
+DOS51305,44930,AGT-19,6.9,FALSE,2.0,51.57,Téléphone,Souscription contrat,TRUE,0,Conforme,,FAUX
+DOS51306,45098,AGT-08,1.4,FALSE,4.0,46.5,Email,Relevé compteur,FALSE,0,Conforme,9.0,FAUX
+DOS51307,45000,AGT-08,3.1,FALSE,4.0,34.77,Email,Souscription contrat,FALSE,1,Conforme,10.0,VRAI
+DOS51308,45264,AGT-11,7.2,VRAI,4.0,18.57,Email,Litige paiement,FALSE,1,Conforme,,VRAI
+DOS51309,45270,AGT-08,8.2,TRUE,5.0,48.33,Téléphone,Déménagement,TRUE,1,Non Conforme,8.0,FAUX
+DOS51310,44984,AGT-12,6.9,FALSE,3.0,24.24,Courrier,Changement d'offre,FALSE,0,Conforme,10.0,VRAI
+DOS51311,45158,AGT-11,3.4,VRAI,4.0,25.66,Email,Litige paiement,FALSE,0,Non Conforme,,FAUX
+DOS51312,45002,AGT-19,7.4,TRUE,5.0,35.94,Chat,Relevé compteur,FALSE,0,Non Conforme,,VRAI
+DOS51313,44953,AGT-25,3.5,FAUX,3.0,49.97,Courrier,Demande d'information,TRUE,1,Conforme,,VRAI
+DOS51314,45095,AGT-19,7.4,FALSE,3.0,44.38,Courrier,Facturation,FALSE,0,Conforme,,FAUX
+DOS51315,45175,AGT-03,3.0,FAUX,3.0,18.51,Courrier,Souscription contrat,TRUE,0,Conforme,9.0,VRAI
+DOS51316,45123,AGT-08,4.3,FAUX,4.0,27.29,Courrier,Litige paiement,TRUE,0,Conforme,10.0,VRAI
+DOS51317,45011,AGT-07,0.2,FALSE,5.0,25.85,Courrier,Demande d'information,TRUE,0,Conforme,,FAUX
+DOS51318,45240,AGT-25,3.1,FAUX,5.0,42.5,Téléphone,Litige paiement,TRUE,0,Conforme,,FAUX
+DOS51319,45291,AGT-12,6.6,FALSE,1.0,52.21,Courrier,Relevé compteur,TRUE,0,Conforme,6.0,FAUX
+DOS51320,44933,AGT-03,9.2,FALSE,5.0,14.96,Courrier,Litige paiement,FALSE,0,Conforme,,VRAI
+DOS51321,44973,AGT-07,7.6,TRUE,5.0,49.17,Téléphone,Demande d'information,TRUE,0,Conforme,7.0,FAUX
+DOS51322,44998,AGT-19,6.8,FALSE,5.0,54.1,Email,Déménagement,FALSE,0,Conforme,6.0,VRAI
+DOS51323,45186,AGT-19,2.2,TRUE,3.0,37.61,Email,Réclamation,TRUE,0,Conforme,7.0,VRAI
+DOS51324,45266,AGT-07,4.4,FALSE,4.0,14.6,Téléphone,Déménagement,TRUE,0,Conforme,,VRAI
+DOS51325,44977,AGT-03,8.6,TRUE,4.0,46.3,Email,Facturation,TRUE,1,Non Conforme,,VRAI
+DOS51326,45190,AGT-07,5.3,TRUE,,37.68,Chat,Réclamation,FALSE,0,NC,,FAUX
+DOS51327,45149,AGT-11,2.7,FAUX,5.0,31.67,Courrier,Changement d'offre,TRUE,0,Conforme,9.0,VRAI
+DOS51328,44936,AGT-03,4.4,FALSE,4.0,25.39,Chat,Facturation,FALSE,0,Conforme,8.0,FAUX
+DOS51329,45285,AGT-25,1.0,FALSE,3.0,30.84,Téléphone,Souscription contrat,FALSE,0,NC,10.0,VRAI
+DOS51330,45256,AGT-11,7.0,TRUE,5.0,22.23,Chat,Facturation,FALSE,0,Conforme,6.0,FAUX
+DOS51331,44945,AGT-11,1.3,TRUE,4.0,54.51,Courrier,Litige paiement,FALSE,0,Conforme,,VRAI
+DOS51332,45042,AGT-12,2.4,VRAI,3.0,32.51,Email,Résiliation,TRUE,1,Conforme,7.0,FAUX
+DOS51333,45036,AGT-19,5.2,FAUX,4.0,49.26,Téléphone,Souscription contrat,TRUE,0,Conforme,,FAUX
+DOS51334,45282,AGT-12,2.7,FALSE,4.0,47.15,Email,Demande d'information,FALSE,0,Conforme,,VRAI
+DOS51335,45247,AGT-12,5.6,TRUE,4.0,27.86,Chat,Déménagement,TRUE,0,Conforme,,VRAI
+DOS51336,44941,AGT-12,6.9,FALSE,2.0,39.46,Courrier,Déménagement,TRUE,0,Conforme,,VRAI
+DOS51337,45219,AGT-11,4.1,FAUX,5.0,50.63,Téléphone,Réclamation,TRUE,0,Conforme,,FAUX
+DOS51338,45284,AGT-25,7.9,FAUX,5.0,47.97,Courrier,Réclamation,TRUE,0,Non Conforme,,FAUX
+DOS51339,44971,AGT-03,6.7,TRUE,4.0,14.35,Chat,Souscription contrat,FALSE,0,Conforme,,VRAI
+DOS51340,44956,AGT-19,6.3,FAUX,5.0,14.99,Chat,Panne compteur,TRUE,0,Non Conforme,7.0,VRAI
+DOS51341,45267,AGT-11,7.9,VRAI,3.0,33.87,Courrier,Réclamation,FALSE,1,NC,8.0,FAUX
+DOS51342,44947,AGT-03,5.6,TRUE,3.0,35.5,Téléphone,Facturation,TRUE,0,Non Conforme,,VRAI
+DOS51343,45259,AGT-03,4.5,VRAI,5.0,53.0,Téléphone,Souscription contrat,TRUE,0,Conforme,,VRAI
+DOS51344,45079,AGT-07,6.0,VRAI,2.0,21.1,Téléphone,Résiliation,TRUE,0,Conforme,,VRAI
+DOS51345,45004,AGT-12,2.8,TRUE,3.0,38.4,Email,Changement d'offre,TRUE,0,Conforme,,FAUX
+DOS51346,45123,AGT-03,7.1,TRUE,3.0,47.05,Email,Panne compteur,TRUE,0,Conforme,,VRAI
+DOS51347,45168,AGT-11,7.1,FAUX,3.0,48.7,Email,Panne compteur,FALSE,0,Conforme,,FAUX
+DOS51348,45094,AGT-12,4.8,FAUX,3.0,41.55,Chat,Panne compteur,FALSE,1,NC,8.0,FAUX
+DOS51349,44962,AGT-03,4.0,TRUE,5.0,33.44,Chat,Changement d'offre,FALSE,0,,,FAUX
+DOS51350,45233,AGT-03,5.7,FAUX,5.0,29.52,Téléphone,Panne compteur,FALSE,0,Conforme,10.0,VRAI
+DOS51351,45175,AGT-25,2.5,FALSE,5.0,28.77,Email,Réclamation,TRUE,0,Conforme,8.0,FAUX
+DOS51352,45010,AGT-03,4.4,TRUE,4.0,13.14,Email,Changement d'offre,TRUE,0,Conforme,,FAUX
+DOS51353,45048,AGT-03,7.7,VRAI,3.0,14.5,Courrier,Résiliation,FALSE,0,Conforme,8.0,VRAI
+DOS51354,45173,AGT-25,3.2,TRUE,4.0,52.36,Email,Facturation,FALSE,0,NC,,FAUX
+DOS51355,45046,AGT-25,8.0,FALSE,3.0,40.5,Email,Souscription contrat,FALSE,0,Conforme,5.0,FAUX
+DOS51356,45011,AGT-07,6.1,TRUE,,28.3,Email,Facturation,FALSE,0,Conforme,,VRAI
+DOS51357,45010,AGT-11,6.4,FAUX,,32.58,Téléphone,Réclamation,FALSE,0,Conforme,3.0,FAUX
+DOS51358,45008,AGT-03,4.0,FALSE,1.0,45.46,Téléphone,Résiliation,FALSE,0,Conforme,10.0,VRAI
+DOS51359,45184,AGT-19,3.4,FALSE,4.0,50.44,Téléphone,Facturation,FALSE,0,Conforme,8.0,VRAI
+DOS51360,45138,AGT-07,4.7,TRUE,1.0,15.72,Téléphone,Facturation,TRUE,0,,8.0,FAUX
+DOS51361,45231,AGT-19,8.7,VRAI,1.0,14.45,Chat,Panne compteur,TRUE,1,Conforme,0.0,FAUX
+DOS51362,45214,AGT-11,3.9,FALSE,4.0,38.19,Chat,Relevé compteur,FALSE,0,Conforme,8.0,VRAI
+DOS51363,45280,AGT-11,0.7,FALSE,4.0,12.28,Courrier,Réclamation,FALSE,0,Conforme,9.0,FAUX
+DOS51364,45070,AGT-19,5.4,TRUE,,17.61,Email,Facturation,FALSE,0,Non Conforme,6.0,VRAI
+DOS51365,45291,AGT-07,7.6,FAUX,5.0,46.3,Email,Litige paiement,FALSE,0,Non Conforme,10.0,FAUX
+DOS51366,44975,AGT-07,5.7,TRUE,,34.13,Courrier,Panne compteur,FALSE,0,Non Conforme,,FAUX
+DOS51367,45047,AGT-19,8.9,FALSE,4.0,15.76,Email,Panne compteur,FALSE,0,NC,8.0,FAUX
+DOS51368,45023,AGT-03,6.5,VRAI,4.0,16.01,Chat,Demande d'information,FALSE,0,Conforme,,VRAI
+DOS51369,44980,AGT-11,5.7,FAUX,1.0,23.33,Email,Litige paiement,FALSE,0,Conforme,5.0,FAUX
+DOS51370,44948,AGT-03,4.6,VRAI,5.0,40.12,Email,Déménagement,TRUE,0,NC,4.0,VRAI
+DOS51371,45190,AGT-03,6.3,VRAI,5.0,35.0,Email,Litige paiement,FALSE,1,Conforme,4.0,VRAI
+DOS51372,45070,AGT-25,2.1,FAUX,,24.9,Email,Résiliation,FALSE,1,Conforme,,FAUX
+DOS51373,45044,AGT-07,8.7,FALSE,5.0,14.09,Email,Demande d'information,TRUE,0,Non Conforme,,FAUX
+DOS51374,45279,AGT-19,6.9,FALSE,3.0,40.84,Email,Facturation,TRUE,0,Conforme,,FAUX
+DOS51375,45013,AGT-25,6.9,FALSE,5.0,39.68,Email,Demande d'information,FALSE,0,Conforme,7.0,VRAI
+DOS51376,45200,AGT-11,5.1,TRUE,5.0,25.19,Chat,Litige paiement,TRUE,0,Conforme,,FAUX
+DOS51377,45081,AGT-12,8.0,FALSE,3.0,16.38,Email,Demande d'information,TRUE,0,Conforme,,FAUX
+DOS51378,44987,AGT-03,4.8,VRAI,4.0,46.6,Email,Déménagement,FALSE,0,Conforme,,FAUX
+DOS51379,44979,AGT-25,4.1,VRAI,5.0,51.51,Courrier,Souscription contrat,TRUE,0,Conforme,7.0,VRAI
+DOS51380,45203,AGT-19,5.3,TRUE,5.0,21.43,Courrier,Changement d'offre,FALSE,0,Conforme,,FAUX
+DOS51381,45282,AGT-12,7.0,FALSE,4.0,46.32,Email,Réclamation,FALSE,0,Conforme,,FAUX
+DOS51382,45265,AGT-03,3.8,FAUX,5.0,22.03,Téléphone,Souscription contrat,FALSE,1,Conforme,6.0,VRAI
+DOS51383,45261,AGT-07,3.5,FALSE,5.0,34.14,Chat,Changement d'offre,FALSE,0,Conforme,,FAUX
+DOS51384,45043,AGT-12,3.4,TRUE,4.0,31.49,Téléphone,Relevé compteur,TRUE,0,Non Conforme,,FAUX
+DOS51385,45014,AGT-12,4.3,FAUX,2.0,49.58,Chat,Facturation,TRUE,0,Conforme,8.0,VRAI
+DOS51386,45217,AGT-07,7.2,FAUX,5.0,20.42,Email,Relevé compteur,TRUE,0,Conforme,8.0,FAUX
+DOS51387,45208,AGT-25,5.6,FALSE,5.0,19.18,Téléphone,Facturation,TRUE,0,Conforme,7.0,VRAI
+DOS51388,45182,AGT-03,2.9,FAUX,,40.39,Chat,Réclamation,TRUE,0,Conforme,8.0,VRAI
+DOS51389,45218,AGT-12,10.0,TRUE,4.0,46.17,Courrier,Litige paiement,FALSE,0,Conforme,7.0,VRAI
+DOS51390,44945,AGT-25,0.0,VRAI,,35.69,Chat,Litige paiement,TRUE,1,Conforme,,FAUX
+DOS51391,45093,AGT-03,4.3,FALSE,3.0,16.76,Courrier,Déménagement,FALSE,1,Non Conforme,5.0,FAUX
+DOS51392,45094,AGT-11,3.3,FAUX,5.0,29.05,Email,Litige paiement,FALSE,1,Conforme,,FAUX
+DOS51393,45021,AGT-25,3.9,VRAI,3.0,16.78,Email,Réclamation,FALSE,0,Conforme,7.0,FAUX
+DOS51394,44965,AGT-08,5.3,TRUE,1.0,38.24,Téléphone,Panne compteur,FALSE,0,Conforme,,FAUX
+DOS51395,45110,AGT-07,4.8,TRUE,4.0,42.46,Email,Souscription contrat,FALSE,0,Conforme,8.0,FAUX
+DOS51396,45083,AGT-11,3.6,FALSE,2.0,24.52,Email,Demande d'information,TRUE,1,Conforme,9.0,VRAI
+DOS51397,45287,AGT-03,5.9,TRUE,1.0,17.57,Email,Réclamation,TRUE,0,Conforme,,VRAI
+DOS51398,45129,AGT-03,6.2,FALSE,,20.67,Téléphone,Litige paiement,TRUE,0,NC,,FAUX
+DOS51399,44959,AGT-19,6.5,VRAI,4.0,26.68,Téléphone,Résiliation,TRUE,1,Conforme,,FAUX
+DOS51400,44955,AGT-12,5.4,FALSE,3.0,46.45,Chat,Litige paiement,FALSE,0,Non Conforme,4.0,VRAI
+DOS51401,45230,AGT-07,6.1,FALSE,5.0,23.38,Courrier,Demande d'information,TRUE,0,Conforme,,FAUX
+DOS51402,45002,AGT-08,6.5,VRAI,3.0,41.49,Courrier,Changement d'offre,FALSE,0,Conforme,,VRAI
+DOS51403,45013,AGT-12,3.9,VRAI,4.0,41.28,Courrier,Souscription contrat,FALSE,0,Conforme,8.0,VRAI
+DOS51404,44942,AGT-12,9.3,FALSE,5.0,43.63,Chat,Réclamation,FALSE,0,Conforme,,FAUX
+DOS51405,44936,AGT-19,8.6,TRUE,5.0,23.61,Chat,Facturation,TRUE,0,Conforme,,VRAI
+DOS51406,45144,AGT-07,7.0,FAUX,3.0,25.28,Courrier,Panne compteur,TRUE,0,Conforme,6.0,VRAI
+DOS51407,45013,AGT-07,4.5,FALSE,,35.49,Email,Facturation,FALSE,0,Conforme,5.0,VRAI
+DOS51408,45124,AGT-25,1.4,FALSE,5.0,48.23,Courrier,Souscription contrat,TRUE,0,,7.0,FAUX
+DOS51409,45002,AGT-08,1.8,FALSE,,46.64,Email,Changement d'offre,TRUE,1,Conforme,,VRAI
+DOS51410,45219,AGT-03,4.7,VRAI,3.0,25.93,Email,Réclamation,FALSE,0,Conforme,9.0,VRAI
+DOS51411,45012,AGT-03,8.6,FAUX,3.0,38.18,Chat,Demande d'information,TRUE,0,Conforme,9.0,FAUX
+DOS51412,44954,AGT-07,4.9,VRAI,5.0,31.98,Courrier,Relevé compteur,FALSE,0,Conforme,8.0,VRAI
+DOS51413,45126,AGT-11,3.3,FALSE,,54.04,Courrier,Demande d'information,FALSE,1,Conforme,5.0,VRAI
+DOS51414,45169,AGT-19,3.4,TRUE,5.0,13.12,Chat,Relevé compteur,TRUE,0,Conforme,7.0,FAUX
+DOS51415,45047,AGT-08,8.6,TRUE,1.0,36.31,Chat,Demande d'information,TRUE,0,Non Conforme,9.0,VRAI
+DOS51416,45212,AGT-12,4.7,VRAI,3.0,30.46,Courrier,Litige paiement,TRUE,0,Conforme,,FAUX
+DOS51417,45211,AGT-08,8.4,FALSE,3.0,50.59,Chat,Relevé compteur,TRUE,0,Conforme,10.0,VRAI
+DOS51418,45073,AGT-12,3.2,VRAI,5.0,52.39,Téléphone,Litige paiement,TRUE,0,Conforme,,VRAI
+DOS51419,45076,AGT-07,3.5,VRAI,,46.8,Courrier,Demande d'information,FALSE,0,Conforme,8.0,FAUX
+DOS51420,45140,AGT-12,4.2,TRUE,5.0,18.16,Chat,Résiliation,FALSE,0,,,VRAI
+DOS51421,45201,AGT-08,6.2,FALSE,4.0,13.12,Courrier,Réclamation,FALSE,0,Conforme,,VRAI
+DOS51422,45088,AGT-25,6.7,TRUE,5.0,22.32,Téléphone,Relevé compteur,TRUE,0,Conforme,,VRAI
+DOS51423,45070,AGT-11,3.7,FALSE,,43.35,Téléphone,Litige paiement,TRUE,1,NC,,FAUX
+DOS51424,45130,AGT-25,4.0,VRAI,5.0,54.28,Courrier,Facturation,FALSE,0,Conforme,,FAUX
+DOS51425,45063,AGT-08,2.3,FAUX,5.0,22.53,Chat,Litige paiement,FALSE,0,Conforme,,VRAI
+DOS51426,44963,AGT-11,2.2,TRUE,5.0,16.71,Courrier,Changement d'offre,TRUE,0,,,VRAI
+DOS51427,45228,AGT-19,3.4,FALSE,4.0,33.07,Email,Souscription contrat,FALSE,0,Conforme,9.0,FAUX
+DOS51428,45262,AGT-11,8.2,FALSE,5.0,47.16,Courrier,Réclamation,TRUE,0,Conforme,,FAUX
+DOS51429,45111,AGT-25,3.3,FAUX,3.0,35.4,Email,Déménagement,FALSE,0,Conforme,7.0,VRAI
+DOS51430,45259,AGT-19,5.4,FAUX,2.0,14.38,Téléphone,Relevé compteur,FALSE,0,,,VRAI
+DOS51431,45105,AGT-07,4.5,TRUE,2.0,38.5,Email,Relevé compteur,FALSE,0,Conforme,10.0,FAUX
+DOS51432,45113,AGT-12,0.0,TRUE,3.0,47.23,Chat,Changement d'offre,FALSE,0,Conforme,7.0,FAUX
+DOS51433,45277,AGT-12,6.4,VRAI,3.0,51.18,Chat,Réclamation,FALSE,1,Conforme,5.0,FAUX
+DOS51434,45168,AGT-07,4.0,FALSE,1.0,37.23,Courrier,Relevé compteur,FALSE,0,Conforme,,FAUX
+DOS51435,45077,AGT-11,7.1,FAUX,4.0,51.34,Téléphone,Déménagement,TRUE,0,Conforme,10.0,FAUX
+DOS51436,45024,AGT-07,7.1,TRUE,,12.41,Email,Déménagement,TRUE,0,Non Conforme,7.0,FAUX
+DOS51437,45236,AGT-25,4.1,FAUX,5.0,12.16,Chat,Résiliation,TRUE,0,Conforme,9.0,FAUX
+DOS51438,45224,AGT-07,6.8,FAUX,5.0,45.93,Email,Changement d'offre,TRUE,0,,,FAUX
+DOS51439,45016,AGT-07,6.8,FALSE,1.0,51.99,Chat,Changement d'offre,TRUE,0,Conforme,7.0,VRAI
+DOS51440,45197,AGT-11,4.6,VRAI,5.0,50.86,Email,Résiliation,FALSE,0,Conforme,,VRAI
+DOS51441,44965,AGT-03,4.3,FAUX,5.0,19.62,Chat,Panne compteur,TRUE,0,Conforme,,FAUX
+DOS51442,44991,AGT-19,5.9,FALSE,5.0,15.58,Courrier,Résiliation,TRUE,0,NC,,VRAI
+DOS51443,45090,AGT-07,9.1,VRAI,5.0,24.27,Courrier,Litige paiement,TRUE,0,Conforme,,FAUX
+DOS51444,45283,AGT-19,7.6,VRAI,4.0,42.42,Téléphone,Réclamation,TRUE,0,Conforme,10.0,FAUX
+DOS51445,45282,AGT-25,5.3,FAUX,5.0,38.74,Courrier,Facturation,TRUE,0,Conforme,,VRAI
+DOS51446,45136,AGT-19,1.4,TRUE,4.0,17.13,Chat,Litige paiement,TRUE,0,Non Conforme,10.0,VRAI
+DOS51447,45220,AGT-03,5.1,FAUX,4.0,29.59,Chat,Changement d'offre,FALSE,0,Conforme,9.0,FAUX
+DOS51448,45264,AGT-08,1.4,VRAI,5.0,13.9,Téléphone,Résiliation,TRUE,0,Conforme,8.0,VRAI
+DOS51449,45191,AGT-03,2.0,TRUE,2.0,37.33,Téléphone,Relevé compteur,TRUE,0,Conforme,9.0,FAUX
+DOS51450,45129,AGT-07,3.6,FAUX,2.0,52.56,Chat,Réclamation,TRUE,0,,9.0,FAUX
+DOS51451,44944,AGT-11,5.4,VRAI,3.0,16.27,Email,Demande d'information,TRUE,0,Conforme,4.0,FAUX
+DOS51452,45232,AGT-25,3.8,TRUE,,43.74,Téléphone,Réclamation,FALSE,1,Conforme,9.0,FAUX
+DOS51453,45132,AGT-12,7.8,TRUE,4.0,29.28,Téléphone,Panne compteur,TRUE,0,NC,,FAUX
+DOS51454,44989,AGT-07,5.1,FALSE,3.0,-43.09,Téléphone,Déménagement,FALSE,0,Conforme,,VRAI
+DOS51455,45170,AGT-08,3.9,VRAI,5.0,28.91,Téléphone,Réclamation,TRUE,0,Conforme,4.0,VRAI
+DOS51456,44993,AGT-11,6.6,FALSE,5.0,45.72,Chat,Résiliation,FALSE,0,Conforme,,FAUX
+DOS51457,45087,AGT-19,3.7,FAUX,,51.68,Courrier,Réclamation,TRUE,0,Conforme,,FAUX
+DOS51458,45016,AGT-12,5.4,TRUE,5.0,27.61,Chat,Déménagement,FALSE,0,Conforme,,FAUX
+DOS51459,45116,AGT-19,0.0,TRUE,2.0,23.05,Email,Litige paiement,FALSE,0,Conforme,,FAUX
+DOS51460,44970,AGT-25,3.7,FAUX,,30.41,Courrier,Résiliation,TRUE,0,Conforme,0.0,FAUX
+DOS51461,45214,AGT-08,7.6,TRUE,4.0,29.36,Courrier,Relevé compteur,FALSE,0,Conforme,9.0,FAUX
+DOS51462,45049,AGT-07,6.1,TRUE,3.0,40.67,Email,Changement d'offre,TRUE,1,Conforme,9.0,FAUX
+DOS51463,45087,AGT-12,5.7,VRAI,5.0,32.28,Chat,Facturation,FALSE,0,Conforme,,VRAI
+DOS51464,44943,AGT-19,6.4,FALSE,5.0,14.61,Chat,Réclamation,FALSE,0,Conforme,9.0,FAUX
+DOS51465,45077,AGT-25,7.6,FAUX,3.0,16.11,Téléphone,Souscription contrat,TRUE,0,NC,,FAUX
+DOS51466,45247,AGT-08,5.1,FALSE,4.0,47.51,Courrier,Demande d'information,TRUE,0,Non Conforme,9.0,FAUX
+DOS51467,45258,AGT-07,4.1,FAUX,4.0,25.46,Chat,Facturation,TRUE,0,NC,8.0,VRAI
+DOS51468,45254,AGT-11,6.7,FALSE,3.0,47.99,Chat,Changement d'offre,TRUE,0,,3.0,FAUX
+DOS51469,44961,AGT-03,4.8,VRAI,2.0,40.6,Téléphone,Demande d'information,FALSE,0,NC,7.0,FAUX
+DOS51470,44967,AGT-08,4.1,TRUE,4.0,12.69,Email,Relevé compteur,TRUE,1,NC,5.0,FAUX
+DOS51471,45185,AGT-08,0.0,FALSE,2.0,16.6,Email,Changement d'offre,FALSE,0,Conforme,9.0,VRAI
+DOS51472,45145,AGT-19,6.1,VRAI,2.0,14.75,Email,Facturation,FALSE,0,Conforme,8.0,VRAI
+DOS51473,45137,AGT-11,1.6,FALSE,4.0,17.86,Téléphone,Changement d'offre,TRUE,0,Conforme,7.0,FAUX
+DOS51474,44987,AGT-08,6.1,FAUX,1.0,38.48,Chat,Panne compteur,FALSE,0,Non Conforme,,FAUX
+DOS51475,45183,AGT-03,2.9,FALSE,4.0,35.68,Téléphone,Litige paiement,TRUE,0,,,VRAI
+DOS51476,45034,AGT-11,3.8,VRAI,4.0,16.16,Courrier,Changement d'offre,FALSE,0,NC,8.0,VRAI
+DOS51477,45164,AGT-19,2.5,TRUE,4.0,21.74,Email,Réclamation,FALSE,0,NC,,VRAI
+DOS51478,45101,AGT-03,6.5,TRUE,5.0,39.64,Email,Souscription contrat,TRUE,0,Conforme,8.0,FAUX
+DOS51479,45059,AGT-08,5.7,FALSE,4.0,13.43,Téléphone,Demande d'information,TRUE,0,Conforme,,VRAI
+DOS51480,45073,AGT-25,3.0,TRUE,,28.86,Courrier,Relevé compteur,TRUE,0,,,FAUX
+DOS51481,45129,AGT-19,6.9,FALSE,5.0,39.78,Chat,Résiliation,TRUE,0,Conforme,5.0,VRAI
+DOS51482,45046,AGT-12,2.0,TRUE,3.0,26.38,Email,Réclamation,TRUE,0,,5.0,FAUX
+DOS51483,45144,AGT-08,4.4,TRUE,4.0,26.69,Chat,Réclamation,FALSE,0,,5.0,VRAI
+DOS51484,45006,AGT-08,2.4,FALSE,4.0,46.87,Courrier,Facturation,FALSE,0,Conforme,,VRAI
+DOS51485,45188,AGT-08,4.8,FAUX,,18.76,Chat,Déménagement,FALSE,0,Conforme,5.0,VRAI
+DOS51486,45021,AGT-08,4.1,VRAI,5.0,49.85,Téléphone,Facturation,FALSE,0,Conforme,,FAUX
+DOS51487,45002,AGT-19,2.8,FALSE,5.0,17.67,Téléphone,Souscription contrat,FALSE,0,Conforme,,FAUX
+DOS51488,44998,AGT-19,5.2,TRUE,4.0,23.89,Email,Facturation,TRUE,1,Conforme,4.0,FAUX
+DOS51489,45081,AGT-12,3.1,FALSE,4.0,36.46,Email,Changement d'offre,FALSE,0,Conforme,8.0,VRAI
+DOS51490,45112,AGT-11,0.9,TRUE,,16.81,Téléphone,Réclamation,FALSE,0,Conforme,7.0,FAUX
+DOS51491,44958,AGT-08,2.0,TRUE,,18.07,Email,Résiliation,TRUE,0,Conforme,8.0,VRAI
+DOS51492,44974,AGT-07,4.4,FALSE,4.0,14.3,Téléphone,Résiliation,TRUE,0,Non Conforme,10.0,VRAI
+DOS51493,45104,AGT-03,4.6,TRUE,5.0,38.16,Chat,Déménagement,TRUE,0,,5.0,FAUX
+DOS51494,45187,AGT-03,3.5,TRUE,,41.23,Courrier,Litige paiement,FALSE,0,Conforme,,FAUX
+DOS51495,44929,AGT-12,8.1,FAUX,4.0,42.66,Email,Panne compteur,FALSE,0,,,VRAI
+DOS51496,45167,AGT-08,5.8,TRUE,4.0,36.71,Courrier,Souscription contrat,FALSE,0,Conforme,10.0,FAUX
+DOS51497,45101,AGT-25,6.0,VRAI,5.0,15.6,Email,Souscription contrat,FALSE,0,Conforme,10.0,FAUX
+DOS51498,44956,AGT-11,3.3,FALSE,4.0,36.11,Courrier,Réclamation,FALSE,0,Conforme,0.0,VRAI
+DOS51499,45260,AGT-08,3.1,FALSE,4.0,23.1,Téléphone,Demande d'information,FALSE,0,Conforme,7.0,FAUX
+DOS51500,45206,AGT-03,5.5,TRUE,5.0,24.86,Chat,Litige paiement,TRUE,0,Conforme,5.0,VRAI
+DOS51501,45036,AGT-25,4.6,TRUE,5.0,31.45,Courrier,Demande d'information,FALSE,0,Conforme,2.0,FAUX
+DOS51502,45288,AGT-12,5.7,FALSE,5.0,36.32,Téléphone,Résiliation,TRUE,0,Conforme,,FAUX
+DOS51503,45072,AGT-25,4.6,TRUE,5.0,50.77,Courrier,Litige paiement,FALSE,0,Conforme,10.0,VRAI
+DOS51504,45225,AGT-25,6.6,FAUX,5.0,50.35,Chat,Changement d'offre,TRUE,0,Non Conforme,7.0,FAUX
+DOS51505,44973,AGT-07,5.2,TRUE,5.0,36.79,Chat,Facturation,TRUE,0,Conforme,9.0,FAUX
+DOS51506,45028,AGT-08,4.8,FAUX,,27.72,Email,Litige paiement,FALSE,0,Conforme,8.0,VRAI
+DOS51507,45021,AGT-11,6.1,FALSE,5.0,13.96,Chat,Demande d'information,FALSE,0,Conforme,,FAUX
+DOS51508,44935,AGT-03,8.4,VRAI,5.0,45.26,Téléphone,Litige paiement,TRUE,0,Conforme,,VRAI
+DOS51509,45195,AGT-11,6.5,TRUE,4.0,18.44,Téléphone,Réclamation,FALSE,0,Conforme,8.0,FAUX
+DOS51510,44973,AGT-07,2.6,FAUX,4.0,40.47,Téléphone,Demande d'information,FALSE,0,Conforme,0.0,FAUX
+DOS51511,45153,AGT-03,4.8,VRAI,1.0,18.79,Téléphone,Demande d'information,FALSE,0,Conforme,8.0,FAUX
+DOS51512,45083,AGT-25,4.8,FALSE,5.0,24.53,Chat,Changement d'offre,TRUE,0,Conforme,,VRAI
+DOS51513,45029,AGT-19,5.8,FALSE,5.0,48.59,Courrier,Litige paiement,FALSE,0,Conforme,,FAUX
+DOS51514,45271,AGT-08,4.4,FAUX,4.0,33.27,Email,Panne compteur,FALSE,1,Conforme,9.0,VRAI
+DOS51515,45048,AGT-08,5.1,TRUE,3.0,15.64,Chat,Demande d'information,TRUE,0,Conforme,,FAUX
+DOS51516,44949,AGT-07,5.3,FAUX,5.0,23.03,Chat,Litige paiement,FALSE,1,Conforme,8.0,FAUX
+DOS51517,45018,AGT-25,5.7,FAUX,5.0,36.24,Chat,Facturation,FALSE,0,,,FAUX
+DOS51518,45038,AGT-07,2.6,VRAI,5.0,13.51,Email,Résiliation,TRUE,0,Conforme,3.0,VRAI
+DOS51519,45164,AGT-07,2.9,VRAI,4.0,40.01,Chat,Souscription contrat,FALSE,0,Conforme,,VRAI
+DOS51520,45036,AGT-11,0.7,VRAI,5.0,51.03,Téléphone,Changement d'offre,FALSE,0,Conforme,,VRAI
+DOS51521,45031,AGT-11,9.1,FAUX,3.0,19.22,Chat,Résiliation,TRUE,0,Conforme,,VRAI
+DOS51522,45020,AGT-03,1.2,VRAI,,19.76,Courrier,Réclamation,TRUE,0,Non Conforme,,FAUX
+DOS51523,45224,AGT-08,5.3,VRAI,5.0,44.25,Téléphone,Relevé compteur,FALSE,0,,10.0,VRAI
+DOS51524,45034,AGT-12,6.5,VRAI,4.0,27.02,Email,Facturation,FALSE,1,,6.0,VRAI
+DOS51525,45132,AGT-07,3.2,FAUX,2.0,34.01,Téléphone,Demande d'information,TRUE,1,Conforme,,FAUX
+DOS51526,45173,AGT-19,7.5,VRAI,5.0,37.28,Courrier,Panne compteur,FALSE,0,Conforme,,VRAI
+DOS51527,45183,AGT-03,5.2,TRUE,4.0,23.91,Courrier,Déménagement,TRUE,0,Conforme,,VRAI
+DOS51528,45053,AGT-25,8.5,FAUX,2.0,50.3,Courrier,Relevé compteur,TRUE,0,NC,3.0,FAUX
+DOS51529,45033,AGT-07,3.3,FAUX,4.0,13.77,Chat,Déménagement,FALSE,0,Conforme,8.0,FAUX
+DOS51530,45127,AGT-19,4.8,TRUE,5.0,22.01,Email,Litige paiement,TRUE,0,Conforme,8.0,VRAI
+DOS51531,45183,AGT-19,4.2,FAUX,5.0,23.39,Téléphone,Facturation,FALSE,0,NC,,FAUX
+DOS51532,45122,AGT-25,3.9,VRAI,3.0,17.62,Téléphone,Facturation,FALSE,0,Conforme,3.0,VRAI
+DOS51533,44937,AGT-25,4.0,VRAI,1.0,52.16,Courrier,Panne compteur,FALSE,0,Conforme,6.0,FAUX
+DOS51534,45227,AGT-03,4.5,FALSE,5.0,22.59,Chat,Souscription contrat,FALSE,0,Conforme,,FAUX
+DOS51535,45190,AGT-07,4.3,VRAI,4.0,52.12,Email,Relevé compteur,TRUE,0,,6.0,FAUX
+DOS51536,45161,AGT-07,6.7,FAUX,2.0,16.5,Email,Litige paiement,FALSE,0,Conforme,5.0,VRAI
+DOS51537,45225,AGT-12,6.5,VRAI,4.0,47.96,Téléphone,Réclamation,TRUE,1,Conforme,,FAUX
+DOS51538,45281,AGT-12,2.1,TRUE,5.0,36.76,Courrier,Relevé compteur,FALSE,0,Conforme,7.0,VRAI
+DOS51539,45270,AGT-07,4.0,TRUE,5.0,47.35,Courrier,Relevé compteur,FALSE,0,NC,,VRAI
+DOS51540,44960,AGT-11,5.9,TRUE,4.0,51.91,Téléphone,Changement d'offre,FALSE,0,Conforme,,FAUX
+DOS51541,45029,AGT-19,5.7,TRUE,2.0,22.24,Téléphone,Panne compteur,TRUE,0,Conforme,10.0,FAUX
+DOS51542,45036,AGT-25,4.7,TRUE,3.0,49.81,Courrier,Demande d'information,FALSE,1,Conforme,,FAUX
+DOS51543,45048,AGT-03,5.1,FALSE,3.0,18.65,Email,Résiliation,FALSE,0,Conforme,,FAUX
+DOS51544,44949,AGT-11,4.4,FALSE,4.0,27.83,Email,Relevé compteur,FALSE,0,Conforme,,VRAI
+DOS51545,45002,AGT-19,6.9,VRAI,5.0,13.68,Courrier,Relevé compteur,FALSE,0,Conforme,4.0,VRAI
+DOS51546,44993,AGT-08,6.7,TRUE,,13.1,Téléphone,Facturation,FALSE,0,Conforme,10.0,VRAI
+DOS51547,45205,AGT-19,4.5,TRUE,5.0,29.47,Téléphone,Relevé compteur,TRUE,0,Conforme,6.0,VRAI
+DOS51548,44964,AGT-19,5.0,VRAI,4.0,19.42,Chat,Réclamation,TRUE,0,Conforme,,VRAI
+DOS51549,44957,AGT-25,4.6,FAUX,5.0,22.85,Chat,Panne compteur,FALSE,0,Conforme,8.0,FAUX
+DOS51550,45000,AGT-19,4.9,FAUX,4.0,23.77,Téléphone,Litige paiement,TRUE,0,NC,10.0,VRAI
+DOS51551,44946,AGT-08,7.2,TRUE,5.0,37.34,Email,Panne compteur,FALSE,0,Conforme,8.0,FAUX
+DOS51552,45241,AGT-19,4.3,TRUE,4.0,35.49,Email,Résiliation,TRUE,0,Conforme,8.0,FAUX
+DOS51553,44987,AGT-12,3.9,FALSE,4.0,22.21,Chat,Réclamation,FALSE,0,Conforme,,VRAI
+DOS51554,45144,AGT-25,5.0,TRUE,4.0,45.2,Email,Souscription contrat,FALSE,0,Conforme,6.0,VRAI
+DOS51555,45259,AGT-19,9.2,FAUX,5.0,52.77,Email,Déménagement,FALSE,0,Conforme,,VRAI
+DOS51556,44967,AGT-07,4.5,FAUX,4.0,25.74,Chat,Réclamation,TRUE,0,Conforme,6.0,FAUX
+DOS51557,45052,AGT-08,3.6,TRUE,5.0,18.5,Chat,Déménagement,FALSE,0,Conforme,,FAUX
+DOS51558,45111,AGT-07,6.4,VRAI,,32.83,Téléphone,Changement d'offre,TRUE,0,Conforme,7.0,FAUX
+DOS51559,45004,AGT-07,6.6,FAUX,1.0,35.12,Email,Facturation,TRUE,0,Non Conforme,8.0,FAUX
+DOS51560,44948,AGT-03,5.4,VRAI,2.0,46.03,Téléphone,Souscription contrat,TRUE,0,Non Conforme,,VRAI
+DOS51561,44989,AGT-19,3.8,FALSE,3.0,36.67,Email,Déménagement,TRUE,0,Conforme,6.0,VRAI
+DOS51562,45033,AGT-03,6.9,FAUX,5.0,27.54,Email,Déménagement,TRUE,0,Non Conforme,,VRAI
+DOS51563,45043,AGT-11,2.8,TRUE,4.0,35.43,Courrier,Réclamation,TRUE,0,,,VRAI
+DOS51564,44989,AGT-25,0.4,VRAI,2.0,42.91,Téléphone,Demande d'information,TRUE,1,Conforme,,VRAI
+DOS51565,45195,AGT-19,4.7,FAUX,5.0,50.01,Email,Souscription contrat,FALSE,1,Conforme,,VRAI
+DOS51566,45151,AGT-25,9.0,FALSE,1.0,48.79,Email,Panne compteur,TRUE,1,Conforme,,VRAI
+DOS51567,45019,AGT-11,5.4,VRAI,4.0,32.09,Chat,Résiliation,FALSE,0,Conforme,7.0,VRAI
+DOS51568,45020,AGT-11,4.5,FAUX,,18.84,Email,Déménagement,FALSE,0,Conforme,9.0,FAUX
+DOS51569,45072,AGT-03,6.0,VRAI,5.0,40.27,Chat,Réclamation,FALSE,0,Non Conforme,,FAUX
+DOS51570,45130,AGT-08,6.0,TRUE,2.0,26.25,Courrier,Résiliation,FALSE,0,Conforme,7.0,VRAI
+DOS51571,45064,AGT-25,9.6,FAUX,5.0,54.14,Email,Panne compteur,TRUE,0,Conforme,8.0,VRAI
+DOS51572,45088,AGT-12,7.5,TRUE,5.0,34.88,Email,Demande d'information,FALSE,0,Conforme,,VRAI
+DOS51573,44988,AGT-11,3.5,TRUE,5.0,38.17,Email,Déménagement,FALSE,0,,,VRAI
+DOS51574,45129,AGT-11,6.0,FALSE,5.0,36.58,Téléphone,Changement d'offre,FALSE,0,Conforme,,FAUX
+DOS51575,45018,AGT-12,5.0,FALSE,4.0,52.32,Courrier,Souscription contrat,FALSE,1,Conforme,10.0,FAUX
+DOS51576,45100,AGT-03,5.2,FALSE,4.0,42.84,Email,Résiliation,TRUE,0,Conforme,7.0,VRAI
+DOS51577,45268,AGT-19,4.9,TRUE,,44.04,Email,Changement d'offre,TRUE,0,Conforme,,VRAI
+DOS51578,44957,AGT-11,4.9,TRUE,4.0,14.63,Téléphone,Relevé compteur,FALSE,0,,0.0,VRAI
+DOS51579,45196,AGT-03,2.2,FALSE,3.0,34.45,Chat,Demande d'information,FALSE,0,Conforme,10.0,FAUX
+DOS51580,45230,AGT-12,4.3,VRAI,3.0,26.41,Téléphone,Réclamation,TRUE,0,Conforme,4.0,FAUX
+DOS51581,44972,AGT-07,5.0,VRAI,4.0,28.83,Courrier,Demande d'information,FALSE,0,Conforme,0.0,VRAI
+DOS51582,45118,AGT-12,5.8,TRUE,4.0,46.06,Courrier,Réclamation,TRUE,0,Conforme,5.0,VRAI
+DOS51583,45271,AGT-07,5.3,FALSE,5.0,54.71,Email,Litige paiement,FALSE,0,Conforme,,VRAI
+DOS51584,44943,AGT-03,5.2,VRAI,,41.94,Courrier,Réclamation,TRUE,0,Conforme,,FAUX
+DOS51585,44959,AGT-25,6.2,VRAI,,16.75,Téléphone,Changement d'offre,FALSE,0,Conforme,6.0,FAUX
+DOS51586,45281,AGT-03,7.9,FAUX,5.0,33.73,Email,Litige paiement,FALSE,0,Conforme,8.0,VRAI
+DOS51587,45061,AGT-07,4.7,VRAI,5.0,42.22,Email,Changement d'offre,FALSE,0,Conforme,,FAUX
+DOS51588,44933,AGT-08,3.5,VRAI,2.0,49.66,Téléphone,Changement d'offre,FALSE,0,,6.0,VRAI
+DOS51589,45255,AGT-03,6.9,FAUX,4.0,31.77,Chat,Réclamation,TRUE,0,Conforme,,FAUX
+DOS51590,45217,AGT-12,6.0,FALSE,1.0,29.97,Email,Changement d'offre,TRUE,0,Conforme,7.0,VRAI
+DOS51591,44949,AGT-12,4.5,FALSE,5.0,44.26,Email,Changement d'offre,TRUE,0,Conforme,,FAUX
+DOS51592,45055,AGT-11,0.9,FALSE,4.0,46.82,Courrier,Déménagement,FALSE,0,Conforme,,VRAI
+DOS51593,45187,AGT-25,7.0,VRAI,5.0,37.13,Email,Changement d'offre,FALSE,0,Conforme,7.0,FAUX
+DOS51594,45287,AGT-11,3.4,FAUX,5.0,50.5,Chat,Facturation,TRUE,0,Non Conforme,8.0,FAUX
+DOS51595,45139,AGT-03,4.7,FALSE,3.0,13.53,Email,Souscription contrat,TRUE,0,Conforme,,FAUX
+DOS51596,44938,AGT-11,4.5,FAUX,2.0,39.49,Chat,Facturation,FALSE,0,Conforme,,VRAI
+DOS51597,45162,AGT-25,7.1,FALSE,,51.65,Téléphone,Relevé compteur,TRUE,0,Conforme,,VRAI
+DOS51598,44990,AGT-08,5.6,FALSE,,44.87,Courrier,Facturation,TRUE,0,Conforme,,FAUX
+DOS51599,45121,AGT-25,2.9,VRAI,3.0,44.58,Téléphone,Panne compteur,TRUE,0,Conforme,,VRAI
+DOS51600,45179,AGT-11,9.8,FAUX,5.0,44.57,Téléphone,Souscription contrat,FALSE,0,NC,,VRAI
+DOS51601,45154,AGT-08,6.1,FAUX,5.0,48.16,Courrier,Facturation,FALSE,0,,8.0,FAUX
+DOS51602,44988,AGT-12,3.8,VRAI,2.0,54.86,Courrier,Changement d'offre,TRUE,0,,,VRAI
+DOS51603,45160,AGT-03,7.7,FALSE,,30.68,Téléphone,Facturation,FALSE,0,Conforme,8.0,VRAI
+DOS51604,45179,AGT-03,5.1,VRAI,2.0,17.49,Courrier,Litige paiement,TRUE,0,Conforme,,FAUX
+DOS51605,45065,AGT-03,4.8,FALSE,4.0,17.22,Chat,Litige paiement,TRUE,0,Conforme,7.0,FAUX
+DOS51606,45225,AGT-11,4.9,FAUX,,41.61,Courrier,Relevé compteur,TRUE,0,,,FAUX
+DOS51607,45052,AGT-12,5.1,FAUX,4.0,15.18,Email,Demande d'information,TRUE,0,Conforme,,VRAI
+DOS51608,45270,AGT-19,5.0,FAUX,5.0,36.59,Chat,Changement d'offre,TRUE,0,Non Conforme,,FAUX
+DOS51609,45228,AGT-08,4.8,VRAI,5.0,53.48,Email,Changement d'offre,FALSE,1,Conforme,,VRAI
+DOS51610,45199,AGT-08,4.1,TRUE,5.0,15.28,Email,Demande d'information,TRUE,0,Conforme,8.0,FAUX
+DOS51611,45136,AGT-25,3.7,FALSE,3.0,45.47,Chat,Facturation,FALSE,0,Conforme,8.0,FAUX
+DOS51612,45025,AGT-08,5.4,FAUX,5.0,22.66,Chat,Changement d'offre,TRUE,0,,9.0,VRAI
+DOS51613,45025,AGT-07,0.0,FALSE,3.0,22.47,Email,Relevé compteur,FALSE,0,,6.0,FAUX
+DOS51614,45274,AGT-03,5.7,FALSE,3.0,49.45,Email,Déménagement,TRUE,0,Conforme,9.0,VRAI
+DOS51615,45211,AGT-08,7.6,TRUE,5.0,39.76,Chat,Changement d'offre,FALSE,0,Conforme,,FAUX
+DOS51616,44978,AGT-11,5.1,TRUE,4.0,37.6,Téléphone,Facturation,TRUE,0,,,VRAI
+DOS51617,45075,AGT-08,5.5,TRUE,,41.68,Chat,Litige paiement,FALSE,0,Conforme,3.0,VRAI
+DOS51618,45149,AGT-11,7.1,FALSE,3.0,54.13,Téléphone,Facturation,TRUE,0,Conforme,10.0,VRAI
+DOS51619,45079,AGT-07,4.7,VRAI,2.0,33.23,Courrier,Relevé compteur,TRUE,1,Conforme,8.0,FAUX
+DOS51620,44987,AGT-03,4.0,FAUX,3.0,48.67,Chat,Demande d'information,TRUE,1,Conforme,,FAUX
+DOS51621,45142,AGT-11,0.5,TRUE,5.0,39.76,Chat,Relevé compteur,FALSE,0,NC,10.0,FAUX
+DOS51622,45161,AGT-19,5.3,FAUX,2.0,12.74,Email,Souscription contrat,FALSE,1,Conforme,,VRAI
+DOS51623,45257,AGT-11,4.0,TRUE,5.0,45.48,Téléphone,Réclamation,TRUE,1,Conforme,8.0,VRAI
+DOS51624,45210,AGT-12,4.5,FAUX,4.0,46.34,Courrier,Facturation,TRUE,0,,2.0,FAUX
+DOS51625,45087,AGT-25,1.1,FALSE,3.0,14.0,Email,Changement d'offre,TRUE,1,Conforme,1.0,FAUX
+DOS51626,45226,AGT-03,4.5,FAUX,3.0,21.89,Téléphone,Relevé compteur,FALSE,0,Conforme,10.0,FAUX
+DOS51627,45006,AGT-25,3.0,FAUX,3.0,26.53,Email,Litige paiement,FALSE,1,Conforme,8.0,VRAI
+DOS51628,45158,AGT-11,2.6,VRAI,4.0,22.06,Chat,Relevé compteur,TRUE,0,Conforme,,FAUX
+DOS51629,45084,AGT-07,3.2,VRAI,4.0,47.7,Email,Litige paiement,FALSE,0,Conforme,,FAUX
+DOS51630,45132,AGT-19,3.0,FAUX,4.0,28.21,Téléphone,Litige paiement,TRUE,0,Conforme,,VRAI
+DOS51631,45226,AGT-07,6.7,TRUE,4.0,33.79,Email,Changement d'offre,TRUE,0,,5.0,FAUX
+DOS51632,45218,AGT-19,0.0,FAUX,5.0,28.36,Chat,Litige paiement,FALSE,0,Conforme,10.0,FAUX
+DOS51633,45171,AGT-08,5.3,VRAI,5.0,51.07,Courrier,Souscription contrat,FALSE,0,Conforme,9.0,FAUX
+DOS51634,45009,AGT-03,8.4,TRUE,5.0,52.0,Email,Résiliation,TRUE,0,Conforme,,VRAI
+DOS51635,45041,AGT-19,0.0,FALSE,4.0,51.03,Courrier,Résiliation,FALSE,0,,5.0,VRAI
+DOS51636,45031,AGT-08,-0.1,FALSE,4.0,39.56,Courrier,Relevé compteur,TRUE,0,Conforme,8.0,FAUX
+DOS51637,45050,AGT-11,3.4,FALSE,5.0,52.62,Chat,Réclamation,TRUE,0,Conforme,,FAUX
+DOS51638,45200,AGT-07,5.0,FAUX,5.0,20.27,Email,Panne compteur,FALSE,0,Conforme,7.0,FAUX
+DOS51639,45242,AGT-08,3.2,FALSE,,50.45,Chat,Litige paiement,FALSE,0,NC,,FAUX
+DOS51640,45239,AGT-12,5.2,TRUE,4.0,16.47,Email,Souscription contrat,TRUE,0,,8.0,VRAI
+DOS51641,44985,AGT-11,6.3,VRAI,4.0,45.77,Email,Demande d'information,TRUE,0,Conforme,,FAUX
+DOS51642,44979,AGT-11,3.2,FAUX,5.0,50.16,Courrier,Résiliation,TRUE,1,,10.0,FAUX
+DOS51643,45272,AGT-19,7.9,VRAI,4.0,53.96,Chat,Demande d'information,TRUE,0,Non Conforme,,FAUX
+DOS51644,45019,AGT-25,9.2,FALSE,4.0,24.79,Téléphone,Souscription contrat,TRUE,0,Conforme,10.0,VRAI
+DOS51645,45082,AGT-03,8.7,FAUX,5.0,37.13,Téléphone,Panne compteur,TRUE,0,Conforme,,VRAI
+DOS51646,45043,AGT-11,1.6,TRUE,2.0,14.89,Courrier,Déménagement,TRUE,0,Non Conforme,8.0,VRAI
+DOS51647,45134,AGT-12,4.1,FAUX,,22.87,Courrier,Résiliation,TRUE,0,Conforme,10.0,VRAI
+DOS51648,45014,AGT-25,5.6,TRUE,4.0,37.87,Email,Relevé compteur,TRUE,1,Non Conforme,6.0,FAUX
+DOS51649,45221,AGT-11,2.4,FALSE,5.0,38.17,Email,Souscription contrat,FALSE,0,Conforme,,FAUX
+DOS51650,45084,AGT-19,2.6,FALSE,4.0,47.87,Courrier,Panne compteur,TRUE,0,Conforme,9.0,FAUX
+DOS51651,45234,AGT-03,1.5,FAUX,3.0,32.48,Téléphone,Réclamation,FALSE,0,Conforme,3.0,FAUX
+DOS51652,45198,AGT-25,5.1,FAUX,3.0,39.93,Chat,Panne compteur,FALSE,0,,,VRAI
+DOS51653,45126,AGT-19,5.7,FAUX,,14.17,Téléphone,Panne compteur,TRUE,0,Non Conforme,,VRAI
+DOS51654,44957,AGT-19,7.1,FAUX,3.0,52.53,Courrier,Résiliation,TRUE,0,Non Conforme,8.0,FAUX
+DOS51655,45214,AGT-03,6.0,VRAI,5.0,54.88,Chat,Demande d'information,FALSE,0,NC,5.0,FAUX
+DOS51656,45096,AGT-19,6.4,TRUE,5.0,31.38,Chat,Facturation,TRUE,0,Conforme,10.0,VRAI
+DOS51657,45160,AGT-03,1.9,FALSE,1.0,36.24,Chat,Relevé compteur,TRUE,0,Conforme,2.0,FAUX
+DOS51658,45266,AGT-19,5.5,FALSE,3.0,51.11,Téléphone,Souscription contrat,TRUE,0,Conforme,8.0,VRAI
+DOS51659,45053,AGT-03,4.9,FAUX,4.0,31.34,Courrier,Changement d'offre,FALSE,0,NC,9.0,VRAI
+DOS51660,45192,AGT-25,3.8,TRUE,1.0,41.4,Email,Facturation,FALSE,0,Conforme,,FAUX
+DOS51661,45277,AGT-03,4.3,FALSE,5.0,25.43,Téléphone,Réclamation,FALSE,1,NC,5.0,FAUX
+DOS51662,44949,AGT-08,5.7,FAUX,3.0,39.76,Courrier,Demande d'information,TRUE,0,Conforme,8.0,VRAI
+DOS51663,45078,AGT-08,6.5,FALSE,4.0,36.05,Email,Réclamation,FALSE,0,Conforme,7.0,FAUX
+DOS51664,45001,AGT-19,8.8,TRUE,5.0,14.42,Téléphone,Déménagement,TRUE,0,Conforme,9.0,FAUX
+DOS51665,45272,AGT-11,5.8,VRAI,4.0,39.16,Email,Souscription contrat,TRUE,0,Non Conforme,7.0,VRAI
+DOS51666,45220,AGT-25,6.7,FALSE,4.0,-45.11,Courrier,Demande d'information,FALSE,0,Non Conforme,8.0,VRAI
+DOS51667,45061,AGT-19,6.6,FAUX,5.0,21.73,Email,Facturation,TRUE,0,NC,,VRAI
+DOS51668,45270,AGT-03,7.2,FAUX,5.0,26.54,Courrier,Demande d'information,FALSE,1,Conforme,8.0,FAUX
+DOS51669,45021,AGT-07,3.0,TRUE,5.0,53.61,Courrier,Changement d'offre,FALSE,0,Conforme,,VRAI
+DOS51670,45238,AGT-25,5.2,TRUE,5.0,30.41,Email,Facturation,TRUE,0,Conforme,4.0,VRAI
+DOS51671,45277,AGT-03,3.3,TRUE,2.0,26.02,Chat,Souscription contrat,TRUE,0,Conforme,7.0,VRAI
+DOS51672,45203,AGT-12,3.4,VRAI,,42.82,Chat,Litige paiement,FALSE,1,Non Conforme,,FAUX
+DOS51673,45189,AGT-11,5.9,VRAI,1.0,54.17,Chat,Relevé compteur,TRUE,0,Conforme,,VRAI
+DOS51674,45164,AGT-07,5.9,FAUX,,27.46,Téléphone,Déménagement,TRUE,0,Conforme,8.0,VRAI
+DOS51675,45101,AGT-08,5.8,VRAI,4.0,25.97,Chat,Réclamation,FALSE,0,Conforme,8.0,VRAI
+DOS51676,45068,AGT-12,4.0,FALSE,,52.65,Courrier,Déménagement,FALSE,0,Conforme,,VRAI
+DOS51677,44973,AGT-03,5.2,FALSE,3.0,18.18,Email,Réclamation,TRUE,0,NC,9.0,FAUX
+DOS51678,45161,AGT-07,4.5,FALSE,5.0,13.64,Courrier,Déménagement,FALSE,0,Conforme,,FAUX
+DOS51679,45209,AGT-25,5.8,FAUX,4.0,42.94,Email,Relevé compteur,TRUE,0,Conforme,,FAUX
+DOS51680,45099,AGT-19,7.2,FALSE,4.0,35.87,Chat,Réclamation,TRUE,0,Conforme,,VRAI
+DOS51681,44935,AGT-19,3.2,TRUE,5.0,16.68,Téléphone,Souscription contrat,TRUE,0,Conforme,,VRAI
+DOS51682,44986,AGT-03,5.0,FALSE,3.0,43.58,Chat,Relevé compteur,FALSE,1,Conforme,,FAUX
+DOS51683,45004,AGT-25,6.7,TRUE,4.0,33.54,Téléphone,Relevé compteur,FALSE,0,NC,,FAUX
+DOS51684,45281,AGT-25,2.0,VRAI,3.0,20.62,Courrier,Déménagement,FALSE,0,Conforme,6.0,VRAI
+DOS51685,45003,AGT-08,6.9,TRUE,2.0,35.33,Email,Changement d'offre,FALSE,0,,10.0,VRAI
+DOS51686,45161,AGT-11,1.1,VRAI,5.0,40.92,Courrier,Résiliation,TRUE,1,Conforme,8.0,VRAI
+DOS51687,45210,AGT-08,2.9,FAUX,4.0,41.69,Téléphone,Déménagement,FALSE,0,NC,,FAUX
+DOS51688,45221,AGT-07,4.9,FALSE,5.0,29.71,Chat,Facturation,TRUE,0,Conforme,,VRAI
+DOS51689,45112,AGT-11,4.5,VRAI,,16.17,Chat,Réclamation,TRUE,0,Conforme,,VRAI
+DOS51690,45087,AGT-07,4.3,FAUX,2.0,45.83,Chat,Litige paiement,FALSE,0,Conforme,6.0,FAUX
+DOS51691,45026,AGT-19,8.6,FALSE,3.0,51.71,Téléphone,Facturation,TRUE,0,Conforme,5.0,FAUX
+DOS51692,45080,AGT-11,2.7,TRUE,2.0,45.63,Téléphone,Facturation,TRUE,0,NC,7.0,FAUX
+DOS51693,44951,AGT-08,6.0,FAUX,5.0,53.1,Chat,Souscription contrat,TRUE,0,Non Conforme,10.0,VRAI
+DOS51694,44994,AGT-11,8.7,FALSE,5.0,26.51,Téléphone,Souscription contrat,TRUE,1,Conforme,7.0,FAUX
+DOS51695,44960,AGT-03,6.7,FAUX,4.0,28.41,Chat,Déménagement,FALSE,0,,8.0,VRAI
+DOS51696,45286,AGT-03,5.7,FAUX,3.0,39.05,Courrier,Réclamation,FALSE,0,Non Conforme,2.0,VRAI
+DOS51697,45111,AGT-25,5.5,TRUE,1.0,45.96,Courrier,Relevé compteur,FALSE,0,Conforme,,FAUX
+DOS51698,45025,AGT-19,4.2,FALSE,4.0,34.88,Email,Facturation,FALSE,0,Conforme,10.0,FAUX
+DOS51699,45187,AGT-19,4.1,FAUX,4.0,19.59,Courrier,Relevé compteur,FALSE,0,Conforme,7.0,FAUX
+DOS51700,45020,AGT-07,2.4,FAUX,4.0,46.04,Chat,Facturation,FALSE,0,Conforme,5.0,VRAI
+DOS51701,45033,AGT-19,7.0,VRAI,3.0,46.75,Courrier,Résiliation,TRUE,0,Conforme,10.0,VRAI
+DOS51702,45196,AGT-07,2.6,FAUX,4.0,39.81,Téléphone,Facturation,TRUE,0,Conforme,,FAUX
+DOS51703,45233,AGT-03,4.9,TRUE,5.0,54.69,Chat,Litige paiement,TRUE,0,NC,1.0,VRAI
+DOS51704,45048,AGT-19,4.4,TRUE,4.0,12.74,Chat,Déménagement,FALSE,0,NC,6.0,FAUX
+DOS51705,44990,AGT-08,5.4,VRAI,4.0,25.78,Téléphone,Déménagement,FALSE,0,Non Conforme,6.0,FAUX
+DOS51706,44945,AGT-07,6.3,FALSE,5.0,48.33,Téléphone,Souscription contrat,TRUE,0,Non Conforme,10.0,FAUX
+DOS51707,45217,AGT-03,4.2,FALSE,,23.12,Téléphone,Facturation,FALSE,0,Conforme,,FAUX
+DOS51708,45203,AGT-12,2.9,FAUX,5.0,51.06,Téléphone,Déménagement,FALSE,0,Conforme,,VRAI
+DOS51709,45252,AGT-08,3.7,FAUX,4.0,33.61,Courrier,Litige paiement,FALSE,0,Conforme,,FAUX
+DOS51710,45095,AGT-11,3.3,FALSE,3.0,39.13,Courrier,Déménagement,TRUE,0,Conforme,9.0,FAUX
+DOS51711,45177,AGT-12,8.8,VRAI,5.0,28.59,Email,Déménagement,FALSE,0,Conforme,0.0,FAUX
+DOS51712,45227,AGT-07,7.6,FALSE,3.0,37.42,Chat,Panne compteur,FALSE,0,,9.0,FAUX
+DOS51713,45143,AGT-11,2.3,FAUX,2.0,24.62,Courrier,Relevé compteur,TRUE,0,Conforme,8.0,VRAI
+DOS51714,45124,AGT-19,4.4,VRAI,5.0,29.85,Téléphone,Souscription contrat,TRUE,0,Conforme,,VRAI
+DOS51715,45278,AGT-11,3.2,TRUE,,39.03,Email,Résiliation,FALSE,1,NC,,VRAI
+DOS51716,45233,AGT-08,3.7,FAUX,3.0,33.6,Téléphone,Résiliation,FALSE,0,Conforme,,FAUX
+DOS51717,45033,AGT-25,4.0,VRAI,3.0,30.48,Courrier,Relevé compteur,FALSE,0,,9.0,FAUX
+DOS51718,45288,AGT-25,3.4,VRAI,5.0,37.56,Email,Demande d'information,TRUE,0,,,VRAI
+DOS51719,45275,AGT-25,6.8,FALSE,4.0,50.01,Chat,Demande d'information,TRUE,1,Conforme,6.0,FAUX
+DOS51720,45180,AGT-12,5.7,TRUE,1.0,22.08,Chat,Réclamation,TRUE,0,Non Conforme,4.0,FAUX
+DOS51721,45148,AGT-25,5.5,TRUE,5.0,20.5,Courrier,Demande d'information,FALSE,0,Conforme,6.0,FAUX
+DOS51722,44963,AGT-03,7.8,VRAI,2.0,51.89,Téléphone,Souscription contrat,TRUE,0,Conforme,,VRAI
+DOS51723,45126,AGT-25,6.7,FALSE,,39.81,Email,Déménagement,TRUE,0,Conforme,3.0,VRAI
+DOS51724,45009,AGT-08,5.1,TRUE,4.0,27.05,Téléphone,Souscription contrat,TRUE,0,Conforme,,FAUX
+DOS51725,45076,AGT-11,5.6,TRUE,3.0,35.35,Courrier,Demande d'information,FALSE,0,Conforme,7.0,VRAI
+DOS51726,45076,AGT-08,7.0,FALSE,3.0,44.12,Email,Facturation,FALSE,0,Conforme,,FAUX
+DOS51727,45054,AGT-07,6.9,FAUX,5.0,26.84,Courrier,Panne compteur,TRUE,0,Conforme,7.0,FAUX
+DOS51728,45265,AGT-19,0.8,TRUE,3.0,12.69,Courrier,Résiliation,TRUE,1,Conforme,8.0,FAUX
+DOS51729,45211,AGT-11,5.9,FAUX,,36.19,Téléphone,Résiliation,TRUE,0,Conforme,8.0,VRAI
+DOS51730,45234,AGT-07,5.2,TRUE,5.0,54.27,Courrier,Panne compteur,TRUE,0,Conforme,,FAUX
+DOS51731,44950,AGT-25,6.4,FAUX,3.0,14.49,Email,Changement d'offre,FALSE,0,Conforme,8.0,FAUX
+DOS51732,45050,AGT-19,1.6,FALSE,5.0,48.27,Courrier,Demande d'information,FALSE,0,Conforme,,FAUX
+DOS51733,45061,AGT-03,7.2,VRAI,,27.53,Email,Litige paiement,FALSE,0,,9.0,FAUX
+DOS51734,44973,AGT-12,6.5,VRAI,3.0,28.11,Courrier,Facturation,FALSE,0,Conforme,,FAUX
+DOS51735,45271,AGT-19,4.3,FAUX,3.0,12.72,Téléphone,Déménagement,FALSE,0,Conforme,,VRAI
+DOS51736,45157,AGT-12,8.4,FAUX,5.0,22.94,Téléphone,Changement d'offre,TRUE,0,Conforme,,FAUX
+DOS51737,45270,AGT-19,2.9,FAUX,4.0,30.58,Courrier,Litige paiement,FALSE,0,Conforme,8.0,FAUX
+DOS51738,45202,AGT-19,5.4,VRAI,1.0,44.52,Email,Relevé compteur,FALSE,0,NC,,VRAI
+DOS51739,44992,AGT-11,4.0,VRAI,5.0,29.77,Email,Demande d'information,TRUE,0,Conforme,,FAUX
+DOS51740,45071,AGT-12,3.6,VRAI,4.0,20.68,Email,Réclamation,TRUE,0,Conforme,,VRAI
+DOS51741,45106,AGT-07,4.9,FALSE,4.0,18.65,Email,Résiliation,TRUE,1,Non Conforme,,FAUX
+DOS51742,45061,AGT-12,10.7,FAUX,,52.8,Chat,Changement d'offre,TRUE,0,Conforme,,VRAI
+DOS51743,44965,AGT-19,1.7,FALSE,5.0,15.15,Téléphone,Réclamation,FALSE,0,Conforme,,VRAI
+DOS51744,44937,AGT-11,0.0,FALSE,5.0,34.2,Email,Relevé compteur,TRUE,0,Conforme,,FAUX
+DOS51745,45162,AGT-03,10.1,TRUE,4.0,49.55,Email,Changement d'offre,TRUE,0,Conforme,5.0,VRAI
+DOS51746,45089,AGT-08,2.9,FALSE,5.0,12.76,Chat,Résiliation,TRUE,1,Non Conforme,10.0,VRAI
+DOS51747,45096,AGT-12,7.8,TRUE,5.0,22.81,Chat,Résiliation,FALSE,0,Conforme,9.0,VRAI
+DOS51748,44941,AGT-11,7.1,TRUE,1.0,19.42,Courrier,Litige paiement,TRUE,0,NC,,VRAI
+DOS51749,45126,AGT-11,2.1,FAUX,5.0,29.76,Téléphone,Réclamation,TRUE,0,Conforme,10.0,FAUX
+DOS51750,45042,AGT-03,-0.5,TRUE,4.0,53.88,Courrier,Changement d'offre,TRUE,0,Conforme,,FAUX
+DOS51751,45252,AGT-12,2.7,TRUE,5.0,13.96,Chat,Panne compteur,TRUE,1,NC,,VRAI
+DOS51752,44944,AGT-12,5.4,FALSE,4.0,46.22,Courrier,Réclamation,TRUE,0,NC,8.0,FAUX
+DOS51753,45161,AGT-12,6.4,FALSE,2.0,30.51,Chat,Réclamation,FALSE,0,,,FAUX
+DOS51754,44981,AGT-25,7.3,VRAI,4.0,50.53,Chat,Souscription contrat,FALSE,1,Non Conforme,10.0,FAUX
+DOS51755,44971,AGT-25,4.9,TRUE,4.0,22.26,Téléphone,Souscription contrat,FALSE,0,Conforme,7.0,VRAI
+DOS51756,45065,AGT-12,0.0,VRAI,4.0,50.71,Courrier,Panne compteur,FALSE,0,Conforme,,FAUX
+DOS51757,45195,AGT-07,2.3,FALSE,2.0,25.86,Email,Déménagement,FALSE,0,Non Conforme,5.0,FAUX
+DOS51758,45211,AGT-07,7.8,FAUX,4.0,45.48,Courrier,Déménagement,TRUE,0,Conforme,7.0,FAUX
+DOS51759,45264,AGT-11,7.1,FALSE,1.0,36.25,Email,Déménagement,FALSE,0,NC,,VRAI
+DOS51760,45250,AGT-12,6.0,VRAI,5.0,38.29,Courrier,Changement d'offre,TRUE,0,Conforme,9.0,VRAI
+DOS51761,45268,AGT-07,5.0,FAUX,5.0,43.33,Email,Déménagement,FALSE,0,Non Conforme,9.0,FAUX
+DOS51762,45106,AGT-03,7.8,TRUE,5.0,23.09,Courrier,Souscription contrat,TRUE,0,Conforme,0.0,FAUX
+DOS51763,45228,AGT-08,2.8,FALSE,5.0,22.54,Email,Réclamation,TRUE,0,Conforme,4.0,VRAI
+DOS51764,44937,AGT-11,5.6,FALSE,4.0,41.38,Téléphone,Réclamation,FALSE,0,Conforme,3.0,VRAI
+DOS51765,45025,AGT-08,8.8,TRUE,5.0,23.59,Email,Changement d'offre,TRUE,0,Conforme,5.0,FAUX
+DOS51766,45128,AGT-07,2.8,FALSE,,37.67,Téléphone,Litige paiement,TRUE,0,Non Conforme,,VRAI
+DOS51767,45231,AGT-08,9.4,TRUE,4.0,24.51,Courrier,Litige paiement,TRUE,0,Non Conforme,,FAUX
+DOS51768,45186,AGT-19,7.0,VRAI,4.0,23.18,Chat,Panne compteur,FALSE,0,Conforme,8.0,FAUX
+DOS51769,45275,AGT-08,6.4,FALSE,3.0,24.93,Chat,Résiliation,TRUE,0,Non Conforme,9.0,FAUX
+DOS51770,45124,AGT-12,7.7,FAUX,,42.28,Courrier,Relevé compteur,TRUE,0,Conforme,,FAUX
+DOS51771,45257,AGT-11,7.3,TRUE,,41.36,Email,Facturation,TRUE,0,,0.0,VRAI
+DOS51772,45228,AGT-03,2.1,VRAI,4.0,22.96,Courrier,Souscription contrat,TRUE,0,Conforme,,FAUX
+DOS51773,45131,AGT-08,2.1,FALSE,5.0,18.74,Email,Facturation,TRUE,1,Conforme,6.0,FAUX
+DOS51774,44986,AGT-11,4.0,FAUX,4.0,52.33,Chat,Litige paiement,TRUE,0,Conforme,,VRAI
+DOS51775,44942,AGT-08,5.8,FALSE,,47.55,Chat,Demande d'information,FALSE,1,Conforme,,FAUX
+DOS51776,45095,AGT-11,7.4,FAUX,2.0,18.8,Chat,Litige paiement,TRUE,0,Conforme,8.0,FAUX
+DOS51777,45215,AGT-25,4.6,VRAI,4.0,12.93,Email,Panne compteur,FALSE,0,Conforme,,VRAI
+DOS51778,45224,AGT-19,3.6,TRUE,,40.98,Téléphone,Panne compteur,TRUE,0,Conforme,,FAUX
+DOS51779,44967,AGT-07,6.8,VRAI,4.0,13.86,Email,Relevé compteur,FALSE,0,Conforme,7.0,FAUX
+DOS51780,45083,AGT-19,4.5,FALSE,5.0,41.99,Téléphone,Résiliation,TRUE,0,Conforme,,FAUX
+DOS51781,44930,AGT-07,0.0,TRUE,4.0,21.65,Email,Facturation,TRUE,0,NC,,FAUX
+DOS51782,45078,AGT-08,5.1,FALSE,3.0,19.28,Email,Litige paiement,TRUE,0,Conforme,,VRAI
+DOS51783,44927,AGT-11,3.7,TRUE,5.0,43.37,Email,Déménagement,FALSE,0,Conforme,,VRAI
+DOS51784,45230,AGT-07,3.8,TRUE,5.0,36.4,Téléphone,Facturation,TRUE,0,Conforme,5.0,VRAI
+DOS51785,44964,AGT-08,2.8,TRUE,5.0,24.25,Email,Changement d'offre,TRUE,1,Conforme,,VRAI
+DOS51786,45186,AGT-19,7.5,FALSE,4.0,19.71,Courrier,Résiliation,TRUE,0,Conforme,10.0,FAUX
+DOS51787,45112,AGT-11,4.3,FALSE,5.0,15.53,Chat,Facturation,FALSE,1,NC,7.0,FAUX
+DOS51788,44948,AGT-25,3.6,TRUE,5.0,35.33,Courrier,Demande d'information,TRUE,0,Conforme,,FAUX
+DOS51789,45231,AGT-03,1.6,VRAI,4.0,28.01,Email,Changement d'offre,FALSE,0,Conforme,,FAUX
+DOS51790,45217,AGT-19,1.3,FALSE,5.0,39.85,Téléphone,Réclamation,TRUE,0,NC,7.0,VRAI
+DOS51791,45118,AGT-03,2.9,TRUE,5.0,53.55,Téléphone,Souscription contrat,FALSE,0,Conforme,5.0,FAUX
+DOS51792,44980,AGT-12,5.8,FAUX,5.0,25.0,Email,Panne compteur,TRUE,0,Conforme,,FAUX
+DOS51793,45225,AGT-07,5.2,TRUE,4.0,13.33,Courrier,Résiliation,TRUE,0,Conforme,7.0,VRAI
+DOS51794,45029,AGT-11,4.5,FALSE,,25.6,Email,Réclamation,FALSE,0,Conforme,7.0,FAUX
+DOS51795,45181,AGT-07,2.9,FAUX,3.0,16.17,Téléphone,Relevé compteur,TRUE,0,Non Conforme,,FAUX
+DOS51796,45054,AGT-07,1.4,VRAI,1.0,17.27,Courrier,Souscription contrat,TRUE,0,Conforme,7.0,FAUX
+DOS51797,45093,AGT-08,3.6,TRUE,5.0,24.73,Chat,Souscription contrat,TRUE,1,Conforme,9.0,FAUX
+DOS51798,45188,AGT-11,4.5,FAUX,5.0,42.7,Téléphone,Litige paiement,FALSE,0,Non Conforme,7.0,VRAI
+DOS51799,45223,AGT-25,6.5,TRUE,,38.32,Email,Déménagement,FALSE,0,Conforme,,VRAI
+DOS50266,45175,AGT-11,4.4,VRAI,2.0,43.41,Email,Changement d'offre,FALSE,0,Conforme,,VRAI
+DOS50356,45026,AGT-12,3.4,FALSE,,13.97,Chat,Réclamation,FALSE,0,NC,7.0,VRAI
+DOS50221,45079,AGT-12,9.7,VRAI,5.0,26.37,Courrier,Demande d'information,TRUE,0,NC,8.0,FAUX
+DOS51242,45212,AGT-03,0.8,TRUE,5.0,36.84,Téléphone,Déménagement,FALSE,0,Conforme,,VRAI
+DOS51154,45069,AGT-07,7.4,FALSE,5.0,29.84,Courrier,Demande d'information,TRUE,0,Conforme,8.0,VRAI
+DOS50602,45271,AGT-11,7.5,FALSE,5.0,21.16,Courrier,Souscription contrat,FALSE,0,Conforme,,VRAI
+DOS50667,45032,AGT-07,6.7,FALSE,5.0,37.66,Email,Réclamation,FALSE,0,,,FAUX
+DOS51669,45021,AGT-07,3.0,TRUE,5.0,53.61,Courrier,Changement d'offre,FALSE,0,Conforme,,VRAI
+DOS51721,45148,AGT-25,5.5,TRUE,5.0,20.5,Courrier,Demande d'information,FALSE,0,Conforme,6.0,FAUX
+DOS51219,44985,AGT-08,4.0,FAUX,5.0,12.45,Email,Litige paiement,FALSE,0,Conforme,,VRAI
+DOS50318,45179,AGT-12,2.7,TRUE,4.0,27.31,Chat,Réclamation,TRUE,0,,8.0,FAUX
+DOS50420,44933,AGT-25,5.4,FALSE,3.0,49.11,Email,Panne compteur,TRUE,0,Conforme,8.0,VRAI
+DOS51414,45169,AGT-19,3.4,TRUE,5.0,13.12,Chat,Relevé compteur,TRUE,0,Conforme,7.0,FAUX
+DOS50713,45283,AGT-11,5.9,VRAI,4.0,23.42,Chat,Facturation,TRUE,0,Non Conforme,8.0,VRAI
+DOS51116,45181,AGT-11,6.0,TRUE,4.0,26.3,Courrier,Souscription contrat,TRUE,0,Conforme,4.0,FAUX

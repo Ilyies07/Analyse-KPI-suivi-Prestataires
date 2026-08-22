@@ -1,0 +1,2119 @@
+﻿N_Contact,Date,Agent_ID,Handling_Time_Sec,Status,Rating,Billed_Amount,Channel,Topic,Handled,Repeat_Call,Compliance,NPS_Score,Complaint
+CNT-70000,12/01/2023,103,109,Resolved,3.0,24.13,Social Media,Résiliation,Yes,Yes,Compliant,,No
+CNT-70001,02/14/2023,108,217,Resolved,5.0,33.28,Phone,Changement d'offre,Yes,No,Non-compliant,10.0,No
+CNT-70002,11/08/2023,108,142,Resolved,,13.77,Social Media,Souscription contrat,Yes,Yes,N/A,10.0,No
+CNT-70003,11/11/2023,105,198,resolved,2.0,45.07,Social Media,Panne compteur,Yes,No,Compliant,9.0,No
+CNT-70004,10/09/2023,101,464,Resolved,4.0,29.11,Chat,Résiliation,Yes,No,Compliant,5.0,No
+CNT-70005,10/05/2023,102,162,resolved,5.0,44.78,Social Media,Réclamation,yes,Yes,N/A,,No
+CNT-70006,09/15/2023,108,145,resolved,4.0,46.91,Phone,Résiliation,Yes,No,Compliant,8.0,No
+CNT-70007,05/25/2023,109,539,Unresolved,2.0,38.51,Social Media,Souscription contrat,Yes,Yes,N/A,4.0,No
+CNT-70008,06/22/2023,101,313,Resolved,3.0,31.35,Phone,Souscription contrat,Yes,Yes,Compliant,10.0,Yes
+CNT-70009,10/27/2023,102,305,Resolved,5.0,31.73,Chat,Demande d'information,Yes,No,Compliant,,No
+CNT-70010,12/12/2023,108,166,Resolved,,36.89,Email,Changement d'offre,Yes,No,N/A,,No
+CNT-70011,10/14/2023,104,461,Pending,2.0,13.45,Chat,Litige paiement,Yes,No,N/A,,No
+CNT-70012,11/06/2023,101,114,Pending,5.0,15.6,Chat,Litige paiement,Yes,No,Compliant,8.0,No
+CNT-70013,11/10/2023,103,363,resolved,,25.78,Chat,Relevé compteur,Yes,No,Compliant,,No
+CNT-70014,01/17/2023,101,378,resolved,2.0,24.69,Social Media,Réclamation,Yes,Yes,Compliant,,No
+CNT-70015,04/10/2023,104,403,Pending,5.0,34.14,phone,Réclamation,Yes,No,Non-compliant,10.0,No
+CNT-70016,12/27/2023,106,N/A,Unresolved,4.0,31.39,Chat,Panne compteur,Yes,No,Non-compliant,10.0,No
+CNT-70017,02/13/2023,102,N/A,Pending,4.0,35.71,Social Media,Demande d'information,No,No,Compliant,,No
+CNT-70018,08/01/2023,108,285,resolved,4.0,11.24,Email,Réclamation,Yes,Yes,Non-compliant,4.0,No
+CNT-70019,05/29/2023,102,260,resolved,5.0,29.13,Email,Changement d'offre,Yes,No,Compliant,,Yes
+CNT-70020,04/26/2023,106,153,Pending,3.0,48.51,Social Media,Litige paiement,Yes,No,Compliant,8.0,No
+CNT-70021,06/14/2023,103,223,Pending,,47.82,Social Media,Panne compteur,Yes,Yes,Compliant,,No
+CNT-70022,03/29/2023,108,379,Resolved,,30.88,Email,Panne compteur,No,No,Compliant,10.0,No
+CNT-70023,08/08/2023,103,120,Unresolved,5.0,42.44,Chat,Déménagement,No,No,Compliant,3.0,No
+CNT-70024,02/18/2023,103,338,resolved,4.0,29.9,Email,Souscription contrat,,No,Compliant,,No
+CNT-70025,03/15/2023,102,343,resolved,1.0,46.02,Phone,Litige paiement,No,No,Non-compliant,,No
+CNT-70026,02/20/2023,102,265,Unresolved,3.0,33.93,Email,Réclamation,Yes,No,Compliant,,No
+CNT-70027,04/06/2023,102,349,Resolved,5.0,49.86,Chat,Déménagement,Yes,No,Compliant,7.0,No
+CNT-70028,05/08/2023,106,155,Resolved,1.0,16.49,phone,Souscription contrat,Yes,No,Non-compliant,,Yes
+CNT-70029,02/09/2023,103,140,Resolved,5.0,45.73,Social Media,Souscription contrat,Yes,No,Compliant,10.0,No
+CNT-70030,11/11/2023,102,213,Pending,5.0,49.25,Email,Relevé compteur,Yes,Yes,Compliant,5.0,No
+CNT-70031,04/03/2023,109,N/A,Resolved,4.0,38.97,phone,Facturation,Yes,No,Non-compliant,7.0,No
+CNT-70032,08/12/2023,103,452,Unresolved,4.0,31.26,Chat,Relevé compteur,Yes,Yes,Compliant,5.0,No
+CNT-70033,07/25/2023,109,N/A,Unresolved,5.0,36.33,Chat,Relevé compteur,Yes,No,Compliant,10.0,No
+CNT-70034,05/03/2023,104,214,Pending,3.0,43.8,Social Media,Facturation,Yes,No,Non-compliant,4.0,No
+CNT-70035,12/19/2023,103,374,Resolved,5.0,15.68,Chat,Réclamation,Yes,No,Compliant,5.0,No
+CNT-70036,09/27/2023,107,126,resolved,4.0,42.02,Chat,Demande d'information,Yes,No,Compliant,,No
+CNT-70037,04/29/2023,106,109,Unresolved,2.0,35.78,Phone,Déménagement,No,No,Compliant,8.0,No
+CNT-70038,06/12/2023,107,454,resolved,2.0,11.16,Chat,Déménagement,Yes,No,Compliant,8.0,No
+CNT-70039,02/10/2023,103,179,resolved,3.0,16.39,Social Media,Changement d'offre,Yes,Yes,Compliant,,No
+CNT-70040,08/31/2023,103,406,resolved,5.0,40.74,Phone,Facturation,Yes,No,N/A,6.0,No
+CNT-70041,10/31/2023,107,391,resolved,5.0,25.52,Chat,Demande d'information,Yes,No,Compliant,,No
+CNT-70042,08/17/2023,104,354,resolved,3.0,48.5,phone,Demande d'information,No,No,Compliant,8.0,No
+CNT-70043,07/26/2023,105,374,Pending,,17.82,Email,Changement d'offre,Yes,Yes,Compliant,9.0,No
+CNT-70044,04/09/2023,107,476,Pending,,49.94,Email,Facturation,No,No,Compliant,,No
+CNT-70045,04/15/2023,104,370,resolved,5.0,17.25,Social Media,Panne compteur,Yes,Yes,Non-compliant,,No
+CNT-70046,11/12/2023,109,46,Unresolved,5.0,30.56,Chat,Souscription contrat,Yes,No,Compliant,9.0,No
+CNT-70047,12/30/2023,104,292,resolved,2.0,18.52,phone,Panne compteur,Yes,No,Non-compliant,,No
+CNT-70048,08/07/2023,105,269,resolved,2.0,22.77,Social Media,Déménagement,Yes,No,Compliant,7.0,No
+CNT-70049,04/26/2023,106,201,Pending,4.0,16.46,Email,Réclamation,Yes,No,Compliant,8.0,No
+CNT-70050,02/13/2023,104,226,Unresolved,1.0,47.97,phone,Résiliation,No,No,Non-compliant,,No
+CNT-70051,12/29/2023,106,246,Unresolved,4.0,32.83,Email,Relevé compteur,Yes,No,Compliant,10.0,No
+CNT-70052,03/17/2023,106,228,Resolved,4.0,,Email,Changement d'offre,Yes,No,Compliant,0.0,No
+CNT-70053,10/29/2023,109,387,Unresolved,4.0,46.04,Chat,Panne compteur,Yes,No,N/A,7.0,No
+CNT-70054,08/29/2023,107,527,Unresolved,4.0,29.16,Social Media,Déménagement,No,No,Compliant,,No
+CNT-70055,10/15/2023,106,199,Pending,2.0,39.06,Social Media,Panne compteur,Yes,No,Non-compliant,7.0,No
+CNT-70056,05/31/2023,106,94,Unresolved,4.0,14.97,Social Media,Panne compteur,No,No,N/A,,No
+CNT-70057,04/23/2023,104,308,resolved,4.0,33.85,phone,Litige paiement,Yes,No,Non-compliant,,Yes
+CNT-70058,08/13/2023,102,N/A,Pending,5.0,25.22,phone,Réclamation,Yes,No,Compliant,,No
+CNT-70059,04/03/2023,106,257,Unresolved,5.0,30.11,phone,Facturation,Yes,No,N/A,8.0,No
+CNT-70060,04/30/2023,103,365,resolved,5.0,35.59,Email,Relevé compteur,Yes,No,Compliant,9.0,No
+CNT-70061,06/21/2023,109,210,Unresolved,4.0,20.89,phone,Résiliation,Yes,No,Compliant,,No
+CNT-70062,04/21/2023,106,257,resolved,4.0,29.43,Email,Déménagement,Yes,No,Compliant,9.0,No
+CNT-70063,05/24/2023,101,381,resolved,,49.04,phone,Réclamation,Yes,Yes,Compliant,,No
+CNT-70064,07/19/2023,103,244,Pending,2.0,14.76,phone,Litige paiement,Yes,No,Compliant,8.0,No
+CNT-70065,01/21/2023,108,308,resolved,2.0,22.35,Phone,Demande d'information,Yes,Yes,Compliant,9.0,No
+CNT-70066,02/24/2023,104,320,resolved,3.0,44.73,Social Media,Résiliation,Yes,No,Compliant,8.0,No
+CNT-70067,12/28/2023,102,245,Unresolved,,29.97,Email,Demande d'information,Yes,No,Compliant,,No
+CNT-70068,01/03/2023,107,248,resolved,3.0,17.84,Phone,Facturation,No,No,Compliant,5.0,No
+CNT-70069,07/13/2023,105,261,Resolved,5.0,10.02,Phone,Résiliation,Yes,No,Compliant,3.0,No
+CNT-70070,12/11/2023,106,200,Pending,5.0,44.63,phone,Litige paiement,Yes,Yes,Compliant,,No
+CNT-70071,03/26/2023,104,303,Unresolved,5.0,35.38,Social Media,Réclamation,yes,No,Compliant,,No
+CNT-70072,06/19/2023,102,202,Resolved,4.0,34.73,Chat,Demande d'information,Yes,No,Compliant,0.0,Yes
+CNT-70073,09/24/2023,104,214,resolved,5.0,45.93,phone,Déménagement,No,No,N/A,,No
+CNT-70074,07/29/2023,104,169,resolved,4.0,33.08,Phone,Litige paiement,Yes,No,Compliant,10.0,No
+CNT-70075,11/10/2023,101,390,Pending,3.0,21.74,Social Media,Souscription contrat,No,Yes,N/A,6.0,No
+CNT-70076,08/03/2023,104,133,resolved,,34.34,Chat,Relevé compteur,Yes,No,Compliant,,No
+CNT-70077,01/25/2023,109,448,Unresolved,4.0,23.01,Phone,Changement d'offre,Yes,No,Compliant,6.0,Yes
+CNT-70078,01/10/2023,109,251,resolved,4.0,47.15,phone,Souscription contrat,Yes,No,Non-compliant,10.0,No
+CNT-70079,02/25/2023,107,223,Unresolved,4.0,34.68,Chat,Demande d'information,Yes,Yes,Non-compliant,,No
+CNT-70080,02/17/2023,105,169,resolved,3.0,21.18,Social Media,Litige paiement,Yes,Yes,Compliant,9.0,No
+CNT-70081,04/17/2023,109,178,resolved,1.0,32.67,Social Media,Demande d'information,Yes,No,Compliant,,No
+CNT-70082,09/20/2023,102,201,Pending,5.0,38.42,Phone,Panne compteur,Yes,No,Compliant,4.0,No
+CNT-70083,02/28/2023,103,564,resolved,4.0,21.98,Social Media,Panne compteur,Yes,No,Compliant,6.0,No
+CNT-70084,12/22/2023,104,201,Unresolved,5.0,41.09,Phone,Facturation,No,No,Compliant,9.0,No
+CNT-70085,04/20/2023,102,310,resolved,4.0,36.22,phone,Facturation,Yes,No,Compliant,10.0,No
+CNT-70086,11/26/2023,103,239,Unresolved,,36.35,phone,Panne compteur,Yes,No,Compliant,10.0,No
+CNT-70087,09/14/2023,107,458,Unresolved,4.0,12.27,Email,Litige paiement,Yes,No,Compliant,6.0,No
+CNT-70088,01/20/2023,108,284,Pending,4.0,39.32,Social Media,Déménagement,Yes,Yes,Compliant,10.0,Yes
+CNT-70089,12/22/2023,109,147,Unresolved,2.0,12.13,Social Media,Réclamation,Yes,No,Compliant,6.0,No
+CNT-70090,08/06/2023,107,216,Unresolved,4.0,39.4,Social Media,Facturation,Yes,No,Compliant,9.0,No
+CNT-70091,06/23/2023,107,504,Pending,3.0,22.46,phone,Réclamation,Yes,No,N/A,,No
+CNT-70092,02/27/2023,105,345,Pending,3.0,48.18,Social Media,Résiliation,Yes,No,N/A,,No
+CNT-70093,03/26/2023,104,258,Unresolved,4.0,47.01,Phone,Déménagement,Yes,No,Compliant,,No
+CNT-70094,09/16/2023,108,173,Unresolved,,21.2,phone,Changement d'offre,Yes,Yes,Compliant,,No
+CNT-70095,11/13/2023,101,183,Pending,3.0,27.09,Phone,Résiliation,Yes,No,Compliant,8.0,No
+CNT-70096,03/07/2023,101,159,Resolved,5.0,34.45,phone,Changement d'offre,No,No,Compliant,10.0,No
+CNT-70097,04/25/2023,107,111,Pending,5.0,40.26,Email,Déménagement,Yes,Yes,Compliant,10.0,No
+CNT-70098,08/20/2023,104,338,resolved,4.0,10.32,Social Media,Litige paiement,Yes,No,Compliant,,No
+CNT-70099,04/29/2023,104,318,Unresolved,5.0,10.96,Social Media,Panne compteur,Yes,No,Compliant,,No
+CNT-70100,06/22/2023,103,276,Unresolved,,32.7,Email,Réclamation,Yes,No,Compliant,7.0,No
+CNT-70101,07/18/2023,107,406,resolved,3.0,11.16,Email,Panne compteur,Yes,No,Compliant,,No
+CNT-70102,02/09/2023,104,334,resolved,4.0,44.23,phone,Réclamation,Yes,Yes,Compliant,8.0,No
+CNT-70103,11/24/2023,103,127,Pending,,46.6,phone,Changement d'offre,Yes,No,Compliant,,No
+CNT-70104,01/16/2023,104,569,Unresolved,,43.16,phone,Résiliation,Yes,No,Compliant,8.0,No
+CNT-70105,04/22/2023,105,262,Resolved,4.0,31.04,Phone,Changement d'offre,Yes,No,Non-compliant,9.0,No
+CNT-70106,06/14/2023,101,351,Pending,3.0,41.39,Chat,Relevé compteur,Yes,No,Compliant,,No
+CNT-70107,08/29/2023,108,263,resolved,1.0,46.27,Chat,Litige paiement,Yes,Yes,N/A,7.0,No
+CNT-70108,01/08/2023,107,273,Pending,4.0,43.54,Social Media,Résiliation,Yes,No,Compliant,1.0,No
+CNT-70109,08/02/2023,102,109,Resolved,4.0,13.56,Email,Panne compteur,Yes,No,Compliant,3.0,No
+CNT-70110,03/16/2023,109,204,Pending,4.0,42.13,Chat,Déménagement,No,No,Compliant,,No
+CNT-70111,05/02/2023,104,311,resolved,,34.09,Phone,Changement d'offre,No,No,Compliant,9.0,No
+CNT-70112,02/01/2023,103,247,Unresolved,5.0,36.96,phone,Réclamation,Yes,No,Compliant,,Yes
+CNT-70113,04/18/2023,101,121,Resolved,4.0,34.99,Social Media,Relevé compteur,Yes,No,Compliant,,No
+CNT-70114,03/15/2023,105,349,Resolved,4.0,30.29,Chat,Facturation,Yes,No,Non-compliant,10.0,No
+CNT-70115,05/14/2023,103,243,Unresolved,5.0,29.74,Email,Souscription contrat,Yes,No,Compliant,,No
+CNT-70116,06/20/2023,102,271,resolved,3.0,41.95,Chat,Litige paiement,Yes,Yes,Compliant,6.0,Yes
+CNT-70117,08/13/2023,107,128,Pending,4.0,17.83,Phone,Résiliation,Yes,No,Compliant,9.0,No
+CNT-70118,04/08/2023,106,99,Resolved,,40.15,Email,Réclamation,Yes,No,Non-compliant,7.0,No
+CNT-70119,12/02/2023,102,276,Resolved,3.0,32.14,phone,Panne compteur,Yes,No,Compliant,4.0,No
+CNT-70120,04/16/2023,106,391,resolved,,31.52,Phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-70121,06/13/2023,106,346,Pending,1.0,24.76,Phone,Facturation,Yes,No,Non-compliant,7.0,No
+CNT-70122,11/28/2023,108,330,Unresolved,,26.08,phone,Panne compteur,Yes,No,Compliant,10.0,No
+CNT-70123,09/18/2023,101,285,Unresolved,4.0,21.89,phone,Changement d'offre,Yes,No,Compliant,7.0,No
+CNT-70124,06/23/2023,104,143,Resolved,4.0,12.02,Phone,Facturation,Yes,No,Non-compliant,7.0,No
+CNT-70125,07/06/2023,109,58,Unresolved,,29.44,Social Media,Relevé compteur,No,No,Non-compliant,8.0,No
+CNT-70126,12/22/2023,103,522,Unresolved,4.0,23.88,phone,Panne compteur,Yes,Yes,Compliant,1.0,No
+CNT-70127,11/17/2023,103,243,Pending,5.0,34.14,phone,Litige paiement,Yes,No,Compliant,,No
+CNT-70128,07/23/2023,108,206,Resolved,,48.74,Chat,Litige paiement,Yes,Yes,Compliant,,No
+CNT-70129,09/25/2023,102,269,Unresolved,,37.94,Email,Demande d'information,Yes,No,N/A,7.0,No
+CNT-70130,02/02/2023,104,169,Unresolved,5.0,14.88,Phone,Changement d'offre,Yes,No,Compliant,7.0,No
+CNT-70131,07/11/2023,105,217,Resolved,,15.88,phone,Déménagement,Yes,No,Compliant,8.0,No
+CNT-70132,04/09/2023,108,445,Unresolved,5.0,42.95,Social Media,Litige paiement,Yes,No,N/A,,No
+CNT-70133,09/10/2023,104,297,Unresolved,3.0,41.45,phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-70134,08/25/2023,107,321,resolved,3.0,38.65,Email,Déménagement,Yes,No,Compliant,5.0,Yes
+CNT-70135,07/11/2023,102,251,Pending,,11.9,Email,Changement d'offre,No,No,Compliant,,No
+CNT-70136,02/27/2023,107,375,Unresolved,5.0,46.14,Email,Relevé compteur,Yes,No,Compliant,5.0,No
+CNT-70137,03/22/2023,106,372,Pending,3.0,24.29,Chat,Litige paiement,Yes,No,Non-compliant,10.0,Yes
+CNT-70138,12/03/2023,101,240,Unresolved,4.0,22.62,Social Media,Relevé compteur,Yes,No,Compliant,1.0,No
+CNT-70139,01/16/2023,105,263,Resolved,4.0,11.55,Phone,Relevé compteur,Yes,No,Compliant,6.0,No
+CNT-70140,12/11/2023,105,394,Unresolved,1.0,17.46,Chat,Panne compteur,Yes,Yes,Compliant,,No
+CNT-70141,06/18/2023,108,269,Pending,,30.63,Chat,Changement d'offre,Yes,No,Compliant,4.0,No
+CNT-70142,05/26/2023,102,229,Unresolved,4.0,29.95,Email,Changement d'offre,No,No,Compliant,,No
+CNT-70143,12/24/2023,105,235,Unresolved,4.0,12.25,Social Media,Relevé compteur,Yes,Yes,Compliant,10.0,No
+CNT-70144,12/20/2023,109,217,Resolved,2.0,13.38,phone,Facturation,Yes,No,Compliant,9.0,No
+CNT-70145,11/01/2023,106,267,Resolved,5.0,31.55,Email,Panne compteur,Yes,No,Compliant,7.0,No
+CNT-70146,06/17/2023,105,220,Pending,2.0,32.51,Email,Souscription contrat,No,No,Non-compliant,4.0,No
+CNT-70147,07/16/2023,109,267,Unresolved,4.0,43.38,phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-70148,10/04/2023,109,193,Unresolved,,33.29,Social Media,Relevé compteur,Yes,Yes,Compliant,,No
+CNT-70149,05/08/2023,102,299,Resolved,5.0,36.56,Email,Réclamation,Yes,No,Compliant,,No
+CNT-70150,02/23/2023,107,314,Pending,4.0,34.97,Email,Résiliation,Yes,No,Non-compliant,7.0,No
+CNT-70151,05/27/2023,101,332,resolved,5.0,36.82,Chat,Réclamation,Yes,Yes,Compliant,,No
+CNT-70152,05/08/2023,107,316,Resolved,,22.44,Phone,Facturation,Yes,No,Compliant,,No
+CNT-70153,10/18/2023,107,366,Unresolved,,,phone,Réclamation,Yes,No,Compliant,,No
+CNT-70154,04/30/2023,106,341,resolved,5.0,9.7,Chat,Réclamation,Yes,No,Compliant,,Yes
+CNT-70155,04/26/2023,103,234,resolved,4.0,37.65,phone,Demande d'information,Yes,No,Non-compliant,2.0,No
+CNT-70156,01/02/2023,109,262,Pending,2.0,49.75,Email,Résiliation,Yes,Yes,Compliant,10.0,No
+CNT-70157,06/29/2023,109,266,Resolved,3.0,37.19,Phone,Relevé compteur,Yes,Yes,Compliant,,No
+CNT-70158,11/06/2023,103,216,resolved,4.0,21.8,Social Media,Demande d'information,No,No,Compliant,,No
+CNT-70159,05/28/2023,106,85,resolved,3.0,20.01,phone,Litige paiement,Yes,No,N/A,9.0,No
+CNT-70160,04/09/2023,108,63,Pending,5.0,,Chat,Litige paiement,Yes,No,Compliant,10.0,No
+CNT-70161,04/18/2023,105,148,Unresolved,1.0,34.97,phone,Demande d'information,Yes,No,Compliant,,No
+CNT-70162,05/31/2023,104,201,Unresolved,4.0,17.76,phone,Facturation,Yes,No,Compliant,10.0,No
+CNT-70163,11/17/2023,101,350,Pending,3.0,36.34,phone,Souscription contrat,Yes,No,Non-compliant,,No
+CNT-70164,05/06/2023,102,328,Resolved,5.0,9.65,Chat,Demande d'information,Yes,No,Compliant,,No
+CNT-70165,09/28/2023,109,288,resolved,4.0,43.97,Email,Litige paiement,Yes,No,Compliant,7.0,No
+CNT-70166,09/06/2023,103,493,Resolved,4.0,12.75,Email,Déménagement,Yes,No,Compliant,,No
+CNT-70167,12/19/2023,104,300,Resolved,4.0,26.74,Chat,Relevé compteur,Yes,No,Compliant,5.0,No
+CNT-70168,02/15/2023,109,185,Unresolved,,29.67,Social Media,Litige paiement,No,No,N/A,,No
+CNT-70169,05/21/2023,102,177,resolved,3.0,42.31,Chat,Changement d'offre,Yes,No,Compliant,7.0,No
+CNT-70170,05/26/2023,109,316,Pending,4.0,31.12,Phone,Souscription contrat,Yes,No,Compliant,8.0,Yes
+CNT-70171,08/12/2023,103,411,resolved,4.0,26.52,Phone,Déménagement,Yes,No,Compliant,,No
+CNT-70172,01/30/2023,105,265,Pending,4.0,19.41,Chat,Résiliation,Yes,No,Compliant,8.0,No
+CNT-70173,02/05/2023,107,303,Pending,4.0,,Phone,Réclamation,Yes,No,Compliant,,No
+CNT-70174,04/22/2023,108,315,Unresolved,4.0,30.44,Chat,Résiliation,Yes,No,Compliant,8.0,No
+CNT-70175,06/25/2023,109,124,Unresolved,5.0,9.32,Chat,Résiliation,No,Yes,Compliant,,No
+CNT-70176,02/07/2023,104,312,resolved,5.0,36.14,Phone,Résiliation,Yes,No,Compliant,7.0,No
+CNT-70177,08/08/2023,101,345,resolved,4.0,11.82,Email,Panne compteur,Yes,Yes,Compliant,4.0,Yes
+CNT-70178,04/29/2023,105,317,resolved,4.0,44.37,phone,Panne compteur,Yes,No,Non-compliant,6.0,No
+CNT-70179,10/05/2023,107,241,Pending,5.0,20.71,Social Media,Souscription contrat,Yes,No,Compliant,,No
+CNT-70180,07/01/2023,108,242,Pending,4.0,23.59,Social Media,Litige paiement,Yes,No,Compliant,7.0,Yes
+CNT-70181,08/02/2023,102,140,resolved,5.0,36.97,Email,Demande d'information,Yes,No,Compliant,9.0,No
+CNT-70182,05/10/2023,103,250,Pending,5.0,,Phone,Déménagement,Yes,No,Compliant,7.0,No
+CNT-70183,02/01/2023,106,292,Pending,5.0,11.55,Social Media,Changement d'offre,No,Yes,Compliant,9.0,No
+CNT-70184,04/27/2023,102,273,Resolved,1.0,47.61,Phone,Demande d'information,Yes,No,Compliant,,No
+CNT-70185,01/25/2023,103,296,Pending,4.0,17.19,Chat,Changement d'offre,No,No,Compliant,,No
+CNT-70186,12/26/2023,103,258,Unresolved,3.0,27.48,Social Media,Litige paiement,Yes,No,Compliant,1.0,No
+CNT-70187,10/04/2023,107,201,Unresolved,5.0,22.59,phone,Relevé compteur,Yes,No,Non-compliant,7.0,No
+CNT-70188,11/15/2023,107,162,resolved,1.0,39.11,Chat,Réclamation,Yes,No,Non-compliant,,No
+CNT-70189,12/21/2023,102,306,Resolved,,38.81,Email,Facturation,No,No,Compliant,,Yes
+CNT-70190,07/01/2023,101,335,Resolved,5.0,15.85,phone,Relevé compteur,Yes,Yes,Compliant,,No
+CNT-70191,08/26/2023,106,246,resolved,4.0,19.96,Social Media,Relevé compteur,Yes,No,Compliant,,No
+CNT-70192,01/27/2023,102,109,Unresolved,4.0,15.72,Email,Changement d'offre,Yes,Yes,Compliant,7.0,No
+CNT-70193,12/06/2023,109,359,Unresolved,5.0,10.65,Email,Relevé compteur,Yes,No,Non-compliant,,No
+CNT-70194,10/16/2023,105,242,Pending,2.0,19.13,Social Media,Réclamation,Yes,No,Compliant,,No
+CNT-70195,11/14/2023,107,135,Resolved,4.0,19.62,phone,Panne compteur,Yes,Yes,Non-compliant,,No
+CNT-70196,04/19/2023,101,264,resolved,5.0,38.9,phone,Résiliation,Yes,Yes,Compliant,8.0,No
+CNT-70197,01/14/2023,109,366,Pending,3.0,10.46,Phone,Résiliation,Yes,No,Compliant,9.0,Yes
+CNT-70198,05/12/2023,106,225,resolved,4.0,16.64,phone,Litige paiement,Yes,No,N/A,8.0,No
+CNT-70199,09/10/2023,105,34,resolved,5.0,13.93,Phone,Réclamation,Yes,No,Compliant,,No
+CNT-70200,05/31/2023,107,237,Resolved,4.0,48.29,phone,Panne compteur,Yes,No,Compliant,,No
+CNT-70201,03/23/2023,107,197,Unresolved,,12.41,Email,Réclamation,Yes,No,Compliant,9.0,No
+CNT-70202,10/03/2023,108,281,Resolved,5.0,49.11,Phone,Litige paiement,Yes,No,Compliant,8.0,No
+CNT-70203,02/14/2023,108,266,Unresolved,5.0,28.32,Chat,Souscription contrat,Yes,No,N/A,,No
+CNT-70204,05/31/2023,105,217,resolved,,45.47,phone,Changement d'offre,Yes,No,Compliant,,No
+CNT-70205,11/21/2023,104,211,Unresolved,3.0,46.38,phone,Relevé compteur,Yes,No,Non-compliant,5.0,No
+CNT-70206,02/15/2023,102,398,Unresolved,3.0,39.34,phone,Relevé compteur,Yes,No,Compliant,2.0,No
+CNT-70207,08/08/2023,105,315,Pending,4.0,36.13,Email,Déménagement,Yes,Yes,Compliant,,No
+CNT-70208,06/22/2023,109,312,resolved,5.0,30.89,phone,Litige paiement,Yes,No,Compliant,7.0,No
+CNT-70209,11/19/2023,103,352,resolved,4.0,18.72,Phone,Litige paiement,Yes,No,Compliant,,No
+CNT-70210,02/23/2023,107,241,Pending,2.0,21.09,phone,Déménagement,Yes,No,Non-compliant,8.0,No
+CNT-70211,06/26/2023,107,427,resolved,2.0,41.88,Phone,Résiliation,Yes,No,N/A,,No
+CNT-70212,10/21/2023,105,297,Unresolved,5.0,15.78,Chat,Demande d'information,Yes,Yes,Compliant,8.0,No
+CNT-70213,05/07/2023,106,276,Unresolved,4.0,35.62,phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-70214,01/06/2023,106,296,resolved,3.0,13.08,Social Media,Facturation,Yes,No,Compliant,,No
+CNT-70215,11/18/2023,103,237,Pending,5.0,35.9,phone,Panne compteur,Yes,No,Compliant,0.0,No
+CNT-70216,01/28/2023,105,201,Resolved,4.0,48.12,Social Media,Réclamation,Yes,No,Compliant,,No
+CNT-70217,12/07/2023,102,377,Pending,3.0,43.88,Email,Souscription contrat,No,No,Non-compliant,,No
+CNT-70218,09/15/2023,107,154,resolved,4.0,45.49,Social Media,Souscription contrat,Yes,No,Compliant,,No
+CNT-70219,12/03/2023,104,162,Pending,4.0,48.65,Chat,Panne compteur,Yes,No,Compliant,,No
+CNT-70220,03/16/2023,108,254,resolved,4.0,31.48,Phone,Souscription contrat,Yes,Yes,Compliant,,Yes
+CNT-70221,08/10/2023,106,182,Pending,,12.81,Chat,Déménagement,No,No,Compliant,6.0,No
+CNT-70222,02/10/2023,104,109,Resolved,4.0,30.98,Phone,Litige paiement,Yes,No,Compliant,,No
+CNT-70223,12/10/2023,105,159,resolved,5.0,36.11,Phone,Facturation,Yes,No,Compliant,,No
+CNT-70224,09/24/2023,101,185,Resolved,5.0,42.33,Social Media,Déménagement,Yes,No,N/A,,No
+CNT-70225,04/06/2023,103,301,Pending,3.0,36.82,phone,Litige paiement,No,Yes,Compliant,7.0,No
+CNT-70226,04/03/2023,106,247,Pending,4.0,45.65,Chat,Litige paiement,Yes,No,Compliant,8.0,Yes
+CNT-70227,12/02/2023,102,357,Pending,5.0,44.5,Email,Demande d'information,yes,No,Compliant,,No
+CNT-70228,06/18/2023,108,56,Pending,3.0,47.25,Chat,Panne compteur,Yes,Yes,N/A,10.0,Yes
+CNT-70229,04/23/2023,104,154,Unresolved,5.0,38.32,Phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-70230,10/06/2023,102,168,Resolved,2.0,20.95,Chat,Panne compteur,Yes,No,Compliant,,No
+CNT-70231,11/24/2023,104,285,resolved,5.0,,Social Media,Litige paiement,Yes,No,Compliant,,No
+CNT-70232,07/05/2023,101,287,resolved,,39.09,phone,Déménagement,Yes,Yes,Compliant,0.0,No
+CNT-70233,12/30/2023,106,206,Unresolved,4.0,20.7,Email,Changement d'offre,Yes,No,Compliant,6.0,No
+CNT-70234,01/29/2023,104,231,Pending,4.0,9.89,phone,Souscription contrat,No,No,N/A,6.0,No
+CNT-70235,10/21/2023,101,73,Unresolved,3.0,41.36,phone,Déménagement,Yes,No,Non-compliant,8.0,No
+CNT-70236,07/28/2023,101,344,Resolved,5.0,41.91,Phone,Relevé compteur,Yes,No,Compliant,,No
+CNT-70237,10/05/2023,102,216,Resolved,5.0,36.12,Phone,Réclamation,yes,No,Compliant,,No
+CNT-70238,08/07/2023,109,278,resolved,4.0,27.24,phone,Souscription contrat,No,No,N/A,8.0,No
+CNT-70239,03/16/2023,109,56,Unresolved,3.0,22.89,Phone,Relevé compteur,Yes,No,Non-compliant,,No
+CNT-70240,03/25/2023,106,254,Resolved,4.0,43.14,phone,Facturation,No,No,Non-compliant,,No
+CNT-70241,05/09/2023,109,380,Pending,5.0,13.31,Phone,Relevé compteur,Yes,No,Compliant,2.0,No
+CNT-70242,08/28/2023,107,289,Pending,4.0,30.45,Phone,Relevé compteur,No,No,Non-compliant,,No
+CNT-70243,10/18/2023,107,N/A,resolved,5.0,17.83,Email,Demande d'information,Yes,No,Compliant,,No
+CNT-70244,07/07/2023,102,215,Pending,5.0,,Chat,Panne compteur,Yes,No,Compliant,,No
+CNT-70245,04/28/2023,107,283,Resolved,4.0,32.51,phone,Réclamation,Yes,Yes,Compliant,,No
+CNT-70246,11/19/2023,108,342,resolved,5.0,30.57,Chat,Relevé compteur,Yes,Yes,N/A,,No
+CNT-70247,04/19/2023,103,274,resolved,4.0,14.62,Email,Litige paiement,Yes,No,Compliant,7.0,No
+CNT-70248,06/12/2023,105,175,Pending,,17.36,Social Media,Souscription contrat,Yes,No,Non-compliant,7.0,No
+CNT-70249,02/02/2023,103,275,resolved,5.0,10.28,Email,Déménagement,Yes,No,Compliant,,No
+CNT-70250,02/06/2023,102,174,Resolved,2.0,28.25,Email,Facturation,Yes,No,Compliant,,No
+CNT-70251,09/01/2023,109,262,resolved,5.0,47.25,Chat,Litige paiement,No,No,Compliant,8.0,No
+CNT-70252,01/11/2023,106,220,Unresolved,3.0,18.19,Social Media,Résiliation,Yes,No,Compliant,,No
+CNT-70253,10/09/2023,103,280,Pending,1.0,36.62,Social Media,Résiliation,Yes,No,Compliant,8.0,No
+CNT-70254,12/13/2023,101,286,Resolved,,31.39,Social Media,Relevé compteur,No,No,N/A,8.0,No
+CNT-70255,04/27/2023,103,391,Resolved,5.0,48.27,Phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-70256,06/16/2023,103,323,resolved,3.0,23.51,phone,Résiliation,Yes,No,Compliant,6.0,No
+CNT-70257,01/08/2023,103,305,resolved,,31.73,Email,Relevé compteur,Yes,Yes,Compliant,8.0,No
+CNT-70258,08/01/2023,106,104,Pending,5.0,32.38,Phone,Résiliation,Yes,No,Compliant,8.0,No
+CNT-70259,04/01/2023,105,360,Resolved,4.0,18.7,phone,Demande d'information,Yes,No,Compliant,8.0,No
+CNT-70260,08/26/2023,106,224,Pending,3.0,39.31,Social Media,Litige paiement,Yes,No,N/A,0.0,No
+CNT-70261,04/10/2023,106,160,resolved,5.0,46.56,Email,Changement d'offre,Yes,Yes,Compliant,9.0,No
+CNT-70262,12/10/2023,108,471,resolved,4.0,13.22,Email,Litige paiement,Yes,No,Compliant,,No
+CNT-70263,11/11/2023,108,197,Resolved,3.0,46.08,Chat,Changement d'offre,Yes,No,Non-compliant,8.0,No
+CNT-70264,12/10/2023,103,404,Unresolved,5.0,41.57,Email,Réclamation,Yes,No,Compliant,,No
+CNT-70265,12/08/2023,102,295,Unresolved,4.0,19.52,Phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-70266,11/27/2023,102,316,Pending,5.0,12.68,Email,Changement d'offre,Yes,No,N/A,,No
+CNT-70267,08/04/2023,109,263,Resolved,4.0,37.01,Phone,Facturation,Yes,No,Compliant,8.0,No
+CNT-70268,01/12/2023,109,177,Pending,2.0,,Chat,Changement d'offre,Yes,Yes,Non-compliant,,No
+CNT-70269,08/07/2023,107,335,resolved,4.0,22.69,Chat,Demande d'information,No,No,Compliant,,No
+CNT-70270,07/17/2023,107,298,Pending,5.0,23.45,Email,Relevé compteur,Yes,No,Compliant,2.0,No
+CNT-70271,12/23/2023,106,360,Unresolved,4.0,12.15,Email,Changement d'offre,Yes,Yes,Compliant,,No
+CNT-70272,10/20/2023,106,342,Resolved,,46.42,phone,Facturation,Yes,No,Compliant,7.0,No
+CNT-70273,12/27/2023,103,352,resolved,5.0,38.95,Phone,Déménagement,Yes,No,Compliant,,No
+CNT-70274,08/26/2023,109,313,Unresolved,5.0,34.86,Email,Litige paiement,yes,Yes,Compliant,7.0,No
+CNT-70275,05/07/2023,108,331,Unresolved,5.0,26.51,phone,Panne compteur,Yes,Yes,Non-compliant,,Yes
+CNT-70276,02/27/2023,101,N/A,Resolved,4.0,25.33,phone,Panne compteur,Yes,No,Non-compliant,8.0,No
+CNT-70277,08/30/2023,102,332,Unresolved,3.0,12.42,Phone,Réclamation,Yes,No,Compliant,8.0,No
+CNT-70278,07/12/2023,104,297,resolved,4.0,,phone,Demande d'information,Yes,Yes,Compliant,,No
+CNT-70279,02/11/2023,106,79,resolved,3.0,20.3,Phone,Demande d'information,Yes,No,Compliant,8.0,No
+CNT-70280,03/07/2023,109,274,Pending,5.0,15.96,phone,Déménagement,Yes,No,Compliant,9.0,No
+CNT-70281,09/27/2023,103,108,Resolved,5.0,41.82,Email,Panne compteur,Yes,No,Compliant,,No
+CNT-70282,06/10/2023,104,529,resolved,4.0,15.04,phone,Demande d'information,Yes,No,N/A,8.0,No
+CNT-70283,05/31/2023,108,203,Resolved,4.0,22.31,Chat,Relevé compteur,Yes,No,N/A,8.0,No
+CNT-70284,11/30/2023,102,387,Pending,5.0,40.58,phone,Litige paiement,Yes,Yes,Compliant,8.0,No
+CNT-70285,07/05/2023,106,222,Unresolved,1.0,18.14,Social Media,Résiliation,Yes,No,Compliant,8.0,Yes
+CNT-70286,01/17/2023,106,121,Pending,4.0,49.52,Phone,Relevé compteur,Yes,Yes,Compliant,,No
+CNT-70287,05/23/2023,104,322,Unresolved,3.0,48.04,Chat,Panne compteur,Yes,No,Compliant,7.0,No
+CNT-70288,06/25/2023,109,438,resolved,2.0,41.86,Chat,Litige paiement,Yes,Yes,Compliant,1.0,No
+CNT-70289,12/07/2023,105,316,resolved,2.0,38.56,Phone,Déménagement,No,No,Compliant,6.0,No
+CNT-70290,11/26/2023,102,430,resolved,4.0,43.82,phone,Résiliation,Yes,No,Compliant,,No
+CNT-70291,08/03/2023,102,380,resolved,4.0,36.47,Phone,Demande d'information,,No,Compliant,,No
+CNT-70292,03/03/2023,109,171,Resolved,3.0,24.22,Social Media,Résiliation,Yes,No,Compliant,7.0,No
+CNT-70293,02/13/2023,101,337,resolved,,15.04,Chat,Changement d'offre,yes,No,Compliant,8.0,No
+CNT-70294,06/29/2023,102,-48,resolved,3.0,49.88,phone,Panne compteur,Yes,No,N/A,6.0,No
+CNT-70295,09/09/2023,108,300,Pending,,34.06,Chat,Résiliation,Yes,No,Compliant,,No
+CNT-70296,05/17/2023,105,195,Unresolved,3.0,43.09,Chat,Facturation,Yes,Yes,Compliant,,No
+CNT-70297,02/01/2023,104,371,Unresolved,5.0,34.22,Social Media,Facturation,Yes,No,Compliant,0.0,No
+CNT-70298,05/08/2023,104,151,Pending,5.0,31.49,phone,Relevé compteur,Yes,Yes,Compliant,10.0,No
+CNT-70299,03/21/2023,107,363,Resolved,5.0,35.0,Social Media,Litige paiement,Yes,No,Compliant,9.0,No
+CNT-70300,09/07/2023,105,339,Pending,3.0,45.83,Social Media,Litige paiement,Yes,No,Non-compliant,9.0,No
+CNT-70301,04/24/2023,103,276,resolved,4.0,48.81,phone,Souscription contrat,Yes,No,Compliant,6.0,No
+CNT-70302,05/24/2023,107,207,Resolved,1.0,26.52,Email,Facturation,Yes,No,Non-compliant,8.0,No
+CNT-70303,12/13/2023,107,336,resolved,,18.77,Email,Relevé compteur,Yes,No,Non-compliant,10.0,No
+CNT-70304,01/02/2023,104,82,Unresolved,4.0,40.23,Email,Litige paiement,Yes,No,N/A,,No
+CNT-70305,04/09/2023,107,189,resolved,,43.13,Email,Demande d'information,Yes,No,Compliant,8.0,No
+CNT-70306,09/10/2023,108,265,resolved,,27.92,Phone,Relevé compteur,No,No,Compliant,,Yes
+CNT-70307,11/18/2023,107,277,Resolved,4.0,21.52,Phone,Résiliation,Yes,No,N/A,,Yes
+CNT-70308,04/30/2023,104,191,Resolved,2.0,25.78,Email,Résiliation,yes,Yes,Compliant,8.0,No
+CNT-70309,03/15/2023,106,194,Unresolved,3.0,49.66,Social Media,Panne compteur,yes,No,N/A,,No
+CNT-70310,05/18/2023,101,319,Unresolved,5.0,23.45,Chat,Réclamation,No,No,Compliant,,No
+CNT-70311,03/05/2023,109,173,Pending,3.0,27.75,Chat,Résiliation,Yes,No,Compliant,,No
+CNT-70312,05/01/2023,109,230,Pending,3.0,13.23,Phone,Déménagement,Yes,No,Compliant,9.0,No
+CNT-70313,10/06/2023,101,151,Pending,4.0,30.85,phone,Souscription contrat,No,No,Non-compliant,,No
+CNT-70314,10/22/2023,104,270,Resolved,4.0,32.23,phone,Souscription contrat,,No,Compliant,,Yes
+CNT-70315,03/04/2023,106,245,Unresolved,2.0,38.68,Email,Déménagement,Yes,No,Compliant,9.0,Yes
+CNT-70316,11/04/2023,101,76,Resolved,4.0,13.03,Email,Panne compteur,Yes,No,Compliant,4.0,No
+CNT-70317,11/12/2023,104,133,Resolved,5.0,30.48,Phone,Facturation,Yes,Yes,Compliant,6.0,No
+CNT-70318,04/27/2023,108,-36,Pending,5.0,39.36,Chat,Litige paiement,Yes,No,Compliant,6.0,No
+CNT-70319,11/24/2023,109,394,Pending,5.0,43.13,Email,Résiliation,Yes,No,Non-compliant,,No
+CNT-70320,06/10/2023,104,199,Unresolved,4.0,34.5,phone,Résiliation,No,No,Compliant,8.0,No
+CNT-70321,08/03/2023,106,302,Resolved,5.0,12.29,phone,Déménagement,Yes,Yes,Compliant,9.0,No
+CNT-70322,01/15/2023,103,167,Unresolved,2.0,14.43,Social Media,Changement d'offre,Yes,No,Non-compliant,3.0,Yes
+CNT-70323,03/29/2023,109,411,Unresolved,5.0,,phone,Demande d'information,Yes,Yes,Compliant,8.0,No
+CNT-70324,01/18/2023,102,291,resolved,2.0,23.54,Email,Panne compteur,Yes,No,Compliant,,Yes
+CNT-70325,03/08/2023,109,360,Pending,,10.26,Chat,Changement d'offre,yes,Yes,Compliant,,No
+CNT-70326,05/10/2023,103,340,resolved,5.0,33.45,Phone,Facturation,No,No,Compliant,8.0,No
+CNT-70327,12/31/2023,103,267,Pending,5.0,48.84,Email,Demande d'information,No,Yes,Non-compliant,10.0,No
+CNT-70328,06/23/2023,105,280,Pending,3.0,41.72,Chat,Panne compteur,Yes,No,Compliant,,No
+CNT-70329,04/13/2023,106,152,Pending,3.0,30.55,Chat,Changement d'offre,Yes,No,Compliant,,No
+CNT-70330,08/29/2023,104,276,Resolved,5.0,34.08,Chat,Résiliation,Yes,No,Compliant,7.0,No
+CNT-70331,11/02/2023,104,176,resolved,4.0,38.88,Chat,Facturation,Yes,No,N/A,10.0,No
+CNT-70332,08/05/2023,103,336,Pending,,36.2,Chat,Déménagement,Yes,Yes,Compliant,6.0,No
+CNT-70333,02/08/2023,108,334,resolved,,17.85,Social Media,Relevé compteur,No,Yes,Compliant,10.0,No
+CNT-70334,03/04/2023,108,398,resolved,3.0,48.09,Email,Déménagement,Yes,No,Compliant,6.0,No
+CNT-70335,12/03/2023,109,211,Unresolved,5.0,12.24,Phone,Réclamation,Yes,Yes,Compliant,,Yes
+CNT-70336,08/24/2023,105,67,Unresolved,4.0,18.24,phone,Relevé compteur,Yes,No,N/A,6.0,No
+CNT-70337,05/27/2023,109,296,resolved,3.0,29.74,Email,Relevé compteur,Yes,No,Compliant,9.0,No
+CNT-70338,12/10/2023,104,320,resolved,1.0,48.59,Phone,Demande d'information,Yes,No,N/A,10.0,No
+CNT-70339,04/08/2023,104,313,Pending,3.0,16.41,Social Media,Demande d'information,No,No,Compliant,10.0,No
+CNT-70340,07/06/2023,102,113,resolved,5.0,22.73,Chat,Résiliation,No,No,Compliant,10.0,No
+CNT-70341,02/21/2023,105,448,Unresolved,3.0,32.19,Chat,Relevé compteur,yes,No,Compliant,4.0,No
+CNT-70342,02/15/2023,104,341,resolved,3.0,,Phone,Réclamation,Yes,Yes,Compliant,6.0,No
+CNT-70343,09/29/2023,102,338,Unresolved,5.0,24.95,Chat,Demande d'information,No,No,Compliant,,Yes
+CNT-70344,04/09/2023,103,N/A,Resolved,,45.85,Phone,Demande d'information,Yes,No,Compliant,,No
+CNT-70345,10/27/2023,103,400,Pending,4.0,16.27,Social Media,Souscription contrat,Yes,No,Compliant,,No
+CNT-70346,02/20/2023,109,304,Pending,,22.09,Email,Facturation,Yes,Yes,Compliant,,No
+CNT-70347,12/28/2023,101,81,Pending,3.0,,phone,Souscription contrat,Yes,No,Compliant,10.0,No
+CNT-70348,01/05/2023,104,232,Unresolved,1.0,44.11,Email,Facturation,Yes,No,Compliant,,No
+CNT-70349,09/27/2023,105,-13,Pending,5.0,30.45,Email,Résiliation,Yes,Yes,Compliant,,No
+CNT-70350,02/12/2023,109,129,Pending,4.0,25.76,Email,Réclamation,Yes,No,Non-compliant,1.0,Yes
+CNT-70351,03/06/2023,108,188,Pending,,30.15,Social Media,Panne compteur,Yes,No,Compliant,9.0,No
+CNT-70352,02/22/2023,105,206,Resolved,5.0,18.09,Email,Souscription contrat,No,No,Non-compliant,8.0,Yes
+CNT-70353,05/03/2023,101,294,Resolved,5.0,24.57,Chat,Demande d'information,Yes,No,Compliant,,No
+CNT-70354,09/26/2023,103,134,Unresolved,3.0,41.53,phone,Résiliation,Yes,No,Non-compliant,6.0,No
+CNT-70355,03/02/2023,104,98,Pending,4.0,22.29,Phone,Relevé compteur,Yes,No,Compliant,,No
+CNT-70356,07/26/2023,102,496,Resolved,5.0,18.52,phone,Souscription contrat,Yes,No,Non-compliant,8.0,No
+CNT-70357,05/03/2023,101,263,Pending,5.0,38.47,Chat,Relevé compteur,Yes,Yes,Compliant,,No
+CNT-70358,05/24/2023,108,50,Resolved,4.0,42.2,Chat,Demande d'information,Yes,No,Compliant,9.0,No
+CNT-70359,10/10/2023,103,445,Pending,,18.98,Phone,Déménagement,No,No,N/A,8.0,No
+CNT-70360,06/06/2023,108,275,Resolved,4.0,33.98,Social Media,Changement d'offre,Yes,No,Compliant,4.0,No
+CNT-70361,04/16/2023,106,359,Resolved,5.0,44.88,Social Media,Panne compteur,Yes,No,N/A,,Yes
+CNT-70362,07/08/2023,103,298,resolved,5.0,39.88,phone,Réclamation,Yes,No,Compliant,,No
+CNT-70363,11/05/2023,103,381,Resolved,2.0,26.77,Email,Litige paiement,,No,N/A,5.0,No
+CNT-70364,10/17/2023,105,189,Unresolved,4.0,12.68,Phone,Déménagement,yes,No,Compliant,7.0,Yes
+CNT-70365,02/13/2023,107,267,Resolved,5.0,43.01,Social Media,Changement d'offre,No,No,Compliant,10.0,No
+CNT-70366,05/21/2023,101,322,Unresolved,5.0,33.41,Phone,Réclamation,Yes,No,Compliant,,No
+CNT-70367,01/12/2023,104,97,resolved,4.0,40.86,phone,Relevé compteur,Yes,Yes,N/A,8.0,Yes
+CNT-70368,04/28/2023,102,590,Unresolved,4.0,38.74,Phone,Panne compteur,No,No,Compliant,4.0,No
+CNT-70369,12/23/2023,108,468,Resolved,4.0,29.44,Email,Panne compteur,No,No,Compliant,,No
+CNT-70370,07/29/2023,104,344,Resolved,3.0,25.46,Social Media,Relevé compteur,Yes,No,Compliant,,No
+CNT-70371,12/04/2023,109,283,Resolved,5.0,24.79,Phone,Réclamation,Yes,No,Non-compliant,9.0,No
+CNT-70372,05/30/2023,101,260,Pending,4.0,41.97,Email,Changement d'offre,No,No,N/A,,No
+CNT-70373,11/02/2023,104,210,Resolved,,31.55,Email,Facturation,Yes,No,Compliant,0.0,No
+CNT-70374,01/30/2023,101,346,Resolved,5.0,20.06,Email,Résiliation,No,No,Compliant,7.0,No
+CNT-70375,09/22/2023,109,190,Pending,3.0,39.05,Phone,Facturation,Yes,No,Compliant,5.0,Yes
+CNT-70376,06/18/2023,104,145,resolved,4.0,46.11,Phone,Panne compteur,Yes,No,Compliant,,No
+CNT-70377,06/05/2023,109,298,Resolved,5.0,17.23,Email,Litige paiement,Yes,No,Compliant,8.0,No
+CNT-70378,04/22/2023,102,178,resolved,1.0,9.57,phone,Demande d'information,No,No,Compliant,9.0,No
+CNT-70379,08/16/2023,109,195,Unresolved,,39.03,Social Media,Panne compteur,Yes,Yes,Compliant,,No
+CNT-70380,06/26/2023,102,359,Unresolved,5.0,19.52,phone,Panne compteur,Yes,No,Compliant,,Yes
+CNT-70381,04/30/2023,101,325,resolved,5.0,27.22,Chat,Litige paiement,No,No,Compliant,8.0,Yes
+CNT-70382,12/03/2023,101,186,resolved,,37.59,Chat,Relevé compteur,No,No,Compliant,8.0,No
+CNT-70383,10/03/2023,105,454,Resolved,4.0,34.99,Email,Changement d'offre,Yes,No,Compliant,0.0,No
+CNT-70384,11/29/2023,108,285,resolved,3.0,38.55,Email,Déménagement,Yes,Yes,Non-compliant,5.0,Yes
+CNT-70385,03/03/2023,105,224,resolved,5.0,35.89,Chat,Demande d'information,Yes,No,Compliant,10.0,No
+CNT-70386,01/22/2023,101,212,Pending,4.0,25.12,Social Media,Relevé compteur,Yes,No,Non-compliant,,No
+CNT-70387,08/04/2023,108,188,Resolved,5.0,20.48,Social Media,Changement d'offre,Yes,No,N/A,,No
+CNT-70388,09/05/2023,104,326,Pending,5.0,35.17,Social Media,Litige paiement,Yes,No,N/A,8.0,No
+CNT-70389,03/10/2023,105,200,Unresolved,3.0,32.18,Chat,Facturation,Yes,No,Compliant,10.0,No
+CNT-70390,04/04/2023,108,262,Unresolved,,16.84,Email,Demande d'information,Yes,No,Compliant,7.0,No
+CNT-70391,07/25/2023,108,258,resolved,5.0,41.59,Social Media,Réclamation,No,No,Compliant,0.0,No
+CNT-70392,11/03/2023,107,195,resolved,4.0,,Social Media,Souscription contrat,Yes,No,Non-compliant,8.0,No
+CNT-70393,02/02/2023,104,198,Resolved,5.0,22.31,phone,Relevé compteur,Yes,No,Non-compliant,,No
+CNT-70394,04/06/2023,104,339,resolved,5.0,23.73,Social Media,Relevé compteur,Yes,No,Non-compliant,,Yes
+CNT-70395,06/08/2023,103,201,Unresolved,5.0,28.68,Social Media,Panne compteur,Yes,Yes,Compliant,,No
+CNT-70396,11/11/2023,107,354,Pending,5.0,18.06,Phone,Résiliation,Yes,No,Compliant,6.0,No
+CNT-70397,08/20/2023,103,342,Resolved,4.0,29.54,Email,Changement d'offre,Yes,No,N/A,7.0,No
+CNT-70398,10/04/2023,107,380,Unresolved,1.0,34.52,Email,Déménagement,Yes,No,Compliant,6.0,No
+CNT-70399,07/16/2023,109,193,Resolved,5.0,28.52,phone,Résiliation,Yes,No,Compliant,,No
+CNT-70400,09/14/2023,107,189,Unresolved,4.0,39.9,phone,Résiliation,Yes,No,Compliant,,No
+CNT-70401,09/17/2023,103,334,Resolved,2.0,44.48,Chat,Souscription contrat,Yes,No,N/A,,No
+CNT-70402,12/24/2023,106,288,Unresolved,4.0,25.73,Chat,Litige paiement,No,No,Compliant,,No
+CNT-70403,06/01/2023,102,297,resolved,,49.25,phone,Demande d'information,Yes,No,Compliant,5.0,No
+CNT-70404,12/07/2023,104,411,Unresolved,2.0,15.6,Phone,Panne compteur,Yes,No,Compliant,10.0,No
+CNT-70405,04/22/2023,105,128,Unresolved,3.0,49.2,Chat,Panne compteur,Yes,No,Compliant,,No
+CNT-70406,05/06/2023,102,362,Unresolved,2.0,11.7,Social Media,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-70407,11/12/2023,108,342,Pending,,40.3,Email,Panne compteur,Yes,Yes,Compliant,8.0,No
+CNT-70408,03/25/2023,106,329,Pending,5.0,,phone,Demande d'information,Yes,Yes,Compliant,,No
+CNT-70409,07/26/2023,105,371,resolved,4.0,20.97,Social Media,Réclamation,Yes,No,Compliant,8.0,No
+CNT-70410,03/09/2023,106,160,Resolved,4.0,28.34,Phone,Déménagement,Yes,No,Compliant,,No
+CNT-70411,09/21/2023,103,257,Resolved,2.0,,Phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-70412,04/12/2023,104,186,Pending,4.0,15.67,Social Media,Demande d'information,No,No,Compliant,6.0,No
+CNT-70413,10/02/2023,102,135,Pending,4.0,18.43,Phone,Relevé compteur,Yes,Yes,Compliant,6.0,No
+CNT-70414,08/31/2023,105,22,Pending,1.0,30.94,Phone,Panne compteur,Yes,No,Compliant,5.0,No
+CNT-70415,02/28/2023,106,330,Resolved,1.0,34.76,Social Media,Relevé compteur,Yes,No,Compliant,7.0,No
+CNT-70416,09/28/2023,104,239,resolved,4.0,15.05,Social Media,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-70417,04/03/2023,108,254,Resolved,5.0,10.08,Social Media,Demande d'information,Yes,No,Compliant,8.0,Yes
+CNT-70418,09/27/2023,109,217,resolved,5.0,12.35,Chat,Relevé compteur,Yes,No,N/A,9.0,No
+CNT-70419,06/01/2023,103,269,resolved,3.0,28.75,Email,Litige paiement,yes,No,Compliant,9.0,No
+CNT-70420,02/22/2023,104,428,Unresolved,3.0,26.99,Social Media,Facturation,Yes,Yes,N/A,,No
+CNT-70421,12/13/2023,101,111,resolved,4.0,47.3,Social Media,Demande d'information,Yes,No,Compliant,0.0,No
+CNT-70422,06/03/2023,101,450,Unresolved,2.0,45.76,Chat,Demande d'information,Yes,No,Compliant,,No
+CNT-70423,06/29/2023,101,294,Resolved,5.0,15.02,Email,Relevé compteur,No,No,Compliant,8.0,Yes
+CNT-70424,12/24/2023,108,224,Pending,5.0,14.73,Chat,Réclamation,No,No,Compliant,,No
+CNT-70425,10/23/2023,102,235,Unresolved,5.0,30.02,Email,Changement d'offre,Yes,Yes,Compliant,7.0,No
+CNT-70426,06/07/2023,109,183,resolved,3.0,49.28,Social Media,Réclamation,Yes,Yes,Compliant,7.0,No
+CNT-70427,11/11/2023,104,81,Unresolved,4.0,15.42,phone,Panne compteur,yes,Yes,Compliant,6.0,No
+CNT-70428,06/06/2023,103,167,Pending,4.0,22.06,Social Media,Réclamation,Yes,No,Compliant,7.0,No
+CNT-70429,02/26/2023,104,269,Resolved,4.0,30.63,Email,Litige paiement,Yes,No,Compliant,,No
+CNT-70430,05/31/2023,108,246,resolved,,11.66,Social Media,Demande d'information,Yes,No,Compliant,,No
+CNT-70431,08/26/2023,105,316,Pending,4.0,24.91,Phone,Litige paiement,Yes,No,Compliant,,No
+CNT-70432,02/03/2023,107,218,resolved,5.0,34.34,Chat,Changement d'offre,No,No,Compliant,,No
+CNT-70433,07/23/2023,107,205,Unresolved,,11.76,Chat,Réclamation,Yes,No,Compliant,,No
+CNT-70434,10/21/2023,103,490,resolved,3.0,26.3,Chat,Litige paiement,Yes,No,Compliant,5.0,No
+CNT-70435,10/10/2023,102,185,resolved,5.0,9.78,Chat,Facturation,No,Yes,Compliant,7.0,No
+CNT-70436,04/11/2023,109,191,Resolved,5.0,28.48,phone,Panne compteur,No,No,Compliant,6.0,No
+CNT-70437,01/31/2023,102,369,Unresolved,3.0,24.93,Email,Demande d'information,Yes,No,Compliant,,No
+CNT-70438,01/23/2023,108,341,resolved,2.0,37.31,Social Media,Souscription contrat,Yes,No,Compliant,,No
+CNT-70439,11/04/2023,106,230,Resolved,,14.96,Phone,Facturation,Yes,No,Compliant,8.0,No
+CNT-70440,10/09/2023,106,350,Resolved,5.0,37.7,phone,Panne compteur,Yes,No,Compliant,9.0,No
+CNT-70441,11/09/2023,106,281,Pending,,,Email,Panne compteur,Yes,No,Compliant,6.0,No
+CNT-70442,08/18/2023,106,217,Resolved,4.0,30.57,phone,Changement d'offre,,Yes,Compliant,,No
+CNT-70443,02/03/2023,109,75,Pending,2.0,43.87,Phone,Résiliation,Yes,No,Compliant,,No
+CNT-70444,04/13/2023,104,-17,resolved,5.0,33.79,Email,Réclamation,Yes,Yes,Compliant,,No
+CNT-70445,01/30/2023,103,467,Resolved,3.0,28.66,Phone,Demande d'information,Yes,No,Compliant,5.0,No
+CNT-70446,09/01/2023,105,297,Unresolved,4.0,,Phone,Résiliation,No,No,Compliant,,No
+CNT-70447,02/28/2023,103,239,Resolved,,12.15,Email,Facturation,Yes,No,Compliant,2.0,No
+CNT-70448,12/17/2023,108,418,Unresolved,2.0,29.73,Chat,Relevé compteur,Yes,No,Compliant,5.0,No
+CNT-70449,05/06/2023,101,355,Resolved,3.0,37.46,phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-70450,12/19/2023,107,288,resolved,1.0,14.74,Chat,Déménagement,Yes,Yes,Compliant,7.0,No
+CNT-70451,09/22/2023,109,233,Resolved,4.0,25.43,Phone,Souscription contrat,Yes,Yes,Non-compliant,8.0,No
+CNT-70452,02/21/2023,102,268,Pending,4.0,36.46,Social Media,Facturation,Yes,No,Compliant,,No
+CNT-70453,09/15/2023,107,181,Unresolved,3.0,47.59,Email,Déménagement,Yes,No,Compliant,10.0,No
+CNT-70454,09/06/2023,102,288,Pending,3.0,47.24,Chat,Résiliation,Yes,Yes,Compliant,5.0,No
+CNT-70455,07/19/2023,104,427,Pending,,28.62,Phone,Facturation,Yes,No,Compliant,5.0,No
+CNT-70456,06/26/2023,102,465,Unresolved,4.0,25.81,Email,Demande d'information,Yes,No,Compliant,,No
+CNT-70457,12/24/2023,107,390,Unresolved,3.0,43.38,Chat,Facturation,No,Yes,Non-compliant,4.0,No
+CNT-70458,08/25/2023,103,282,Pending,,38.61,Chat,Demande d'information,Yes,Yes,Compliant,,No
+CNT-70459,12/17/2023,105,128,Unresolved,5.0,,Phone,Facturation,Yes,No,Compliant,,No
+CNT-70460,04/24/2023,101,483,Resolved,4.0,25.16,Social Media,Relevé compteur,No,No,Non-compliant,7.0,No
+CNT-70461,12/05/2023,101,273,Pending,4.0,28.2,Social Media,Résiliation,Yes,Yes,Compliant,0.0,No
+CNT-70462,07/01/2023,107,290,resolved,,40.94,Social Media,Changement d'offre,Yes,No,Compliant,,No
+CNT-70463,04/03/2023,104,36,Unresolved,,32.05,Phone,Facturation,Yes,No,Compliant,6.0,No
+CNT-70464,02/10/2023,105,258,resolved,4.0,38.27,phone,Souscription contrat,No,No,Compliant,8.0,No
+CNT-70465,02/09/2023,107,279,resolved,5.0,41.5,phone,Demande d'information,No,No,Compliant,7.0,Yes
+CNT-70466,06/29/2023,101,376,resolved,5.0,31.39,Chat,Résiliation,Yes,Yes,Compliant,6.0,No
+CNT-70467,08/22/2023,104,258,resolved,4.0,25.88,Social Media,Relevé compteur,Yes,Yes,Compliant,9.0,No
+CNT-70468,03/16/2023,105,N/A,Resolved,4.0,39.09,Email,Résiliation,No,No,Compliant,8.0,No
+CNT-70469,10/08/2023,102,172,Pending,4.0,46.77,phone,Litige paiement,Yes,No,N/A,5.0,No
+CNT-70470,10/21/2023,106,185,resolved,4.0,15.31,Chat,Demande d'information,Yes,No,Compliant,4.0,No
+CNT-70471,04/24/2023,103,131,Unresolved,3.0,37.32,phone,Demande d'information,Yes,No,Compliant,,Yes
+CNT-70472,10/05/2023,102,271,resolved,5.0,34.3,Phone,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-70473,09/05/2023,104,297,Unresolved,5.0,31.69,Phone,Relevé compteur,Yes,Yes,Compliant,9.0,Yes
+CNT-70474,11/13/2023,105,283,Pending,3.0,33.68,Chat,Souscription contrat,Yes,No,Compliant,5.0,No
+CNT-70475,07/06/2023,109,217,Resolved,4.0,36.12,Phone,Réclamation,Yes,No,Non-compliant,,No
+CNT-70476,09/13/2023,106,276,resolved,,,Phone,Panne compteur,Yes,No,N/A,8.0,No
+CNT-70477,02/05/2023,105,283,Pending,5.0,,phone,Panne compteur,Yes,No,Compliant,,No
+CNT-70478,08/30/2023,101,262,Resolved,,13.46,Social Media,Demande d'information,Yes,No,Compliant,,No
+CNT-70479,03/01/2023,107,276,Resolved,5.0,27.82,phone,Panne compteur,Yes,No,Compliant,,No
+CNT-70480,03/12/2023,107,260,resolved,4.0,24.12,Phone,Résiliation,Yes,No,Compliant,,No
+CNT-70481,05/14/2023,107,435,Pending,5.0,13.33,Phone,Réclamation,Yes,No,Compliant,,No
+CNT-70482,06/02/2023,107,170,Resolved,3.0,19.88,Email,Souscription contrat,Yes,No,N/A,,No
+CNT-70483,03/20/2023,103,N/A,resolved,5.0,35.75,Social Media,Souscription contrat,Yes,Yes,Compliant,2.0,No
+CNT-70484,07/01/2023,109,58,Resolved,4.0,35.3,Chat,Résiliation,Yes,No,Compliant,6.0,No
+CNT-70485,11/18/2023,101,346,Unresolved,5.0,20.12,Social Media,Panne compteur,Yes,No,Compliant,6.0,No
+CNT-70486,05/03/2023,102,196,Unresolved,3.0,15.51,phone,Facturation,Yes,No,N/A,10.0,No
+CNT-70487,01/16/2023,107,329,Resolved,5.0,41.08,Chat,Résiliation,Yes,No,Compliant,,No
+CNT-70488,12/08/2023,104,172,Unresolved,4.0,13.77,Social Media,Souscription contrat,Yes,No,Compliant,,Yes
+CNT-70489,09/18/2023,109,317,Unresolved,5.0,,Email,Facturation,Yes,No,Compliant,7.0,No
+CNT-70490,05/12/2023,109,306,resolved,5.0,22.42,Social Media,Souscription contrat,Yes,Yes,Compliant,9.0,No
+CNT-70491,05/14/2023,109,316,Pending,5.0,35.99,Email,Réclamation,Yes,No,Compliant,6.0,No
+CNT-70492,04/21/2023,109,262,resolved,,9.77,Phone,Résiliation,Yes,Yes,N/A,6.0,Yes
+CNT-70493,01/20/2023,106,153,Pending,2.0,25.06,Email,Réclamation,Yes,No,Compliant,,No
+CNT-70494,10/13/2023,103,255,resolved,5.0,26.29,Email,Relevé compteur,Yes,Yes,Compliant,7.0,No
+CNT-70495,03/15/2023,101,180,Resolved,5.0,27.22,Phone,Litige paiement,Yes,No,Compliant,,No
+CNT-70496,03/13/2023,101,246,Unresolved,,40.02,Chat,Panne compteur,Yes,No,Compliant,7.0,No
+CNT-70497,05/05/2023,106,216,Unresolved,4.0,24.13,Chat,Facturation,Yes,No,Compliant,,No
+CNT-70498,12/03/2023,107,174,Resolved,3.0,26.35,Email,Facturation,Yes,Yes,Compliant,0.0,Yes
+CNT-70499,06/20/2023,107,401,resolved,4.0,,phone,Demande d'information,No,No,Compliant,,No
+CNT-70500,03/23/2023,103,320,Unresolved,4.0,13.46,phone,Souscription contrat,Yes,Yes,Non-compliant,,No
+CNT-70501,08/15/2023,108,268,Pending,4.0,,Social Media,Résiliation,No,Yes,Compliant,6.0,No
+CNT-70502,05/08/2023,108,269,Resolved,3.0,47.91,Chat,Souscription contrat,Yes,No,Compliant,,No
+CNT-70503,04/08/2023,102,220,resolved,4.0,49.58,Email,Réclamation,Yes,No,Compliant,,No
+CNT-70504,12/04/2023,103,-31,Unresolved,4.0,35.44,Email,Relevé compteur,Yes,Yes,Compliant,5.0,No
+CNT-70505,02/25/2023,107,115,Pending,5.0,31.78,Email,Résiliation,Yes,No,Compliant,2.0,No
+CNT-70506,04/17/2023,101,350,Unresolved,,39.6,Chat,Facturation,Yes,No,Compliant,2.0,No
+CNT-70507,01/24/2023,108,292,Unresolved,4.0,29.37,Chat,Relevé compteur,Yes,No,Compliant,7.0,No
+CNT-70508,08/03/2023,106,474,Unresolved,4.0,27.68,Chat,Facturation,Yes,Yes,Non-compliant,,No
+CNT-70509,05/19/2023,109,201,Resolved,,27.77,Email,Changement d'offre,Yes,No,Compliant,,No
+CNT-70510,06/05/2023,102,392,resolved,4.0,20.43,Chat,Réclamation,No,No,Compliant,5.0,No
+CNT-70511,04/02/2023,101,255,Pending,3.0,30.43,Email,Changement d'offre,Yes,No,Non-compliant,7.0,No
+CNT-70512,02/05/2023,101,184,Pending,5.0,48.29,Social Media,Souscription contrat,No,No,Non-compliant,5.0,No
+CNT-70513,07/28/2023,106,230,resolved,4.0,44.04,Email,Facturation,Yes,No,Compliant,,No
+CNT-70514,01/08/2023,102,280,Unresolved,4.0,23.25,Phone,Déménagement,No,No,N/A,3.0,No
+CNT-70515,12/30/2023,101,220,Resolved,5.0,49.79,Email,Résiliation,Yes,No,N/A,7.0,No
+CNT-70516,11/30/2023,108,156,resolved,3.0,32.28,Social Media,Facturation,Yes,No,Compliant,,No
+CNT-70517,04/19/2023,101,181,Unresolved,4.0,43.24,Chat,Souscription contrat,Yes,Yes,Compliant,10.0,No
+CNT-70518,02/19/2023,102,321,resolved,5.0,11.52,Chat,Souscription contrat,No,No,Compliant,8.0,No
+CNT-70519,04/20/2023,102,170,Pending,4.0,46.68,Email,Réclamation,Yes,No,N/A,,No
+CNT-70520,01/19/2023,102,N/A,Unresolved,2.0,48.91,Chat,Litige paiement,Yes,No,Non-compliant,8.0,No
+CNT-70521,08/24/2023,101,207,resolved,5.0,49.61,phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-70522,10/21/2023,104,173,resolved,4.0,,Social Media,Facturation,Yes,No,Non-compliant,,No
+CNT-70523,06/18/2023,103,294,Pending,5.0,29.75,Email,Changement d'offre,Yes,No,Compliant,9.0,No
+CNT-70524,12/31/2023,109,406,Unresolved,5.0,32.35,phone,Réclamation,Yes,No,Non-compliant,,No
+CNT-70525,03/15/2023,103,556,Pending,4.0,9.77,Email,Souscription contrat,Yes,Yes,Compliant,9.0,No
+CNT-70526,12/05/2023,108,361,Resolved,5.0,13.73,Chat,Résiliation,Yes,No,Compliant,,No
+CNT-70527,10/08/2023,103,360,Unresolved,2.0,32.38,Social Media,Panne compteur,Yes,No,Compliant,7.0,No
+CNT-70528,06/30/2023,108,441,Resolved,4.0,12.5,Chat,Déménagement,Yes,No,Compliant,7.0,Yes
+CNT-70529,03/15/2023,103,328,Resolved,3.0,34.69,Chat,Déménagement,Yes,No,Compliant,5.0,No
+CNT-70530,03/10/2023,106,265,Unresolved,5.0,40.71,phone,Facturation,Yes,No,Compliant,7.0,No
+CNT-70531,03/18/2023,109,78,Resolved,,37.93,Social Media,Relevé compteur,Yes,No,Compliant,10.0,No
+CNT-70532,05/26/2023,109,282,Resolved,4.0,48.73,Email,Relevé compteur,Yes,No,Compliant,4.0,No
+CNT-70533,05/15/2023,102,163,Resolved,4.0,15.43,phone,Litige paiement,Yes,Yes,Compliant,4.0,No
+CNT-70534,11/13/2023,105,305,Resolved,4.0,40.73,Email,Litige paiement,Yes,Yes,Compliant,8.0,No
+CNT-70535,01/11/2023,108,338,Unresolved,5.0,20.56,Chat,Résiliation,Yes,No,Compliant,8.0,No
+CNT-70536,04/19/2023,102,312,resolved,3.0,23.75,Phone,Réclamation,Yes,No,Non-compliant,8.0,Yes
+CNT-70537,08/27/2023,107,232,Resolved,3.0,11.58,Social Media,Panne compteur,Yes,No,Compliant,9.0,No
+CNT-70538,06/08/2023,106,162,Pending,5.0,41.66,Phone,Résiliation,Yes,No,Compliant,10.0,No
+CNT-70539,12/29/2023,106,286,Unresolved,4.0,35.31,Social Media,Relevé compteur,Yes,No,Compliant,,No
+CNT-70540,06/17/2023,106,289,Unresolved,3.0,13.6,Chat,Résiliation,Yes,No,Compliant,,No
+CNT-70541,10/07/2023,102,299,resolved,3.0,24.62,Social Media,Litige paiement,Yes,No,Non-compliant,5.0,No
+CNT-70542,09/16/2023,104,217,Unresolved,5.0,48.87,Email,Déménagement,Yes,No,Compliant,,No
+CNT-70543,08/28/2023,105,402,Pending,3.0,39.17,phone,Facturation,No,No,Non-compliant,,No
+CNT-70544,12/06/2023,109,323,resolved,4.0,30.99,Email,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-70545,09/21/2023,102,300,Unresolved,4.0,20.85,Phone,Litige paiement,Yes,No,Compliant,7.0,No
+CNT-70546,08/27/2023,103,127,Pending,5.0,22.39,Chat,Changement d'offre,Yes,No,Compliant,3.0,No
+CNT-70547,11/26/2023,107,134,Resolved,,18.96,Email,Relevé compteur,Yes,No,Non-compliant,8.0,No
+CNT-70548,01/11/2023,105,343,Unresolved,5.0,21.59,phone,Résiliation,Yes,No,Compliant,9.0,No
+CNT-70549,12/24/2023,102,282,Unresolved,3.0,16.65,phone,Réclamation,Yes,Yes,Compliant,,No
+CNT-70550,11/22/2023,101,309,Resolved,5.0,47.16,Email,Panne compteur,Yes,Yes,Compliant,7.0,No
+CNT-70551,02/10/2023,104,329,Resolved,4.0,15.79,Chat,Litige paiement,Yes,No,Non-compliant,,No
+CNT-70552,12/03/2023,108,273,Unresolved,5.0,34.19,Social Media,Résiliation,Yes,No,Compliant,8.0,No
+CNT-70553,03/04/2023,108,145,resolved,,28.69,Phone,Litige paiement,No,No,N/A,10.0,No
+CNT-70554,08/12/2023,109,138,resolved,5.0,28.66,phone,Facturation,Yes,No,Compliant,,No
+CNT-70555,10/16/2023,103,297,Resolved,5.0,35.98,Email,Changement d'offre,Yes,No,N/A,9.0,No
+CNT-70556,04/03/2023,109,443,Unresolved,5.0,27.5,Phone,Déménagement,No,No,Non-compliant,,No
+CNT-70557,01/03/2023,106,191,resolved,2.0,22.68,Social Media,Panne compteur,No,No,Compliant,,No
+CNT-70558,10/11/2023,104,184,Pending,4.0,9.95,Email,Réclamation,Yes,No,Compliant,5.0,Yes
+CNT-70559,04/03/2023,102,92,Pending,3.0,36.41,Phone,Souscription contrat,Yes,No,Non-compliant,9.0,No
+CNT-70560,11/13/2023,102,218,Resolved,4.0,10.89,Phone,Souscription contrat,Yes,No,Non-compliant,8.0,No
+CNT-70561,12/12/2023,106,359,Unresolved,,,Social Media,Relevé compteur,No,No,Compliant,,No
+CNT-70562,07/31/2023,108,228,Pending,,39.28,Social Media,Panne compteur,yes,No,Compliant,,No
+CNT-70563,03/04/2023,102,168,Pending,5.0,21.05,Social Media,Panne compteur,No,No,Compliant,,No
+CNT-70564,04/18/2023,108,77,Resolved,4.0,13.83,Chat,Litige paiement,Yes,Yes,Compliant,8.0,No
+CNT-70565,11/21/2023,104,421,Pending,4.0,22.54,Social Media,Litige paiement,Yes,No,Compliant,,No
+CNT-70566,12/06/2023,101,333,resolved,5.0,13.91,Chat,Litige paiement,Yes,No,Compliant,7.0,No
+CNT-70567,09/17/2023,105,408,Resolved,5.0,15.7,Email,Changement d'offre,No,No,Compliant,,No
+CNT-70568,09/25/2023,109,N/A,Resolved,3.0,23.33,Phone,Litige paiement,Yes,Yes,Compliant,,No
+CNT-70569,06/02/2023,109,310,Resolved,2.0,33.41,Email,Panne compteur,,No,Compliant,,No
+CNT-70570,03/07/2023,107,207,Resolved,4.0,9.83,Phone,Facturation,Yes,No,N/A,8.0,Yes
+CNT-70571,04/26/2023,109,168,Unresolved,4.0,40.5,Phone,Relevé compteur,No,Yes,Compliant,,No
+CNT-70572,01/30/2023,105,382,resolved,,38.04,Chat,Panne compteur,Yes,No,Compliant,3.0,No
+CNT-70573,09/09/2023,107,221,Unresolved,4.0,,Chat,Litige paiement,Yes,No,Non-compliant,,Yes
+CNT-70574,05/18/2023,109,206,Pending,4.0,16.59,Phone,Relevé compteur,Yes,No,Compliant,3.0,No
+CNT-70575,11/23/2023,105,342,Unresolved,3.0,48.85,Social Media,Souscription contrat,Yes,No,Compliant,2.0,No
+CNT-70576,06/02/2023,105,339,resolved,3.0,,Email,Relevé compteur,Yes,No,Non-compliant,9.0,No
+CNT-70577,10/30/2023,106,311,resolved,5.0,9.54,Chat,Facturation,Yes,Yes,Compliant,,No
+CNT-70578,06/17/2023,109,389,Pending,4.0,12.2,phone,Réclamation,Yes,No,Non-compliant,9.0,No
+CNT-70579,03/09/2023,108,182,Resolved,4.0,32.26,Phone,Résiliation,Yes,No,Compliant,8.0,No
+CNT-70580,10/05/2023,102,228,Unresolved,5.0,18.67,Social Media,Litige paiement,Yes,No,Compliant,,No
+CNT-70581,03/26/2023,109,255,Pending,5.0,20.68,Email,Déménagement,Yes,No,Non-compliant,,No
+CNT-70582,12/09/2023,107,288,Pending,3.0,18.94,Chat,Déménagement,No,No,Compliant,10.0,No
+CNT-70583,03/14/2023,105,175,resolved,5.0,20.38,phone,Réclamation,Yes,No,Compliant,3.0,No
+CNT-70584,11/16/2023,106,252,Unresolved,4.0,25.08,Phone,Souscription contrat,Yes,No,Compliant,9.0,No
+CNT-70585,05/06/2023,107,354,resolved,1.0,38.68,Phone,Réclamation,Yes,No,Non-compliant,,No
+CNT-70586,08/30/2023,103,475,resolved,4.0,22.06,phone,Relevé compteur,Yes,No,Compliant,9.0,No
+CNT-70587,08/28/2023,109,159,Unresolved,5.0,40.67,Chat,Facturation,Yes,No,Compliant,9.0,Yes
+CNT-70588,07/06/2023,103,172,Pending,5.0,48.26,Chat,Demande d'information,Yes,No,Compliant,,Yes
+CNT-70589,10/31/2023,106,185,Pending,5.0,27.8,Phone,Réclamation,yes,No,Compliant,7.0,No
+CNT-70590,06/21/2023,103,326,Pending,2.0,20.66,Email,Demande d'information,No,No,Compliant,9.0,No
+CNT-70591,03/28/2023,101,165,Resolved,4.0,19.96,phone,Relevé compteur,No,Yes,Compliant,7.0,No
+CNT-70592,04/28/2023,101,248,resolved,5.0,33.88,Email,Relevé compteur,Yes,No,Compliant,10.0,No
+CNT-70593,06/19/2023,103,238,Resolved,5.0,,Email,Litige paiement,Yes,No,Non-compliant,7.0,No
+CNT-70594,02/25/2023,105,252,resolved,4.0,34.72,phone,Résiliation,Yes,No,Compliant,,No
+CNT-70595,06/27/2023,107,154,Resolved,5.0,43.8,Phone,Facturation,Yes,No,Compliant,8.0,No
+CNT-70596,03/27/2023,102,324,Unresolved,2.0,18.63,Social Media,Réclamation,Yes,No,Non-compliant,,No
+CNT-70597,08/13/2023,101,204,Pending,,36.75,phone,Changement d'offre,Yes,No,Compliant,,No
+CNT-70598,08/04/2023,106,162,Unresolved,3.0,38.28,phone,Facturation,No,No,Compliant,9.0,No
+CNT-70599,09/18/2023,103,242,Resolved,3.0,17.93,Email,Relevé compteur,Yes,Yes,Compliant,8.0,No
+CNT-70600,11/02/2023,106,212,Unresolved,5.0,35.78,Chat,Déménagement,Yes,Yes,Compliant,,No
+CNT-70601,05/15/2023,107,151,resolved,5.0,18.59,Email,Relevé compteur,Yes,No,Compliant,5.0,No
+CNT-70602,04/08/2023,106,5,resolved,4.0,18.59,Chat,Souscription contrat,Yes,No,Compliant,,No
+CNT-70603,03/15/2023,105,158,resolved,5.0,11.2,phone,Relevé compteur,Yes,Yes,Compliant,10.0,No
+CNT-70604,07/01/2023,108,400,Unresolved,5.0,38.33,phone,Déménagement,Yes,No,Compliant,,No
+CNT-70605,05/07/2023,109,225,Unresolved,4.0,44.29,Email,Facturation,Yes,No,Compliant,,No
+CNT-70606,06/19/2023,106,240,Resolved,,23.51,Chat,Résiliation,Yes,No,Non-compliant,7.0,No
+CNT-70607,06/07/2023,102,94,Resolved,5.0,23.59,Social Media,Résiliation,Yes,Yes,N/A,,No
+CNT-70608,11/26/2023,109,308,Unresolved,3.0,49.68,phone,Souscription contrat,Yes,No,Compliant,8.0,Yes
+CNT-70609,04/06/2023,101,326,resolved,5.0,34.15,Chat,Relevé compteur,Yes,No,N/A,,No
+CNT-70610,11/20/2023,103,172,Pending,4.0,49.86,phone,Facturation,Yes,No,Compliant,,No
+CNT-70611,02/10/2023,105,252,Unresolved,3.0,31.61,phone,Changement d'offre,Yes,No,Compliant,,No
+CNT-70612,01/01/2023,104,183,Pending,2.0,31.46,phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-70613,09/05/2023,109,423,resolved,5.0,47.65,Social Media,Relevé compteur,Yes,No,Compliant,10.0,No
+CNT-70614,03/10/2023,105,208,resolved,5.0,15.23,phone,Panne compteur,Yes,No,Compliant,10.0,No
+CNT-70615,05/10/2023,103,176,Pending,1.0,41.48,Social Media,Relevé compteur,Yes,No,Compliant,9.0,No
+CNT-70616,06/20/2023,107,273,resolved,,25.66,Phone,Réclamation,No,No,Compliant,,No
+CNT-70617,08/26/2023,105,N/A,Resolved,5.0,,phone,Demande d'information,Yes,Yes,Compliant,,Yes
+CNT-70618,11/10/2023,103,314,resolved,5.0,18.74,Chat,Litige paiement,No,No,Compliant,,No
+CNT-70619,01/14/2023,104,420,Resolved,4.0,19.75,Social Media,Résiliation,Yes,No,Compliant,,No
+CNT-70620,10/09/2023,107,N/A,Pending,,20.94,Chat,Facturation,yes,No,Compliant,4.0,No
+CNT-70621,10/06/2023,107,230,Pending,,42.11,phone,Panne compteur,yes,No,Compliant,,No
+CNT-70622,06/03/2023,102,474,resolved,2.0,,Chat,Relevé compteur,Yes,No,Compliant,,No
+CNT-70623,05/24/2023,109,234,resolved,2.0,16.76,Social Media,Facturation,Yes,No,Compliant,,No
+CNT-70624,02/04/2023,105,63,Pending,3.0,30.58,Chat,Changement d'offre,Yes,No,Compliant,,No
+CNT-70625,04/02/2023,105,296,Unresolved,5.0,41.01,Email,Réclamation,Yes,No,Non-compliant,,No
+CNT-70626,07/28/2023,106,193,resolved,4.0,,Chat,Souscription contrat,Yes,No,Compliant,2.0,No
+CNT-70627,06/15/2023,106,383,Unresolved,,37.47,Phone,Relevé compteur,Yes,No,Compliant,7.0,No
+CNT-70628,04/24/2023,102,276,Resolved,5.0,15.08,Email,Souscription contrat,No,Yes,Compliant,6.0,No
+CNT-70629,05/26/2023,103,316,Resolved,4.0,36.87,Phone,Changement d'offre,Yes,No,Compliant,10.0,No
+CNT-70630,10/28/2023,103,20,Pending,3.0,11.34,Social Media,Panne compteur,Yes,Yes,Compliant,6.0,Yes
+CNT-70631,04/09/2023,107,294,Pending,3.0,24.61,Chat,Demande d'information,Yes,No,Compliant,,No
+CNT-70632,03/17/2023,107,336,Resolved,4.0,25.19,phone,Souscription contrat,Yes,No,Compliant,9.0,No
+CNT-70633,03/03/2023,102,255,Unresolved,4.0,26.56,Social Media,Souscription contrat,No,No,Compliant,8.0,Yes
+CNT-70634,07/02/2023,101,147,resolved,5.0,15.91,Chat,Souscription contrat,Yes,No,Compliant,2.0,No
+CNT-70635,04/21/2023,106,499,resolved,4.0,9.76,Email,Panne compteur,Yes,No,Compliant,,Yes
+CNT-70636,09/06/2023,102,332,Unresolved,2.0,13.36,Chat,Panne compteur,Yes,No,Non-compliant,,No
+CNT-70637,04/16/2023,109,278,Resolved,,17.65,phone,Facturation,No,No,Compliant,,No
+CNT-70638,11/08/2023,106,376,Pending,4.0,20.04,phone,Déménagement,Yes,No,Compliant,8.0,No
+CNT-70639,02/27/2023,109,210,resolved,4.0,45.16,Chat,Changement d'offre,Yes,Yes,Compliant,,No
+CNT-70640,04/12/2023,103,454,Resolved,5.0,24.08,Social Media,Déménagement,Yes,No,Compliant,,No
+CNT-70641,08/20/2023,108,334,Pending,4.0,41.06,Social Media,Relevé compteur,Yes,No,N/A,,Yes
+CNT-70642,05/10/2023,108,365,Resolved,4.0,39.95,Chat,Souscription contrat,,No,Compliant,,No
+CNT-70643,06/03/2023,109,228,Unresolved,3.0,30.2,Chat,Litige paiement,Yes,No,Compliant,2.0,No
+CNT-70644,06/26/2023,106,155,Resolved,2.0,43.47,Email,Résiliation,Yes,No,Compliant,,No
+CNT-70645,09/19/2023,107,280,Pending,,41.27,Chat,Déménagement,Yes,No,N/A,,No
+CNT-70646,02/24/2023,102,214,resolved,5.0,48.54,Phone,Facturation,No,No,Compliant,6.0,No
+CNT-70647,11/04/2023,105,468,resolved,5.0,45.04,phone,Changement d'offre,Yes,Yes,Compliant,7.0,No
+CNT-70648,06/02/2023,106,130,Resolved,5.0,34.34,phone,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-70649,11/30/2023,102,405,Resolved,5.0,32.59,Social Media,Panne compteur,Yes,No,Compliant,4.0,No
+CNT-70650,08/05/2023,107,101,Pending,,25.69,Phone,Panne compteur,Yes,Yes,Compliant,2.0,No
+CNT-70651,07/15/2023,109,173,Pending,4.0,32.53,phone,Relevé compteur,Yes,No,Compliant,5.0,No
+CNT-70652,11/25/2023,103,99,Unresolved,4.0,40.2,phone,Relevé compteur,No,No,Compliant,4.0,No
+CNT-70653,02/22/2023,108,211,Pending,4.0,30.79,phone,Facturation,Yes,Yes,Compliant,10.0,No
+CNT-70654,06/18/2023,107,241,Pending,5.0,45.28,Chat,Relevé compteur,Yes,No,Compliant,,No
+CNT-70655,08/14/2023,107,199,Pending,4.0,39.96,Social Media,Réclamation,,Yes,Compliant,,No
+CNT-70656,09/05/2023,102,304,Pending,3.0,12.14,Chat,Résiliation,No,Yes,Compliant,,Yes
+CNT-70657,04/06/2023,107,242,Pending,,48.41,Phone,Déménagement,No,No,Compliant,7.0,No
+CNT-70658,11/04/2023,106,64,resolved,,31.1,Email,Demande d'information,Yes,No,Compliant,4.0,No
+CNT-70659,01/09/2023,101,168,Unresolved,4.0,41.67,phone,Déménagement,Yes,Yes,Compliant,,No
+CNT-70660,05/10/2023,108,227,Unresolved,2.0,26.62,Chat,Déménagement,Yes,No,Compliant,,Yes
+CNT-70661,09/06/2023,108,371,Unresolved,4.0,15.08,Email,Relevé compteur,Yes,No,Non-compliant,6.0,No
+CNT-70662,01/18/2023,103,273,resolved,3.0,11.64,phone,Relevé compteur,Yes,No,Compliant,7.0,Yes
+CNT-70663,12/06/2023,106,215,Resolved,5.0,39.09,phone,Déménagement,Yes,No,Compliant,8.0,No
+CNT-70664,08/17/2023,105,120,Unresolved,4.0,31.12,Phone,Demande d'information,Yes,No,Compliant,,No
+CNT-70665,07/04/2023,108,278,Pending,3.0,16.5,Social Media,Résiliation,Yes,No,Compliant,,No
+CNT-70666,11/28/2023,101,N/A,Pending,4.0,27.94,Phone,Réclamation,Yes,No,Compliant,4.0,No
+CNT-70667,08/05/2023,107,231,Unresolved,5.0,15.1,Social Media,Déménagement,No,Yes,Compliant,,No
+CNT-70668,06/15/2023,103,176,Unresolved,3.0,39.28,Social Media,Panne compteur,Yes,Yes,Compliant,,No
+CNT-70669,11/02/2023,109,319,resolved,4.0,28.65,Phone,Souscription contrat,No,No,Compliant,9.0,No
+CNT-70670,02/14/2023,103,376,Unresolved,4.0,38.05,phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-70671,12/14/2023,109,244,Unresolved,4.0,10.35,Email,Déménagement,Yes,No,Compliant,,No
+CNT-70672,03/13/2023,102,331,Resolved,3.0,9.75,Email,Souscription contrat,Yes,No,Compliant,,No
+CNT-70673,10/27/2023,107,220,Pending,5.0,31.36,Phone,Résiliation,Yes,No,Compliant,,No
+CNT-70674,06/22/2023,108,336,resolved,3.0,40.18,phone,Changement d'offre,Yes,Yes,N/A,,No
+CNT-70675,02/11/2023,109,403,resolved,1.0,38.75,Email,Déménagement,Yes,No,Non-compliant,7.0,No
+CNT-70676,04/19/2023,109,352,resolved,4.0,35.47,Chat,Relevé compteur,Yes,No,Non-compliant,5.0,No
+CNT-70677,04/01/2023,101,315,resolved,4.0,25.5,Phone,Facturation,No,No,Non-compliant,,No
+CNT-70678,08/24/2023,104,440,Pending,4.0,44.93,Email,Litige paiement,Yes,No,Compliant,10.0,No
+CNT-70679,07/09/2023,109,236,resolved,2.0,20.16,Chat,Déménagement,Yes,No,Compliant,,No
+CNT-70680,12/01/2023,105,315,resolved,,32.72,Chat,Réclamation,No,No,Non-compliant,,No
+CNT-70681,03/03/2023,106,239,Resolved,5.0,16.34,Chat,Changement d'offre,Yes,No,Compliant,7.0,No
+CNT-70682,07/01/2023,101,315,Pending,5.0,17.53,Email,Litige paiement,Yes,No,Non-compliant,,No
+CNT-70683,04/30/2023,109,332,Resolved,1.0,44.92,Chat,Déménagement,Yes,No,Compliant,7.0,No
+CNT-70684,03/01/2023,105,359,Unresolved,3.0,22.52,Chat,Déménagement,Yes,No,Compliant,,No
+CNT-70685,03/13/2023,105,266,resolved,4.0,11.54,phone,Déménagement,Yes,No,Compliant,,No
+CNT-70686,06/15/2023,101,85,Resolved,4.0,38.32,Chat,Changement d'offre,No,No,Compliant,2.0,No
+CNT-70687,02/18/2023,102,241,Pending,2.0,48.24,Chat,Déménagement,Yes,No,Compliant,,No
+CNT-70688,12/05/2023,103,328,Pending,4.0,27.57,Social Media,Facturation,,No,N/A,,No
+CNT-70689,10/10/2023,101,293,Unresolved,5.0,40.64,Phone,Déménagement,Yes,No,Compliant,10.0,No
+CNT-70690,12/02/2023,106,308,resolved,4.0,29.82,phone,Réclamation,Yes,No,Compliant,5.0,No
+CNT-70691,10/26/2023,104,339,resolved,4.0,34.66,Chat,Réclamation,Yes,No,Compliant,,No
+CNT-70692,04/12/2023,103,155,Pending,3.0,42.19,Email,Changement d'offre,Yes,No,Compliant,,No
+CNT-70693,07/20/2023,106,344,Resolved,3.0,47.96,Phone,Demande d'information,Yes,Yes,Compliant,8.0,No
+CNT-70694,01/22/2023,104,446,resolved,5.0,39.22,Chat,Réclamation,No,Yes,Non-compliant,7.0,No
+CNT-70695,11/10/2023,105,227,Resolved,,36.15,phone,Souscription contrat,Yes,No,Compliant,3.0,No
+CNT-70696,07/09/2023,101,361,resolved,5.0,27.41,Chat,Demande d'information,Yes,No,Compliant,6.0,No
+CNT-70697,05/07/2023,103,272,Pending,4.0,11.51,Chat,Souscription contrat,Yes,No,Compliant,4.0,No
+CNT-70698,05/13/2023,101,305,Pending,4.0,43.82,phone,Souscription contrat,Yes,No,N/A,9.0,No
+CNT-70699,09/30/2023,107,350,Resolved,3.0,14.68,Phone,Relevé compteur,Yes,Yes,N/A,8.0,No
+CNT-70700,10/03/2023,108,293,Resolved,4.0,42.75,Social Media,Souscription contrat,No,No,Non-compliant,6.0,No
+CNT-70701,03/15/2023,108,222,Resolved,5.0,38.06,Phone,Réclamation,No,No,Compliant,,No
+CNT-70702,09/28/2023,107,297,Resolved,5.0,45.45,phone,Demande d'information,Yes,No,Compliant,,No
+CNT-70703,05/23/2023,109,176,resolved,3.0,26.45,Social Media,Réclamation,Yes,Yes,N/A,4.0,No
+CNT-70704,01/08/2023,107,121,Resolved,4.0,12.37,Social Media,Panne compteur,No,No,Compliant,8.0,No
+CNT-70705,05/30/2023,105,50,Unresolved,3.0,45.57,Chat,Changement d'offre,Yes,No,Compliant,2.0,No
+CNT-70706,06/24/2023,109,410,Unresolved,4.0,17.31,Phone,Relevé compteur,Yes,No,N/A,,No
+CNT-70707,04/01/2023,102,311,Resolved,5.0,36.37,Email,Changement d'offre,No,Yes,N/A,,Yes
+CNT-70708,01/10/2023,102,333,Unresolved,3.0,43.06,Social Media,Changement d'offre,Yes,No,Non-compliant,,No
+CNT-70709,09/06/2023,106,287,resolved,4.0,47.48,Phone,Résiliation,Yes,No,Compliant,,No
+CNT-70710,10/24/2023,108,101,Pending,,,Social Media,Réclamation,Yes,No,Non-compliant,9.0,No
+CNT-70711,02/25/2023,108,402,resolved,4.0,11.32,Email,Résiliation,Yes,No,Compliant,,No
+CNT-70712,08/03/2023,108,143,Unresolved,2.0,28.18,Social Media,Panne compteur,Yes,No,N/A,,No
+CNT-70713,01/04/2023,102,380,Unresolved,4.0,36.95,phone,Facturation,Yes,No,Compliant,,No
+CNT-70714,09/06/2023,109,42,Resolved,5.0,18.83,Social Media,Relevé compteur,No,No,Compliant,10.0,No
+CNT-70715,05/26/2023,103,164,Resolved,5.0,24.27,Social Media,Relevé compteur,Yes,No,Compliant,,No
+CNT-70716,04/22/2023,109,156,Unresolved,4.0,23.47,Phone,Résiliation,yes,Yes,Compliant,,No
+CNT-70717,08/09/2023,109,280,Pending,5.0,31.43,Phone,Litige paiement,Yes,No,Non-compliant,1.0,No
+CNT-70718,09/20/2023,109,206,resolved,3.0,47.98,Phone,Litige paiement,,No,Compliant,,No
+CNT-70719,06/14/2023,102,263,Pending,,20.29,Social Media,Litige paiement,Yes,No,Compliant,,No
+CNT-70720,02/21/2023,101,153,Resolved,5.0,10.71,phone,Réclamation,Yes,Yes,Compliant,,No
+CNT-70721,07/20/2023,105,283,Unresolved,5.0,24.56,Chat,Litige paiement,Yes,Yes,Compliant,4.0,No
+CNT-70722,06/21/2023,101,173,Unresolved,1.0,21.85,Social Media,Souscription contrat,Yes,No,Compliant,8.0,No
+CNT-70723,04/16/2023,103,287,Unresolved,5.0,26.13,phone,Litige paiement,Yes,No,Compliant,5.0,No
+CNT-70724,01/26/2023,101,262,Resolved,,12.49,Email,Litige paiement,Yes,No,Compliant,8.0,No
+CNT-70725,02/14/2023,104,136,Unresolved,5.0,10.91,Social Media,Relevé compteur,Yes,Yes,Compliant,8.0,No
+CNT-70726,03/19/2023,108,95,Resolved,,12.91,Phone,Litige paiement,Yes,No,Compliant,8.0,No
+CNT-70727,11/27/2023,101,272,Resolved,2.0,26.38,Chat,Résiliation,Yes,No,Compliant,,No
+CNT-70728,07/12/2023,104,282,Resolved,1.0,42.44,phone,Réclamation,Yes,No,Compliant,9.0,No
+CNT-70729,10/01/2023,105,302,Unresolved,2.0,44.75,Social Media,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-70730,04/05/2023,104,99,Resolved,5.0,16.45,Email,Changement d'offre,Yes,No,Compliant,,No
+CNT-70731,02/23/2023,106,389,Resolved,3.0,37.15,Chat,Réclamation,Yes,No,Compliant,10.0,No
+CNT-70732,11/11/2023,106,258,resolved,4.0,38.67,Email,Souscription contrat,Yes,No,Compliant,3.0,No
+CNT-70733,02/27/2023,101,277,Pending,4.0,29.3,phone,Demande d'information,Yes,No,Compliant,,No
+CNT-70734,06/21/2023,104,65,Pending,,29.69,Email,Résiliation,Yes,Yes,Compliant,6.0,No
+CNT-70735,06/02/2023,106,112,Resolved,5.0,24.04,Email,Changement d'offre,No,No,Compliant,5.0,No
+CNT-70736,01/01/2023,101,314,Resolved,2.0,45.2,Chat,Changement d'offre,Yes,Yes,Compliant,4.0,No
+CNT-70737,04/04/2023,106,296,Unresolved,5.0,18.34,Chat,Déménagement,Yes,No,Compliant,,No
+CNT-70738,09/29/2023,103,230,Pending,3.0,21.68,Email,Litige paiement,Yes,No,Compliant,10.0,No
+CNT-70739,04/22/2023,101,334,Unresolved,5.0,38.8,phone,Réclamation,Yes,No,Compliant,1.0,No
+CNT-70740,05/30/2023,109,231,Unresolved,4.0,,Chat,Réclamation,Yes,No,N/A,2.0,No
+CNT-70741,05/29/2023,105,247,Unresolved,,24.32,phone,Changement d'offre,Yes,No,Compliant,9.0,No
+CNT-70742,03/26/2023,109,166,resolved,,34.81,phone,Réclamation,No,No,Non-compliant,9.0,Yes
+CNT-70743,07/17/2023,107,379,Pending,5.0,36.06,Social Media,Souscription contrat,Yes,No,Compliant,7.0,No
+CNT-70744,06/11/2023,106,309,Unresolved,4.0,26.74,phone,Résiliation,Yes,Yes,Compliant,8.0,No
+CNT-70745,06/15/2023,108,288,resolved,2.0,15.82,Social Media,Changement d'offre,yes,No,Non-compliant,,No
+CNT-70746,07/12/2023,104,191,resolved,4.0,38.27,Chat,Litige paiement,Yes,No,N/A,,No
+CNT-70747,11/01/2023,106,77,Unresolved,5.0,9.54,Email,Résiliation,Yes,No,Compliant,,Yes
+CNT-70748,06/19/2023,105,365,Unresolved,4.0,36.51,Email,Résiliation,Yes,No,Compliant,,No
+CNT-70749,02/10/2023,108,190,Pending,,39.0,Phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-70750,11/22/2023,105,315,Resolved,4.0,36.97,Chat,Litige paiement,No,No,Compliant,9.0,Yes
+CNT-70751,04/24/2023,106,321,Unresolved,3.0,27.03,Phone,Demande d'information,Yes,No,Compliant,9.0,No
+CNT-70752,01/03/2023,102,264,resolved,2.0,17.31,phone,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-70753,01/12/2023,105,290,Resolved,4.0,21.01,Chat,Relevé compteur,Yes,No,Compliant,,No
+CNT-70754,03/23/2023,107,307,Resolved,5.0,16.33,Phone,Facturation,,No,Compliant,,Yes
+CNT-70755,07/11/2023,105,281,Unresolved,5.0,12.38,Chat,Réclamation,Yes,Yes,Compliant,,No
+CNT-70756,06/09/2023,102,181,Resolved,3.0,36.07,Phone,Résiliation,Yes,No,Compliant,6.0,No
+CNT-70757,11/21/2023,102,116,Pending,4.0,22.53,Chat,Résiliation,Yes,No,Compliant,,No
+CNT-70758,04/06/2023,105,198,resolved,,11.69,phone,Facturation,Yes,No,Non-compliant,4.0,No
+CNT-70759,05/21/2023,104,226,Resolved,4.0,39.98,phone,Réclamation,Yes,No,Compliant,,No
+CNT-70760,04/04/2023,109,405,Unresolved,4.0,18.24,Phone,Réclamation,Yes,No,N/A,10.0,No
+CNT-70761,08/07/2023,102,147,resolved,5.0,18.85,phone,Réclamation,Yes,No,Compliant,9.0,No
+CNT-70762,07/06/2023,109,421,resolved,3.0,40.52,Social Media,Litige paiement,Yes,No,Compliant,5.0,No
+CNT-70763,09/24/2023,106,459,Resolved,4.0,40.07,phone,Facturation,Yes,No,Non-compliant,,No
+CNT-70764,07/24/2023,105,201,Resolved,3.0,45.52,Email,Réclamation,Yes,Yes,Compliant,7.0,No
+CNT-70765,06/05/2023,101,454,Unresolved,5.0,34.53,Social Media,Changement d'offre,Yes,No,Compliant,,No
+CNT-70766,09/09/2023,109,249,Resolved,5.0,32.45,Email,Réclamation,yes,No,Compliant,9.0,No
+CNT-70767,04/09/2023,103,233,Unresolved,4.0,38.58,phone,Litige paiement,Yes,No,N/A,0.0,No
+CNT-70768,01/07/2023,108,405,Unresolved,4.0,20.59,Phone,Litige paiement,Yes,Yes,Compliant,5.0,No
+CNT-70769,07/27/2023,103,285,Unresolved,5.0,16.54,Social Media,Souscription contrat,Yes,Yes,Compliant,,No
+CNT-70770,10/24/2023,105,N/A,Unresolved,5.0,37.23,Chat,Litige paiement,Yes,No,Compliant,6.0,No
+CNT-70771,11/01/2023,103,197,Pending,4.0,22.37,Email,Résiliation,Yes,No,Compliant,,No
+CNT-70772,12/06/2023,108,205,Resolved,5.0,13.07,Phone,Facturation,Yes,Yes,Compliant,8.0,No
+CNT-70773,04/29/2023,107,273,resolved,4.0,37.77,Email,Demande d'information,Yes,No,Compliant,,No
+CNT-70774,02/26/2023,101,405,resolved,1.0,43.1,Phone,Panne compteur,Yes,No,Compliant,,No
+CNT-70775,07/15/2023,106,148,Resolved,3.0,43.96,Chat,Panne compteur,Yes,No,Compliant,10.0,No
+CNT-70776,09/24/2023,105,254,Unresolved,5.0,39.09,Email,Relevé compteur,Yes,No,N/A,7.0,No
+CNT-70777,10/01/2023,105,130,resolved,2.0,40.73,Email,Réclamation,Yes,No,Non-compliant,,No
+CNT-70778,10/24/2023,109,192,Resolved,4.0,16.89,Email,Relevé compteur,No,No,Compliant,6.0,No
+CNT-70779,04/05/2023,102,330,Resolved,5.0,33.19,Social Media,Facturation,Yes,No,Compliant,9.0,No
+CNT-70780,01/27/2023,104,174,Resolved,4.0,13.29,Chat,Panne compteur,Yes,No,N/A,,Yes
+CNT-70781,12/07/2023,105,373,Resolved,4.0,38.39,Chat,Réclamation,Yes,Yes,Compliant,,No
+CNT-70782,07/31/2023,109,174,Pending,5.0,15.06,Chat,Relevé compteur,Yes,No,Non-compliant,8.0,No
+CNT-70783,12/15/2023,107,208,Resolved,4.0,21.91,Chat,Panne compteur,Yes,No,N/A,7.0,No
+CNT-70784,01/15/2023,106,85,Resolved,4.0,9.85,Phone,Litige paiement,Yes,No,Compliant,7.0,No
+CNT-70785,06/02/2023,109,374,Unresolved,1.0,12.97,Email,Litige paiement,Yes,No,Non-compliant,,No
+CNT-70786,07/17/2023,102,357,Unresolved,,13.04,phone,Résiliation,Yes,No,Non-compliant,8.0,No
+CNT-70787,01/31/2023,101,132,Resolved,,31.99,Chat,Changement d'offre,Yes,No,Compliant,6.0,No
+CNT-70788,02/23/2023,109,233,Unresolved,4.0,16.06,Social Media,Facturation,No,No,Compliant,,No
+CNT-70789,02/16/2023,104,225,Resolved,,11.76,Chat,Déménagement,No,Yes,Compliant,7.0,No
+CNT-70790,01/08/2023,101,217,resolved,4.0,43.07,Email,Changement d'offre,Yes,No,Compliant,,No
+CNT-70791,12/14/2023,108,460,Resolved,3.0,13.05,Social Media,Facturation,yes,No,Compliant,9.0,No
+CNT-70792,06/05/2023,103,215,resolved,3.0,40.4,Email,Demande d'information,Yes,No,Compliant,5.0,No
+CNT-70793,06/04/2023,101,179,resolved,5.0,21.54,Social Media,Litige paiement,Yes,No,Non-compliant,7.0,No
+CNT-70794,10/30/2023,102,94,Pending,1.0,12.29,Email,Demande d'information,Yes,No,Compliant,3.0,No
+CNT-70795,12/08/2023,106,183,Resolved,4.0,,phone,Réclamation,Yes,No,Non-compliant,7.0,No
+CNT-70796,05/23/2023,107,267,resolved,,41.3,Chat,Réclamation,Yes,No,Compliant,,No
+CNT-70797,05/04/2023,101,329,Unresolved,2.0,35.99,phone,Panne compteur,Yes,Yes,Compliant,,No
+CNT-70798,12/16/2023,104,171,Unresolved,4.0,35.35,phone,Litige paiement,,No,Non-compliant,,No
+CNT-70799,12/02/2023,101,263,Unresolved,3.0,15.37,Chat,Résiliation,No,No,Non-compliant,10.0,No
+CNT-70800,03/20/2023,109,440,Unresolved,4.0,41.07,Email,Facturation,No,No,Non-compliant,8.0,No
+CNT-70801,12/04/2023,102,140,Resolved,,37.09,Chat,Demande d'information,No,No,Compliant,,No
+CNT-70802,08/26/2023,105,170,Unresolved,5.0,23.19,Social Media,Facturation,No,Yes,Compliant,,No
+CNT-70803,07/01/2023,109,303,Resolved,5.0,10.76,Email,Résiliation,Yes,Yes,Compliant,,Yes
+CNT-70804,06/06/2023,109,220,Resolved,5.0,,Chat,Souscription contrat,Yes,No,Non-compliant,9.0,No
+CNT-70805,07/23/2023,108,237,Resolved,4.0,28.5,phone,Facturation,Yes,No,Compliant,,No
+CNT-70806,12/30/2023,109,276,resolved,,10.92,Email,Demande d'information,Yes,No,Compliant,4.0,No
+CNT-70807,05/26/2023,108,373,Resolved,4.0,48.95,phone,Réclamation,Yes,No,Compliant,9.0,No
+CNT-70808,02/18/2023,107,243,Pending,3.0,46.79,phone,Déménagement,Yes,No,Non-compliant,8.0,Yes
+CNT-70809,11/03/2023,106,274,Unresolved,5.0,,phone,Déménagement,Yes,No,Compliant,6.0,No
+CNT-70810,09/03/2023,106,47,Unresolved,5.0,27.9,Phone,Panne compteur,No,No,Non-compliant,10.0,No
+CNT-70811,03/22/2023,104,178,resolved,5.0,43.22,Social Media,Réclamation,Yes,No,Compliant,3.0,No
+CNT-70812,09/21/2023,107,212,Resolved,4.0,48.26,Email,Réclamation,Yes,No,Compliant,8.0,No
+CNT-70813,11/24/2023,108,277,resolved,4.0,15.06,Social Media,Demande d'information,Yes,No,Compliant,,No
+CNT-70814,08/22/2023,101,333,resolved,4.0,16.69,Chat,Panne compteur,Yes,No,Compliant,4.0,No
+CNT-70815,09/05/2023,109,392,Unresolved,5.0,16.0,Chat,Changement d'offre,Yes,No,Non-compliant,6.0,Yes
+CNT-70816,07/31/2023,103,237,resolved,5.0,35.84,Phone,Facturation,Yes,Yes,Compliant,,No
+CNT-70817,12/13/2023,101,362,Resolved,5.0,29.67,Social Media,Déménagement,No,Yes,Compliant,,No
+CNT-70818,05/19/2023,102,243,Pending,,20.78,Email,Résiliation,Yes,No,N/A,,No
+CNT-70819,10/19/2023,101,436,Pending,,23.9,Phone,Changement d'offre,Yes,Yes,Non-compliant,8.0,No
+CNT-70820,08/24/2023,106,249,Unresolved,3.0,17.75,phone,Déménagement,Yes,Yes,Compliant,7.0,No
+CNT-70821,07/28/2023,103,373,resolved,4.0,47.32,phone,Déménagement,No,No,Compliant,,Yes
+CNT-70822,04/05/2023,109,212,Pending,5.0,37.39,phone,Souscription contrat,Yes,No,Compliant,8.0,No
+CNT-70823,10/23/2023,101,198,Unresolved,3.0,40.97,Chat,Relevé compteur,Yes,No,Compliant,4.0,No
+CNT-70824,06/03/2023,103,180,Resolved,5.0,21.59,Phone,Panne compteur,No,No,Non-compliant,8.0,No
+CNT-70825,09/20/2023,109,174,resolved,3.0,33.52,phone,Relevé compteur,No,No,Compliant,6.0,No
+CNT-70826,04/12/2023,106,367,Unresolved,4.0,29.54,Chat,Résiliation,,No,Compliant,9.0,No
+CNT-70827,08/12/2023,103,329,Pending,4.0,23.92,Social Media,Déménagement,Yes,No,Compliant,3.0,No
+CNT-70828,11/21/2023,107,62,Unresolved,5.0,48.36,phone,Litige paiement,Yes,No,Compliant,2.0,No
+CNT-70829,08/03/2023,104,139,Resolved,5.0,40.49,Phone,Facturation,Yes,No,Compliant,9.0,Yes
+CNT-70830,11/07/2023,109,209,Resolved,5.0,31.3,Phone,Souscription contrat,No,No,Non-compliant,,No
+CNT-70831,10/24/2023,102,133,Unresolved,2.0,34.13,Email,Relevé compteur,No,No,Compliant,10.0,No
+CNT-70832,08/25/2023,101,396,Resolved,5.0,40.47,Email,Déménagement,Yes,No,Compliant,8.0,No
+CNT-70833,07/25/2023,104,245,Resolved,2.0,29.71,Social Media,Relevé compteur,Yes,No,Non-compliant,8.0,No
+CNT-70834,05/24/2023,107,303,Pending,1.0,40.92,Chat,Souscription contrat,Yes,Yes,N/A,,No
+CNT-70835,06/10/2023,103,321,Unresolved,5.0,48.21,phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-70836,05/22/2023,103,168,Pending,,,Chat,Réclamation,Yes,No,Compliant,0.0,Yes
+CNT-70837,10/07/2023,107,168,Resolved,,45.45,phone,Demande d'information,Yes,No,N/A,8.0,No
+CNT-70838,09/05/2023,101,277,Pending,4.0,14.93,Phone,Demande d'information,Yes,No,Compliant,,No
+CNT-70839,01/18/2023,106,201,resolved,4.0,29.66,phone,Demande d'information,Yes,No,N/A,10.0,No
+CNT-70840,09/20/2023,109,180,Pending,4.0,22.24,Email,Panne compteur,Yes,No,Non-compliant,,No
+CNT-70841,11/03/2023,105,231,Pending,3.0,15.93,Phone,Demande d'information,Yes,No,N/A,,No
+CNT-70842,04/01/2023,108,243,resolved,3.0,22.69,Phone,Souscription contrat,Yes,No,Compliant,9.0,No
+CNT-70843,07/31/2023,106,300,Pending,,43.43,phone,Déménagement,yes,No,Compliant,,No
+CNT-70844,11/26/2023,101,393,Resolved,1.0,35.08,Email,Panne compteur,Yes,Yes,Compliant,,No
+CNT-70845,11/20/2023,108,353,Resolved,,47.79,Phone,Résiliation,Yes,No,Compliant,10.0,No
+CNT-70846,05/18/2023,107,N/A,Unresolved,5.0,36.16,Chat,Demande d'information,No,No,Compliant,7.0,No
+CNT-70847,12/22/2023,108,378,resolved,5.0,35.6,Email,Litige paiement,Yes,No,Compliant,8.0,No
+CNT-70848,02/12/2023,108,264,Resolved,3.0,24.51,Chat,Panne compteur,Yes,No,Non-compliant,8.0,No
+CNT-70849,09/30/2023,102,315,Unresolved,5.0,40.24,phone,Souscription contrat,Yes,No,Non-compliant,,Yes
+CNT-70850,11/18/2023,109,228,resolved,5.0,39.19,phone,Déménagement,Yes,No,Non-compliant,8.0,No
+CNT-70851,06/20/2023,101,261,Unresolved,3.0,39.02,Phone,Facturation,Yes,No,Compliant,6.0,Yes
+CNT-70852,07/19/2023,104,236,Unresolved,5.0,13.7,Chat,Facturation,Yes,No,N/A,,No
+CNT-70853,02/12/2023,104,109,Pending,5.0,33.73,Phone,Réclamation,Yes,No,Non-compliant,,No
+CNT-70854,10/06/2023,108,111,Pending,,42.91,Email,Panne compteur,Yes,No,Compliant,8.0,No
+CNT-70855,05/08/2023,104,133,Pending,1.0,9.39,Social Media,Changement d'offre,Yes,No,Compliant,7.0,No
+CNT-70856,09/27/2023,104,292,Unresolved,5.0,49.43,Chat,Changement d'offre,No,Yes,Compliant,7.0,No
+CNT-70857,03/30/2023,109,396,Resolved,2.0,33.17,Social Media,Souscription contrat,Yes,No,Compliant,,No
+CNT-70858,05/24/2023,107,378,Resolved,5.0,29.07,Phone,Litige paiement,Yes,No,N/A,0.0,No
+CNT-70859,03/13/2023,103,105,Unresolved,5.0,48.65,Email,Changement d'offre,Yes,No,Compliant,6.0,No
+CNT-70860,10/09/2023,104,316,Resolved,,38.06,phone,Réclamation,Yes,No,Compliant,7.0,No
+CNT-70861,03/27/2023,103,211,resolved,5.0,48.47,Phone,Panne compteur,No,No,Compliant,,No
+CNT-70862,11/26/2023,104,178,Unresolved,5.0,33.49,phone,Changement d'offre,Yes,No,Compliant,,No
+CNT-70863,09/04/2023,105,274,Unresolved,5.0,37.15,Social Media,Résiliation,Yes,No,Compliant,10.0,No
+CNT-70864,11/13/2023,105,209,Resolved,4.0,33.54,phone,Facturation,Yes,No,Compliant,2.0,No
+CNT-70865,09/29/2023,105,125,Resolved,,24.34,Email,Facturation,Yes,No,Compliant,8.0,No
+CNT-70866,06/01/2023,104,164,resolved,4.0,47.57,Phone,Souscription contrat,No,Yes,Non-compliant,,No
+CNT-70867,06/22/2023,107,227,resolved,4.0,39.77,Chat,Souscription contrat,Yes,No,Compliant,8.0,No
+CNT-70868,09/09/2023,108,392,Unresolved,5.0,,Phone,Résiliation,Yes,No,Compliant,7.0,No
+CNT-70869,11/12/2023,102,98,Pending,5.0,27.56,Chat,Réclamation,Yes,No,Compliant,,No
+CNT-70870,02/21/2023,107,221,Pending,4.0,15.31,Chat,Facturation,Yes,No,Compliant,10.0,No
+CNT-70871,01/23/2023,109,403,Unresolved,3.0,49.03,Chat,Souscription contrat,Yes,No,N/A,3.0,No
+CNT-70872,01/07/2023,105,340,Unresolved,4.0,14.87,Phone,Relevé compteur,Yes,Yes,Compliant,3.0,No
+CNT-70873,01/17/2023,105,164,Unresolved,,22.49,phone,Réclamation,Yes,No,Compliant,,No
+CNT-70874,01/07/2023,101,125,Pending,4.0,27.45,Social Media,Déménagement,Yes,No,Compliant,8.0,No
+CNT-70875,12/10/2023,101,234,Unresolved,3.0,15.44,Chat,Panne compteur,Yes,No,Compliant,9.0,No
+CNT-70876,08/03/2023,102,453,resolved,3.0,11.56,Email,Déménagement,Yes,No,N/A,,No
+CNT-70877,11/22/2023,104,329,Unresolved,3.0,44.72,Email,Relevé compteur,Yes,No,Non-compliant,7.0,Yes
+CNT-70878,01/09/2023,106,204,resolved,4.0,36.12,Email,Demande d'information,No,No,Compliant,,No
+CNT-70879,03/08/2023,105,196,Resolved,3.0,28.22,Social Media,Changement d'offre,Yes,No,Compliant,5.0,No
+CNT-70880,12/29/2023,102,151,Resolved,3.0,42.04,Social Media,Panne compteur,Yes,No,Compliant,8.0,No
+CNT-70881,06/26/2023,104,259,Unresolved,5.0,34.3,Social Media,Litige paiement,Yes,No,Compliant,9.0,No
+CNT-70882,07/19/2023,106,226,Resolved,4.0,42.23,Email,Réclamation,No,Yes,N/A,6.0,No
+CNT-70883,01/09/2023,103,163,Unresolved,,32.3,Phone,Résiliation,Yes,No,Compliant,8.0,No
+CNT-70884,05/29/2023,104,232,Pending,4.0,18.95,Email,Déménagement,Yes,No,Compliant,,No
+CNT-70885,08/12/2023,102,176,Resolved,3.0,30.22,Email,Souscription contrat,Yes,No,Compliant,7.0,No
+CNT-70886,07/17/2023,108,238,Resolved,4.0,26.77,Email,Facturation,Yes,No,Compliant,5.0,No
+CNT-70887,11/14/2023,101,377,Resolved,4.0,46.12,Email,Réclamation,Yes,No,Non-compliant,0.0,No
+CNT-70888,11/17/2023,101,425,Resolved,1.0,19.74,phone,Relevé compteur,Yes,No,Compliant,8.0,No
+CNT-70889,05/04/2023,109,450,Resolved,5.0,,Social Media,Réclamation,Yes,Yes,Compliant,,Yes
+CNT-70890,08/28/2023,102,393,Unresolved,4.0,25.27,phone,Relevé compteur,Yes,No,Compliant,,No
+CNT-70891,01/11/2023,107,448,Pending,5.0,49.62,Chat,Panne compteur,Yes,No,Compliant,9.0,No
+CNT-70892,08/14/2023,101,293,Pending,,31.03,Phone,Souscription contrat,No,No,Compliant,,No
+CNT-70893,03/21/2023,109,310,Resolved,2.0,27.94,phone,Litige paiement,Yes,No,Non-compliant,6.0,No
+CNT-70894,10/12/2023,102,202,Unresolved,3.0,40.73,Social Media,Souscription contrat,No,No,Compliant,9.0,No
+CNT-70895,01/27/2023,102,166,Pending,5.0,27.6,Social Media,Réclamation,Yes,No,Compliant,6.0,No
+CNT-70896,05/12/2023,102,480,Resolved,,30.19,Phone,Litige paiement,Yes,Yes,N/A,8.0,No
+CNT-70897,07/23/2023,101,272,Unresolved,5.0,45.46,Phone,Réclamation,Yes,No,Non-compliant,9.0,No
+CNT-70898,02/04/2023,109,156,Pending,5.0,39.07,Social Media,Souscription contrat,Yes,No,Compliant,7.0,No
+CNT-70899,12/29/2023,108,407,Unresolved,,25.62,Phone,Réclamation,No,No,Compliant,,No
+CNT-70900,09/08/2023,104,389,Resolved,,31.48,Chat,Changement d'offre,Yes,Yes,Compliant,9.0,Yes
+CNT-70901,08/02/2023,108,321,Pending,2.0,31.12,Chat,Panne compteur,,Yes,Compliant,,No
+CNT-70902,01/28/2023,108,242,Pending,,31.38,Chat,Relevé compteur,Yes,No,Compliant,,No
+CNT-70903,02/23/2023,106,179,resolved,5.0,27.94,Chat,Souscription contrat,Yes,Yes,Compliant,5.0,No
+CNT-70904,08/11/2023,106,N/A,resolved,,38.41,phone,Litige paiement,Yes,No,Compliant,7.0,No
+CNT-70905,04/10/2023,102,373,Resolved,4.0,25.21,Chat,Réclamation,Yes,No,Compliant,6.0,No
+CNT-70906,08/12/2023,104,189,resolved,3.0,11.91,Email,Résiliation,Yes,No,Compliant,0.0,No
+CNT-70907,12/22/2023,105,140,Unresolved,4.0,22.6,Phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-70908,05/09/2023,105,319,Resolved,3.0,21.85,Email,Résiliation,Yes,Yes,Compliant,5.0,No
+CNT-70909,05/12/2023,108,254,Resolved,3.0,46.0,Chat,Réclamation,Yes,No,N/A,1.0,Yes
+CNT-70910,11/01/2023,106,193,Pending,5.0,30.28,Social Media,Litige paiement,Yes,No,Non-compliant,,No
+CNT-70911,03/05/2023,107,201,Resolved,1.0,36.57,Email,Déménagement,No,Yes,N/A,,No
+CNT-70912,08/08/2023,108,61,Unresolved,4.0,38.22,Chat,Facturation,Yes,No,Compliant,7.0,Yes
+CNT-70913,03/22/2023,102,207,resolved,5.0,29.96,Chat,Réclamation,Yes,No,Compliant,8.0,No
+CNT-70914,03/11/2023,103,362,Resolved,,40.98,Email,Réclamation,Yes,No,Non-compliant,,No
+CNT-70915,09/23/2023,105,167,Pending,4.0,48.49,phone,Demande d'information,Yes,No,Compliant,,No
+CNT-70916,11/03/2023,102,501,resolved,5.0,22.73,Social Media,Changement d'offre,Yes,No,Non-compliant,8.0,No
+CNT-70917,01/21/2023,107,256,Pending,5.0,36.81,phone,Souscription contrat,yes,No,Compliant,9.0,No
+CNT-70918,01/06/2023,103,20,Resolved,1.0,44.07,Email,Résiliation,Yes,No,Compliant,9.0,No
+CNT-70919,04/16/2023,102,119,resolved,5.0,11.06,Email,Facturation,No,Yes,Compliant,6.0,No
+CNT-70920,07/07/2023,102,-65,Pending,4.0,23.83,phone,Litige paiement,Yes,No,Compliant,,No
+CNT-70921,07/29/2023,104,471,Unresolved,2.0,49.76,Chat,Changement d'offre,Yes,No,Compliant,7.0,No
+CNT-70922,12/17/2023,102,281,Pending,5.0,36.95,Phone,Panne compteur,No,No,Compliant,,No
+CNT-70923,07/14/2023,101,167,Resolved,3.0,47.31,Email,Résiliation,Yes,No,N/A,8.0,No
+CNT-70924,04/25/2023,104,322,Unresolved,5.0,13.79,Social Media,Souscription contrat,Yes,No,Compliant,,No
+CNT-70925,02/12/2023,106,380,Unresolved,1.0,,Chat,Relevé compteur,Yes,Yes,Compliant,,No
+CNT-70926,09/13/2023,103,162,Pending,3.0,45.13,phone,Facturation,yes,No,Compliant,7.0,No
+CNT-70927,02/14/2023,103,225,Pending,3.0,39.73,Email,Souscription contrat,No,No,Compliant,,No
+CNT-70928,05/09/2023,106,N/A,Unresolved,4.0,29.79,Chat,Relevé compteur,Yes,No,Non-compliant,,No
+CNT-70929,10/20/2023,103,383,Pending,,15.15,Phone,Réclamation,Yes,Yes,Compliant,9.0,No
+CNT-70930,07/30/2023,106,174,Pending,4.0,38.72,Social Media,Souscription contrat,No,No,Compliant,,No
+CNT-70931,06/01/2023,103,220,Unresolved,,15.57,Chat,Réclamation,Yes,No,Compliant,,No
+CNT-70932,02/23/2023,105,365,Unresolved,5.0,27.83,phone,Réclamation,No,No,Compliant,9.0,No
+CNT-70933,10/08/2023,106,370,Pending,3.0,14.54,Phone,Demande d'information,Yes,No,Compliant,,No
+CNT-70934,01/06/2023,106,146,resolved,5.0,37.72,Chat,Panne compteur,Yes,No,Compliant,,No
+CNT-70935,10/07/2023,105,143,Unresolved,4.0,13.66,Phone,Résiliation,Yes,No,Compliant,10.0,No
+CNT-70936,07/21/2023,102,311,Resolved,2.0,16.64,Email,Souscription contrat,Yes,No,Compliant,,No
+CNT-70937,06/03/2023,109,325,Pending,4.0,38.49,phone,Panne compteur,,Yes,Non-compliant,9.0,No
+CNT-70938,07/17/2023,107,378,Pending,,16.75,Chat,Souscription contrat,Yes,Yes,Non-compliant,6.0,No
+CNT-70939,02/27/2023,101,340,Resolved,2.0,15.46,phone,Demande d'information,Yes,No,Compliant,,No
+CNT-70940,12/16/2023,104,194,resolved,5.0,41.54,Phone,Facturation,Yes,No,Compliant,7.0,No
+CNT-70941,09/15/2023,109,130,Resolved,3.0,39.25,Email,Litige paiement,Yes,No,Compliant,,No
+CNT-70942,12/03/2023,103,167,Unresolved,1.0,31.42,Phone,Changement d'offre,Yes,No,Compliant,,No
+CNT-70943,02/14/2023,108,136,Unresolved,4.0,13.2,Social Media,Relevé compteur,Yes,No,Compliant,,No
+CNT-70944,10/23/2023,102,121,Pending,3.0,34.94,Phone,Résiliation,No,No,N/A,,No
+CNT-70945,05/07/2023,106,372,Resolved,4.0,43.19,Phone,Panne compteur,Yes,No,N/A,,No
+CNT-70946,11/05/2023,105,340,Pending,,17.52,Phone,Réclamation,Yes,No,Non-compliant,9.0,No
+CNT-70947,04/15/2023,106,265,Pending,3.0,33.79,phone,Changement d'offre,Yes,No,Non-compliant,7.0,No
+CNT-70948,05/05/2023,103,399,Resolved,4.0,33.84,Phone,Facturation,yes,No,Compliant,2.0,No
+CNT-70949,04/08/2023,101,211,resolved,,29.28,phone,Litige paiement,Yes,No,Compliant,7.0,No
+CNT-70950,03/04/2023,102,237,resolved,3.0,18.02,Social Media,Souscription contrat,Yes,No,Compliant,8.0,No
+CNT-70951,05/31/2023,101,333,Unresolved,4.0,33.93,phone,Résiliation,Yes,Yes,Compliant,5.0,No
+CNT-70952,09/18/2023,106,160,Unresolved,1.0,,phone,Résiliation,Yes,No,Compliant,9.0,No
+CNT-70953,12/09/2023,107,463,Unresolved,4.0,28.95,Phone,Réclamation,No,No,Compliant,8.0,No
+CNT-70954,01/24/2023,108,238,Pending,2.0,49.0,Chat,Changement d'offre,Yes,No,Compliant,,No
+CNT-70955,03/30/2023,103,231,Unresolved,4.0,38.79,Phone,Panne compteur,Yes,Yes,Compliant,6.0,Yes
+CNT-70956,02/25/2023,104,235,Pending,5.0,39.42,Chat,Demande d'information,Yes,No,Compliant,,No
+CNT-70957,01/29/2023,103,312,Resolved,5.0,38.27,Email,Panne compteur,Yes,No,N/A,4.0,No
+CNT-70958,02/20/2023,104,304,Pending,5.0,34.72,Chat,Déménagement,Yes,No,Compliant,5.0,No
+CNT-70959,12/14/2023,105,79,Pending,4.0,28.73,Email,Facturation,Yes,No,Compliant,8.0,No
+CNT-70960,03/08/2023,109,297,Unresolved,3.0,43.87,Phone,Déménagement,No,No,N/A,,No
+CNT-70961,09/12/2023,107,296,Unresolved,5.0,41.94,Phone,Relevé compteur,Yes,No,Compliant,6.0,No
+CNT-70962,03/18/2023,101,21,Pending,4.0,43.09,Phone,Résiliation,No,No,Compliant,7.0,No
+CNT-70963,03/23/2023,106,236,resolved,4.0,29.1,Social Media,Déménagement,yes,No,Compliant,,No
+CNT-70964,07/28/2023,103,264,Pending,4.0,14.82,Chat,Facturation,Yes,No,Compliant,9.0,No
+CNT-70965,01/11/2023,109,95,Unresolved,,37.36,Phone,Facturation,Yes,No,Compliant,10.0,No
+CNT-70966,09/22/2023,106,138,resolved,5.0,48.22,phone,Changement d'offre,Yes,No,Compliant,,No
+CNT-70967,08/03/2023,107,N/A,Resolved,4.0,40.85,Phone,Changement d'offre,Yes,No,Compliant,9.0,No
+CNT-70968,12/01/2023,102,314,resolved,5.0,43.41,phone,Facturation,Yes,Yes,Compliant,8.0,No
+CNT-70969,10/25/2023,109,385,resolved,4.0,40.13,Phone,Changement d'offre,yes,No,Compliant,8.0,No
+CNT-70970,09/11/2023,105,307,resolved,3.0,16.86,Email,Souscription contrat,No,No,Non-compliant,,No
+CNT-70971,05/22/2023,102,270,Resolved,4.0,47.68,Phone,Demande d'information,Yes,No,Non-compliant,8.0,No
+CNT-70972,06/15/2023,107,329,Unresolved,5.0,14.03,Chat,Panne compteur,yes,No,Compliant,,No
+CNT-70973,08/30/2023,103,18,Unresolved,4.0,31.14,Chat,Panne compteur,Yes,No,Compliant,7.0,No
+CNT-70974,05/14/2023,103,376,Pending,4.0,,Phone,Réclamation,Yes,Yes,Non-compliant,,No
+CNT-70975,09/24/2023,106,245,Resolved,5.0,17.87,Social Media,Réclamation,Yes,Yes,N/A,7.0,No
+CNT-70976,04/24/2023,105,313,Resolved,1.0,47.83,phone,Relevé compteur,Yes,No,Non-compliant,9.0,No
+CNT-70977,01/09/2023,102,260,Pending,4.0,37.03,Email,Demande d'information,Yes,No,Compliant,,No
+CNT-70978,09/11/2023,101,207,Unresolved,5.0,38.59,Chat,Souscription contrat,No,No,Compliant,7.0,No
+CNT-70979,10/07/2023,104,308,Unresolved,5.0,34.34,phone,Relevé compteur,Yes,No,Compliant,,No
+CNT-70980,08/29/2023,104,291,Resolved,1.0,14.81,phone,Réclamation,Yes,No,Compliant,,No
+CNT-70981,03/10/2023,107,204,resolved,5.0,28.18,Chat,Litige paiement,Yes,No,N/A,8.0,No
+CNT-70982,01/23/2023,101,332,Unresolved,5.0,37.97,Chat,Facturation,Yes,No,Non-compliant,10.0,No
+CNT-70983,09/22/2023,103,54,Unresolved,5.0,37.07,phone,Réclamation,No,No,Compliant,,No
+CNT-70984,09/23/2023,105,-33,Unresolved,,25.31,phone,Changement d'offre,Yes,No,Non-compliant,8.0,Yes
+CNT-70985,02/26/2023,104,387,Unresolved,5.0,44.34,Chat,Litige paiement,No,No,Compliant,,No
+CNT-70986,08/29/2023,108,140,resolved,,39.48,Social Media,Demande d'information,Yes,No,Compliant,9.0,No
+CNT-70987,07/15/2023,104,176,resolved,5.0,23.75,phone,Facturation,Yes,No,Compliant,10.0,No
+CNT-70988,03/06/2023,103,215,Unresolved,4.0,37.78,phone,Relevé compteur,Yes,No,Compliant,,Yes
+CNT-70989,12/14/2023,102,350,Unresolved,,10.85,Phone,Souscription contrat,yes,No,Compliant,7.0,No
+CNT-70990,06/26/2023,101,102,resolved,5.0,42.48,Chat,Changement d'offre,Yes,No,Compliant,9.0,No
+CNT-70991,10/19/2023,105,145,resolved,5.0,48.65,Social Media,Souscription contrat,Yes,Yes,Compliant,0.0,No
+CNT-70992,02/16/2023,107,389,Unresolved,5.0,37.69,Phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-70993,12/05/2023,106,244,Resolved,4.0,48.66,Email,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-70994,01/01/2023,101,290,resolved,5.0,9.67,phone,Changement d'offre,Yes,No,Compliant,,No
+CNT-70995,01/26/2023,107,440,Resolved,4.0,19.3,Chat,Déménagement,Yes,No,Compliant,,No
+CNT-70996,07/02/2023,104,247,Pending,1.0,29.65,Social Media,Réclamation,Yes,No,Compliant,,No
+CNT-70997,09/18/2023,103,241,Unresolved,4.0,43.75,phone,Panne compteur,Yes,No,Compliant,,No
+CNT-70998,04/09/2023,101,292,Unresolved,4.0,47.06,Chat,Résiliation,Yes,No,Non-compliant,7.0,No
+CNT-70999,08/08/2023,101,359,Unresolved,2.0,29.5,Chat,Résiliation,No,No,Compliant,5.0,No
+CNT-71000,10/17/2023,107,248,Pending,5.0,20.37,Chat,Déménagement,Yes,Yes,Compliant,2.0,No
+CNT-71001,07/02/2023,104,358,resolved,5.0,46.57,Email,Résiliation,,No,Compliant,,No
+CNT-71002,05/13/2023,101,267,Resolved,3.0,22.48,Chat,Facturation,Yes,No,Compliant,,Yes
+CNT-71003,11/14/2023,107,15,Unresolved,2.0,36.18,phone,Facturation,Yes,No,Compliant,10.0,No
+CNT-71004,01/17/2023,101,153,Resolved,4.0,40.05,Social Media,Facturation,Yes,No,Non-compliant,,No
+CNT-71005,07/16/2023,107,216,Pending,5.0,11.08,phone,Changement d'offre,Yes,No,Compliant,2.0,No
+CNT-71006,05/05/2023,107,80,resolved,2.0,14.48,Social Media,Déménagement,Yes,No,Compliant,10.0,No
+CNT-71007,04/19/2023,107,306,resolved,5.0,40.64,Chat,Panne compteur,Yes,No,Compliant,10.0,No
+CNT-71008,08/03/2023,104,192,Resolved,4.0,20.28,phone,Résiliation,Yes,No,Compliant,,No
+CNT-71009,08/30/2023,108,190,resolved,,33.06,Social Media,Souscription contrat,Yes,No,Compliant,,No
+CNT-71010,11/11/2023,108,219,Pending,4.0,22.61,Chat,Réclamation,Yes,No,Compliant,7.0,Yes
+CNT-71011,12/03/2023,103,107,resolved,5.0,45.25,Email,Litige paiement,Yes,No,Compliant,0.0,No
+CNT-71012,03/29/2023,102,314,Unresolved,2.0,22.86,Social Media,Relevé compteur,Yes,No,Compliant,8.0,No
+CNT-71013,09/13/2023,107,384,Unresolved,5.0,37.73,Chat,Demande d'information,Yes,No,Compliant,9.0,No
+CNT-71014,12/14/2023,101,290,resolved,,41.16,phone,Litige paiement,Yes,No,Compliant,,No
+CNT-71015,05/12/2023,107,372,Resolved,5.0,39.71,Phone,Facturation,Yes,No,Compliant,8.0,No
+CNT-71016,06/06/2023,106,81,Pending,4.0,39.58,Social Media,Panne compteur,No,No,Compliant,8.0,No
+CNT-71017,07/14/2023,108,328,Pending,4.0,17.48,Email,Déménagement,Yes,No,Compliant,7.0,No
+CNT-71018,08/22/2023,108,324,Unresolved,3.0,42.71,Social Media,Réclamation,yes,No,Compliant,10.0,No
+CNT-71019,03/10/2023,109,318,Pending,3.0,28.39,phone,Relevé compteur,No,No,Compliant,5.0,No
+CNT-71020,09/10/2023,102,311,Resolved,3.0,35.68,phone,Demande d'information,Yes,No,Compliant,,No
+CNT-71021,09/21/2023,105,292,Pending,4.0,14.91,Email,Déménagement,Yes,Yes,N/A,,No
+CNT-71022,06/20/2023,109,457,resolved,5.0,40.87,Chat,Réclamation,Yes,No,Compliant,4.0,No
+CNT-71023,10/16/2023,104,120,Unresolved,4.0,39.19,Chat,Facturation,Yes,No,Compliant,2.0,No
+CNT-71024,12/26/2023,104,432,Resolved,4.0,45.49,Phone,Demande d'information,Yes,Yes,N/A,9.0,No
+CNT-71025,09/07/2023,105,332,Resolved,,44.84,Phone,Litige paiement,Yes,No,Compliant,3.0,No
+CNT-71026,12/22/2023,101,261,Resolved,5.0,43.06,Social Media,Résiliation,Yes,No,Non-compliant,,Yes
+CNT-71027,07/25/2023,104,302,Unresolved,,26.52,Chat,Changement d'offre,Yes,Yes,Non-compliant,,No
+CNT-71028,12/04/2023,108,105,resolved,3.0,42.55,Email,Litige paiement,Yes,No,Compliant,7.0,No
+CNT-71029,03/01/2023,105,N/A,Unresolved,4.0,49.42,Email,Facturation,Yes,No,Non-compliant,4.0,No
+CNT-71030,06/14/2023,102,304,Unresolved,4.0,48.35,Social Media,Réclamation,No,No,Compliant,5.0,No
+CNT-71031,10/15/2023,105,377,resolved,4.0,19.34,Social Media,Réclamation,Yes,No,Compliant,,No
+CNT-71032,10/04/2023,103,258,resolved,4.0,12.5,phone,Facturation,Yes,No,Compliant,5.0,No
+CNT-71033,02/15/2023,105,181,Pending,,19.73,phone,Réclamation,Yes,Yes,Compliant,,No
+CNT-71034,12/15/2023,104,227,resolved,4.0,13.35,Email,Réclamation,No,No,Compliant,6.0,No
+CNT-71035,04/16/2023,104,216,Unresolved,,48.11,Social Media,Réclamation,Yes,Yes,Compliant,,No
+CNT-71036,07/11/2023,104,216,resolved,4.0,45.84,Chat,Facturation,Yes,No,Compliant,,No
+CNT-71037,08/04/2023,103,88,resolved,5.0,36.77,Phone,Demande d'information,Yes,No,Compliant,,No
+CNT-71038,09/02/2023,108,409,resolved,2.0,42.98,Chat,Panne compteur,Yes,No,Non-compliant,5.0,No
+CNT-71039,02/10/2023,109,346,resolved,,44.98,phone,Facturation,Yes,No,Compliant,2.0,No
+CNT-71040,07/29/2023,105,340,Resolved,4.0,30.95,Email,Facturation,Yes,No,Compliant,3.0,No
+CNT-71041,09/09/2023,108,289,Pending,4.0,20.37,Phone,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-71042,05/30/2023,105,271,resolved,5.0,46.15,Chat,Changement d'offre,No,No,Compliant,,No
+CNT-71043,09/19/2023,104,362,resolved,,10.65,Email,Panne compteur,No,No,Compliant,10.0,No
+CNT-71044,05/13/2023,109,316,Pending,5.0,19.24,phone,Demande d'information,Yes,No,Compliant,8.0,No
+CNT-71045,10/02/2023,103,247,Resolved,4.0,47.6,Phone,Déménagement,Yes,No,Compliant,,No
+CNT-71046,04/26/2023,104,455,resolved,5.0,44.65,Phone,Demande d'information,Yes,No,Compliant,8.0,No
+CNT-71047,05/16/2023,105,344,Unresolved,5.0,40.81,phone,Facturation,Yes,No,Compliant,7.0,No
+CNT-71048,02/05/2023,104,266,Pending,4.0,37.11,phone,Relevé compteur,Yes,No,N/A,,No
+CNT-71049,01/26/2023,108,N/A,resolved,,,Phone,Facturation,Yes,Yes,Non-compliant,5.0,No
+CNT-71050,12/17/2023,101,245,Pending,5.0,24.78,phone,Déménagement,Yes,Yes,Compliant,4.0,No
+CNT-71051,04/06/2023,102,148,Pending,5.0,41.09,Chat,Relevé compteur,Yes,No,N/A,0.0,Yes
+CNT-71052,03/17/2023,109,190,Unresolved,5.0,20.26,Social Media,Souscription contrat,Yes,No,Non-compliant,8.0,No
+CNT-71053,05/10/2023,104,80,Pending,5.0,32.75,Email,Réclamation,Yes,No,Compliant,7.0,No
+CNT-71054,07/26/2023,109,184,resolved,4.0,18.66,Email,Demande d'information,Yes,Yes,Compliant,7.0,No
+CNT-71055,02/18/2023,103,318,resolved,4.0,41.51,phone,Déménagement,Yes,Yes,Compliant,,No
+CNT-71056,09/06/2023,107,246,Unresolved,5.0,9.95,Chat,Résiliation,Yes,No,Compliant,,No
+CNT-71057,03/31/2023,107,172,Pending,5.0,23.22,Chat,Litige paiement,Yes,No,Compliant,,No
+CNT-71058,01/09/2023,107,205,Unresolved,5.0,45.42,Phone,Panne compteur,Yes,No,Compliant,,No
+CNT-71059,04/08/2023,103,286,Unresolved,,,Phone,Facturation,Yes,No,Compliant,7.0,No
+CNT-71060,07/11/2023,106,435,resolved,5.0,22.62,phone,Résiliation,Yes,No,Compliant,,No
+CNT-71061,10/23/2023,104,136,Unresolved,2.0,43.31,phone,Demande d'information,Yes,No,Compliant,,No
+CNT-71062,04/29/2023,102,168,Pending,,39.11,Email,Changement d'offre,Yes,No,Compliant,9.0,No
+CNT-71063,11/30/2023,108,391,Pending,,47.56,Email,Changement d'offre,No,No,Compliant,1.0,No
+CNT-71064,09/10/2023,103,232,resolved,2.0,,Chat,Relevé compteur,Yes,No,Compliant,,No
+CNT-71065,03/02/2023,103,201,resolved,4.0,28.0,Social Media,Litige paiement,No,Yes,Non-compliant,,No
+CNT-71066,02/10/2023,107,574,Resolved,4.0,21.33,Social Media,Relevé compteur,No,No,Compliant,7.0,No
+CNT-71067,03/17/2023,109,245,Resolved,4.0,36.36,Social Media,Souscription contrat,Yes,No,Compliant,10.0,No
+CNT-71068,06/10/2023,105,359,Resolved,4.0,13.66,Chat,Changement d'offre,Yes,No,N/A,10.0,No
+CNT-71069,04/27/2023,107,445,Unresolved,5.0,,Social Media,Résiliation,Yes,No,Compliant,8.0,No
+CNT-71070,10/18/2023,102,40,resolved,5.0,29.13,phone,Résiliation,Yes,No,Compliant,10.0,No
+CNT-71071,10/26/2023,104,N/A,Unresolved,4.0,46.8,Phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-71072,12/28/2023,106,226,Resolved,5.0,26.99,Social Media,Demande d'information,Yes,No,Compliant,,No
+CNT-71073,03/07/2023,107,258,Pending,2.0,42.65,Chat,Changement d'offre,No,No,Compliant,9.0,No
+CNT-71074,09/01/2023,109,267,Resolved,5.0,19.24,Email,Litige paiement,Yes,No,Non-compliant,8.0,No
+CNT-71075,07/11/2023,105,411,Resolved,,28.07,Email,Demande d'information,Yes,Yes,Compliant,7.0,No
+CNT-71076,05/29/2023,107,396,resolved,5.0,29.15,Chat,Litige paiement,Yes,No,Compliant,9.0,No
+CNT-71077,08/23/2023,105,361,Unresolved,5.0,,Chat,Panne compteur,Yes,No,Compliant,8.0,No
+CNT-71078,05/16/2023,108,370,Resolved,5.0,29.29,Phone,Demande d'information,Yes,No,Non-compliant,6.0,No
+CNT-71079,05/20/2023,107,208,resolved,5.0,49.78,phone,Litige paiement,No,No,Compliant,,No
+CNT-71080,09/24/2023,108,185,Pending,5.0,36.99,Chat,Réclamation,Yes,No,Non-compliant,4.0,No
+CNT-71081,09/04/2023,102,252,Pending,3.0,10.91,Email,Relevé compteur,Yes,No,Compliant,,No
+CNT-71082,02/01/2023,105,185,Pending,5.0,39.32,Phone,Changement d'offre,Yes,Yes,Compliant,6.0,No
+CNT-71083,11/07/2023,102,132,Resolved,4.0,29.26,Email,Litige paiement,Yes,No,Compliant,,No
+CNT-71084,04/02/2023,103,268,Pending,5.0,25.87,phone,Réclamation,No,No,Compliant,9.0,No
+CNT-71085,07/02/2023,103,226,Resolved,3.0,46.8,phone,Résiliation,,No,Compliant,10.0,No
+CNT-71086,08/26/2023,103,446,Resolved,5.0,17.97,Chat,Souscription contrat,Yes,No,Compliant,10.0,Yes
+CNT-71087,01/15/2023,107,259,Resolved,5.0,40.2,Social Media,Facturation,Yes,No,N/A,7.0,No
+CNT-71088,12/16/2023,104,310,Unresolved,3.0,10.39,Chat,Résiliation,Yes,No,Compliant,,No
+CNT-71089,09/02/2023,104,287,Pending,5.0,27.35,Email,Facturation,Yes,Yes,Compliant,6.0,Yes
+CNT-71090,07/11/2023,101,196,resolved,5.0,25.83,Phone,Facturation,Yes,No,Compliant,,No
+CNT-71091,01/08/2023,107,288,resolved,,47.63,phone,Changement d'offre,Yes,No,Compliant,1.0,No
+CNT-71092,02/01/2023,104,288,Resolved,3.0,11.33,Chat,Réclamation,Yes,No,Non-compliant,9.0,No
+CNT-71093,08/26/2023,106,256,resolved,2.0,38.43,Social Media,Résiliation,No,No,Non-compliant,,No
+CNT-71094,08/03/2023,107,261,resolved,,48.8,Phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-71095,07/08/2023,103,529,Pending,4.0,14.32,Chat,Facturation,Yes,No,Compliant,,No
+CNT-71096,09/24/2023,108,291,resolved,,19.62,Social Media,Relevé compteur,Yes,No,Compliant,8.0,No
+CNT-71097,06/05/2023,102,324,Pending,,45.97,Email,Relevé compteur,Yes,No,N/A,8.0,No
+CNT-71098,09/26/2023,101,389,Pending,5.0,24.94,Phone,Réclamation,No,No,Compliant,10.0,No
+CNT-71099,01/03/2023,108,230,Pending,5.0,43.89,phone,Relevé compteur,Yes,No,Compliant,8.0,No
+CNT-71100,12/18/2023,104,164,Resolved,4.0,35.64,phone,Demande d'information,Yes,No,Compliant,,No
+CNT-71101,08/07/2023,102,296,Unresolved,5.0,16.85,Chat,Souscription contrat,,No,Compliant,6.0,No
+CNT-71102,07/26/2023,101,140,resolved,5.0,9.9,phone,Demande d'information,Yes,Yes,N/A,7.0,No
+CNT-71103,01/16/2023,101,228,Pending,4.0,17.69,Phone,Déménagement,Yes,No,Compliant,10.0,Yes
+CNT-71104,02/09/2023,104,116,Resolved,4.0,29.56,Email,Réclamation,Yes,No,Compliant,8.0,No
+CNT-71105,06/17/2023,108,542,resolved,4.0,19.16,Phone,Panne compteur,No,No,Non-compliant,,No
+CNT-71106,09/03/2023,104,374,resolved,3.0,23.68,Email,Litige paiement,Yes,No,Compliant,9.0,No
+CNT-71107,11/08/2023,108,363,Resolved,5.0,,phone,Relevé compteur,Yes,No,Compliant,6.0,No
+CNT-71108,07/07/2023,104,291,Unresolved,4.0,38.23,Social Media,Demande d'information,Yes,No,Compliant,,No
+CNT-71109,03/28/2023,107,344,Pending,,20.37,Chat,Litige paiement,Yes,No,Compliant,,No
+CNT-71110,01/22/2023,108,246,Unresolved,5.0,24.34,Chat,Panne compteur,,Yes,Non-compliant,10.0,Yes
+CNT-71111,10/29/2023,103,271,Unresolved,4.0,36.11,Social Media,Panne compteur,Yes,No,Compliant,4.0,No
+CNT-71112,12/24/2023,103,351,Unresolved,5.0,14.75,Phone,Litige paiement,Yes,No,Compliant,,No
+CNT-71113,06/18/2023,101,298,Unresolved,5.0,26.63,Chat,Réclamation,Yes,No,Compliant,,Yes
+CNT-71114,06/28/2023,103,237,Pending,4.0,9.62,Chat,Facturation,Yes,Yes,Compliant,9.0,No
+CNT-71115,04/23/2023,106,178,Unresolved,5.0,45.83,Chat,Résiliation,Yes,No,Non-compliant,8.0,No
+CNT-71116,06/27/2023,109,378,Pending,3.0,11.46,Email,Relevé compteur,Yes,No,Compliant,2.0,No
+CNT-71117,05/24/2023,107,269,Pending,4.0,18.33,Phone,Réclamation,Yes,Yes,Compliant,8.0,No
+CNT-71118,09/29/2023,106,192,Unresolved,3.0,41.92,Email,Panne compteur,Yes,No,Compliant,4.0,No
+CNT-71119,04/19/2023,108,116,resolved,,24.85,phone,Demande d'information,Yes,No,Non-compliant,,No
+CNT-71120,01/03/2023,109,271,Pending,5.0,27.24,Phone,Litige paiement,Yes,No,Compliant,7.0,Yes
+CNT-71121,04/05/2023,105,241,Unresolved,5.0,38.77,Email,Souscription contrat,Yes,No,Compliant,9.0,No
+CNT-71122,08/02/2023,103,179,Unresolved,5.0,14.86,phone,Relevé compteur,Yes,No,Compliant,8.0,No
+CNT-71123,03/22/2023,105,N/A,Resolved,5.0,39.97,Email,Litige paiement,Yes,No,Non-compliant,,Yes
+CNT-71124,11/04/2023,104,180,resolved,4.0,12.17,Social Media,Relevé compteur,Yes,No,Compliant,,No
+CNT-71125,10/22/2023,104,404,resolved,4.0,9.5,Social Media,Changement d'offre,Yes,No,Compliant,10.0,No
+CNT-71126,02/28/2023,103,216,resolved,4.0,13.98,Phone,Réclamation,No,No,Compliant,8.0,No
+CNT-71127,08/02/2023,104,114,Unresolved,4.0,13.28,phone,Souscription contrat,Yes,No,Compliant,2.0,No
+CNT-71128,08/21/2023,103,279,resolved,4.0,47.31,Chat,Relevé compteur,No,No,Compliant,7.0,No
+CNT-71129,03/02/2023,108,349,Resolved,,23.18,Social Media,Panne compteur,Yes,No,Compliant,,No
+CNT-71130,08/09/2023,109,155,Resolved,5.0,34.35,Email,Résiliation,Yes,No,Compliant,6.0,No
+CNT-71131,07/15/2023,108,322,Pending,5.0,14.31,Social Media,Souscription contrat,Yes,Yes,N/A,,No
+CNT-71132,10/13/2023,104,336,Pending,3.0,22.69,Social Media,Déménagement,Yes,No,Compliant,,No
+CNT-71133,06/20/2023,105,269,Resolved,5.0,22.44,Chat,Relevé compteur,Yes,No,Compliant,9.0,No
+CNT-71134,11/21/2023,102,419,Resolved,4.0,32.2,Social Media,Déménagement,Yes,No,Compliant,7.0,No
+CNT-71135,11/14/2023,107,183,Unresolved,5.0,46.94,Social Media,Changement d'offre,No,No,N/A,,No
+CNT-71136,05/05/2023,101,159,Resolved,3.0,29.93,Email,Déménagement,No,No,Compliant,6.0,No
+CNT-71137,09/23/2023,102,206,Resolved,,29.71,Email,Panne compteur,Yes,No,Compliant,7.0,No
+CNT-71138,08/05/2023,103,N/A,Unresolved,,25.73,Chat,Réclamation,Yes,No,Compliant,7.0,No
+CNT-71139,10/28/2023,103,221,Pending,4.0,25.76,Social Media,Litige paiement,yes,No,Compliant,,No
+CNT-71140,06/06/2023,103,174,Unresolved,3.0,9.18,Email,Panne compteur,Yes,No,N/A,0.0,No
+CNT-71141,06/04/2023,101,215,Pending,4.0,48.78,Social Media,Souscription contrat,No,No,N/A,,No
+CNT-71142,06/29/2023,108,257,resolved,5.0,49.8,Social Media,Litige paiement,Yes,No,Non-compliant,10.0,No
+CNT-71143,09/01/2023,103,329,Unresolved,5.0,,Chat,Souscription contrat,Yes,No,N/A,9.0,No
+CNT-71144,04/09/2023,102,209,Resolved,4.0,13.83,Email,Résiliation,No,No,Compliant,,No
+CNT-71145,01/24/2023,105,280,Pending,4.0,46.56,Phone,Litige paiement,Yes,No,Compliant,6.0,No
+CNT-71146,04/16/2023,106,364,Resolved,5.0,45.83,phone,Souscription contrat,Yes,No,Compliant,9.0,No
+CNT-71147,05/15/2023,109,299,Pending,,,Social Media,Relevé compteur,Yes,No,Compliant,9.0,No
+CNT-71148,03/17/2023,104,198,Pending,4.0,16.72,Chat,Relevé compteur,Yes,No,Compliant,,No
+CNT-71149,06/16/2023,109,252,resolved,,11.73,Chat,Réclamation,Yes,No,Compliant,5.0,No
+CNT-71150,03/22/2023,104,223,Unresolved,4.0,13.85,Email,Facturation,Yes,No,N/A,,No
+CNT-71151,12/19/2023,106,133,resolved,3.0,15.84,Social Media,Panne compteur,Yes,No,Compliant,10.0,No
+CNT-71152,10/13/2023,101,62,Unresolved,4.0,28.17,Email,Réclamation,Yes,No,Compliant,6.0,No
+CNT-71153,11/23/2023,107,193,Resolved,4.0,26.6,Email,Réclamation,,No,Non-compliant,,No
+CNT-71154,01/18/2023,105,314,Pending,4.0,13.42,Email,Résiliation,Yes,No,Compliant,,No
+CNT-71155,08/08/2023,103,278,Pending,4.0,13.07,Social Media,Réclamation,No,No,Compliant,6.0,No
+CNT-71156,08/11/2023,107,262,Resolved,4.0,40.42,Phone,Panne compteur,Yes,No,Non-compliant,8.0,No
+CNT-71157,02/27/2023,106,378,Pending,,17.83,Phone,Réclamation,Yes,No,Compliant,5.0,No
+CNT-71158,04/21/2023,106,179,resolved,5.0,45.71,phone,Changement d'offre,Yes,Yes,Compliant,,No
+CNT-71159,10/17/2023,101,287,Pending,4.0,41.49,phone,Litige paiement,Yes,No,N/A,,No
+CNT-71160,01/31/2023,107,221,Unresolved,,18.12,Social Media,Souscription contrat,No,No,Compliant,,No
+CNT-71161,08/12/2023,105,291,Pending,5.0,32.66,phone,Déménagement,Yes,No,Compliant,8.0,No
+CNT-71162,01/24/2023,107,344,Resolved,,33.93,Email,Résiliation,Yes,No,N/A,1.0,No
+CNT-71163,01/12/2023,108,136,Resolved,4.0,13.43,Phone,Litige paiement,Yes,No,Compliant,7.0,No
+CNT-71164,12/22/2023,108,319,Unresolved,5.0,15.61,phone,Panne compteur,Yes,Yes,Non-compliant,,No
+CNT-71165,08/31/2023,106,282,Unresolved,4.0,33.48,Phone,Souscription contrat,Yes,No,N/A,9.0,Yes
+CNT-71166,01/02/2023,109,207,Unresolved,4.0,20.77,Chat,Demande d'information,Yes,No,Compliant,6.0,No
+CNT-71167,07/27/2023,106,54,resolved,3.0,23.52,Chat,Litige paiement,Yes,No,Compliant,9.0,No
+CNT-71168,04/18/2023,101,261,Unresolved,,24.73,phone,Litige paiement,Yes,No,Compliant,,No
+CNT-71169,02/17/2023,101,495,Pending,1.0,31.11,Email,Litige paiement,Yes,No,Compliant,8.0,No
+CNT-71170,12/08/2023,106,108,Resolved,3.0,28.02,Chat,Résiliation,Yes,No,Compliant,,No
+CNT-71171,01/15/2023,107,130,Pending,4.0,20.32,Phone,Relevé compteur,No,No,N/A,5.0,No
+CNT-71172,02/19/2023,106,282,Pending,3.0,43.55,phone,Facturation,Yes,No,Compliant,8.0,No
+CNT-71173,03/20/2023,108,130,Resolved,5.0,15.27,Email,Panne compteur,yes,Yes,Compliant,,No
+CNT-71174,11/06/2023,102,329,Pending,4.0,27.26,Phone,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-71175,04/22/2023,102,275,Pending,4.0,,Email,Déménagement,Yes,Yes,Compliant,10.0,No
+CNT-71176,04/14/2023,107,328,resolved,2.0,24.5,Social Media,Résiliation,Yes,No,Compliant,5.0,No
+CNT-71177,06/07/2023,101,131,Resolved,5.0,34.68,phone,Relevé compteur,yes,No,Compliant,6.0,No
+CNT-71178,05/26/2023,104,351,Resolved,5.0,20.31,Phone,Déménagement,Yes,No,Compliant,0.0,No
+CNT-71179,05/02/2023,108,108,Resolved,4.0,11.09,Chat,Souscription contrat,No,No,Compliant,9.0,No
+CNT-71180,02/18/2023,101,320,Pending,5.0,14.16,Phone,Litige paiement,Yes,No,Compliant,,No
+CNT-71181,01/01/2023,107,446,resolved,5.0,16.76,Email,Panne compteur,Yes,No,Compliant,3.0,No
+CNT-71182,12/01/2023,101,321,Resolved,3.0,16.09,Phone,Déménagement,Yes,No,Compliant,10.0,No
+CNT-71183,08/29/2023,107,227,Resolved,4.0,46.84,Social Media,Déménagement,Yes,No,Compliant,5.0,No
+CNT-71184,11/03/2023,108,441,Resolved,5.0,13.52,Email,Réclamation,Yes,No,Non-compliant,9.0,No
+CNT-71185,06/20/2023,101,279,Resolved,,20.03,Social Media,Résiliation,Yes,Yes,Compliant,,No
+CNT-71186,07/05/2023,102,166,resolved,5.0,14.29,Email,Facturation,Yes,No,N/A,8.0,No
+CNT-71187,06/20/2023,105,197,resolved,4.0,18.56,Email,Réclamation,Yes,No,Compliant,,No
+CNT-71188,11/27/2023,103,194,Pending,4.0,31.7,Social Media,Facturation,Yes,No,Non-compliant,,No
+CNT-71189,11/05/2023,101,469,Resolved,3.0,14.02,Chat,Facturation,Yes,No,Non-compliant,7.0,No
+CNT-71190,07/23/2023,106,319,resolved,4.0,9.89,Social Media,Changement d'offre,Yes,No,Compliant,6.0,No
+CNT-71191,12/08/2023,103,323,resolved,5.0,24.72,Social Media,Facturation,Yes,No,Compliant,7.0,Yes
+CNT-71192,03/28/2023,109,N/A,resolved,4.0,18.69,phone,Relevé compteur,Yes,No,N/A,8.0,No
+CNT-71193,05/29/2023,109,286,Resolved,4.0,27.71,Phone,Facturation,No,No,Compliant,6.0,No
+CNT-71194,11/23/2023,109,213,Pending,,30.41,phone,Panne compteur,Yes,No,Non-compliant,,No
+CNT-71195,01/03/2023,108,145,resolved,4.0,11.19,phone,Litige paiement,Yes,No,Non-compliant,6.0,No
+CNT-71196,04/09/2023,104,295,resolved,,42.99,Email,Déménagement,No,No,Compliant,8.0,No
+CNT-71197,09/22/2023,104,438,Resolved,1.0,20.14,Social Media,Relevé compteur,Yes,No,Compliant,,No
+CNT-71198,02/18/2023,105,290,Pending,5.0,16.8,Phone,Déménagement,Yes,Yes,Compliant,8.0,No
+CNT-71199,04/02/2023,107,389,Unresolved,5.0,36.76,phone,Souscription contrat,Yes,No,N/A,9.0,No
+CNT-71200,10/29/2023,109,87,resolved,5.0,37.03,Social Media,Changement d'offre,No,No,Compliant,5.0,No
+CNT-71201,01/23/2023,103,291,Unresolved,5.0,49.15,Chat,Relevé compteur,,No,Compliant,,No
+CNT-71202,09/26/2023,102,207,Pending,5.0,31.22,phone,Réclamation,yes,No,Compliant,,No
+CNT-71203,06/06/2023,105,161,resolved,5.0,15.98,Chat,Souscription contrat,Yes,No,Compliant,7.0,Yes
+CNT-71204,06/07/2023,104,410,resolved,3.0,48.08,Email,Changement d'offre,Yes,No,Non-compliant,0.0,No
+CNT-71205,11/18/2023,105,219,Unresolved,3.0,49.4,Chat,Réclamation,Yes,No,Compliant,10.0,No
+CNT-71206,05/07/2023,101,319,Resolved,2.0,,Chat,Panne compteur,Yes,No,N/A,,No
+CNT-71207,07/12/2023,108,249,Resolved,4.0,10.45,Chat,Souscription contrat,Yes,No,Compliant,5.0,No
+CNT-71208,04/16/2023,102,335,resolved,4.0,19.23,phone,Résiliation,Yes,Yes,Compliant,9.0,No
+CNT-71209,09/15/2023,105,389,resolved,5.0,29.8,Email,Souscription contrat,Yes,No,N/A,5.0,No
+CNT-71210,11/08/2023,108,390,Resolved,5.0,,Chat,Panne compteur,Yes,Yes,Compliant,,No
+CNT-71211,07/05/2023,103,112,Pending,2.0,15.51,Phone,Litige paiement,Yes,No,Compliant,9.0,Yes
+CNT-71212,07/03/2023,104,176,Unresolved,4.0,29.63,phone,Résiliation,yes,No,Compliant,,No
+CNT-71213,07/14/2023,107,208,Unresolved,3.0,,Phone,Panne compteur,Yes,No,Compliant,,No
+CNT-71214,04/29/2023,108,128,Resolved,5.0,39.06,Social Media,Résiliation,Yes,No,Compliant,5.0,No
+CNT-71215,11/15/2023,101,257,Pending,4.0,23.83,phone,Facturation,Yes,Yes,N/A,8.0,Yes
+CNT-71216,08/14/2023,103,204,Pending,4.0,32.11,Email,Réclamation,Yes,Yes,Compliant,7.0,No
+CNT-71217,03/31/2023,105,157,Unresolved,4.0,38.79,Social Media,Panne compteur,Yes,No,Compliant,8.0,No
+CNT-71218,06/21/2023,104,531,resolved,3.0,14.7,Chat,Changement d'offre,yes,No,Compliant,7.0,Yes
+CNT-71219,07/08/2023,105,67,Pending,4.0,46.5,phone,Demande d'information,Yes,Yes,Compliant,9.0,No
+CNT-71220,06/06/2023,103,280,Pending,5.0,9.72,Phone,Déménagement,Yes,No,Compliant,,No
+CNT-71221,05/07/2023,106,308,Unresolved,4.0,31.02,Phone,Demande d'information,Yes,No,Compliant,8.0,No
+CNT-71222,11/13/2023,102,384,resolved,,25.69,Chat,Résiliation,Yes,No,Compliant,6.0,No
+CNT-71223,03/09/2023,101,306,Unresolved,4.0,22.11,Email,Souscription contrat,Yes,No,Compliant,,No
+CNT-71224,05/29/2023,105,143,Pending,,23.64,phone,Souscription contrat,yes,No,Non-compliant,7.0,Yes
+CNT-71225,06/13/2023,109,247,Resolved,4.0,44.16,Email,Déménagement,Yes,No,Compliant,8.0,No
+CNT-71226,10/06/2023,106,234,Unresolved,,49.88,Chat,Souscription contrat,Yes,No,Compliant,,No
+CNT-71227,01/15/2023,102,162,Resolved,4.0,16.11,Phone,Facturation,yes,No,Compliant,,No
+CNT-71228,08/25/2023,106,336,resolved,4.0,40.48,Email,Demande d'information,Yes,Yes,Compliant,7.0,No
+CNT-71229,07/18/2023,105,383,Resolved,3.0,29.27,Email,Souscription contrat,Yes,No,Compliant,10.0,No
+CNT-71230,04/22/2023,106,205,Resolved,5.0,27.44,Chat,Demande d'information,No,No,Compliant,8.0,No
+CNT-71231,12/19/2023,101,120,Resolved,4.0,46.78,Social Media,Changement d'offre,Yes,No,Compliant,6.0,No
+CNT-71232,04/05/2023,105,201,Unresolved,4.0,,Chat,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-71233,08/10/2023,109,267,resolved,2.0,25.72,Social Media,Demande d'information,Yes,No,N/A,7.0,No
+CNT-71234,06/19/2023,107,306,Pending,3.0,33.57,Chat,Facturation,Yes,No,Compliant,9.0,No
+CNT-71235,03/06/2023,103,251,Resolved,5.0,35.06,phone,Réclamation,Yes,No,Compliant,8.0,No
+CNT-71236,10/07/2023,109,355,Unresolved,5.0,35.04,Chat,Panne compteur,Yes,No,Compliant,8.0,No
+CNT-71237,10/31/2023,106,335,Unresolved,4.0,18.72,Phone,Déménagement,Yes,No,Non-compliant,10.0,No
+CNT-71238,03/15/2023,104,297,Pending,3.0,39.42,phone,Panne compteur,Yes,No,Compliant,,No
+CNT-71239,12/09/2023,103,320,Resolved,4.0,49.86,Chat,Demande d'information,Yes,No,Compliant,,No
+CNT-71240,08/20/2023,109,309,Unresolved,2.0,48.01,phone,Facturation,,No,Compliant,10.0,No
+CNT-71241,11/07/2023,106,305,Resolved,4.0,15.2,Chat,Réclamation,,No,Compliant,6.0,No
+CNT-71242,06/06/2023,102,530,resolved,4.0,22.5,Phone,Panne compteur,Yes,Yes,Non-compliant,,No
+CNT-71243,12/27/2023,102,252,resolved,3.0,43.42,Phone,Souscription contrat,No,No,Compliant,2.0,No
+CNT-71244,05/12/2023,107,339,Pending,4.0,49.88,Phone,Déménagement,Yes,No,N/A,,No
+CNT-71245,07/17/2023,108,353,Unresolved,2.0,19.63,Social Media,Résiliation,No,Yes,Compliant,8.0,No
+CNT-71246,07/12/2023,102,296,resolved,5.0,21.83,Chat,Résiliation,Yes,No,Compliant,,No
+CNT-71247,05/22/2023,108,426,Resolved,2.0,15.58,Email,Réclamation,Yes,Yes,Compliant,,No
+CNT-71248,02/21/2023,106,281,Resolved,,42.82,Email,Souscription contrat,Yes,No,N/A,,No
+CNT-71249,12/26/2023,109,348,Pending,5.0,,Social Media,Réclamation,Yes,No,Non-compliant,,No
+CNT-71250,07/22/2023,103,111,resolved,5.0,22.84,Chat,Changement d'offre,yes,No,N/A,7.0,No
+CNT-71251,12/03/2023,101,284,resolved,1.0,24.64,Chat,Réclamation,No,No,Compliant,3.0,No
+CNT-71252,09/27/2023,108,259,Resolved,4.0,48.52,Social Media,Panne compteur,No,Yes,Compliant,,No
+CNT-71253,05/29/2023,106,276,resolved,5.0,25.22,Social Media,Litige paiement,No,Yes,Compliant,7.0,Yes
+CNT-71254,04/20/2023,102,180,Pending,3.0,20.74,Social Media,Panne compteur,Yes,Yes,Compliant,,Yes
+CNT-71255,01/17/2023,108,268,Resolved,2.0,12.61,Social Media,Litige paiement,Yes,No,Compliant,,Yes
+CNT-71256,04/13/2023,101,286,Unresolved,3.0,45.99,phone,Réclamation,Yes,Yes,N/A,,No
+CNT-71257,02/19/2023,104,365,Unresolved,4.0,37.22,phone,Litige paiement,Yes,No,Compliant,,No
+CNT-71258,07/02/2023,103,261,Unresolved,1.0,35.19,phone,Changement d'offre,Yes,No,Compliant,,No
+CNT-71259,05/31/2023,109,308,Pending,5.0,32.63,Phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-71260,01/14/2023,102,381,Pending,4.0,35.43,Email,Demande d'information,Yes,No,Compliant,3.0,No
+CNT-71261,11/19/2023,102,254,Resolved,4.0,41.85,phone,Litige paiement,Yes,No,Compliant,,Yes
+CNT-71262,03/24/2023,106,199,Unresolved,4.0,35.66,phone,Panne compteur,Yes,No,Compliant,,No
+CNT-71263,04/12/2023,103,316,Resolved,3.0,17.19,Social Media,Facturation,Yes,No,Compliant,10.0,No
+CNT-71264,01/07/2023,109,435,Pending,4.0,49.89,Email,Réclamation,Yes,No,Non-compliant,7.0,No
+CNT-71265,03/05/2023,101,342,resolved,5.0,10.25,Chat,Litige paiement,Yes,No,Compliant,,No
+CNT-71266,04/27/2023,103,379,resolved,4.0,43.61,Chat,Déménagement,Yes,Yes,Compliant,6.0,No
+CNT-71267,04/26/2023,109,222,Unresolved,4.0,39.22,Social Media,Facturation,Yes,No,Compliant,,No
+CNT-71268,11/19/2023,104,229,Resolved,5.0,,Phone,Changement d'offre,Yes,No,Compliant,,Yes
+CNT-71269,03/08/2023,109,328,Pending,5.0,12.61,Email,Litige paiement,Yes,No,Compliant,7.0,No
+CNT-71270,08/02/2023,105,352,Resolved,5.0,22.93,Email,Souscription contrat,Yes,No,Compliant,10.0,No
+CNT-71271,05/06/2023,105,366,resolved,5.0,24.58,Email,Réclamation,Yes,No,Compliant,,Yes
+CNT-71272,05/05/2023,102,187,Pending,1.0,10.6,Phone,Litige paiement,Yes,Yes,Compliant,2.0,No
+CNT-71273,01/25/2023,103,364,Pending,3.0,39.45,phone,Souscription contrat,No,No,Compliant,0.0,No
+CNT-71274,07/02/2023,101,381,Pending,5.0,,Email,Litige paiement,Yes,No,Compliant,,No
+CNT-71275,06/09/2023,105,167,Unresolved,5.0,38.01,Phone,Résiliation,Yes,Yes,Compliant,,No
+CNT-71276,02/10/2023,102,411,resolved,4.0,32.82,Phone,Relevé compteur,Yes,No,Compliant,6.0,No
+CNT-71277,03/21/2023,105,278,Unresolved,1.0,20.75,Social Media,Résiliation,Yes,No,Compliant,5.0,No
+CNT-71278,06/03/2023,104,319,Unresolved,5.0,9.52,Email,Déménagement,Yes,No,Compliant,,No
+CNT-71279,12/29/2023,101,415,Resolved,,45.97,Chat,Litige paiement,Yes,No,Compliant,,No
+CNT-71280,02/07/2023,104,368,Resolved,4.0,45.19,Social Media,Panne compteur,Yes,No,Compliant,2.0,No
+CNT-71281,10/27/2023,105,273,resolved,5.0,27.24,Chat,Déménagement,No,No,N/A,,No
+CNT-71282,12/06/2023,105,-5,Unresolved,4.0,27.43,Email,Réclamation,Yes,No,Compliant,10.0,No
+CNT-71283,05/31/2023,108,N/A,Unresolved,4.0,45.7,Email,Litige paiement,No,Yes,Compliant,,No
+CNT-71284,08/08/2023,103,221,Unresolved,4.0,34.02,Chat,Déménagement,Yes,Yes,Compliant,7.0,No
+CNT-71285,02/14/2023,109,289,Pending,4.0,49.83,Phone,Déménagement,Yes,No,Compliant,5.0,No
+CNT-71286,05/29/2023,101,394,Unresolved,5.0,40.53,phone,Changement d'offre,yes,No,Non-compliant,,No
+CNT-71287,04/28/2023,105,305,Pending,4.0,23.36,Email,Demande d'information,Yes,No,Non-compliant,,No
+CNT-71288,03/06/2023,101,401,Pending,4.0,,phone,Litige paiement,Yes,No,N/A,8.0,No
+CNT-71289,05/26/2023,102,179,Unresolved,5.0,29.5,Phone,Réclamation,Yes,No,Compliant,4.0,No
+CNT-71290,05/25/2023,108,429,resolved,3.0,40.88,phone,Réclamation,Yes,No,Compliant,1.0,No
+CNT-71291,08/10/2023,101,316,resolved,4.0,20.13,phone,Panne compteur,,No,Compliant,9.0,No
+CNT-71292,03/01/2023,104,214,Pending,5.0,,Chat,Demande d'information,yes,No,Compliant,5.0,No
+CNT-71293,07/20/2023,107,183,Unresolved,4.0,29.81,Phone,Déménagement,Yes,No,N/A,7.0,No
+CNT-71294,10/29/2023,105,342,Resolved,4.0,11.19,Chat,Changement d'offre,Yes,No,N/A,8.0,No
+CNT-71295,12/25/2023,108,70,resolved,5.0,29.9,Social Media,Panne compteur,Yes,No,Compliant,,No
+CNT-71296,08/09/2023,104,317,Unresolved,,26.32,Social Media,Déménagement,Yes,No,Compliant,7.0,No
+CNT-71297,11/05/2023,107,39,resolved,3.0,20.65,Email,Facturation,Yes,Yes,Non-compliant,7.0,No
+CNT-71298,12/06/2023,109,311,Unresolved,1.0,31.09,Social Media,Réclamation,No,No,Compliant,,No
+CNT-71299,03/27/2023,109,282,Resolved,4.0,44.93,Phone,Déménagement,Yes,Yes,Non-compliant,,No
+CNT-71300,08/26/2023,103,N/A,Unresolved,4.0,27.74,Social Media,Facturation,Yes,No,Compliant,7.0,No
+CNT-71301,05/24/2023,107,152,resolved,,9.33,phone,Facturation,Yes,No,Compliant,9.0,No
+CNT-71302,01/14/2023,102,54,Resolved,4.0,36.46,Chat,Déménagement,Yes,No,Compliant,7.0,No
+CNT-71303,07/23/2023,108,170,Unresolved,5.0,47.47,Chat,Relevé compteur,Yes,No,Compliant,8.0,No
+CNT-71304,02/26/2023,105,234,Pending,4.0,27.21,phone,Déménagement,Yes,No,N/A,7.0,No
+CNT-71305,06/29/2023,106,199,Unresolved,,27.66,Social Media,Relevé compteur,Yes,No,Compliant,9.0,No
+CNT-71306,03/26/2023,107,229,Resolved,4.0,10.11,Email,Changement d'offre,Yes,Yes,N/A,5.0,No
+CNT-71307,10/28/2023,105,408,resolved,5.0,38.11,Social Media,Demande d'information,Yes,No,Non-compliant,2.0,No
+CNT-71308,10/03/2023,106,263,resolved,5.0,32.83,Email,Souscription contrat,yes,No,Compliant,,Yes
+CNT-71309,02/01/2023,109,362,Resolved,4.0,15.68,Chat,Relevé compteur,Yes,No,Compliant,8.0,No
+CNT-71310,09/10/2023,108,189,Resolved,4.0,26.66,Chat,Litige paiement,Yes,No,Compliant,4.0,No
+CNT-71311,04/28/2023,101,185,Resolved,5.0,47.05,Email,Panne compteur,Yes,No,Compliant,,No
+CNT-71312,03/26/2023,109,121,Unresolved,5.0,19.91,Chat,Panne compteur,Yes,No,Compliant,,No
+CNT-71313,11/26/2023,106,269,Resolved,4.0,24.74,Chat,Panne compteur,Yes,No,Compliant,8.0,No
+CNT-71314,07/27/2023,101,160,resolved,4.0,25.09,Chat,Changement d'offre,Yes,No,Compliant,7.0,No
+CNT-71315,09/23/2023,105,464,Unresolved,3.0,32.15,Chat,Facturation,Yes,No,Compliant,9.0,No
+CNT-71316,01/02/2023,103,N/A,Resolved,3.0,10.0,Email,Réclamation,Yes,No,Compliant,8.0,Yes
+CNT-71317,06/24/2023,107,248,Pending,4.0,19.3,Phone,Résiliation,Yes,No,Compliant,2.0,No
+CNT-71318,03/29/2023,101,233,Unresolved,,,Email,Réclamation,No,No,Compliant,,No
+CNT-71319,01/27/2023,106,193,Unresolved,3.0,40.69,Chat,Réclamation,No,No,N/A,6.0,No
+CNT-71320,02/27/2023,101,337,Pending,5.0,43.95,Social Media,Réclamation,Yes,Yes,Compliant,7.0,No
+CNT-71321,03/09/2023,108,411,Pending,5.0,20.56,Chat,Déménagement,Yes,No,N/A,9.0,No
+CNT-71322,01/27/2023,107,235,resolved,3.0,25.44,Chat,Déménagement,Yes,No,Compliant,10.0,No
+CNT-71323,10/03/2023,106,352,Pending,5.0,25.62,Social Media,Déménagement,Yes,No,Compliant,8.0,No
+CNT-71324,02/06/2023,105,220,resolved,5.0,,Phone,Facturation,Yes,No,Compliant,9.0,Yes
+CNT-71325,03/05/2023,104,171,Unresolved,,22.09,phone,Réclamation,No,No,N/A,,No
+CNT-71326,11/23/2023,109,222,Resolved,4.0,14.07,Social Media,Demande d'information,Yes,No,Compliant,,No
+CNT-71327,05/17/2023,106,346,Resolved,2.0,35.47,Chat,Relevé compteur,Yes,No,Compliant,,No
+CNT-71328,11/20/2023,108,264,Unresolved,1.0,18.83,Social Media,Souscription contrat,,No,Compliant,,No
+CNT-71329,03/29/2023,103,127,Unresolved,4.0,47.23,phone,Réclamation,Yes,No,N/A,,No
+CNT-71330,03/12/2023,109,173,Pending,3.0,18.93,Phone,Résiliation,No,No,Non-compliant,9.0,No
+CNT-71331,10/24/2023,106,94,Resolved,,45.52,Phone,Facturation,Yes,No,Non-compliant,10.0,No
+CNT-71332,07/11/2023,105,244,Unresolved,5.0,35.92,Social Media,Déménagement,Yes,No,Compliant,,No
+CNT-71333,05/06/2023,103,340,Resolved,,15.79,Social Media,Panne compteur,Yes,No,N/A,9.0,No
+CNT-71334,09/05/2023,106,458,Pending,,24.8,Phone,Relevé compteur,Yes,No,Compliant,,Yes
+CNT-71335,11/01/2023,107,161,Unresolved,2.0,23.66,Social Media,Déménagement,Yes,No,N/A,8.0,No
+CNT-71336,08/17/2023,103,298,Unresolved,5.0,20.04,Phone,Changement d'offre,Yes,No,Compliant,,No
+CNT-71337,05/29/2023,103,434,Unresolved,2.0,49.97,phone,Demande d'information,No,No,Compliant,1.0,No
+CNT-71338,10/09/2023,103,430,Resolved,5.0,36.98,Phone,Demande d'information,Yes,No,Compliant,,No
+CNT-71339,02/26/2023,104,344,Unresolved,4.0,43.66,Social Media,Panne compteur,Yes,No,Non-compliant,7.0,No
+CNT-71340,04/21/2023,104,332,resolved,5.0,37.1,Social Media,Changement d'offre,Yes,No,Compliant,,No
+CNT-71341,02/03/2023,109,N/A,Resolved,4.0,25.95,phone,Déménagement,Yes,No,Non-compliant,10.0,No
+CNT-71342,09/02/2023,109,393,Unresolved,3.0,39.39,Phone,Souscription contrat,No,No,Non-compliant,,No
+CNT-71343,05/16/2023,109,182,Resolved,5.0,33.89,Chat,Déménagement,Yes,No,Compliant,7.0,No
+CNT-71344,12/25/2023,103,301,Pending,5.0,31.63,Email,Relevé compteur,Yes,Yes,Compliant,7.0,No
+CNT-71345,09/12/2023,103,239,Unresolved,3.0,41.41,Chat,Panne compteur,Yes,No,Compliant,9.0,No
+CNT-71346,11/10/2023,101,197,resolved,4.0,44.86,phone,Réclamation,Yes,No,Compliant,,No
+CNT-71347,10/06/2023,107,144,resolved,4.0,11.05,Email,Changement d'offre,Yes,No,Compliant,,Yes
+CNT-71348,04/16/2023,107,N/A,resolved,5.0,39.8,Social Media,Souscription contrat,No,No,Compliant,5.0,No
+CNT-71349,12/17/2023,108,457,resolved,,,Social Media,Relevé compteur,No,No,N/A,,No
+CNT-71350,04/12/2023,105,167,Resolved,5.0,46.97,Social Media,Réclamation,Yes,No,Compliant,9.0,Yes
+CNT-71351,12/20/2023,107,188,Pending,4.0,,Phone,Changement d'offre,Yes,Yes,Compliant,3.0,No
+CNT-71352,05/11/2023,106,167,Unresolved,4.0,16.91,Chat,Demande d'information,Yes,No,Non-compliant,,No
+CNT-71353,03/19/2023,106,276,Unresolved,4.0,49.95,phone,Relevé compteur,Yes,No,Compliant,8.0,No
+CNT-71354,08/06/2023,104,304,Resolved,5.0,26.23,Chat,Litige paiement,Yes,No,Compliant,,No
+CNT-71355,01/30/2023,108,N/A,Unresolved,2.0,45.31,phone,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-71356,02/12/2023,102,315,Resolved,,9.44,phone,Facturation,Yes,Yes,Non-compliant,9.0,No
+CNT-71357,10/20/2023,106,405,Unresolved,4.0,45.07,phone,Résiliation,Yes,No,Compliant,10.0,No
+CNT-71358,06/01/2023,101,333,Unresolved,4.0,29.32,Phone,Facturation,Yes,No,Compliant,3.0,Yes
+CNT-71359,10/23/2023,109,250,Resolved,5.0,37.46,Phone,Réclamation,Yes,No,Non-compliant,4.0,No
+CNT-71360,01/26/2023,109,269,Resolved,5.0,22.86,Email,Déménagement,No,No,Compliant,9.0,No
+CNT-71361,06/06/2023,109,243,Resolved,4.0,23.41,Social Media,Réclamation,Yes,No,Compliant,,No
+CNT-71362,03/27/2023,101,204,Resolved,5.0,45.57,Phone,Réclamation,No,Yes,Compliant,,No
+CNT-71363,04/22/2023,107,158,Unresolved,4.0,24.1,Chat,Déménagement,Yes,Yes,Non-compliant,,No
+CNT-71364,11/26/2023,101,219,Unresolved,4.0,33.24,Social Media,Panne compteur,No,No,Compliant,,No
+CNT-71365,09/01/2023,109,281,Pending,2.0,28.76,Email,Réclamation,Yes,No,Compliant,5.0,No
+CNT-71366,06/10/2023,109,410,Pending,5.0,16.91,Phone,Demande d'information,Yes,No,Compliant,9.0,No
+CNT-71367,07/28/2023,107,235,resolved,3.0,32.06,Email,Résiliation,No,No,N/A,4.0,No
+CNT-71368,11/29/2023,104,238,Unresolved,,,phone,Résiliation,Yes,No,Compliant,,No
+CNT-71369,08/16/2023,105,199,Unresolved,5.0,18.26,phone,Souscription contrat,No,No,Compliant,2.0,No
+CNT-71370,10/06/2023,104,251,Unresolved,,39.79,Social Media,Changement d'offre,Yes,No,Compliant,2.0,No
+CNT-71371,02/17/2023,104,441,Pending,,30.13,Phone,Panne compteur,Yes,No,Compliant,,No
+CNT-71372,10/22/2023,103,282,resolved,5.0,43.16,phone,Résiliation,Yes,No,Compliant,,No
+CNT-71373,05/06/2023,102,221,Unresolved,4.0,46.04,Chat,Panne compteur,Yes,No,N/A,,No
+CNT-71374,01/26/2023,103,413,resolved,2.0,39.83,Email,Réclamation,No,No,Compliant,,No
+CNT-71375,01/12/2023,106,303,Resolved,,,Chat,Réclamation,yes,No,Compliant,9.0,No
+CNT-71376,12/29/2023,107,232,Resolved,2.0,11.91,phone,Relevé compteur,,No,Non-compliant,8.0,No
+CNT-71377,05/07/2023,101,231,resolved,4.0,22.12,Social Media,Litige paiement,Yes,Yes,Compliant,7.0,No
+CNT-71378,04/24/2023,105,270,resolved,5.0,26.67,Chat,Litige paiement,Yes,No,Compliant,8.0,No
+CNT-71379,11/19/2023,107,259,Pending,2.0,38.78,phone,Réclamation,yes,No,N/A,,No
+CNT-71380,06/17/2023,104,161,Unresolved,2.0,11.4,Phone,Déménagement,No,No,Compliant,4.0,No
+CNT-71381,06/23/2023,103,324,Pending,2.0,31.39,Chat,Facturation,Yes,No,Compliant,4.0,No
+CNT-71382,03/06/2023,104,338,Pending,3.0,24.66,Chat,Réclamation,No,No,Compliant,3.0,No
+CNT-71383,02/28/2023,103,232,Pending,,37.27,Social Media,Résiliation,Yes,No,Compliant,,No
+CNT-71384,10/24/2023,104,201,Pending,3.0,12.21,Email,Facturation,Yes,No,Compliant,5.0,Yes
+CNT-71385,12/04/2023,106,272,Unresolved,4.0,9.85,Email,Résiliation,Yes,No,Compliant,5.0,No
+CNT-71386,01/30/2023,105,395,resolved,4.0,16.08,phone,Résiliation,Yes,No,Compliant,,No
+CNT-71387,04/23/2023,105,188,resolved,4.0,33.84,Social Media,Panne compteur,Yes,No,Compliant,,No
+CNT-71388,02/07/2023,106,351,resolved,4.0,41.73,Social Media,Panne compteur,Yes,No,Compliant,8.0,No
+CNT-71389,08/05/2023,107,194,Pending,4.0,40.79,phone,Déménagement,Yes,No,Compliant,1.0,No
+CNT-71390,07/18/2023,102,78,Resolved,5.0,42.19,Email,Résiliation,Yes,No,Compliant,7.0,No
+CNT-71391,04/04/2023,109,280,Pending,5.0,16.63,Chat,Demande d'information,Yes,No,Compliant,10.0,No
+CNT-71392,11/24/2023,109,172,Pending,5.0,36.64,phone,Litige paiement,Yes,No,Compliant,6.0,No
+CNT-71393,04/22/2023,107,201,Pending,3.0,37.14,Email,Déménagement,Yes,No,N/A,8.0,No
+CNT-71394,02/20/2023,105,160,Pending,5.0,,Chat,Litige paiement,Yes,No,Compliant,6.0,No
+CNT-71395,12/04/2023,104,439,Resolved,5.0,13.11,Email,Souscription contrat,Yes,No,Compliant,9.0,No
+CNT-71396,06/20/2023,109,261,Unresolved,4.0,25.69,Email,Résiliation,Yes,No,Compliant,6.0,No
+CNT-71397,11/22/2023,103,348,Pending,,33.14,Social Media,Demande d'information,Yes,No,Compliant,9.0,No
+CNT-71398,03/03/2023,108,228,Unresolved,3.0,25.63,phone,Déménagement,Yes,Yes,Compliant,9.0,No
+CNT-71399,05/07/2023,101,233,Unresolved,4.0,18.32,phone,Litige paiement,yes,Yes,Compliant,,No
+CNT-71400,01/23/2023,108,302,Unresolved,4.0,30.76,phone,Relevé compteur,Yes,No,Compliant,,No
+CNT-71401,07/22/2023,109,232,resolved,4.0,28.82,Social Media,Litige paiement,No,No,Compliant,7.0,No
+CNT-71402,06/11/2023,103,286,resolved,3.0,13.6,Chat,Changement d'offre,Yes,No,Compliant,9.0,No
+CNT-71403,03/19/2023,103,271,Resolved,5.0,43.17,Email,Litige paiement,Yes,No,Compliant,,No
+CNT-71404,09/25/2023,106,150,Pending,3.0,21.18,Chat,Litige paiement,No,No,N/A,7.0,No
+CNT-71405,06/06/2023,104,286,resolved,5.0,28.78,phone,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-71406,09/13/2023,107,152,Unresolved,5.0,30.93,phone,Résiliation,,No,Compliant,,No
+CNT-71407,10/27/2023,105,339,Pending,5.0,37.07,Email,Réclamation,No,No,Compliant,8.0,No
+CNT-71408,09/07/2023,107,370,Unresolved,2.0,,Social Media,Demande d'information,Yes,No,Compliant,,No
+CNT-71409,03/08/2023,103,244,Unresolved,1.0,44.65,Email,Demande d'information,Yes,No,Compliant,2.0,No
+CNT-71410,05/21/2023,103,306,resolved,4.0,12.1,Email,Résiliation,Yes,Yes,Compliant,,No
+CNT-71411,02/12/2023,102,257,resolved,4.0,9.14,Phone,Changement d'offre,Yes,No,Compliant,,No
+CNT-71412,03/24/2023,105,399,Unresolved,2.0,34.8,Email,Déménagement,Yes,No,N/A,2.0,No
+CNT-71413,10/03/2023,105,95,Resolved,3.0,28.53,Email,Demande d'information,No,No,Compliant,7.0,No
+CNT-71414,04/14/2023,108,255,resolved,3.0,43.94,phone,Demande d'information,Yes,No,N/A,,No
+CNT-71415,06/25/2023,106,254,Unresolved,4.0,44.58,Email,Réclamation,Yes,No,Compliant,8.0,Yes
+CNT-71416,05/16/2023,105,377,Pending,1.0,33.5,Phone,Facturation,No,Yes,Compliant,8.0,No
+CNT-71417,07/30/2023,101,384,Unresolved,5.0,17.32,Email,Relevé compteur,Yes,No,Compliant,,No
+CNT-71418,08/18/2023,109,435,Unresolved,4.0,31.03,Social Media,Réclamation,Yes,No,Non-compliant,4.0,No
+CNT-71419,03/06/2023,109,195,resolved,4.0,9.76,Email,Panne compteur,Yes,Yes,Compliant,8.0,No
+CNT-71420,09/29/2023,104,329,Unresolved,5.0,46.85,Email,Facturation,Yes,Yes,Compliant,8.0,No
+CNT-71421,12/20/2023,105,117,Unresolved,5.0,12.94,Phone,Demande d'information,Yes,No,Compliant,,No
+CNT-71422,06/28/2023,104,-51,Unresolved,4.0,25.82,Chat,Changement d'offre,Yes,No,Compliant,,Yes
+CNT-71423,09/05/2023,103,281,Resolved,3.0,43.26,Chat,Panne compteur,Yes,No,Compliant,,No
+CNT-71424,07/17/2023,105,N/A,Resolved,4.0,11.7,Email,Demande d'information,Yes,No,Non-compliant,,No
+CNT-71425,05/25/2023,102,243,Resolved,,,Email,Réclamation,Yes,No,Compliant,8.0,No
+CNT-71426,08/20/2023,102,249,Resolved,5.0,38.45,Phone,Déménagement,No,No,Compliant,,No
+CNT-71427,12/19/2023,105,208,Pending,4.0,17.35,Email,Résiliation,Yes,No,N/A,6.0,No
+CNT-71428,03/12/2023,103,395,Resolved,,19.46,Phone,Résiliation,Yes,Yes,Non-compliant,8.0,No
+CNT-71429,02/23/2023,103,366,Pending,,,Social Media,Panne compteur,Yes,No,N/A,6.0,No
+CNT-71430,12/02/2023,105,423,resolved,,28.13,Email,Demande d'information,Yes,No,Compliant,7.0,No
+CNT-71431,11/16/2023,102,348,Pending,4.0,22.81,Chat,Résiliation,Yes,No,Compliant,6.0,No
+CNT-71432,08/08/2023,102,283,Resolved,4.0,26.5,Chat,Relevé compteur,Yes,No,Compliant,10.0,No
+CNT-71433,09/27/2023,101,265,Unresolved,3.0,25.06,Phone,Souscription contrat,yes,No,Compliant,,No
+CNT-71434,09/23/2023,105,179,Pending,3.0,31.68,phone,Relevé compteur,Yes,No,N/A,,No
+CNT-71435,07/29/2023,108,253,Pending,3.0,22.48,Chat,Réclamation,Yes,Yes,Compliant,,No
+CNT-71436,11/09/2023,108,250,Resolved,,9.14,Email,Demande d'information,Yes,No,Compliant,3.0,No
+CNT-71437,01/18/2023,109,N/A,resolved,4.0,25.47,Email,Relevé compteur,Yes,No,Compliant,9.0,No
+CNT-71438,10/22/2023,103,279,Pending,5.0,20.4,Chat,Demande d'information,Yes,No,Compliant,,No
+CNT-71439,08/06/2023,104,115,resolved,3.0,29.24,phone,Déménagement,Yes,No,Compliant,5.0,No
+CNT-71440,05/08/2023,108,94,Pending,5.0,37.72,Social Media,Litige paiement,Yes,No,Compliant,,No
+CNT-71441,07/24/2023,104,214,Resolved,4.0,14.19,Chat,Souscription contrat,No,No,Compliant,,No
+CNT-71442,03/17/2023,109,258,Pending,5.0,28.18,phone,Résiliation,Yes,No,Compliant,9.0,No
+CNT-71443,03/28/2023,108,470,Unresolved,,29.39,phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-71444,08/28/2023,107,56,Resolved,3.0,29.49,Phone,Changement d'offre,Yes,No,Compliant,4.0,No
+CNT-71445,10/16/2023,106,140,Resolved,5.0,30.67,Email,Relevé compteur,Yes,No,Compliant,,No
+CNT-71446,03/27/2023,101,370,resolved,4.0,24.48,phone,Relevé compteur,Yes,No,Compliant,,No
+CNT-71447,07/20/2023,103,360,Unresolved,1.0,25.96,Social Media,Réclamation,Yes,No,Compliant,,No
+CNT-71448,09/30/2023,103,324,Unresolved,5.0,27.59,Email,Souscription contrat,Yes,No,Compliant,5.0,No
+CNT-71449,04/08/2023,102,37,Pending,,45.47,phone,Litige paiement,Yes,No,Non-compliant,7.0,No
+CNT-71450,09/05/2023,106,321,Resolved,5.0,38.07,Email,Réclamation,Yes,No,Compliant,6.0,No
+CNT-71451,06/04/2023,109,290,resolved,5.0,48.81,Phone,Réclamation,No,No,Compliant,4.0,No
+CNT-71452,12/05/2023,107,295,Pending,5.0,15.48,Social Media,Panne compteur,Yes,Yes,Compliant,10.0,No
+CNT-71453,10/11/2023,101,270,Unresolved,4.0,11.15,Social Media,Litige paiement,Yes,Yes,N/A,,No
+CNT-71454,08/27/2023,104,288,Resolved,5.0,26.12,phone,Réclamation,,Yes,Compliant,,No
+CNT-71455,04/04/2023,104,264,Unresolved,3.0,17.69,Phone,Panne compteur,Yes,No,N/A,,No
+CNT-71456,03/13/2023,107,476,Unresolved,4.0,21.92,Social Media,Changement d'offre,Yes,No,Compliant,,Yes
+CNT-71457,09/17/2023,108,291,Resolved,5.0,38.31,phone,Déménagement,Yes,No,Compliant,9.0,No
+CNT-71458,07/09/2023,103,159,Pending,,24.23,Social Media,Résiliation,Yes,No,Compliant,8.0,No
+CNT-71459,07/25/2023,108,139,Pending,2.0,25.18,Social Media,Résiliation,Yes,No,Compliant,4.0,No
+CNT-71460,01/11/2023,103,283,Resolved,4.0,23.98,Social Media,Résiliation,Yes,No,Compliant,7.0,No
+CNT-71461,06/04/2023,109,224,Unresolved,,45.07,Phone,Déménagement,Yes,No,Non-compliant,1.0,No
+CNT-71462,01/29/2023,108,19,Unresolved,4.0,30.26,Chat,Réclamation,Yes,No,N/A,8.0,No
+CNT-71463,12/17/2023,103,304,Resolved,4.0,22.31,phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-71464,03/02/2023,104,182,Pending,4.0,34.47,Email,Litige paiement,Yes,No,Compliant,7.0,No
+CNT-71465,10/27/2023,109,283,Pending,5.0,20.29,Phone,Souscription contrat,Yes,Yes,Compliant,,No
+CNT-71466,04/10/2023,104,263,Unresolved,,32.72,Email,Souscription contrat,Yes,No,Compliant,8.0,No
+CNT-71467,04/20/2023,107,225,Resolved,4.0,26.49,Email,Déménagement,Yes,No,Compliant,8.0,No
+CNT-71468,10/16/2023,107,169,Unresolved,3.0,29.95,Email,Panne compteur,Yes,No,Compliant,,No
+CNT-71469,12/02/2023,101,286,Unresolved,3.0,29.39,Email,Demande d'information,,No,Compliant,8.0,No
+CNT-71470,03/30/2023,109,274,Pending,,42.14,Chat,Résiliation,Yes,No,Compliant,3.0,No
+CNT-71471,08/08/2023,109,198,resolved,5.0,,Email,Résiliation,Yes,No,Compliant,8.0,No
+CNT-71472,03/10/2023,101,182,resolved,5.0,44.35,phone,Changement d'offre,Yes,No,Compliant,6.0,No
+CNT-71473,05/01/2023,102,324,Resolved,4.0,23.04,Phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-71474,08/07/2023,109,512,resolved,5.0,19.15,Phone,Demande d'information,Yes,No,Compliant,3.0,No
+CNT-71475,02/11/2023,107,224,Resolved,5.0,40.63,Email,Réclamation,Yes,No,Compliant,,No
+CNT-71476,01/03/2023,102,248,resolved,5.0,33.94,Social Media,Facturation,Yes,No,Compliant,,No
+CNT-71477,11/30/2023,106,262,Pending,,29.15,Phone,Réclamation,yes,No,Compliant,,No
+CNT-71478,04/16/2023,103,229,Resolved,3.0,31.18,Chat,Déménagement,No,No,N/A,8.0,No
+CNT-71479,07/30/2023,108,318,Pending,5.0,21.98,Email,Relevé compteur,Yes,Yes,Compliant,4.0,No
+CNT-71480,05/14/2023,105,374,Resolved,4.0,29.43,phone,Réclamation,Yes,No,Compliant,5.0,No
+CNT-71481,05/08/2023,105,207,Unresolved,5.0,25.26,Phone,Déménagement,yes,No,Compliant,,No
+CNT-71482,11/11/2023,109,261,Resolved,5.0,28.16,Chat,Réclamation,Yes,No,Compliant,6.0,Yes
+CNT-71483,04/10/2023,104,332,Unresolved,5.0,,Phone,Litige paiement,No,No,Non-compliant,6.0,No
+CNT-71484,06/06/2023,101,142,Resolved,2.0,22.32,Social Media,Panne compteur,Yes,No,Compliant,8.0,No
+CNT-71485,09/25/2023,102,345,resolved,5.0,47.21,Social Media,Résiliation,Yes,No,N/A,,No
+CNT-71486,03/31/2023,109,355,resolved,3.0,20.12,Phone,Panne compteur,Yes,No,Compliant,5.0,No
+CNT-71487,07/11/2023,109,312,Pending,4.0,31.3,phone,Demande d'information,No,No,Non-compliant,7.0,No
+CNT-71488,12/27/2023,108,263,Resolved,5.0,24.9,Social Media,Changement d'offre,Yes,No,Compliant,5.0,No
+CNT-71489,03/25/2023,101,135,resolved,5.0,,Social Media,Panne compteur,No,No,N/A,,No
+CNT-71490,09/29/2023,109,262,Pending,5.0,,Phone,Litige paiement,Yes,No,Non-compliant,,No
+CNT-71491,07/24/2023,106,278,Pending,1.0,40.76,Email,Relevé compteur,Yes,No,Compliant,,No
+CNT-71492,04/29/2023,104,303,Pending,,10.81,Email,Réclamation,Yes,No,Compliant,7.0,No
+CNT-71493,05/16/2023,105,337,Unresolved,5.0,15.46,Email,Relevé compteur,Yes,No,Compliant,7.0,Yes
+CNT-71494,12/24/2023,101,172,Unresolved,5.0,18.88,Phone,Demande d'information,Yes,No,Compliant,,No
+CNT-71495,02/09/2023,101,102,Resolved,4.0,11.65,Email,Souscription contrat,Yes,No,Compliant,,No
+CNT-71496,09/07/2023,108,84,Resolved,3.0,41.64,Email,Souscription contrat,No,No,Compliant,,No
+CNT-71497,05/26/2023,105,283,resolved,5.0,9.33,Chat,Réclamation,Yes,No,Compliant,,No
+CNT-71498,03/01/2023,103,358,resolved,,47.28,Phone,Panne compteur,Yes,No,Non-compliant,9.0,Yes
+CNT-71499,12/08/2023,107,351,Unresolved,5.0,17.57,Phone,Résiliation,Yes,No,Non-compliant,2.0,No
+CNT-71500,12/17/2023,101,176,Pending,5.0,31.38,Chat,Relevé compteur,Yes,No,Compliant,5.0,Yes
+CNT-71501,09/14/2023,103,395,Pending,4.0,35.81,Email,Relevé compteur,Yes,No,Compliant,8.0,No
+CNT-71502,08/02/2023,108,408,Unresolved,,12.38,Email,Déménagement,Yes,No,N/A,,No
+CNT-71503,09/20/2023,101,347,Resolved,,23.58,Social Media,Facturation,Yes,No,Compliant,5.0,No
+CNT-71504,01/28/2023,108,98,Resolved,3.0,16.08,Phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-71505,10/07/2023,104,215,Unresolved,,14.7,Chat,Facturation,Yes,Yes,Compliant,7.0,No
+CNT-71506,07/09/2023,109,248,Unresolved,3.0,11.58,Social Media,Réclamation,Yes,No,Non-compliant,,No
+CNT-71507,06/30/2023,107,30,resolved,5.0,47.8,Phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-71508,05/01/2023,106,337,resolved,3.0,16.09,Email,Litige paiement,No,No,Compliant,,No
+CNT-71509,07/31/2023,102,349,Pending,2.0,33.76,Email,Facturation,yes,No,Compliant,,No
+CNT-71510,11/04/2023,101,296,Unresolved,5.0,39.65,Phone,Réclamation,Yes,No,Compliant,9.0,No
+CNT-71511,06/22/2023,102,262,Pending,1.0,32.61,Email,Résiliation,Yes,No,Compliant,,No
+CNT-71512,02/21/2023,105,242,Unresolved,,9.62,phone,Réclamation,Yes,No,Compliant,,No
+CNT-71513,02/11/2023,106,278,resolved,4.0,37.3,phone,Relevé compteur,Yes,No,N/A,8.0,No
+CNT-71514,07/30/2023,101,173,Resolved,,34.77,Chat,Litige paiement,Yes,No,Compliant,9.0,No
+CNT-71515,01/25/2023,105,352,resolved,5.0,46.61,Phone,Déménagement,Yes,No,Compliant,5.0,No
+CNT-71516,05/26/2023,102,154,Unresolved,1.0,13.37,phone,Réclamation,Yes,No,Compliant,7.0,No
+CNT-71517,12/06/2023,102,191,resolved,2.0,14.35,phone,Panne compteur,Yes,No,Compliant,9.0,No
+CNT-71518,09/22/2023,106,76,Unresolved,2.0,37.97,phone,Changement d'offre,Yes,No,Compliant,7.0,No
+CNT-71519,01/03/2023,106,190,Unresolved,5.0,44.68,Email,Demande d'information,Yes,No,Compliant,8.0,No
+CNT-71520,03/18/2023,102,275,Unresolved,3.0,13.2,phone,Litige paiement,No,No,Compliant,7.0,No
+CNT-71521,07/05/2023,103,408,Resolved,3.0,38.1,Chat,Souscription contrat,yes,No,Compliant,,No
+CNT-71522,12/12/2023,105,190,Pending,3.0,43.54,Social Media,Litige paiement,Yes,No,Compliant,,Yes
+CNT-71523,04/26/2023,108,236,Unresolved,5.0,22.87,Email,Demande d'information,No,No,Compliant,8.0,No
+CNT-71524,11/04/2023,103,302,Unresolved,5.0,45.99,Social Media,Panne compteur,Yes,No,N/A,8.0,No
+CNT-71525,12/30/2023,104,228,Resolved,5.0,22.9,Social Media,Relevé compteur,Yes,No,N/A,,No
+CNT-71526,07/25/2023,106,361,Unresolved,5.0,39.07,phone,Changement d'offre,Yes,No,Compliant,9.0,No
+CNT-71527,02/10/2023,107,75,resolved,5.0,11.59,phone,Demande d'information,Yes,No,N/A,,Yes
+CNT-71528,12/29/2023,105,314,Pending,4.0,19.75,Chat,Panne compteur,Yes,No,Non-compliant,9.0,No
+CNT-71529,09/27/2023,102,271,Unresolved,1.0,46.26,Social Media,Panne compteur,Yes,No,Non-compliant,3.0,No
+CNT-71530,03/18/2023,109,179,resolved,4.0,39.24,phone,Demande d'information,Yes,No,Non-compliant,9.0,No
+CNT-71531,12/16/2023,107,338,Pending,5.0,41.69,phone,Réclamation,Yes,No,Compliant,10.0,No
+CNT-71532,07/26/2023,104,342,Unresolved,2.0,42.3,Email,Panne compteur,Yes,No,Compliant,8.0,No
+CNT-71533,03/22/2023,105,162,Resolved,5.0,23.7,Social Media,Déménagement,Yes,Yes,Compliant,,No
+CNT-71534,01/13/2023,103,295,Pending,5.0,42.74,Social Media,Relevé compteur,Yes,Yes,Compliant,6.0,No
+CNT-71535,05/31/2023,107,265,Unresolved,4.0,26.87,phone,Facturation,Yes,No,Compliant,8.0,No
+CNT-71536,10/06/2023,106,82,Unresolved,5.0,15.69,Chat,Litige paiement,Yes,No,Compliant,6.0,No
+CNT-71537,10/05/2023,106,289,Resolved,3.0,28.77,phone,Déménagement,Yes,No,Compliant,7.0,No
+CNT-71538,07/31/2023,104,421,resolved,4.0,48.06,phone,Résiliation,No,No,Compliant,,Yes
+CNT-71539,10/08/2023,101,-9,Pending,,33.76,Social Media,Demande d'information,Yes,Yes,Compliant,9.0,No
+CNT-71540,01/28/2023,109,162,Resolved,5.0,49.86,Chat,Relevé compteur,Yes,No,Compliant,,No
+CNT-71541,03/17/2023,106,287,Resolved,5.0,40.69,Chat,Facturation,Yes,Yes,Compliant,,No
+CNT-71542,08/19/2023,104,237,Resolved,4.0,29.59,Social Media,Réclamation,Yes,No,Compliant,8.0,No
+CNT-71543,10/23/2023,101,N/A,Resolved,,30.41,Email,Résiliation,No,No,Compliant,8.0,No
+CNT-71544,04/03/2023,109,320,Pending,5.0,46.02,Phone,Réclamation,Yes,No,Compliant,,No
+CNT-71545,03/27/2023,103,162,Resolved,,15.71,Email,Changement d'offre,Yes,No,Compliant,,No
+CNT-71546,02/05/2023,103,281,Unresolved,1.0,20.2,Phone,Facturation,No,No,Compliant,,No
+CNT-71547,04/10/2023,104,222,Pending,,34.58,phone,Souscription contrat,Yes,No,N/A,6.0,No
+CNT-71548,11/30/2023,101,152,Resolved,5.0,42.42,Phone,Résiliation,Yes,No,Compliant,3.0,No
+CNT-71549,04/29/2023,101,378,Unresolved,,31.55,Phone,Résiliation,,No,Compliant,,No
+CNT-71550,03/28/2023,107,296,resolved,3.0,44.61,phone,Relevé compteur,Yes,Yes,Compliant,10.0,No
+CNT-71551,03/27/2023,102,310,Resolved,5.0,9.83,Phone,Facturation,Yes,Yes,Compliant,8.0,No
+CNT-71552,05/20/2023,109,229,Resolved,4.0,27.13,Email,Changement d'offre,No,No,N/A,8.0,No
+CNT-71553,08/06/2023,103,240,Pending,2.0,45.49,Social Media,Facturation,Yes,Yes,Compliant,6.0,No
+CNT-71554,07/08/2023,106,378,Pending,4.0,22.41,Chat,Réclamation,Yes,No,N/A,5.0,No
+CNT-71555,08/12/2023,101,249,resolved,4.0,,Social Media,Litige paiement,Yes,No,Compliant,9.0,Yes
+CNT-71556,04/16/2023,107,333,resolved,,,Phone,Changement d'offre,Yes,Yes,Compliant,,No
+CNT-71557,06/15/2023,108,230,Unresolved,5.0,26.46,Phone,Litige paiement,Yes,No,N/A,9.0,No
+CNT-71558,03/11/2023,102,193,Pending,3.0,47.9,phone,Facturation,Yes,No,Compliant,9.0,No
+CNT-71559,03/08/2023,101,333,Resolved,4.0,32.56,Email,Panne compteur,Yes,No,Non-compliant,10.0,No
+CNT-71560,08/08/2023,106,231,Resolved,4.0,29.2,Email,Résiliation,Yes,No,Compliant,10.0,No
+CNT-71561,02/16/2023,106,278,Unresolved,,45.94,phone,Changement d'offre,Yes,No,Compliant,7.0,No
+CNT-71562,04/07/2023,108,207,Pending,5.0,16.06,Email,Relevé compteur,Yes,No,Compliant,8.0,No
+CNT-71563,03/07/2023,107,78,Unresolved,5.0,38.93,Social Media,Réclamation,Yes,No,Compliant,,No
+CNT-71564,12/28/2023,109,207,Pending,3.0,36.19,Social Media,Panne compteur,Yes,No,Compliant,7.0,No
+CNT-71565,08/17/2023,103,152,resolved,4.0,28.77,Email,Relevé compteur,Yes,No,Compliant,,No
+CNT-71566,11/02/2023,107,295,Resolved,5.0,18.44,Chat,Facturation,Yes,No,Compliant,,No
+CNT-71567,01/18/2023,107,195,Unresolved,,25.99,Chat,Panne compteur,Yes,No,Non-compliant,,No
+CNT-71568,04/25/2023,101,146,Pending,,45.88,Email,Résiliation,Yes,Yes,Compliant,9.0,No
+CNT-71569,05/04/2023,109,131,resolved,4.0,39.41,Social Media,Réclamation,Yes,No,Compliant,,Yes
+CNT-71570,10/30/2023,102,267,resolved,4.0,,Social Media,Relevé compteur,,No,Compliant,,No
+CNT-71571,08/14/2023,103,296,Pending,5.0,18.91,Chat,Réclamation,Yes,No,Non-compliant,8.0,No
+CNT-71572,01/15/2023,102,139,resolved,3.0,,phone,Résiliation,Yes,No,Compliant,7.0,No
+CNT-71573,05/01/2023,102,144,Pending,1.0,,Social Media,Panne compteur,Yes,Yes,Non-compliant,,No
+CNT-71574,02/26/2023,101,379,resolved,1.0,30.76,Chat,Litige paiement,Yes,No,Compliant,7.0,No
+CNT-71575,11/30/2023,106,140,resolved,2.0,24.8,Social Media,Panne compteur,Yes,No,Compliant,0.0,No
+CNT-71576,02/19/2023,108,229,resolved,4.0,41.2,Social Media,Souscription contrat,Yes,No,Compliant,,No
+CNT-71577,09/25/2023,103,238,resolved,4.0,13.61,Phone,Litige paiement,Yes,No,N/A,7.0,No
+CNT-71578,01/14/2023,105,184,Unresolved,3.0,12.01,Chat,Facturation,No,No,Compliant,8.0,No
+CNT-71579,10/06/2023,102,407,Resolved,3.0,42.32,Phone,Relevé compteur,Yes,Yes,Non-compliant,4.0,No
+CNT-71580,10/24/2023,107,112,resolved,5.0,45.68,phone,Réclamation,Yes,No,Compliant,,No
+CNT-71581,02/12/2023,108,304,resolved,,10.86,Phone,Réclamation,Yes,No,Compliant,5.0,Yes
+CNT-71582,04/30/2023,103,324,Unresolved,4.0,38.08,Phone,Réclamation,Yes,No,Compliant,,No
+CNT-71583,09/20/2023,109,184,Resolved,3.0,20.86,Email,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-71584,05/26/2023,109,160,Resolved,3.0,30.16,Chat,Changement d'offre,Yes,No,Compliant,,No
+CNT-71585,02/05/2023,104,N/A,resolved,5.0,46.32,Email,Résiliation,Yes,Yes,Compliant,10.0,Yes
+CNT-71586,09/08/2023,105,80,Resolved,4.0,39.51,phone,Réclamation,Yes,No,Compliant,4.0,No
+CNT-71587,04/26/2023,108,434,Unresolved,,48.6,Email,Facturation,Yes,No,Compliant,7.0,No
+CNT-71588,05/08/2023,109,206,Pending,5.0,46.43,Social Media,Résiliation,Yes,No,Compliant,,Yes
+CNT-71589,06/04/2023,106,219,resolved,4.0,36.43,phone,Demande d'information,Yes,Yes,Non-compliant,,No
+CNT-71590,08/03/2023,103,456,Resolved,4.0,39.57,phone,Facturation,Yes,No,Non-compliant,9.0,No
+CNT-71591,06/15/2023,108,93,resolved,3.0,40.69,Email,Demande d'information,No,No,Compliant,7.0,No
+CNT-71592,12/06/2023,106,246,Resolved,3.0,,Phone,Facturation,Yes,No,Non-compliant,9.0,No
+CNT-71593,03/02/2023,109,338,Unresolved,5.0,21.03,Phone,Litige paiement,Yes,Yes,Compliant,8.0,No
+CNT-71594,03/30/2023,103,150,Pending,1.0,33.38,Email,Relevé compteur,Yes,Yes,Compliant,7.0,No
+CNT-71595,04/24/2023,107,441,Resolved,2.0,26.22,Phone,Souscription contrat,Yes,No,Compliant,3.0,Yes
+CNT-71596,11/09/2023,101,249,resolved,4.0,37.33,Social Media,Réclamation,Yes,No,Compliant,10.0,No
+CNT-71597,08/31/2023,109,140,resolved,4.0,41.77,Phone,Relevé compteur,Yes,No,Compliant,4.0,No
+CNT-71598,06/10/2023,101,133,Pending,5.0,26.0,phone,Déménagement,Yes,No,Compliant,,No
+CNT-71599,06/07/2023,105,257,Pending,,41.24,Social Media,Relevé compteur,Yes,No,Non-compliant,,No
+CNT-71600,08/07/2023,108,427,Pending,4.0,29.8,Phone,Facturation,No,No,Compliant,8.0,No
+CNT-71601,07/24/2023,109,185,Pending,3.0,18.89,Email,Relevé compteur,Yes,No,N/A,,No
+CNT-71602,12/09/2023,106,113,Resolved,4.0,11.75,phone,Résiliation,yes,No,Compliant,9.0,No
+CNT-71603,02/27/2023,101,272,Unresolved,5.0,29.62,Email,Panne compteur,Yes,No,Compliant,,No
+CNT-71604,04/01/2023,102,447,Unresolved,,39.53,Chat,Déménagement,Yes,No,Compliant,8.0,No
+CNT-71605,03/25/2023,101,259,Unresolved,4.0,38.84,Chat,Résiliation,yes,No,Compliant,,Yes
+CNT-71606,03/14/2023,107,436,resolved,5.0,32.65,Phone,Panne compteur,Yes,No,Compliant,,No
+CNT-71607,05/09/2023,107,139,Unresolved,2.0,26.28,Email,Demande d'information,Yes,No,Compliant,,No
+CNT-71608,07/22/2023,105,318,Pending,,16.91,Chat,Déménagement,Yes,Yes,Compliant,10.0,No
+CNT-71609,02/08/2023,101,272,Unresolved,4.0,46.14,Email,Demande d'information,Yes,Yes,N/A,8.0,No
+CNT-71610,02/05/2023,107,246,resolved,5.0,20.81,Email,Souscription contrat,No,No,Compliant,,No
+CNT-71611,08/22/2023,107,228,Pending,5.0,34.68,Social Media,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-71612,01/21/2023,102,307,Unresolved,4.0,27.79,phone,Facturation,Yes,Yes,Compliant,8.0,No
+CNT-71613,06/04/2023,103,363,Resolved,,47.25,Social Media,Résiliation,Yes,No,Compliant,7.0,No
+CNT-71614,09/28/2023,103,259,Pending,5.0,37.78,phone,Réclamation,No,No,Compliant,,No
+CNT-71615,08/26/2023,105,388,resolved,2.0,32.24,Phone,Relevé compteur,No,No,Compliant,7.0,No
+CNT-71616,07/24/2023,105,85,Unresolved,4.0,27.95,Phone,Résiliation,Yes,No,Compliant,,No
+CNT-71617,05/27/2023,106,350,Resolved,5.0,12.2,Email,Changement d'offre,No,No,Compliant,8.0,No
+CNT-71618,11/10/2023,109,397,Pending,4.0,48.08,Chat,Facturation,Yes,No,Compliant,,No
+CNT-71619,01/29/2023,104,N/A,Pending,4.0,,Social Media,Changement d'offre,Yes,No,Compliant,8.0,Yes
+CNT-71620,04/03/2023,107,266,resolved,4.0,33.87,phone,Résiliation,Yes,No,Compliant,,No
+CNT-71621,10/19/2023,104,312,Pending,,16.61,phone,Demande d'information,No,No,Compliant,,No
+CNT-71622,12/30/2023,108,216,Pending,4.0,20.67,phone,Relevé compteur,Yes,No,Compliant,5.0,No
+CNT-71623,10/02/2023,108,279,Unresolved,4.0,36.4,phone,Demande d'information,Yes,No,Compliant,7.0,Yes
+CNT-71624,05/20/2023,107,231,Unresolved,4.0,43.11,Phone,Réclamation,Yes,No,Compliant,9.0,No
+CNT-71625,04/24/2023,106,248,Resolved,4.0,,Social Media,Déménagement,Yes,No,Compliant,9.0,No
+CNT-71626,07/13/2023,104,219,Resolved,4.0,12.07,Phone,Facturation,No,Yes,Compliant,7.0,No
+CNT-71627,12/26/2023,104,242,resolved,,19.32,phone,Panne compteur,Yes,Yes,Compliant,8.0,No
+CNT-71628,07/13/2023,108,313,Resolved,5.0,22.19,Phone,Changement d'offre,Yes,No,Compliant,,No
+CNT-71629,03/19/2023,104,197,Pending,5.0,41.99,Chat,Litige paiement,Yes,No,Compliant,8.0,No
+CNT-71630,03/02/2023,101,257,Unresolved,4.0,37.21,Email,Litige paiement,Yes,Yes,Compliant,,No
+CNT-71631,07/17/2023,104,129,Pending,5.0,35.73,Chat,Changement d'offre,Yes,No,Compliant,,No
+CNT-71632,10/10/2023,102,331,Resolved,3.0,18.37,Email,Réclamation,No,No,Compliant,,No
+CNT-71633,03/23/2023,105,277,Resolved,4.0,29.24,Phone,Résiliation,Yes,No,Non-compliant,,Yes
+CNT-71634,12/19/2023,106,124,Unresolved,4.0,16.8,Chat,Déménagement,No,No,Compliant,8.0,Yes
+CNT-71635,04/01/2023,105,335,resolved,4.0,27.81,Phone,Relevé compteur,Yes,Yes,Compliant,0.0,No
+CNT-71636,04/16/2023,109,119,Pending,3.0,21.33,Email,Déménagement,Yes,Yes,Compliant,,No
+CNT-71637,10/02/2023,103,323,Unresolved,5.0,34.16,Phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-71638,01/09/2023,107,275,Resolved,5.0,41.1,Phone,Demande d'information,,Yes,Compliant,,No
+CNT-71639,09/24/2023,105,298,resolved,5.0,24.04,Chat,Litige paiement,Yes,Yes,Non-compliant,7.0,No
+CNT-71640,10/21/2023,106,225,resolved,5.0,42.09,Social Media,Facturation,Yes,No,N/A,8.0,No
+CNT-71641,02/05/2023,102,88,Pending,5.0,27.71,Phone,Demande d'information,Yes,Yes,Compliant,,No
+CNT-71642,01/08/2023,105,225,Resolved,3.0,14.37,Chat,Facturation,Yes,No,Compliant,,No
+CNT-71643,06/13/2023,106,155,Resolved,3.0,44.7,Social Media,Demande d'information,Yes,Yes,Compliant,5.0,No
+CNT-71644,04/01/2023,102,322,Resolved,4.0,48.87,Social Media,Déménagement,Yes,No,Compliant,8.0,No
+CNT-71645,04/24/2023,103,285,Unresolved,4.0,29.38,Social Media,Souscription contrat,Yes,No,N/A,8.0,No
+CNT-71646,04/05/2023,104,190,Unresolved,3.0,18.14,Email,Panne compteur,No,No,Compliant,3.0,No
+CNT-71647,12/06/2023,103,199,Resolved,4.0,38.05,Chat,Panne compteur,Yes,No,Compliant,,No
+CNT-71648,07/09/2023,107,421,Resolved,5.0,36.28,Email,Réclamation,Yes,No,Compliant,8.0,No
+CNT-71649,03/06/2023,101,382,Pending,4.0,24.25,Phone,Déménagement,Yes,No,Compliant,,No
+CNT-71650,11/25/2023,102,275,Resolved,5.0,13.32,Phone,Panne compteur,Yes,No,Compliant,7.0,No
+CNT-71651,01/13/2023,104,398,Pending,5.0,41.68,Email,Réclamation,Yes,No,Compliant,9.0,No
+CNT-71652,07/19/2023,104,231,Resolved,5.0,15.01,Social Media,Demande d'information,yes,No,Compliant,10.0,No
+CNT-71653,09/09/2023,108,15,Unresolved,5.0,44.58,Phone,Changement d'offre,Yes,No,Non-compliant,10.0,No
+CNT-71654,09/07/2023,103,352,Pending,4.0,36.51,phone,Litige paiement,Yes,No,Compliant,,No
+CNT-71655,10/22/2023,107,189,Resolved,4.0,33.52,Social Media,Facturation,No,No,Non-compliant,10.0,No
+CNT-71656,12/21/2023,104,202,Pending,4.0,10.94,Phone,Réclamation,Yes,Yes,Compliant,,No
+CNT-71657,10/11/2023,107,196,Unresolved,5.0,18.87,phone,Déménagement,Yes,No,Compliant,0.0,No
+CNT-71658,06/22/2023,106,N/A,Resolved,3.0,24.02,phone,Facturation,Yes,Yes,N/A,6.0,No
+CNT-71659,05/15/2023,107,213,Pending,,39.94,phone,Relevé compteur,Yes,No,Non-compliant,,No
+CNT-71660,07/10/2023,101,403,Unresolved,4.0,49.03,phone,Déménagement,,No,Compliant,8.0,No
+CNT-71661,09/18/2023,108,229,Pending,4.0,18.83,phone,Souscription contrat,Yes,No,Compliant,8.0,No
+CNT-71662,09/04/2023,102,293,Pending,4.0,42.51,Chat,Souscription contrat,Yes,No,Compliant,,No
+CNT-71663,08/09/2023,109,358,Pending,4.0,35.72,Chat,Souscription contrat,Yes,No,Compliant,,Yes
+CNT-71664,05/17/2023,104,114,resolved,,11.87,Social Media,Changement d'offre,Yes,No,Compliant,6.0,No
+CNT-71665,10/15/2023,101,219,resolved,4.0,30.96,Email,Relevé compteur,Yes,No,Compliant,,No
+CNT-71666,04/26/2023,108,357,Pending,5.0,40.53,Chat,Panne compteur,yes,No,Non-compliant,,No
+CNT-71667,07/23/2023,107,N/A,Pending,4.0,20.55,Social Media,Panne compteur,yes,No,Non-compliant,8.0,Yes
+CNT-71668,12/16/2023,107,155,resolved,4.0,41.51,phone,Relevé compteur,yes,No,Compliant,,No
+CNT-71669,12/16/2023,106,160,Unresolved,5.0,47.45,phone,Litige paiement,Yes,No,Non-compliant,7.0,No
+CNT-71670,08/02/2023,104,310,Pending,5.0,18.95,Social Media,Résiliation,No,No,Compliant,8.0,No
+CNT-71671,09/11/2023,101,394,Pending,5.0,30.56,phone,Demande d'information,Yes,No,Compliant,8.0,No
+CNT-71672,01/18/2023,107,328,Unresolved,,24.87,Phone,Changement d'offre,Yes,No,Non-compliant,,Yes
+CNT-71673,04/05/2023,103,200,Resolved,5.0,43.18,Email,Réclamation,Yes,No,Non-compliant,2.0,Yes
+CNT-71674,03/01/2023,104,374,Unresolved,4.0,22.67,Email,Changement d'offre,No,No,Non-compliant,8.0,No
+CNT-71675,02/06/2023,108,218,Unresolved,4.0,27.05,Social Media,Relevé compteur,No,No,Compliant,7.0,No
+CNT-71676,06/04/2023,106,194,Resolved,4.0,47.88,Email,Déménagement,Yes,Yes,Compliant,,No
+CNT-71677,10/03/2023,107,277,Pending,3.0,32.52,phone,Relevé compteur,Yes,Yes,Compliant,7.0,No
+CNT-71678,09/05/2023,109,384,resolved,5.0,44.5,Social Media,Facturation,Yes,No,Compliant,2.0,No
+CNT-71679,07/23/2023,101,262,Unresolved,,30.41,phone,Litige paiement,Yes,No,Non-compliant,,No
+CNT-71680,05/03/2023,105,283,Unresolved,,23.52,Phone,Facturation,Yes,No,Compliant,,No
+CNT-71681,12/18/2023,104,N/A,resolved,4.0,28.03,Phone,Changement d'offre,Yes,Yes,Compliant,,No
+CNT-71682,04/20/2023,102,166,resolved,3.0,42.73,Social Media,Souscription contrat,Yes,No,N/A,,No
+CNT-71683,01/13/2023,101,90,Unresolved,4.0,33.33,Email,Changement d'offre,Yes,Yes,Compliant,9.0,Yes
+CNT-71684,02/17/2023,103,165,Resolved,3.0,22.77,phone,Déménagement,Yes,No,Compliant,9.0,No
+CNT-71685,04/17/2023,108,169,Unresolved,3.0,43.57,Social Media,Facturation,No,No,Compliant,5.0,No
+CNT-71686,07/29/2023,103,285,Resolved,2.0,18.3,Chat,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-71687,12/28/2023,109,334,Resolved,,17.98,phone,Relevé compteur,Yes,No,Non-compliant,3.0,No
+CNT-71688,08/29/2023,102,209,Pending,,43.22,Phone,Résiliation,No,No,Non-compliant,,No
+CNT-71689,01/07/2023,103,104,resolved,5.0,40.61,Phone,Facturation,Yes,No,Compliant,10.0,No
+CNT-71690,07/13/2023,109,267,resolved,4.0,46.37,Phone,Réclamation,No,Yes,Compliant,9.0,No
+CNT-71691,09/27/2023,104,395,Resolved,5.0,22.36,phone,Panne compteur,Yes,No,N/A,8.0,No
+CNT-71692,09/03/2023,107,308,Resolved,4.0,31.11,phone,Relevé compteur,Yes,No,Compliant,,No
+CNT-71693,04/21/2023,104,180,Pending,2.0,44.04,phone,Réclamation,Yes,No,Compliant,,No
+CNT-71694,11/12/2023,107,357,Pending,1.0,10.65,phone,Facturation,Yes,No,Compliant,9.0,No
+CNT-71695,12/31/2023,104,129,Pending,5.0,33.99,phone,Changement d'offre,No,No,Compliant,,No
+CNT-71696,08/15/2023,107,174,resolved,4.0,17.83,Chat,Souscription contrat,Yes,No,Compliant,9.0,No
+CNT-71697,12/10/2023,101,400,Pending,4.0,31.04,phone,Réclamation,Yes,No,Compliant,,No
+CNT-71698,03/24/2023,102,210,Pending,3.0,19.35,Social Media,Facturation,Yes,No,Compliant,5.0,Yes
+CNT-71699,06/26/2023,109,353,Pending,3.0,20.44,phone,Réclamation,Yes,No,Compliant,,No
+CNT-71700,10/20/2023,107,245,Pending,4.0,9.15,Phone,Résiliation,Yes,No,Compliant,,No
+CNT-71701,07/24/2023,102,306,Pending,5.0,,phone,Réclamation,Yes,No,Compliant,7.0,No
+CNT-71702,01/02/2023,107,330,Pending,2.0,14.27,Email,Réclamation,Yes,No,Compliant,,No
+CNT-71703,07/19/2023,104,359,Pending,4.0,49.38,phone,Déménagement,Yes,No,Compliant,,No
+CNT-71704,12/10/2023,101,261,Resolved,4.0,24.67,Phone,Changement d'offre,Yes,No,Compliant,,No
+CNT-71705,07/25/2023,106,507,Resolved,3.0,,Email,Déménagement,Yes,No,Compliant,6.0,No
+CNT-71706,09/14/2023,107,234,Pending,4.0,,Chat,Résiliation,Yes,No,Compliant,,Yes
+CNT-71707,04/24/2023,109,299,Resolved,4.0,20.72,Chat,Demande d'information,Yes,Yes,Compliant,4.0,No
+CNT-71708,10/03/2023,106,293,Unresolved,2.0,33.42,Phone,Résiliation,Yes,No,Compliant,8.0,No
+CNT-71709,10/01/2023,101,211,Pending,2.0,33.97,Phone,Panne compteur,yes,No,Compliant,,Yes
+CNT-71710,12/26/2023,106,323,Pending,5.0,40.38,Social Media,Facturation,Yes,No,N/A,,No
+CNT-71711,02/04/2023,103,142,Resolved,5.0,23.67,phone,Déménagement,Yes,No,Compliant,,No
+CNT-71712,05/23/2023,104,203,Pending,2.0,40.08,Chat,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-71713,04/19/2023,103,372,resolved,,10.38,Email,Relevé compteur,Yes,No,Compliant,2.0,Yes
+CNT-71714,03/12/2023,104,307,resolved,4.0,49.23,phone,Litige paiement,Yes,No,Non-compliant,,No
+CNT-71715,07/31/2023,105,265,Resolved,4.0,20.55,phone,Panne compteur,Yes,No,Non-compliant,,No
+CNT-71716,10/30/2023,104,189,Unresolved,5.0,44.81,Chat,Litige paiement,Yes,No,Compliant,7.0,No
+CNT-71717,11/04/2023,101,250,Resolved,4.0,32.31,Email,Souscription contrat,Yes,No,Compliant,9.0,No
+CNT-71718,09/13/2023,109,171,Unresolved,4.0,47.82,Social Media,Relevé compteur,No,No,Compliant,10.0,No
+CNT-71719,09/14/2023,108,233,resolved,5.0,30.74,phone,Demande d'information,Yes,No,Compliant,9.0,No
+CNT-71720,05/29/2023,107,169,resolved,1.0,20.1,Chat,Facturation,Yes,No,Compliant,10.0,No
+CNT-71721,05/30/2023,107,128,Resolved,,33.67,Phone,Changement d'offre,,No,Compliant,,No
+CNT-71722,09/11/2023,106,388,Resolved,4.0,26.35,phone,Facturation,Yes,No,Compliant,7.0,No
+CNT-71723,12/06/2023,105,244,Pending,5.0,19.34,Phone,Résiliation,Yes,No,Compliant,6.0,No
+CNT-71724,06/21/2023,107,297,Resolved,2.0,47.37,Social Media,Demande d'information,Yes,No,Compliant,0.0,No
+CNT-71725,10/29/2023,102,206,Resolved,3.0,29.98,Social Media,Résiliation,Yes,No,Compliant,9.0,No
+CNT-71726,03/09/2023,103,239,Unresolved,5.0,41.39,phone,Demande d'information,Yes,No,Compliant,,No
+CNT-71727,10/28/2023,107,166,Pending,4.0,26.99,phone,Facturation,Yes,Yes,Compliant,7.0,No
+CNT-71728,11/29/2023,105,428,resolved,,32.85,Social Media,Facturation,Yes,No,Compliant,10.0,No
+CNT-71729,07/03/2023,102,58,Unresolved,4.0,44.11,Phone,Réclamation,Yes,Yes,Compliant,,No
+CNT-71730,03/23/2023,108,352,resolved,2.0,32.2,phone,Souscription contrat,Yes,No,Compliant,10.0,No
+CNT-71731,03/31/2023,105,204,resolved,3.0,21.32,Chat,Litige paiement,Yes,No,Compliant,,No
+CNT-71732,08/11/2023,109,165,Pending,4.0,34.53,Chat,Facturation,Yes,No,Compliant,,No
+CNT-71733,07/07/2023,102,121,Pending,4.0,18.46,Chat,Souscription contrat,Yes,No,N/A,0.0,No
+CNT-71734,12/17/2023,106,273,Pending,3.0,46.72,Email,Déménagement,Yes,No,Compliant,,No
+CNT-71735,03/19/2023,107,338,resolved,1.0,10.9,phone,Demande d'information,Yes,No,Non-compliant,,No
+CNT-71736,03/12/2023,108,326,Resolved,3.0,10.5,Social Media,Facturation,Yes,No,Compliant,10.0,No
+CNT-71737,03/27/2023,108,217,Pending,4.0,26.88,Phone,Changement d'offre,Yes,No,Compliant,,No
+CNT-71738,04/19/2023,101,238,Pending,5.0,43.39,Phone,Changement d'offre,No,No,N/A,,No
+CNT-71739,06/22/2023,105,163,Pending,5.0,34.55,Phone,Panne compteur,Yes,Yes,Compliant,,No
+CNT-71740,10/15/2023,106,178,Resolved,5.0,,Chat,Relevé compteur,Yes,No,Compliant,7.0,No
+CNT-71741,08/06/2023,104,388,Unresolved,4.0,47.72,phone,Déménagement,Yes,No,Compliant,9.0,Yes
+CNT-71742,08/06/2023,107,197,Resolved,5.0,26.49,Social Media,Litige paiement,Yes,Yes,Compliant,8.0,No
+CNT-71743,01/05/2023,101,428,resolved,4.0,46.67,Social Media,Résiliation,Yes,No,Compliant,,No
+CNT-71744,12/10/2023,102,429,resolved,4.0,26.1,Phone,Litige paiement,No,No,Compliant,7.0,No
+CNT-71745,06/29/2023,107,322,Resolved,4.0,18.17,phone,Litige paiement,Yes,No,Compliant,7.0,No
+CNT-71746,09/28/2023,107,332,Unresolved,3.0,29.56,phone,Souscription contrat,Yes,Yes,Compliant,6.0,No
+CNT-71747,12/11/2023,108,410,Pending,3.0,34.58,Chat,Réclamation,Yes,No,N/A,3.0,No
+CNT-71748,10/27/2023,101,321,resolved,5.0,47.87,Email,Demande d'information,Yes,No,Compliant,4.0,No
+CNT-71749,01/24/2023,102,198,Resolved,4.0,45.54,Chat,Relevé compteur,No,No,Compliant,,No
+CNT-71750,09/20/2023,105,171,Pending,4.0,42.14,Social Media,Litige paiement,Yes,No,Compliant,7.0,No
+CNT-71751,11/25/2023,106,91,Unresolved,5.0,33.4,Chat,Facturation,Yes,No,N/A,6.0,No
+CNT-71752,12/06/2023,109,337,resolved,4.0,30.98,Social Media,Facturation,Yes,No,Compliant,,No
+CNT-71753,01/29/2023,102,268,Resolved,5.0,30.11,Chat,Déménagement,Yes,No,Compliant,8.0,No
+CNT-71754,09/29/2023,104,176,Unresolved,4.0,43.66,Email,Souscription contrat,No,No,Compliant,5.0,No
+CNT-71755,02/20/2023,107,17,Resolved,4.0,33.98,Social Media,Résiliation,Yes,Yes,Compliant,9.0,Yes
+CNT-71756,07/27/2023,104,105,Unresolved,4.0,43.19,Email,Déménagement,Yes,No,Non-compliant,5.0,No
+CNT-71757,11/16/2023,101,343,Pending,4.0,15.8,Chat,Litige paiement,Yes,No,Compliant,5.0,No
+CNT-71758,02/15/2023,109,168,resolved,5.0,36.49,Chat,Litige paiement,Yes,No,Compliant,,No
+CNT-71759,04/06/2023,107,161,Unresolved,,17.93,phone,Facturation,Yes,No,Compliant,,No
+CNT-71760,10/04/2023,106,197,Resolved,5.0,15.04,Chat,Souscription contrat,Yes,No,Compliant,,No
+CNT-71761,11/15/2023,101,286,Unresolved,5.0,29.86,Chat,Déménagement,Yes,No,Compliant,7.0,No
+CNT-71762,01/31/2023,109,267,Pending,3.0,36.71,Phone,Litige paiement,Yes,No,N/A,,No
+CNT-71763,09/07/2023,101,283,Resolved,,34.63,Email,Changement d'offre,Yes,No,Compliant,,No
+CNT-71764,06/11/2023,105,158,Unresolved,5.0,31.29,Social Media,Réclamation,Yes,Yes,N/A,,No
+CNT-71765,04/19/2023,105,295,resolved,5.0,24.83,phone,Litige paiement,Yes,No,Compliant,7.0,No
+CNT-71766,07/22/2023,103,369,resolved,5.0,14.26,Chat,Litige paiement,Yes,No,Compliant,,No
+CNT-71767,01/17/2023,101,-7,Pending,4.0,23.74,phone,Résiliation,Yes,No,N/A,7.0,No
+CNT-71768,02/25/2023,106,225,resolved,5.0,45.54,Social Media,Facturation,No,No,Compliant,,No
+CNT-71769,03/25/2023,102,206,Pending,,28.79,Chat,Changement d'offre,Yes,No,Compliant,7.0,No
+CNT-71770,07/24/2023,105,N/A,Pending,3.0,13.75,Chat,Déménagement,Yes,No,Non-compliant,9.0,No
+CNT-71771,10/31/2023,103,N/A,resolved,3.0,17.21,Social Media,Panne compteur,Yes,No,Compliant,,No
+CNT-71772,08/12/2023,106,251,Unresolved,,42.07,Chat,Facturation,Yes,No,Non-compliant,,No
+CNT-71773,05/20/2023,104,197,resolved,4.0,33.02,Chat,Déménagement,Yes,Yes,Compliant,,No
+CNT-71774,05/07/2023,104,133,Resolved,4.0,23.1,phone,Déménagement,Yes,No,Compliant,,No
+CNT-71775,01/21/2023,101,305,Resolved,4.0,43.65,Phone,Souscription contrat,Yes,No,Compliant,3.0,No
+CNT-71776,07/23/2023,101,385,resolved,4.0,22.04,Social Media,Changement d'offre,No,No,Compliant,8.0,No
+CNT-71777,08/15/2023,108,253,Unresolved,5.0,22.89,phone,Facturation,Yes,Yes,Compliant,5.0,No
+CNT-71778,05/24/2023,106,338,Pending,,18.42,Social Media,Changement d'offre,Yes,No,Compliant,6.0,No
+CNT-71779,06/25/2023,107,N/A,resolved,5.0,48.89,Phone,Facturation,Yes,No,Compliant,9.0,No
+CNT-71780,10/25/2023,102,416,resolved,5.0,48.4,Phone,Demande d'information,Yes,No,Compliant,8.0,No
+CNT-71781,09/15/2023,105,327,Unresolved,3.0,25.6,Social Media,Facturation,Yes,Yes,N/A,7.0,No
+CNT-71782,12/04/2023,105,267,Unresolved,1.0,20.88,phone,Résiliation,Yes,No,Compliant,5.0,No
+CNT-71783,09/14/2023,107,226,resolved,5.0,26.75,phone,Facturation,Yes,No,N/A,8.0,No
+CNT-71784,12/24/2023,101,185,Resolved,4.0,28.93,Social Media,Facturation,Yes,No,Non-compliant,7.0,Yes
+CNT-71785,05/10/2023,107,258,Unresolved,4.0,26.48,Chat,Réclamation,Yes,No,Compliant,8.0,Yes
+CNT-71786,09/08/2023,106,352,Unresolved,,16.59,Social Media,Litige paiement,Yes,Yes,Compliant,,No
+CNT-71787,01/01/2023,101,394,Unresolved,5.0,17.45,Chat,Changement d'offre,Yes,No,Compliant,,No
+CNT-71788,11/15/2023,103,188,resolved,5.0,35.95,Email,Réclamation,No,No,Compliant,6.0,No
+CNT-71789,06/24/2023,108,204,resolved,4.0,49.77,Phone,Changement d'offre,No,No,Compliant,,No
+CNT-71790,09/12/2023,106,374,Unresolved,5.0,25.81,Chat,Relevé compteur,yes,Yes,Compliant,2.0,No
+CNT-71791,12/10/2023,105,422,resolved,3.0,21.82,Chat,Litige paiement,Yes,No,Compliant,,No
+CNT-71792,02/26/2023,109,73,Unresolved,5.0,40.58,Social Media,Relevé compteur,Yes,No,Non-compliant,,No
+CNT-71793,09/01/2023,107,257,resolved,5.0,14.43,Chat,Changement d'offre,Yes,No,Compliant,1.0,No
+CNT-71794,09/24/2023,109,326,resolved,5.0,14.12,phone,Réclamation,Yes,No,Compliant,7.0,No
+CNT-71795,05/16/2023,105,315,Pending,4.0,49.05,Phone,Litige paiement,yes,No,Non-compliant,,No
+CNT-71796,11/30/2023,104,95,resolved,3.0,32.86,Phone,Panne compteur,Yes,No,Compliant,,No
+CNT-71797,03/30/2023,105,257,Resolved,,26.22,phone,Réclamation,Yes,Yes,Compliant,5.0,No
+CNT-71798,03/22/2023,109,224,Pending,,36.22,Phone,Relevé compteur,Yes,No,Compliant,7.0,No
+CNT-71799,12/07/2023,102,123,Resolved,5.0,11.91,phone,Souscription contrat,Yes,No,Compliant,5.0,No
+CNT-71800,11/16/2023,107,333,Pending,5.0,11.57,Phone,Demande d'information,Yes,No,Compliant,,No
+CNT-71801,07/31/2023,103,390,Resolved,5.0,48.55,phone,Demande d'information,Yes,No,Compliant,7.0,No
+CNT-71802,11/19/2023,105,266,Unresolved,4.0,40.83,phone,Relevé compteur,Yes,No,Compliant,0.0,Yes
+CNT-71803,06/07/2023,101,226,Unresolved,,41.3,Social Media,Résiliation,No,No,Compliant,,No
+CNT-71804,03/17/2023,102,271,resolved,,28.77,Chat,Changement d'offre,Yes,No,Non-compliant,,No
+CNT-71805,08/28/2023,109,340,Unresolved,5.0,10.84,Chat,Panne compteur,Yes,Yes,Compliant,,Yes
+CNT-71806,10/01/2023,103,56,Resolved,3.0,40.69,Email,Panne compteur,Yes,No,Compliant,7.0,No
+CNT-71807,12/31/2023,108,398,Pending,1.0,25.56,Social Media,Panne compteur,No,No,Compliant,6.0,No
+CNT-71808,03/05/2023,102,194,Pending,5.0,14.45,Social Media,Souscription contrat,Yes,No,Compliant,10.0,No
+CNT-71809,03/09/2023,101,290,Resolved,5.0,14.73,Chat,Litige paiement,Yes,No,Compliant,8.0,No
+CNT-71810,12/31/2023,106,265,Resolved,,41.55,Chat,Panne compteur,Yes,No,Non-compliant,4.0,No
+CNT-71811,03/20/2023,102,N/A,Resolved,4.0,34.03,Chat,Réclamation,No,No,Non-compliant,,No
+CNT-71812,12/23/2023,105,438,resolved,5.0,22.93,Phone,Demande d'information,Yes,No,Compliant,0.0,Yes
+CNT-71813,08/14/2023,106,334,Pending,5.0,23.84,phone,Résiliation,Yes,No,Non-compliant,,No
+CNT-71814,12/20/2023,104,373,Unresolved,5.0,15.63,phone,Demande d'information,Yes,No,Compliant,,No
+CNT-71815,04/12/2023,101,160,Unresolved,2.0,,Phone,Demande d'information,Yes,No,Compliant,,No
+CNT-71816,09/23/2023,107,263,Unresolved,4.0,47.64,Chat,Relevé compteur,Yes,No,Compliant,6.0,No
+CNT-71817,06/27/2023,107,243,Resolved,4.0,33.99,phone,Résiliation,Yes,No,Non-compliant,,Yes
+CNT-71818,02/21/2023,106,326,resolved,4.0,29.39,Email,Panne compteur,Yes,No,Compliant,,No
+CNT-71819,07/07/2023,105,N/A,resolved,4.0,38.45,Email,Déménagement,No,No,Compliant,10.0,No
+CNT-71820,12/15/2023,102,207,Resolved,5.0,22.78,phone,Réclamation,Yes,Yes,Compliant,,No
+CNT-71821,08/10/2023,101,321,Pending,5.0,18.17,Phone,Relevé compteur,Yes,No,Compliant,6.0,No
+CNT-71822,07/07/2023,101,359,Pending,5.0,23.15,Email,Relevé compteur,Yes,No,Compliant,8.0,No
+CNT-71823,09/28/2023,101,247,Pending,4.0,24.35,Chat,Litige paiement,Yes,No,Compliant,6.0,No
+CNT-71824,11/25/2023,101,264,Unresolved,5.0,30.95,Social Media,Facturation,Yes,No,Non-compliant,9.0,No
+CNT-71825,03/15/2023,101,374,Pending,5.0,44.29,Email,Demande d'information,Yes,No,N/A,,No
+CNT-71826,01/22/2023,104,460,Resolved,3.0,12.51,Social Media,Changement d'offre,Yes,No,Compliant,,No
+CNT-71827,05/19/2023,107,249,resolved,5.0,16.32,Phone,Résiliation,Yes,Yes,N/A,,No
+CNT-71828,09/23/2023,102,246,Resolved,5.0,48.6,Phone,Résiliation,Yes,Yes,Compliant,8.0,No
+CNT-71829,01/10/2023,109,3,Resolved,4.0,48.8,phone,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-71830,11/10/2023,102,215,resolved,3.0,48.53,Chat,Réclamation,Yes,No,Non-compliant,,Yes
+CNT-71831,06/02/2023,108,345,resolved,,37.26,Chat,Relevé compteur,yes,No,Compliant,,No
+CNT-71832,04/16/2023,101,416,resolved,5.0,9.68,Email,Demande d'information,yes,Yes,Compliant,8.0,No
+CNT-71833,11/02/2023,104,176,Unresolved,4.0,14.99,Email,Facturation,Yes,No,Non-compliant,,No
+CNT-71834,07/02/2023,102,306,Unresolved,3.0,23.93,Phone,Panne compteur,Yes,No,Compliant,,No
+CNT-71835,04/16/2023,101,364,Resolved,3.0,29.53,Chat,Relevé compteur,Yes,Yes,Compliant,9.0,Yes
+CNT-71836,12/01/2023,102,284,Resolved,5.0,25.32,Chat,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-71837,07/02/2023,109,336,Resolved,5.0,13.93,phone,Souscription contrat,Yes,No,N/A,8.0,No
+CNT-71838,07/27/2023,109,144,Pending,5.0,29.44,Phone,Demande d'information,No,Yes,Non-compliant,9.0,No
+CNT-71839,09/02/2023,105,2,Unresolved,5.0,45.25,phone,Facturation,Yes,No,Compliant,6.0,No
+CNT-71840,04/28/2023,104,419,Unresolved,4.0,24.97,phone,Panne compteur,Yes,No,Non-compliant,7.0,No
+CNT-71841,05/28/2023,109,345,Resolved,5.0,10.19,phone,Souscription contrat,Yes,No,Compliant,9.0,Yes
+CNT-71842,10/27/2023,102,316,resolved,2.0,43.62,Phone,Résiliation,Yes,No,Compliant,,No
+CNT-71843,10/30/2023,102,356,resolved,5.0,33.62,phone,Demande d'information,Yes,No,N/A,4.0,No
+CNT-71844,01/01/2023,101,230,Unresolved,5.0,48.82,Phone,Demande d'information,Yes,No,Compliant,10.0,Yes
+CNT-71845,05/18/2023,103,160,Pending,4.0,23.4,Social Media,Panne compteur,Yes,No,Compliant,,No
+CNT-71846,12/16/2023,105,139,Pending,4.0,11.12,Email,Réclamation,No,No,Compliant,,No
+CNT-71847,09/05/2023,109,126,resolved,4.0,13.88,Social Media,Demande d'information,,Yes,Compliant,5.0,No
+CNT-71848,10/13/2023,102,304,resolved,1.0,11.6,Email,Changement d'offre,No,No,Compliant,,No
+CNT-71849,04/06/2023,101,219,Resolved,4.0,21.25,phone,Litige paiement,Yes,No,Compliant,,No
+CNT-71850,03/12/2023,102,412,resolved,5.0,24.35,phone,Résiliation,Yes,No,Compliant,,Yes
+CNT-71851,11/30/2023,103,386,resolved,5.0,,Email,Litige paiement,Yes,No,N/A,,No
+CNT-71852,12/07/2023,105,327,resolved,,42.26,Phone,Litige paiement,Yes,No,Non-compliant,8.0,No
+CNT-71853,03/06/2023,101,170,Pending,3.0,14.68,phone,Réclamation,Yes,Yes,Compliant,,No
+CNT-71854,12/01/2023,107,94,Pending,4.0,15.89,Phone,Déménagement,Yes,No,Compliant,8.0,No
+CNT-71855,09/23/2023,101,251,resolved,2.0,39.11,Social Media,Réclamation,Yes,Yes,Compliant,,No
+CNT-71856,04/01/2023,104,112,Unresolved,5.0,21.71,Chat,Réclamation,Yes,No,Compliant,9.0,No
+CNT-71857,04/24/2023,102,279,Resolved,4.0,48.63,phone,Changement d'offre,Yes,No,Non-compliant,9.0,No
+CNT-71858,03/17/2023,108,480,resolved,4.0,24.45,Phone,Litige paiement,Yes,No,Compliant,4.0,No
+CNT-71859,11/29/2023,106,188,resolved,4.0,12.19,phone,Panne compteur,Yes,Yes,Compliant,3.0,No
+CNT-71860,11/11/2023,103,416,Pending,5.0,20.77,Phone,Souscription contrat,Yes,No,Non-compliant,8.0,Yes
+CNT-71861,02/15/2023,108,94,Resolved,5.0,43.77,phone,Résiliation,Yes,Yes,Compliant,10.0,No
+CNT-71862,08/23/2023,105,221,Resolved,4.0,14.12,phone,Facturation,Yes,No,Non-compliant,5.0,No
+CNT-71863,03/21/2023,101,158,resolved,3.0,25.6,phone,Relevé compteur,Yes,No,Compliant,,No
+CNT-71864,09/06/2023,107,205,Unresolved,3.0,31.29,Social Media,Résiliation,Yes,No,N/A,,No
+CNT-71865,06/24/2023,101,13,resolved,4.0,20.27,Chat,Litige paiement,Yes,No,Compliant,,No
+CNT-71866,04/02/2023,102,386,Resolved,3.0,21.96,phone,Résiliation,Yes,No,Compliant,9.0,No
+CNT-71867,07/27/2023,103,582,Resolved,4.0,43.04,phone,Panne compteur,Yes,No,Compliant,,No
+CNT-71868,11/13/2023,102,61,Resolved,1.0,47.84,Email,Facturation,Yes,No,Compliant,10.0,No
+CNT-71869,10/14/2023,104,313,Unresolved,4.0,43.65,Chat,Demande d'information,Yes,No,Compliant,,No
+CNT-71870,06/06/2023,101,114,Unresolved,3.0,36.2,Phone,Changement d'offre,Yes,No,Non-compliant,,No
+CNT-71871,03/09/2023,103,179,Resolved,2.0,49.21,Email,Panne compteur,,Yes,N/A,,No
+CNT-71872,05/24/2023,101,348,Pending,3.0,22.49,Email,Résiliation,Yes,No,Compliant,7.0,No
+CNT-71873,08/27/2023,104,289,resolved,,25.69,Phone,Changement d'offre,Yes,Yes,Non-compliant,,No
+CNT-71874,10/29/2023,107,281,resolved,3.0,49.24,Email,Déménagement,Yes,Yes,Compliant,6.0,No
+CNT-71875,10/23/2023,107,293,Pending,4.0,40.77,Phone,Souscription contrat,Yes,No,N/A,10.0,No
+CNT-71876,01/08/2023,109,410,resolved,1.0,45.92,Email,Litige paiement,Yes,No,Compliant,,No
+CNT-71877,07/18/2023,106,10,Resolved,3.0,31.62,Chat,Résiliation,Yes,No,Compliant,,No
+CNT-71878,12/31/2023,105,217,Pending,,30.17,Email,Demande d'information,,No,Compliant,7.0,No
+CNT-71879,09/27/2023,102,N/A,resolved,1.0,12.97,Phone,Résiliation,Yes,No,Compliant,6.0,No
+CNT-71880,05/04/2023,102,211,Unresolved,2.0,25.6,Chat,Litige paiement,Yes,No,N/A,,No
+CNT-71881,11/02/2023,102,290,Resolved,4.0,41.99,Chat,Facturation,No,No,Compliant,,No
+CNT-71882,10/09/2023,103,381,Resolved,5.0,23.02,Chat,Facturation,Yes,No,Non-compliant,7.0,Yes
+CNT-71883,09/30/2023,105,248,resolved,4.0,48.26,phone,Relevé compteur,Yes,No,Compliant,,No
+CNT-71884,05/23/2023,101,296,resolved,3.0,18.51,Phone,Relevé compteur,Yes,No,Compliant,10.0,No
+CNT-71885,12/01/2023,106,313,resolved,,49.37,Social Media,Relevé compteur,Yes,No,Compliant,,No
+CNT-71886,08/16/2023,103,324,Pending,3.0,29.71,Phone,Facturation,Yes,No,Compliant,4.0,No
+CNT-71887,03/20/2023,103,260,Unresolved,5.0,28.35,phone,Demande d'information,Yes,No,Compliant,,No
+CNT-71888,05/27/2023,103,62,Pending,3.0,30.88,Social Media,Changement d'offre,Yes,No,Compliant,7.0,Yes
+CNT-71889,10/04/2023,107,199,Pending,5.0,27.55,Email,Litige paiement,No,No,Non-compliant,,No
+CNT-71890,10/05/2023,105,301,Resolved,,33.55,Phone,Relevé compteur,No,Yes,Compliant,8.0,No
+CNT-71891,12/31/2023,109,227,Unresolved,4.0,40.31,Phone,Relevé compteur,Yes,Yes,Compliant,,Yes
+CNT-71892,06/29/2023,108,272,Unresolved,5.0,,Social Media,Panne compteur,Yes,No,Compliant,4.0,No
+CNT-71893,03/06/2023,101,299,Resolved,4.0,,Chat,Facturation,Yes,No,Compliant,,No
+CNT-71894,05/04/2023,106,221,Resolved,1.0,28.3,Social Media,Changement d'offre,yes,Yes,Non-compliant,9.0,No
+CNT-71895,11/01/2023,109,136,resolved,,45.71,Email,Panne compteur,No,No,Compliant,9.0,No
+CNT-71896,02/25/2023,105,84,Resolved,5.0,39.45,Chat,Résiliation,Yes,No,Compliant,,No
+CNT-71897,10/30/2023,105,310,Unresolved,5.0,,Social Media,Résiliation,Yes,No,Compliant,6.0,Yes
+CNT-71898,01/31/2023,109,134,Resolved,5.0,32.65,Social Media,Relevé compteur,Yes,No,Compliant,,No
+CNT-71899,03/24/2023,105,262,Pending,3.0,46.37,Email,Litige paiement,Yes,No,Compliant,,No
+CNT-71900,05/05/2023,109,288,Unresolved,5.0,24.46,Social Media,Changement d'offre,Yes,No,Compliant,6.0,No
+CNT-71901,04/06/2023,105,374,Pending,,12.57,Chat,Réclamation,Yes,No,Compliant,,No
+CNT-71902,10/01/2023,108,423,Pending,5.0,23.77,phone,Litige paiement,Yes,No,Compliant,,No
+CNT-71903,01/28/2023,109,240,Resolved,,18.65,Chat,Réclamation,Yes,Yes,Compliant,10.0,No
+CNT-71904,09/26/2023,108,166,Pending,,14.94,Phone,Souscription contrat,Yes,Yes,Non-compliant,10.0,No
+CNT-71905,05/04/2023,103,295,Pending,4.0,13.23,Phone,Facturation,Yes,Yes,Compliant,6.0,No
+CNT-71906,04/15/2023,103,170,Resolved,5.0,43.55,Social Media,Litige paiement,Yes,No,Compliant,,No
+CNT-71907,08/27/2023,107,287,resolved,2.0,49.71,Chat,Changement d'offre,Yes,No,N/A,9.0,No
+CNT-71908,09/12/2023,102,186,resolved,1.0,38.18,Social Media,Litige paiement,No,No,Compliant,,No
+CNT-71909,12/04/2023,104,47,Resolved,3.0,47.42,Social Media,Litige paiement,Yes,No,Compliant,7.0,No
+CNT-71910,11/18/2023,104,311,resolved,4.0,37.24,Email,Changement d'offre,Yes,No,Compliant,,No
+CNT-71911,01/29/2023,108,192,Resolved,5.0,14.46,Phone,Déménagement,Yes,No,Non-compliant,2.0,No
+CNT-71912,03/31/2023,105,411,resolved,,17.97,Email,Relevé compteur,Yes,No,Non-compliant,5.0,No
+CNT-71913,09/15/2023,102,261,resolved,,44.72,Chat,Résiliation,Yes,No,Non-compliant,10.0,No
+CNT-71914,03/02/2023,107,105,resolved,5.0,38.56,phone,Relevé compteur,No,No,Compliant,8.0,No
+CNT-71915,02/11/2023,104,356,resolved,4.0,41.08,Social Media,Résiliation,Yes,No,Non-compliant,8.0,No
+CNT-71916,11/17/2023,103,241,Pending,4.0,37.13,Phone,Facturation,Yes,No,Compliant,,No
+CNT-71917,05/28/2023,109,319,Pending,1.0,33.71,phone,Réclamation,yes,No,N/A,7.0,No
+CNT-71918,01/18/2023,105,358,resolved,,9.13,Chat,Relevé compteur,,No,Compliant,10.0,No
+CNT-71919,04/23/2023,105,266,resolved,3.0,20.57,Phone,Changement d'offre,Yes,No,Compliant,8.0,No
+CNT-71920,11/21/2023,106,129,Resolved,4.0,46.22,Chat,Relevé compteur,Yes,No,Compliant,0.0,No
+CNT-71921,01/04/2023,109,275,resolved,,35.55,Social Media,Litige paiement,No,No,Compliant,6.0,No
+CNT-71922,10/06/2023,108,395,resolved,,27.49,Social Media,Changement d'offre,Yes,No,Compliant,9.0,No
+CNT-71923,11/01/2023,102,250,Unresolved,,31.9,Phone,Souscription contrat,No,No,Compliant,6.0,No
+CNT-71924,02/19/2023,103,301,Resolved,4.0,28.64,Social Media,Panne compteur,Yes,Yes,Compliant,7.0,No
+CNT-71925,06/01/2023,109,180,Unresolved,5.0,21.37,phone,Résiliation,Yes,Yes,Compliant,2.0,No
+CNT-71926,09/22/2023,105,114,Resolved,4.0,46.93,Email,Réclamation,No,No,Non-compliant,,No
+CNT-71927,11/29/2023,105,243,resolved,4.0,11.21,Phone,Panne compteur,Yes,No,Compliant,6.0,No
+CNT-71928,04/06/2023,108,263,Resolved,4.0,34.38,Chat,Réclamation,Yes,No,Compliant,8.0,No
+CNT-71929,12/31/2023,101,371,Pending,5.0,21.41,Email,Déménagement,Yes,Yes,Compliant,,No
+CNT-71930,04/05/2023,108,269,Unresolved,3.0,49.61,Phone,Litige paiement,Yes,No,Compliant,,No
+CNT-71931,05/28/2023,105,362,resolved,3.0,37.76,Phone,Relevé compteur,Yes,No,Non-compliant,9.0,No
+CNT-71932,07/12/2023,108,216,Unresolved,5.0,22.71,phone,Panne compteur,No,No,Compliant,,No
+CNT-71933,02/10/2023,101,126,Pending,5.0,23.1,Social Media,Déménagement,Yes,Yes,Compliant,,No
+CNT-71934,09/09/2023,106,307,resolved,5.0,10.56,phone,Relevé compteur,No,No,N/A,,No
+CNT-71935,10/22/2023,102,407,Unresolved,5.0,44.98,Social Media,Résiliation,Yes,No,Non-compliant,9.0,No
+CNT-71936,10/14/2023,103,203,resolved,4.0,30.84,Chat,Changement d'offre,No,No,Compliant,9.0,No
+CNT-71937,01/14/2023,103,322,Unresolved,,18.2,Phone,Résiliation,Yes,No,Compliant,5.0,No
+CNT-71938,05/17/2023,101,326,Pending,2.0,10.67,Social Media,Facturation,No,No,N/A,9.0,No
+CNT-71939,10/03/2023,106,115,resolved,5.0,48.75,Social Media,Souscription contrat,Yes,No,Compliant,4.0,Yes
+CNT-71940,01/26/2023,103,239,Unresolved,3.0,30.13,Phone,Changement d'offre,Yes,No,Compliant,3.0,No
+CNT-71941,03/13/2023,104,N/A,resolved,,28.11,Social Media,Relevé compteur,No,No,Compliant,,No
+CNT-71942,04/04/2023,106,295,Resolved,5.0,20.4,phone,Litige paiement,Yes,No,N/A,8.0,Yes
+CNT-71943,03/14/2023,105,331,Unresolved,4.0,27.32,Chat,Litige paiement,Yes,Yes,Non-compliant,,Yes
+CNT-71944,07/17/2023,105,313,Unresolved,5.0,16.19,Phone,Demande d'information,No,Yes,N/A,,No
+CNT-71945,12/01/2023,103,251,Pending,4.0,12.67,phone,Litige paiement,Yes,No,Compliant,8.0,No
+CNT-71946,12/23/2023,109,263,Resolved,5.0,36.05,Phone,Souscription contrat,Yes,No,Compliant,7.0,No
+CNT-71947,02/18/2023,107,368,resolved,,,Chat,Déménagement,Yes,No,Compliant,,No
+CNT-71948,07/28/2023,108,186,resolved,4.0,33.43,Phone,Réclamation,Yes,No,Compliant,,No
+CNT-71949,05/25/2023,108,270,Resolved,2.0,9.56,Social Media,Résiliation,Yes,Yes,Compliant,10.0,No
+CNT-71950,08/04/2023,103,308,resolved,5.0,21.47,Chat,Demande d'information,Yes,No,Compliant,,No
+CNT-71951,06/10/2023,107,240,Pending,,47.53,phone,Litige paiement,Yes,No,Compliant,6.0,No
+CNT-71952,03/21/2023,109,177,Unresolved,5.0,34.76,Phone,Panne compteur,Yes,No,Compliant,0.0,No
+CNT-71953,06/16/2023,101,149,resolved,3.0,40.23,Chat,Changement d'offre,Yes,No,Compliant,7.0,No
+CNT-71954,06/20/2023,106,363,Resolved,3.0,10.65,Chat,Résiliation,Yes,Yes,Compliant,0.0,No
+CNT-71955,07/14/2023,103,260,Unresolved,3.0,46.81,Phone,Résiliation,Yes,No,Compliant,5.0,No
+CNT-71956,01/09/2023,107,282,Resolved,4.0,25.44,phone,Résiliation,Yes,No,Compliant,9.0,No
+CNT-71957,04/13/2023,108,242,Unresolved,3.0,43.14,phone,Souscription contrat,Yes,Yes,N/A,8.0,No
+CNT-71958,06/11/2023,109,161,Resolved,,46.64,Phone,Réclamation,Yes,No,N/A,9.0,No
+CNT-71959,02/14/2023,107,312,Unresolved,4.0,19.07,Email,Changement d'offre,No,No,Compliant,9.0,No
+CNT-71960,10/22/2023,109,331,Pending,5.0,13.34,Social Media,Panne compteur,Yes,No,Compliant,,No
+CNT-71961,01/08/2023,109,202,resolved,4.0,18.1,phone,Facturation,Yes,Yes,Compliant,10.0,No
+CNT-71962,01/06/2023,101,388,Pending,4.0,15.05,Email,Réclamation,Yes,No,Compliant,,No
+CNT-71963,12/13/2023,106,261,Unresolved,,31.45,Chat,Demande d'information,No,No,Compliant,9.0,No
+CNT-71964,02/20/2023,104,333,Unresolved,5.0,,Email,Litige paiement,Yes,Yes,Compliant,8.0,No
+CNT-71965,12/24/2023,101,302,Resolved,,47.36,Chat,Résiliation,No,No,Compliant,3.0,No
+CNT-71966,02/14/2023,106,N/A,Pending,,26.78,Social Media,Résiliation,No,No,Non-compliant,8.0,No
+CNT-71967,04/30/2023,105,376,Unresolved,5.0,13.6,Social Media,Panne compteur,Yes,Yes,Compliant,7.0,No
+CNT-71968,08/27/2023,104,502,resolved,4.0,37.28,Phone,Relevé compteur,Yes,No,Compliant,7.0,No
+CNT-71969,06/05/2023,104,252,resolved,4.0,38.51,Chat,Changement d'offre,yes,No,Compliant,,No
+CNT-71970,12/16/2023,103,112,Resolved,3.0,47.63,phone,Réclamation,Yes,Yes,Non-compliant,8.0,No
+CNT-71971,05/15/2023,104,291,Resolved,5.0,37.56,Chat,Réclamation,No,No,Non-compliant,,No
+CNT-71972,07/24/2023,102,184,Unresolved,4.0,46.8,Email,Demande d'information,No,Yes,Compliant,8.0,No
+CNT-71973,05/08/2023,105,148,resolved,4.0,45.39,Chat,Souscription contrat,Yes,No,Compliant,8.0,No
+CNT-71974,05/25/2023,106,212,Unresolved,,10.99,Chat,Facturation,Yes,No,N/A,,No
+CNT-71975,06/14/2023,109,250,Unresolved,5.0,20.64,Social Media,Souscription contrat,Yes,No,Compliant,,No
+CNT-71976,06/28/2023,101,378,Unresolved,3.0,34.99,Social Media,Facturation,Yes,Yes,N/A,6.0,No
+CNT-71977,10/21/2023,105,441,resolved,4.0,38.41,Email,Déménagement,Yes,No,Compliant,2.0,No
+CNT-71978,08/08/2023,101,159,Unresolved,4.0,12.09,phone,Relevé compteur,No,No,Compliant,,No
+CNT-71979,09/11/2023,106,219,resolved,3.0,35.28,Email,Souscription contrat,Yes,No,Compliant,10.0,No
+CNT-71980,10/01/2023,106,317,Resolved,3.0,42.5,phone,Déménagement,Yes,No,Non-compliant,8.0,No
+CNT-71981,06/24/2023,102,332,Resolved,4.0,,Phone,Demande d'information,Yes,No,Compliant,,No
+CNT-71982,03/17/2023,101,381,Unresolved,5.0,20.14,Chat,Changement d'offre,Yes,No,Compliant,,No
+CNT-71983,07/04/2023,103,345,Unresolved,5.0,49.71,Phone,Résiliation,Yes,No,Compliant,7.0,No
+CNT-71984,06/04/2023,103,206,resolved,5.0,20.85,Phone,Changement d'offre,Yes,No,Compliant,4.0,No
+CNT-71985,11/12/2023,107,200,Resolved,4.0,48.99,phone,Changement d'offre,Yes,No,Non-compliant,,No
+CNT-71986,09/04/2023,106,295,Resolved,4.0,48.8,Social Media,Facturation,Yes,No,Compliant,8.0,No
+CNT-71987,11/15/2023,106,488,resolved,2.0,37.52,phone,Panne compteur,Yes,No,Compliant,,No
+CNT-71988,05/12/2023,107,245,Resolved,4.0,22.68,Phone,Résiliation,Yes,No,Compliant,,No
+CNT-71989,05/10/2023,101,N/A,Resolved,5.0,44.04,Social Media,Relevé compteur,No,Yes,Compliant,9.0,No
+CNT-71990,01/12/2023,107,339,Unresolved,5.0,22.81,Chat,Panne compteur,,Yes,Compliant,8.0,No
+CNT-71991,02/03/2023,101,261,Unresolved,4.0,38.35,Email,Panne compteur,Yes,No,Compliant,9.0,No
+CNT-71992,12/19/2023,107,491,Unresolved,,29.68,Phone,Réclamation,Yes,No,Compliant,6.0,No
+CNT-71993,10/22/2023,109,228,Pending,5.0,48.65,Chat,Résiliation,yes,No,Compliant,8.0,No
+CNT-71994,10/18/2023,106,152,Resolved,4.0,46.3,phone,Souscription contrat,Yes,No,N/A,,No
+CNT-71995,07/13/2023,105,343,Pending,,21.06,Phone,Relevé compteur,Yes,No,Compliant,9.0,Yes
+CNT-71996,07/25/2023,101,179,Resolved,5.0,45.9,phone,Panne compteur,Yes,No,Compliant,,No
+CNT-71997,11/03/2023,104,234,resolved,4.0,20.73,Chat,Litige paiement,Yes,No,Compliant,2.0,No
+CNT-71998,02/13/2023,107,290,resolved,2.0,42.03,Phone,Relevé compteur,Yes,No,Compliant,,No
+CNT-71999,09/04/2023,104,242,Pending,1.0,14.78,Email,Litige paiement,Yes,No,Non-compliant,9.0,Yes
+CNT-72000,10/21/2023,101,279,Unresolved,4.0,12.22,phone,Résiliation,Yes,No,Compliant,8.0,No
+CNT-72001,04/12/2023,103,272,Unresolved,4.0,42.83,Phone,Relevé compteur,Yes,Yes,N/A,,No
+CNT-72002,03/07/2023,102,456,Pending,4.0,29.21,Social Media,Souscription contrat,Yes,No,Compliant,7.0,No
+CNT-72003,09/05/2023,108,315,Resolved,5.0,37.61,Chat,Réclamation,No,No,N/A,,No
+CNT-72004,03/16/2023,107,255,Pending,,15.19,Phone,Demande d'information,Yes,No,Compliant,5.0,No
+CNT-72005,01/11/2023,104,209,Resolved,1.0,42.77,Email,Déménagement,Yes,No,Compliant,5.0,No
+CNT-72006,03/03/2023,105,213,Unresolved,5.0,26.58,Phone,Demande d'information,Yes,Yes,Non-compliant,,No
+CNT-72007,07/05/2023,103,69,Unresolved,3.0,40.67,phone,Déménagement,Yes,No,Compliant,8.0,No
+CNT-72008,12/06/2023,102,407,Resolved,5.0,12.01,Chat,Litige paiement,Yes,Yes,Compliant,,No
+CNT-72009,03/19/2023,104,250,Pending,3.0,16.86,phone,Facturation,Yes,No,Compliant,9.0,No
+CNT-72010,05/21/2023,106,324,resolved,5.0,12.07,Chat,Réclamation,Yes,No,Compliant,,No
+CNT-72011,10/15/2023,101,267,Unresolved,4.0,10.77,phone,Relevé compteur,No,Yes,Compliant,8.0,No
+CNT-72012,10/14/2023,103,301,resolved,4.0,25.36,Social Media,Demande d'information,Yes,No,Compliant,9.0,No
+CNT-72013,11/08/2023,104,159,Unresolved,4.0,42.85,Phone,Demande d'information,Yes,No,Non-compliant,,No
+CNT-72014,02/07/2023,108,352,Unresolved,4.0,37.09,Email,Changement d'offre,Yes,No,Compliant,,No
+CNT-72015,03/17/2023,104,113,Resolved,4.0,14.09,Social Media,Demande d'information,Yes,No,Compliant,7.0,No
+CNT-72016,03/06/2023,108,243,Unresolved,4.0,38.24,Chat,Déménagement,Yes,No,N/A,2.0,No
+CNT-72017,01/30/2023,105,305,Resolved,4.0,30.49,Email,Déménagement,Yes,No,Compliant,8.0,No
+CNT-72018,11/19/2023,106,314,Unresolved,4.0,,Social Media,Souscription contrat,Yes,No,Compliant,,Yes
+CNT-72019,12/18/2023,104,216,Resolved,4.0,42.55,Phone,Relevé compteur,No,No,Compliant,3.0,No
+CNT-72020,02/25/2023,106,407,Unresolved,4.0,19.57,Social Media,Panne compteur,No,Yes,N/A,,No
+CNT-72021,07/18/2023,108,86,resolved,,37.28,Phone,Litige paiement,Yes,Yes,Non-compliant,,No
+CNT-72022,12/07/2023,102,345,resolved,3.0,17.91,Social Media,Réclamation,Yes,No,Compliant,,No
+CNT-72023,07/22/2023,108,212,Pending,4.0,9.61,Chat,Facturation,Yes,No,Compliant,,No
+CNT-72024,03/01/2023,107,178,Pending,,29.84,Chat,Réclamation,No,No,Non-compliant,3.0,No
+CNT-72025,01/25/2023,101,199,resolved,3.0,17.35,Email,Litige paiement,Yes,No,Non-compliant,8.0,No
+CNT-72026,09/14/2023,106,182,Pending,4.0,37.99,phone,Litige paiement,Yes,Yes,N/A,0.0,Yes
+CNT-72027,04/20/2023,106,338,Resolved,2.0,32.72,Chat,Relevé compteur,Yes,No,Compliant,9.0,No
+CNT-72028,10/27/2023,106,296,Pending,,24.84,Phone,Déménagement,Yes,Yes,Compliant,10.0,No
+CNT-72029,03/28/2023,108,312,Pending,3.0,,phone,Relevé compteur,Yes,No,Compliant,0.0,No
+CNT-72030,12/17/2023,102,263,Pending,5.0,17.94,Chat,Résiliation,Yes,No,Compliant,8.0,No
+CNT-72031,04/25/2023,102,217,resolved,4.0,31.87,Email,Déménagement,Yes,No,Compliant,6.0,No
+CNT-72032,07/07/2023,103,505,Pending,4.0,31.59,Social Media,Relevé compteur,Yes,No,Compliant,,No
+CNT-72033,11/22/2023,103,151,resolved,5.0,48.36,Phone,Souscription contrat,Yes,No,Non-compliant,,No
+CNT-72034,11/03/2023,104,378,Unresolved,2.0,22.11,Chat,Panne compteur,No,No,Compliant,7.0,No
+CNT-72035,07/02/2023,101,277,Unresolved,4.0,26.96,Social Media,Souscription contrat,yes,No,N/A,6.0,No
+CNT-72036,05/26/2023,104,81,resolved,4.0,24.57,Chat,Résiliation,Yes,No,Compliant,4.0,No
+CNT-72037,01/27/2023,105,236,resolved,3.0,33.54,Phone,Changement d'offre,Yes,Yes,Compliant,6.0,No
+CNT-72038,10/02/2023,109,444,Unresolved,5.0,23.42,Phone,Panne compteur,Yes,No,Compliant,3.0,No
+CNT-72039,03/30/2023,107,368,resolved,5.0,21.95,Phone,Souscription contrat,Yes,Yes,Compliant,,No
+CNT-72040,02/16/2023,109,161,resolved,5.0,19.37,phone,Réclamation,Yes,No,N/A,9.0,No
+CNT-72041,05/26/2023,102,289,Unresolved,4.0,10.73,Phone,Demande d'information,Yes,No,N/A,8.0,Yes
+CNT-72042,12/02/2023,103,254,resolved,5.0,9.8,Social Media,Déménagement,Yes,No,Compliant,7.0,Yes
+CNT-72043,01/16/2023,104,N/A,Unresolved,5.0,19.06,Email,Facturation,Yes,No,Compliant,,No
+CNT-72044,03/10/2023,105,209,Resolved,3.0,26.91,Chat,Demande d'information,Yes,No,Compliant,8.0,No
+CNT-72045,12/23/2023,109,277,Pending,4.0,46.44,Social Media,Changement d'offre,No,No,Compliant,7.0,No
+CNT-72046,08/25/2023,104,193,Pending,2.0,46.92,Chat,Panne compteur,Yes,No,Non-compliant,,No
+CNT-72047,04/08/2023,108,359,Unresolved,,,phone,Résiliation,Yes,No,Compliant,8.0,No
+CNT-72048,07/30/2023,105,206,Resolved,3.0,49.76,phone,Demande d'information,No,No,Compliant,7.0,No
+CNT-72049,06/24/2023,107,238,Pending,4.0,44.67,phone,Réclamation,Yes,Yes,Compliant,7.0,No
+CNT-72050,09/09/2023,106,463,Unresolved,5.0,36.52,phone,Réclamation,Yes,Yes,Compliant,7.0,No
+CNT-72051,01/11/2023,102,218,Unresolved,,16.97,Email,Facturation,Yes,No,Compliant,7.0,No
+CNT-72052,10/17/2023,107,245,resolved,5.0,46.37,Chat,Demande d'information,No,No,Compliant,7.0,No
+CNT-72053,12/23/2023,107,118,Resolved,2.0,9.41,Chat,Déménagement,Yes,No,N/A,8.0,No
+CNT-72054,06/05/2023,105,N/A,Unresolved,4.0,37.16,phone,Réclamation,Yes,No,Compliant,,No
+CNT-72055,09/04/2023,107,224,resolved,5.0,11.4,phone,Demande d'information,Yes,No,Non-compliant,4.0,No
+CNT-72056,12/12/2023,102,433,Resolved,4.0,11.71,Email,Panne compteur,Yes,No,Compliant,4.0,No
+CNT-72057,04/20/2023,107,92,Unresolved,1.0,14.54,Chat,Litige paiement,Yes,No,Compliant,,No
+CNT-72058,08/24/2023,107,287,Unresolved,2.0,15.63,phone,Panne compteur,Yes,No,Compliant,9.0,No
+CNT-72059,03/06/2023,106,468,resolved,1.0,30.94,Email,Panne compteur,Yes,No,Compliant,,No
+CNT-72060,10/17/2023,107,198,resolved,3.0,9.26,Social Media,Demande d'information,Yes,No,Compliant,,No
+CNT-72061,08/12/2023,109,280,Resolved,3.0,15.18,Social Media,Réclamation,Yes,No,Compliant,10.0,No
+CNT-72062,06/23/2023,109,393,resolved,,20.55,Chat,Facturation,No,No,Compliant,9.0,No
+CNT-72063,05/05/2023,104,226,Pending,5.0,34.65,phone,Souscription contrat,Yes,No,Compliant,9.0,No
+CNT-72064,11/02/2023,107,115,Pending,5.0,30.08,phone,Litige paiement,Yes,Yes,Non-compliant,,No
+CNT-72065,02/06/2023,109,211,Resolved,2.0,41.7,Phone,Réclamation,Yes,No,Non-compliant,,No
+CNT-72066,09/01/2023,109,288,Unresolved,,22.88,Social Media,Résiliation,Yes,No,Compliant,8.0,No
+CNT-72067,06/17/2023,101,287,Unresolved,5.0,41.53,phone,Panne compteur,Yes,No,Non-compliant,,No
+CNT-72068,06/20/2023,108,328,resolved,4.0,47.88,Social Media,Changement d'offre,Yes,No,Compliant,6.0,No
+CNT-72069,11/08/2023,109,176,Unresolved,5.0,9.56,Phone,Réclamation,Yes,Yes,Non-compliant,6.0,No
+CNT-72070,10/05/2023,109,458,Resolved,3.0,37.77,Chat,Demande d'information,No,Yes,Compliant,,No
+CNT-72071,10/03/2023,101,179,Resolved,5.0,16.22,Chat,Changement d'offre,Yes,No,Compliant,,No
+CNT-72072,02/20/2023,104,267,resolved,5.0,15.74,Email,Panne compteur,,No,Non-compliant,5.0,No
+CNT-72073,01/13/2023,109,292,resolved,,9.84,Email,Facturation,Yes,No,Compliant,5.0,No
+CNT-72074,07/27/2023,106,282,Pending,4.0,33.74,Email,Changement d'offre,,Yes,Compliant,,No
+CNT-72075,06/27/2023,103,150,Unresolved,4.0,37.16,Social Media,Panne compteur,Yes,Yes,Non-compliant,6.0,Yes
+CNT-72076,07/03/2023,106,395,resolved,,48.95,phone,Changement d'offre,Yes,No,Compliant,9.0,No
+CNT-72077,04/17/2023,107,207,Unresolved,5.0,20.11,Phone,Relevé compteur,Yes,No,Compliant,,Yes
+CNT-72078,09/01/2023,107,301,Resolved,,37.14,phone,Panne compteur,No,No,Compliant,10.0,No
+CNT-72079,05/28/2023,101,279,Unresolved,,36.93,Phone,Demande d'information,Yes,No,Compliant,8.0,Yes
+CNT-72080,04/17/2023,102,279,resolved,4.0,32.06,Chat,Souscription contrat,Yes,No,Compliant,,No
+CNT-72081,05/18/2023,108,108,resolved,,37.71,phone,Réclamation,Yes,No,N/A,7.0,No
+CNT-72082,04/22/2023,108,199,Unresolved,,34.52,Chat,Souscription contrat,yes,No,Compliant,5.0,No
+CNT-72083,09/28/2023,101,300,Resolved,1.0,22.31,Email,Panne compteur,Yes,No,Compliant,8.0,No
+CNT-72084,02/25/2023,102,112,resolved,2.0,44.51,Social Media,Résiliation,Yes,No,Compliant,7.0,No
+CNT-72085,09/04/2023,103,237,Resolved,1.0,33.03,phone,Souscription contrat,Yes,No,Compliant,,No
+CNT-72086,10/29/2023,108,270,resolved,,14.08,Phone,Résiliation,Yes,No,Compliant,0.0,No
+CNT-72087,06/11/2023,108,323,resolved,4.0,16.01,Chat,Litige paiement,Yes,No,Non-compliant,10.0,Yes
+CNT-72088,11/09/2023,105,268,Pending,5.0,25.9,phone,Réclamation,Yes,No,Compliant,,No
+CNT-72089,01/16/2023,106,241,Resolved,3.0,21.6,Email,Résiliation,Yes,No,Compliant,,No
+CNT-72090,09/25/2023,104,284,Unresolved,4.0,11.62,Chat,Souscription contrat,Yes,No,Compliant,9.0,No
+CNT-72091,04/25/2023,108,235,Unresolved,4.0,20.88,Email,Réclamation,Yes,No,Compliant,5.0,Yes
+CNT-72092,09/27/2023,108,173,Pending,,29.84,Email,Résiliation,Yes,No,Compliant,5.0,No
+CNT-72093,07/10/2023,102,210,resolved,2.0,9.48,Phone,Panne compteur,Yes,No,Compliant,7.0,Yes
+CNT-72094,05/23/2023,104,299,Unresolved,,21.73,Chat,Déménagement,Yes,No,Non-compliant,5.0,No
+CNT-72095,06/21/2023,109,241,Unresolved,5.0,23.78,Email,Litige paiement,No,No,Non-compliant,,No
+CNT-72096,09/12/2023,101,519,Unresolved,4.0,42.16,Chat,Demande d'information,Yes,No,Compliant,,No
+CNT-72097,03/10/2023,109,147,Resolved,2.0,16.8,Chat,Facturation,Yes,No,Compliant,5.0,No
+CNT-72098,09/29/2023,106,296,Resolved,5.0,38.63,Phone,Changement d'offre,Yes,No,Compliant,,No
+CNT-72099,03/12/2023,108,312,Resolved,5.0,12.56,Email,Changement d'offre,Yes,No,Compliant,,No
+CNT-71057,03/31/2023,107,172,Pending,5.0,23.22,Chat,Litige paiement,Yes,No,Compliant,,No
+CNT-72074,07/27/2023,106,282,Pending,4.0,33.74,Email,Changement d'offre,,Yes,Compliant,,No
+CNT-71260,01/14/2023,102,381,Pending,4.0,35.43,Email,Demande d'information,Yes,No,Compliant,3.0,No
+CNT-72027,04/20/2023,106,338,Resolved,2.0,32.72,Chat,Relevé compteur,Yes,No,Compliant,9.0,No
+CNT-72058,08/24/2023,107,287,Unresolved,2.0,15.63,phone,Panne compteur,Yes,No,Compliant,9.0,No
+CNT-70301,04/24/2023,103,276,resolved,4.0,48.81,phone,Souscription contrat,Yes,No,Compliant,6.0,No
+CNT-70273,12/27/2023,103,352,resolved,5.0,38.95,Phone,Déménagement,Yes,No,Compliant,,No
+CNT-71314,07/27/2023,101,160,resolved,4.0,25.09,Chat,Changement d'offre,Yes,No,Compliant,7.0,No
+CNT-70896,05/12/2023,102,480,Resolved,,30.19,Phone,Litige paiement,Yes,Yes,N/A,8.0,No
+CNT-71579,10/06/2023,102,407,Resolved,3.0,42.32,Phone,Relevé compteur,Yes,Yes,Non-compliant,4.0,No
+CNT-71875,10/23/2023,107,293,Pending,4.0,40.77,Phone,Souscription contrat,Yes,No,N/A,10.0,No
+CNT-70131,07/11/2023,105,217,Resolved,,15.88,phone,Déménagement,Yes,No,Compliant,8.0,No
+CNT-70582,12/09/2023,107,288,Pending,3.0,18.94,Chat,Déménagement,No,No,Compliant,10.0,No
+CNT-70398,10/04/2023,107,380,Unresolved,1.0,34.52,Email,Déménagement,Yes,No,Compliant,6.0,No
+CNT-71900,05/05/2023,109,288,Unresolved,5.0,24.46,Social Media,Changement d'offre,Yes,No,Compliant,6.0,No
+CNT-70236,07/28/2023,101,344,Resolved,5.0,41.91,Phone,Relevé compteur,Yes,No,Compliant,,No
+CNT-72078,09/01/2023,107,301,Resolved,,37.14,phone,Panne compteur,No,No,Compliant,10.0,No
+CNT-71404,09/25/2023,106,150,Pending,3.0,21.18,Chat,Litige paiement,No,No,N/A,7.0,No
