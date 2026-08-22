@@ -1,0 +1,1816 @@
+﻿Reference_Dossier;Date;ID Agent;Durée_Traitement_Sec;Dossier_Cloture;Note_Satisfaction_Client;Prix_Prestation;Type_Contact;Objet;Traite;Appel Repris;Conforme;NPS;Réclammation
+DOS50000;21/01/2023;AG019;348;Oui;5;27,28;Chat;Changement d'offre;Oui;Non;Oui;9;Oui
+DOS50001;31/01/2023;AG012;276;Non;3;24,11;Courrier;Déménagement;Oui;Non;Non Renseigné;;Non
+DOS50002;06/05/2023;AG003;114;Non;5;24,25;Email;Relevé compteur;Oui;Non;Oui;10;Oui
+DOS50003;07/06/2023;AG012;156;Oui;5;51,21;Email;Facturation;Oui;Non;Oui;;Non
+DOS50004;16/07/2023;AG003;342;Non;5;50,74;Courrier;Facturation;Oui;Non;Non Renseigné;;Oui
+DOS50005;04/01/2023;AG003;528;Non;3;25,46;Chat;Résiliation;Non;Non;Non Renseigné;;Oui
+DOS50006;23/12/2023;AG012;318;Oui;5;33,05;Courrier;Déménagement;Non;Non;Oui;2;Oui
+DOS50007;06/01/2023;AG008;642;Oui;5;31,61;Email;Réclamation;Oui;Oui;Non;1;Non
+DOS50008;27/03/2023;AG008;390;Oui;5;31,41;Chat;Souscription contrat;Non;Oui;Oui;10;Non
+DOS50009;05/05/2023;AG003;222;Non;;53,22;Courrier;Litige paiement;Non;Non;Oui;8;Non
+DOS50010;27/09/2023;AG008;414;Oui;;52,45;Chat;Relevé compteur;Oui;Non;Oui;6;Oui
+DOS50011;29/07/2023;AG011;174;Non;;40,53;Téléphone;Souscription contrat;Non;Non;Oui;;Non
+DOS50012;12/06/2023;AG008;330;Oui;;27,49;Chat;Facturation;Oui;Non;Non;8;Non
+DOS50013;14/03/2023;AG008;330;Non;2;37,81;Téléphone;Résiliation;Non;Non;Non;6;Oui
+DOS50014;11/11/2023;AG012;324;Oui;4;21,91;Téléphone;Relevé compteur;Non;Non;Oui;;Oui
+DOS50015;30/07/2023;AG025;168;Oui;5;43,98;Email;Facturation;Oui;Non;Non;;Non
+DOS50016;04/10/2023;AG008;18;Non;5;23,56;Chat;Réclamation;Non;Non;Non Renseigné;;Non
+DOS50017;20/10/2023;AG025;;Non;3;54,94;Téléphone;Résiliation;Non;Non;Non;;Oui
+DOS50018;21/04/2023;AG003;282;Non;5;53,8;Téléphone;Demande d'information;Non;Oui;Oui;6;Oui
+DOS50019;01/02/2023;AG008;354;Oui;4;18,14;Email;Relevé compteur;Oui;Oui;Oui;;Non
+DOS50020;10/12/2023;AG003;486;Oui;5;27,77;Courrier;Résiliation;Non;Oui;Oui;7;Non
+DOS50021;14/09/2023;AG012;354;Oui;;54,05;Courrier;Changement d'offre;Non;Non;Non;8;Oui
+DOS50022;11/06/2023;AG019;174;Non;3;32,04;Courrier;Facturation;Non;Non;Non Renseigné;8;Oui
+DOS50023;02/01/2023;AG025;288;Oui;4;;Email;Souscription contrat;Oui;Non;Oui;;Oui
+DOS50024;07/07/2023;AG011;294;Non;4;37,53;Courrier;Changement d'offre;Oui;Non;Oui;;Non
+DOS50025;05/12/2023;AG012;462;Non;5;23,5;Chat;Souscription contrat;Non;Non;Non;;Non
+DOS50026;13/07/2023;AG012;120;Non;;53,06;Téléphone;Réclamation;Oui;Non;Oui;;Oui
+DOS50027;25/05/2023;AG012;;Non;5;32,78;Téléphone;Panne compteur;Oui;Oui;Oui;4;Oui
+DOS50028;19/07/2023;AG007;192;Non;4;22,51;Chat;Relevé compteur;Non;Non;Non Renseigné;7;Oui
+DOS50029;02/07/2023;AG011;246;Oui;3;47,81;Téléphone;Déménagement;Oui;Non;Oui;;Non
+DOS50030;17/01/2023;AG019;402;Oui;4;21,97;Courrier;Réclamation;Non;Non;Non;;Non
+DOS50031;04/06/2023;AG007;336;Oui;1;17,21;Téléphone;Demande d'information;Oui;Non;Oui;6;Oui
+DOS50032;23/06/2023;AG012;312;Non;3;54,93;Courrier;Réclamation;Non;Non;Non;;Non
+DOS50033;28/04/2023;AG025;288;Non;3;41,88;Téléphone;Réclamation;Non;Non;Oui;;Oui
+DOS50034;23/12/2023;AG011;402;Oui;5;45,61;Email;Demande d'information;Oui;Non;Non Renseigné;7;Non
+DOS50035;05/05/2023;AG012;270;Non;;12,66;Courrier;Facturation;Oui;Non;Oui;;Oui
+DOS50036;22/02/2023;AG019;246;Oui;5;;Courrier;Facturation;Non;Non;Oui;;Non
+DOS50037;15/09/2023;AG011;420;Oui;5;21,73;Téléphone;Résiliation;Oui;Non;Non;;Oui
+DOS50038;05/09/2023;AG019;12;Oui;5;24,42;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+DOS50039;29/10/2023;AG019;186;Oui;5;19,41;Téléphone;Facturation;Oui;Non;Oui;5;Non
+DOS50040;18/10/2023;AG012;228;Oui;3;22,53;Téléphone;Relevé compteur;Non;Oui;Non Renseigné;;Non
+DOS50041;04/09/2023;AG012;432;Oui;5;21,36;Téléphone;Changement d'offre;Non;Non;Non;8;Non
+DOS50042;26/11/2023;AG003;330;Oui;2;38,03;Email;Litige paiement;Non;Oui;Non;;Non
+DOS50043;30/04/2023;AG012;180;Oui;4;42,34;Chat;Changement d'offre;Non;Non;Oui;;Oui
+DOS50044;14/06/2023;AG011;174;Oui;;26,2;Chat;Déménagement;Oui;Oui;Oui;8;Non
+DOS50045;16/03/2023;AG008;432;Non;;41,31;Chat;Déménagement;Non;Non;Non;9;Non
+DOS50046;12/11/2023;AG008;174;Oui;2;28,1;Email;Litige paiement;Oui;Non;Non Renseigné;7;Oui
+DOS50047;11/09/2023;AG025;240;Non;4;23,7;Chat;Facturation;Oui;Non;Oui;0;Oui
+DOS50048;21/02/2023;AG012;264;Non;5;14,79;Téléphone;Panne compteur;Oui;Oui;Oui;9;Non
+DOS50049;10/11/2023;AG012;372;Oui;;43,77;Courrier;Résiliation;Oui;Oui;Non Renseigné;;Oui
+DOS50050;07/03/2023;AG007;252;Non;5;14,76;Email;Demande d'information;Non;Oui;Non;;Non
+DOS50051;09/05/2023;AG003;156;Non;5;21,73;Téléphone;Déménagement;Non;Non;Non;8;Non
+DOS50052;29/04/2023;AG008;384;Oui;4;20,9;Chat;Facturation;Non;Non;Oui;;Non
+DOS50053;17/05/2023;AG003;378;Oui;3;26,44;Chat;Litige paiement;Oui;Non;Oui;;Non
+DOS50054;24/02/2023;AG011;498;Non;5;48,12;Téléphone;Demande d'information;Oui;Non;Oui;9;Oui
+DOS50055;27/07/2023;AG012;342;Non;;46,69;Téléphone;Changement d'offre;Oui;Non;Oui;3;Non
+DOS50056;16/11/2023;AG007;168;Non;;54,25;Email;Souscription contrat;Non;Non;Non;;Oui
+DOS50057;15/05/2023;AG019;492;Non;5;40,61;Téléphone;Relevé compteur;Non;Oui;Oui;7;Oui
+DOS50058;29/03/2023;AG007;264;Non;4;54,55;Email;Réclamation;Non;Non;Oui;;Non
+DOS50059;07/10/2023;AG025;408;Oui;3;18,78;Chat;Déménagement;Oui;Non;Non;10;Oui
+DOS50060;01/07/2023;AG025;486;Oui;;30,6;Chat;Panne compteur;Oui;Non;Oui;9;Oui
+DOS50061;12/09/2023;AG003;324;Oui;4;32,13;Téléphone;Relevé compteur;Oui;Non;Oui;1;Oui
+DOS50062;21/04/2023;AG003;306;Non;3;37,98;Email;Demande d'information;Non;Non;Oui;9;Non
+DOS50063;04/04/2023;AG008;342;Oui;5;14,35;Chat;Litige paiement;Non;Non;Oui;6;Non
+DOS50064;17/04/2023;AG008;366;Oui;5;29,37;Téléphone;Panne compteur;Non;Non;Non;9;Oui
+DOS50065;24/07/2023;AG007;432;Oui;;12,7;Courrier;Résiliation;Oui;Oui;Non;;Oui
+DOS50066;05/10/2023;AG012;288;Non;2;12,05;Email;Demande d'information;Oui;Non;Oui;;Non
+DOS50067;12/08/2023;AG025;318;Oui;;38,49;Courrier;Panne compteur;Non;Non;Non;;Non
+DOS50068;18/03/2023;AG025;252;Oui;3;40,09;Email;Changement d'offre;Oui;Non;Oui;;Non
+DOS50069;03/10/2023;AG008;252;Non;3;14,31;Courrier;Demande d'information;Non;Non;Oui;8;Oui
+DOS50070;28/12/2023;AG007;;Non;;36,95;Chat;Déménagement;Non;Oui;Oui;;Oui
+DOS50071;18/01/2023;AG012;258;Oui;5;40,46;Courrier;Panne compteur;Non;Non;Oui;10;Oui
+DOS50072;24/04/2023;AG011;198;Oui;5;15,84;Email;Demande d'information;Non;Oui;Oui;8;Non
+DOS50073;11/05/2023;AG012;414;Non;1;15,38;Courrier;Résiliation;Oui;Non;Oui;10;Non
+DOS50074;06/01/2023;AG008;390;Oui;4;21,36;Courrier;Facturation;Non;Non;Non Renseigné;9;Oui
+DOS50075;05/11/2023;AG025;300;Non;4;23,04;Chat;Demande d'information;Oui;Oui;Oui;10;Non
+DOS50076;20/03/2023;AG012;336;Oui;5;41,23;Chat;Souscription contrat;Oui;Non;Non;8;Non
+DOS50077;22/11/2023;AG025;210;Non;3;39,65;Email;Déménagement;Oui;Non;Oui;;Oui
+DOS50078;19/09/2023;AG008;306;Non;5;17,78;Téléphone;Changement d'offre;Non;Non;Non Renseigné;;Non
+DOS50079;30/03/2023;AG025;450;Non;;24,44;Courrier;Panne compteur;Non;Non;Oui;;Non
+DOS50080;02/05/2023;AG011;444;Non;2;34,83;Email;Changement d'offre;Non;Non;Oui;;Non
+DOS50081;02/08/2023;AG011;504;Non;3;41,37;Téléphone;Demande d'information;Non;Non;Non;8;Oui
+DOS50082;21/12/2023;AG012;414;Non;4;37,2;Courrier;Litige paiement;Oui;Non;Oui;6;Oui
+DOS50083;23/08/2023;AG008;348;Non;4;45,48;Courrier;Demande d'information;Oui;Non;Oui;7;Oui
+DOS50084;27/05/2023;AG019;408;Non;;50,79;Chat;Souscription contrat;Oui;Non;Oui;;Oui
+DOS50085;06/04/2023;AG007;174;Oui;4;28,59;Téléphone;Facturation;Non;Non;Oui;7;Oui
+DOS50086;28/03/2023;AG003;396;Non;4;14,56;Chat;Souscription contrat;Non;Non;Oui;9;Oui
+DOS50087;16/12/2023;AG012;420;Oui;4;37;Chat;Relevé compteur;Oui;Non;Non;8;Non
+DOS50088;20/10/2023;AG025;306;Oui;5;17,24;Chat;Demande d'information;Non;Non;Oui;9;Non
+DOS50089;24/02/2023;AG007;318;Oui;4;37,56;Chat;Panne compteur;Oui;Non;Oui;;Oui
+DOS50090;21/07/2023;AG025;282;Oui;4;35,29;Courrier;Réclamation;Non;Non;Oui;;Non
+DOS50091;25/12/2023;AG003;300;Oui;4;28,68;Email;Facturation;Non;Non;Oui;;Non
+DOS50092;10/02/2023;AG007;330;Non;3;47,36;Chat;Résiliation;Non;Non;Non;;Non
+DOS50093;16/11/2023;AG019;342;Oui;5;21,31;Courrier;Réclamation;Non;Non;Non Renseigné;8;Non
+DOS50094;20/05/2023;AG025;210;Oui;4;44,9;Téléphone;Demande d'information;Oui;Non;Oui;;Oui
+DOS50095;06/10/2023;AG011;234;Non;;52,76;Téléphone;Relevé compteur;Non;Non;Non;;Oui
+DOS50096;08/06/2023;AG025;390;Non;4;39,46;Courrier;Changement d'offre;Non;Non;Non Renseigné;3;Non
+DOS50097;23/10/2023;AG012;354;Oui;;28,67;Chat;Litige paiement;Oui;Non;Oui;;Oui
+DOS50098;08/06/2023;AG007;222;Non;4;13,35;Courrier;Changement d'offre;Non;Non;Oui;4;Non
+DOS50099;09/02/2023;AG019;294;Oui;5;41,91;Chat;Souscription contrat;Non;Non;Non;;Oui
+DOS50100;18/01/2023;AG019;522;Oui;4;35,98;Chat;Résiliation;Non;Non;Oui;;Non
+DOS50101;20/12/2023;AG011;66;Oui;4;23,93;Courrier;Litige paiement;Non;Non;Non Renseigné;8;Non
+DOS50102;29/08/2023;AG019;12;Non;4;28,7;Email;Déménagement;Oui;Non;Non;;Oui
+DOS50103;15/11/2023;AG019;66;Oui;4;47,29;Chat;Demande d'information;Oui;Non;Oui;;Oui
+DOS50104;04/07/2023;AG025;576;Non;2;50,51;Email;Facturation;Non;Non;Oui;1;Non
+DOS50105;22/05/2023;AG007;186;Oui;4;49,25;Courrier;Déménagement;Non;Non;Oui;7;Non
+DOS50106;14/10/2023;AG008;276;Oui;1;13,5;Email;Réclamation;Oui;Non;Oui;;Oui
+DOS50107;22/05/2023;AG019;378;Oui;4;23,23;Téléphone;Facturation;Non;Oui;Oui;;Oui
+DOS50108;02/01/2023;AG012;366;Oui;4;39,92;Courrier;Litige paiement;Non;Non;Oui;;Oui
+DOS50109;11/03/2023;AG011;282;Oui;5;15,51;Téléphone;Panne compteur;Oui;Non;Oui;8;Non
+DOS50110;13/02/2023;AG003;480;Non;4;48,96;Chat;Panne compteur;Oui;Non;Oui;9;Non
+DOS50111;27/07/2023;AG012;402;Non;4;52,45;Email;Facturation;Oui;Oui;Oui;;Non
+DOS50112;17/03/2023;AG019;234;Oui;;22,33;Email;Demande d'information;Oui;Non;Non;10;Oui
+DOS50113;22/05/2023;AG011;192;Non;;27,43;Courrier;Changement d'offre;Non;Non;Oui;;Oui
+DOS50114;12/02/2023;AG003;330;Oui;4;43,74;Chat;Relevé compteur;Non;Non;Oui;9;Oui
+DOS50115;08/12/2023;AG011;408;Non;5;33,08;Chat;Relevé compteur;Oui;Non;Oui;8;Non
+DOS50116;14/02/2023;AG003;528;Non;;21,26;Courrier;Changement d'offre;Non;Non;Oui;8;Oui
+DOS50117;03/06/2023;AG012;348;Oui;5;43,04;Email;Résiliation;Oui;Non;Oui;;Non
+DOS50118;28/08/2023;AG007;270;Oui;;44,1;Téléphone;Demande d'information;Non;Non;Oui;9;Non
+DOS50119;17/02/2023;AG008;462;Non;3;;Courrier;Litige paiement;Oui;Oui;Non;;Oui
+DOS50120;27/11/2023;AG019;444;Non;;54,65;Chat;Panne compteur;Oui;Non;Oui;;Non
+DOS50121;17/11/2023;AG025;402;Oui;5;26,85;Courrier;Litige paiement;Oui;Non;Oui;;Oui
+DOS50122;26/02/2023;AG007;174;Non;5;20,78;Chat;Litige paiement;Non;Non;Oui;9;Oui
+DOS50123;09/02/2023;AG011;276;Non;;41,82;Téléphone;Facturation;Oui;Non;Non;8;Oui
+DOS50124;06/11/2023;AG012;288;Oui;4;19,73;Téléphone;Relevé compteur;Non;Non;Oui;;Non
+DOS50125;17/10/2023;AG007;402;Oui;5;24,26;Email;Réclamation;Oui;Oui;Oui;;Non
+DOS50126;13/12/2023;AG012;96;Oui;5;22,04;Email;Facturation;Non;Non;Non;7;Oui
+DOS50127;14/11/2023;AG012;264;Non;5;43,65;Courrier;Panne compteur;Oui;Non;Non Renseigné;9;Non
+DOS50128;20/05/2023;AG007;312;Non;3;46,13;Courrier;Relevé compteur;Oui;Non;Non Renseigné;;Oui
+DOS50129;05/07/2023;AG025;288;Oui;5;23,45;Téléphone;Changement d'offre;Oui;Non;Oui;;Non
+DOS50130;21/07/2023;AG007;510;Non;3;40,17;Chat;Réclamation;Oui;Non;Oui;9;Oui
+DOS50131;28/01/2023;AG011;432;Non;;31,17;Email;Déménagement;Non;Oui;Oui;7;Non
+DOS50132;17/10/2023;AG008;432;Oui;4;44,61;Email;Panne compteur;Non;Non;Non Renseigné;9;Non
+DOS50133;30/03/2023;AG012;258;Non;5;25,81;Chat;Souscription contrat;Non;Non;Oui;8;Oui
+DOS50134;25/01/2023;AG008;330;Oui;5;14,22;Courrier;Réclamation;Oui;Non;Oui;7;Non
+DOS50135;09/09/2023;AG012;210;Non;;26,49;Courrier;Résiliation;Oui;Non;Oui;10;Oui
+DOS50136;21/03/2023;AG007;216;Non;;44,82;Téléphone;Facturation;Non;Non;Oui;;Oui
+DOS50137;02/12/2023;AG003;432;Non;5;44,06;Téléphone;Facturation;Oui;Non;Oui;0;Non
+DOS50138;25/01/2023;AG012;408;Non;5;44,15;Téléphone;Panne compteur;Oui;Oui;Oui;8;Non
+DOS50139;15/01/2023;AG007;204;Oui;5;29,09;Téléphone;Souscription contrat;Non;Non;Oui;6;Oui
+DOS50140;29/08/2023;AG025;324;Oui;5;51,62;Chat;Déménagement;Non;Non;Oui;5;Oui
+DOS50141;21/04/2023;AG012;138;Non;4;39,5;Téléphone;Réclamation;Non;Non;Oui;9;Oui
+DOS50142;06/11/2023;AG019;372;Non;4;30,37;Email;Facturation;Oui;Non;Oui;;Oui
+DOS50143;08/06/2023;AG008;198;Non;5;37,44;Courrier;Facturation;Oui;Non;Non Renseigné;7;Oui
+DOS50144;23/02/2023;AG012;324;Non;4;47;Téléphone;Souscription contrat;Oui;Oui;Oui;;Oui
+DOS50145;01/07/2023;AG008;522;Oui;5;43,05;Email;Relevé compteur;Non;Non;Non Renseigné;9;Non
+DOS50146;30/09/2023;AG019;186;Non;5;47,95;Courrier;Souscription contrat;Non;Non;Oui;10;Non
+DOS50147;28/02/2023;AG025;354;Non;4;52,24;Courrier;Réclamation;Non;Non;Non;;Oui
+DOS50148;29/11/2023;AG012;306;Non;3;23,13;Chat;Déménagement;Oui;Non;Oui;;Oui
+DOS50149;03/02/2023;AG008;174;Oui;4;44,44;Email;Résiliation;Oui;Non;Oui;9;Oui
+DOS50150;23/05/2023;AG003;228;Oui;3;49,71;Courrier;Changement d'offre;Oui;Non;Oui;2;Oui
+DOS50151;21/05/2023;AG007;366;Oui;3;19,78;Chat;Changement d'offre;Oui;Non;Oui;;Non
+DOS50152;05/01/2023;AG019;288;Non;5;26,12;Courrier;Souscription contrat;Oui;Oui;Oui;4;Non
+DOS50153;06/03/2023;AG008;480;Non;5;18,8;Chat;Réclamation;Oui;Non;Non;;Oui
+DOS50154;14/04/2023;AG007;372;Non;2;35,67;Chat;Réclamation;Oui;Non;Non;8;Non
+DOS50155;08/07/2023;AG012;192;Non;5;17,25;Email;Déménagement;Oui;Non;Oui;;Non
+DOS50156;29/10/2023;AG007;414;Oui;5;14,51;Chat;Réclamation;Non;Non;Oui;;Oui
+DOS50157;29/01/2023;AG003;432;Oui;5;36,09;Téléphone;Changement d'offre;Non;Non;Oui;;Non
+DOS50158;21/05/2023;AG025;348;Non;2;51,83;Téléphone;Résiliation;Non;Non;Oui;9;Non
+DOS50159;16/09/2023;AG012;378;Non;4;46,89;Email;Panne compteur;Oui;Non;Oui;;Non
+DOS50160;25/04/2023;AG019;342;Oui;;25,16;Chat;Litige paiement;Non;Non;Non;;Non
+DOS50161;01/12/2023;AG019;462;Oui;5;21,37;Téléphone;Demande d'information;Non;Non;Oui;;Non
+DOS50162;21/08/2023;AG025;444;Oui;5;19,42;Email;Résiliation;Non;Non;Oui;3;Non
+DOS50163;27/09/2023;AG025;138;Non;;23,12;Courrier;Résiliation;Non;Non;Oui;7;Oui
+DOS50164;30/12/2023;AG025;126;Non;5;37,31;Chat;Résiliation;Oui;Non;Non Renseigné;;Non
+DOS50165;27/01/2023;AG025;288;Non;;51,7;Chat;Demande d'information;Non;Non;Non Renseigné;7;Non
+DOS50166;03/05/2023;AG007;408;Oui;5;37,06;Courrier;Facturation;Non;Non;Oui;;Oui
+DOS50167;08/09/2023;AG012;456;Oui;5;32,98;Courrier;Facturation;Non;Non;Non Renseigné;8;Oui
+DOS50168;09/08/2023;AG011;;Non;5;44,25;Email;Changement d'offre;Non;Non;Oui;10;Non
+DOS50169;19/10/2023;AG003;288;Oui;5;19,55;Téléphone;Demande d'information;Non;Non;Oui;;Non
+DOS50170;21/07/2023;AG019;276;Non;4;17,89;Chat;Déménagement;Oui;Oui;Oui;0;Oui
+DOS50171;24/05/2023;AG003;300;Oui;5;19,45;Courrier;Souscription contrat;Oui;Non;Oui;5;Oui
+DOS50172;03/06/2023;AG003;330;Oui;4;;Courrier;Facturation;Oui;Non;Oui;;Non
+DOS50173;08/01/2023;AG003;258;Non;4;28,05;Téléphone;Facturation;Oui;Non;Oui;5;Oui
+DOS50174;29/10/2023;AG012;276;Oui;4;25,99;Email;Résiliation;Non;Oui;Non Renseigné;;Oui
+DOS50175;13/06/2023;AG003;360;Non;3;18,48;Email;Relevé compteur;Oui;Non;Oui;6;Non
+DOS50176;24/06/2023;AG007;162;Non;;38,37;Chat;Demande d'information;Oui;Non;Oui;;Non
+DOS50177;30/12/2023;AG008;534;Non;5;44,75;Courrier;Souscription contrat;Oui;Non;Oui;;Oui
+DOS50178;01/08/2023;AG025;570;Oui;5;52,22;Chat;Résiliation;Non;Non;Oui;;Oui
+DOS50179;16/06/2023;AG011;402;Non;4;24,86;Courrier;Déménagement;Oui;Non;Oui;;Oui
+DOS50180;30/12/2023;AG019;474;Oui;2;38,29;Chat;Souscription contrat;Non;Non;Oui;;Non
+DOS50181;19/08/2023;AG012;204;Non;5;19,68;Chat;Relevé compteur;Non;Non;Oui;;Oui
+DOS50182;29/11/2023;AG025;240;Non;5;30,03;Courrier;Changement d'offre;Oui;Non;Non;6;Non
+DOS50183;24/05/2023;AG025;42;Oui;4;19,67;Chat;Relevé compteur;Non;Non;Oui;6;Non
+DOS50184;06/09/2023;AG019;318;Non;5;32,7;Email;Panne compteur;Non;Oui;Oui;;Oui
+DOS50185;23/06/2023;AG019;324;Non;3;41,24;Email;Réclamation;Oui;Non;Oui;;Non
+DOS50186;09/03/2023;AG003;348;Oui;;46,36;Courrier;Changement d'offre;Oui;Non;Oui;7;Non
+DOS50187;21/10/2023;AG012;114;Oui;4;13,56;Téléphone;Souscription contrat;Non;Non;Oui;10;Non
+DOS50188;08/04/2023;AG007;306;Oui;2;27,45;Courrier;Résiliation;Non;Non;Oui;0;Non
+DOS50189;22/06/2023;AG019;354;Oui;4;24,59;Email;Résiliation;Oui;Non;Oui;;Non
+DOS50190;09/04/2023;AG008;372;Non;5;53,08;Email;Souscription contrat;Oui;Non;Oui;;Non
+DOS50191;21/10/2023;AG008;246;Non;5;29,79;Courrier;Réclamation;Oui;Non;Oui;7;Oui
+DOS50192;14/12/2023;AG025;558;Non;4;30,7;Email;Réclamation;Non;Non;Oui;7;Non
+DOS50193;03/10/2023;AG011;288;Oui;5;36,03;Courrier;Résiliation;Oui;Non;Non Renseigné;7;Non
+DOS50194;30/07/2023;AG003;330;Non;;14,27;Courrier;Changement d'offre;Oui;Non;Oui;8;Oui
+DOS50195;20/12/2023;AG008;270;Oui;4;47,13;Téléphone;Changement d'offre;Oui;Non;Non;1;Oui
+DOS50196;04/12/2023;AG011;246;Oui;3;25,92;Courrier;Réclamation;Oui;Non;Oui;7;Non
+DOS50197;30/12/2023;AG012;390;Non;3;32,7;Email;Souscription contrat;Oui;Non;Non Renseigné;5;Oui
+DOS50198;29/04/2023;AG003;120;Non;3;37,48;Téléphone;Facturation;Oui;Non;Oui;;Non
+DOS50199;03/01/2023;AG025;396;Non;4;24,8;Email;Résiliation;Non;Non;Oui;9;Non
+DOS50200;14/04/2023;AG003;324;Oui;;53,34;Email;Souscription contrat;Non;Non;Oui;;Oui
+DOS50201;16/11/2023;AG019;294;Oui;5;30,36;Téléphone;Souscription contrat;Oui;Non;Oui;10;Non
+DOS50202;09/04/2023;AG003;168;Non;;35,69;Email;Panne compteur;Non;Non;Non;8;Oui
+DOS50203;18/01/2023;AG025;318;Non;;18,22;Courrier;Litige paiement;Non;Non;Non;5;Oui
+DOS50204;28/01/2023;AG008;390;Oui;3;20,42;Email;Demande d'information;Oui;Non;Non;;Oui
+DOS50205;02/04/2023;AG012;330;Oui;5;44,88;Courrier;Relevé compteur;Non;Non;Oui;9;Non
+DOS50206;04/01/2023;AG019;306;Oui;5;16,76;Chat;Relevé compteur;Non;Non;Oui;;Oui
+DOS50207;20/12/2023;AG012;282;Oui;5;27,16;Téléphone;Changement d'offre;Oui;Non;Non;9;Oui
+DOS50208;23/10/2023;AG025;258;Non;;29,95;Email;Panne compteur;Oui;Non;Non;8;Oui
+DOS50209;11/04/2023;AG019;180;Oui;;24,93;Téléphone;Déménagement;Oui;Oui;Non;8;Oui
+DOS50210;13/08/2023;AG003;390;Oui;2;29,23;Chat;Changement d'offre;Oui;Non;Oui;0;Non
+DOS50211;01/03/2023;AG008;342;Non;1;20,27;Courrier;Réclamation;Non;Non;Non;;Non
+DOS50212;07/12/2023;AG003;396;Non;5;36,58;Courrier;Panne compteur;Oui;Non;Non;;Oui
+DOS50213;06/04/2023;AG007;258;Oui;5;31,57;Téléphone;Facturation;Oui;Non;Non Renseigné;9;Oui
+DOS50214;04/07/2023;AG008;294;Non;3;23,98;Courrier;Relevé compteur;Oui;Non;Oui;;Non
+DOS50215;16/04/2023;AG019;174;Non;5;52,56;Courrier;Facturation;Non;Non;Oui;9;Non
+DOS50216;12/04/2023;AG012;126;Non;5;29,66;Chat;Souscription contrat;Oui;Non;Oui;1;Oui
+DOS50217;18/05/2023;AG019;324;Oui;;49,7;Email;Panne compteur;Non;Oui;Oui;;Oui
+DOS50218;16/11/2023;AG012;66;Oui;;20,94;Email;Relevé compteur;Oui;Non;Oui;8;Non
+DOS50219;03/07/2023;AG007;354;Non;;46,41;Email;Réclamation;Non;Non;Non;;Oui
+DOS50220;17/06/2023;AG003;240;Oui;4;21,35;Chat;Souscription contrat;Non;Oui;Oui;;Non
+DOS50221;02/06/2023;AG012;582;Oui;5;26,37;Courrier;Demande d'information;Oui;Non;Non;8;Non
+DOS50222;27/06/2023;AG007;318;Oui;3;29,23;Téléphone;Panne compteur;Oui;Oui;Non;8;Non
+DOS50223;19/10/2023;AG011;378;Non;3;34,42;Email;Réclamation;Oui;Non;Oui;9;Oui
+DOS50224;18/09/2023;AG025;234;Non;4;19,68;Courrier;Relevé compteur;Non;Non;Oui;;Oui
+DOS50225;26/04/2023;AG019;450;Oui;5;37,15;Chat;Réclamation;Oui;Non;Non;8;Non
+DOS50226;28/08/2023;AG012;462;Oui;5;49,93;Téléphone;Résiliation;Oui;Non;Oui;8;Oui
+DOS50227;05/09/2023;AG012;426;Non;5;27,96;Chat;Facturation;Oui;Non;Oui;;Non
+DOS50228;02/08/2023;AG011;552;Non;3;40,65;Email;Changement d'offre;Non;Oui;Non;1;Oui
+DOS50229;21/11/2023;AG003;186;Oui;2;35,5;Email;Souscription contrat;Non;Non;Oui;9;Oui
+DOS50230;04/08/2023;AG007;390;Non;4;46,56;Téléphone;Litige paiement;Non;Oui;Oui;;Oui
+DOS50231;16/12/2023;AG019;222;Oui;4;35,78;Courrier;Changement d'offre;Non;Non;Oui;7;Oui
+DOS50232;09/03/2023;AG007;192;Non;;15,61;Courrier;Litige paiement;Non;Non;Oui;6;Oui
+DOS50233;17/04/2023;AG012;306;Non;4;26,6;Téléphone;Relevé compteur;Oui;Non;Non Renseigné;8;Oui
+DOS50234;21/09/2023;AG007;342;Non;5;45,7;Email;Réclamation;Non;Non;Oui;8;Non
+DOS50235;26/08/2023;AG007;300;Non;;40,38;Courrier;Demande d'information;Non;Non;Non;;Oui
+DOS50236;08/04/2023;AG007;162;Non;4;54,07;Téléphone;Résiliation;Oui;Non;Non Renseigné;7;Oui
+DOS50237;01/11/2023;AG007;318;Oui;1;28,13;Téléphone;Résiliation;Non;Non;Oui;3;Non
+DOS50238;27/08/2023;AG012;312;Oui;3;49,58;Chat;Souscription contrat;Oui;Non;Non Renseigné;;Oui
+DOS50239;16/09/2023;AG003;192;Oui;3;50,15;Téléphone;Panne compteur;Oui;Non;Non;;Oui
+DOS50240;25/11/2023;AG008;486;Oui;2;46,96;Email;Changement d'offre;Oui;Non;Oui;;Non
+DOS50241;01/07/2023;AG011;540;Non;5;45,81;Email;Réclamation;Non;Non;Non Renseigné;0;Oui
+DOS50242;17/11/2023;AG012;330;Non;5;53,61;Email;Résiliation;Non;Non;Oui;8;Non
+DOS50243;07/02/2023;AG007;426;Non;5;54,83;Email;Changement d'offre;Non;Non;Non;8;Oui
+DOS50244;09/10/2023;AG007;18;Oui;5;38,36;Email;Facturation;Non;Oui;Oui;4;Non
+DOS50245;03/08/2023;AG007;312;Oui;5;14,41;Chat;Demande d'information;Non;Non;Oui;8;Oui
+DOS50246;06/12/2023;AG007;444;Non;3;21,18;Chat;Réclamation;Oui;Non;Oui;;Oui
+DOS50247;24/12/2023;AG012;312;Oui;4;30,33;Téléphone;Relevé compteur;Oui;Non;Oui;;Oui
+DOS50248;10/08/2023;AG003;300;Oui;5;27,41;Email;Souscription contrat;Non;Non;Oui;6;Non
+DOS50249;04/11/2023;AG003;390;Oui;4;30,94;Courrier;Panne compteur;Oui;Non;Oui;8;Oui
+DOS50250;05/02/2023;AG011;582;Oui;2;46,43;Courrier;Litige paiement;Oui;Oui;Non;;Oui
+DOS50251;03/06/2023;AG008;354;Non;4;31,44;Téléphone;Demande d'information;Non;Oui;Non;;Non
+DOS50252;12/07/2023;AG007;330;Non;3;26,55;Courrier;Relevé compteur;Non;Non;Oui;;Oui
+DOS50253;17/02/2023;AG008;474;Oui;5;40,29;Téléphone;Réclamation;Oui;Oui;Oui;;Non
+DOS50254;17/12/2023;AG012;366;Non;4;14,43;Chat;Résiliation;Oui;Non;Oui;8;Non
+DOS50255;31/07/2023;AG007;522;Oui;4;19,3;Chat;Litige paiement;Oui;Non;Oui;;Non
+DOS50256;20/08/2023;AG007;192;Non;3;40,96;Chat;Litige paiement;Oui;Non;Non;4;Non
+DOS50257;03/02/2023;AG008;192;Oui;4;12,79;Téléphone;Demande d'information;Oui;Non;Oui;;Oui
+DOS50258;14/08/2023;AG007;216;Oui;2;25,33;Email;Panne compteur;Non;Non;Oui;10;Oui
+DOS50259;23/04/2023;AG011;420;Non;3;34,7;Email;Résiliation;Non;Non;Non;;Oui
+DOS50260;13/08/2023;AG012;354;Non;;15,67;Email;Demande d'information;Oui;Non;Non Renseigné;;Non
+DOS50261;20/03/2023;AG007;282;Oui;;31,11;Courrier;Réclamation;Non;Non;Non Renseigné;5;Non
+DOS50262;25/05/2023;AG011;354;Non;2;24,57;Téléphone;Facturation;Non;Non;Oui;8;Oui
+DOS50263;22/10/2023;AG011;438;Oui;5;30,09;Email;Résiliation;Oui;Non;Non;6;Oui
+DOS50264;28/06/2023;AG007;276;Non;4;54,92;Email;Résiliation;Oui;Non;Oui;9;Oui
+DOS50265;12/07/2023;AG007;402;Oui;4;12,15;Téléphone;Changement d'offre;Non;Oui;Oui;4;Non
+DOS50266;06/09/2023;AG011;264;Oui;2;43,41;Email;Changement d'offre;Non;Non;Oui;;Oui
+DOS50267;19/12/2023;AG007;132;Non;5;38,85;Courrier;Demande d'information;Oui;Non;Oui;8;Non
+DOS50268;25/11/2023;AG007;312;Oui;;51,83;Courrier;Changement d'offre;Non;Oui;Non Renseigné;0;Oui
+DOS50269;20/04/2023;AG007;120;Oui;4;47,05;Téléphone;Relevé compteur;Non;Non;Oui;7;Oui
+DOS50270;23/08/2023;AG008;276;Oui;1;13,51;Email;Panne compteur;Non;Non;Non Renseigné;5;Non
+DOS50271;02/07/2023;AG007;330;Oui;5;19,24;Chat;Réclamation;Non;Non;Oui;7;Oui
+DOS50272;23/09/2023;AG012;216;Oui;5;33,99;Chat;Facturation;Non;Non;Non;;Oui
+DOS50273;16/04/2023;AG011;384;Oui;4;16,01;Chat;Changement d'offre;Non;Non;Oui;;Oui
+DOS50274;15/12/2023;AG025;282;Non;5;51,05;Téléphone;Changement d'offre;Non;Non;Oui;9;Oui
+DOS50275;17/07/2023;AG025;384;Non;5;52,63;Téléphone;Relevé compteur;Oui;Non;Oui;;Oui
+DOS50276;09/01/2023;AG012;312;Non;4;13,06;Téléphone;Litige paiement;Oui;Non;Oui;9;Non
+DOS50277;17/12/2023;AG011;288;Non;2;51,07;Email;Relevé compteur;Non;Non;Oui;8;Non
+DOS50278;24/09/2023;AG019;216;Non;5;16,74;Courrier;Changement d'offre;Non;Non;Oui;10;Non
+DOS50279;24/12/2023;AG008;318;Non;4;28,49;Courrier;Souscription contrat;Oui;Non;Oui;;Oui
+DOS50280;10/02/2023;AG025;330;Non;3;49,31;Email;Changement d'offre;Non;Non;Oui;10;Oui
+DOS50281;18/01/2023;AG003;354;Non;5;27,76;Courrier;Souscription contrat;Oui;Non;Oui;;Non
+DOS50282;11/12/2023;AG019;342;Oui;2;39,4;Téléphone;Résiliation;Oui;Oui;Oui;;Oui
+DOS50283;12/05/2023;AG011;156;Non;5;43,79;Email;Déménagement;Non;Non;Oui;;Oui
+DOS50284;08/09/2023;AG011;432;Non;3;35,22;Téléphone;Résiliation;Oui;Non;Non;;Oui
+DOS50285;30/07/2023;AG011;360;Oui;5;29,81;Courrier;Panne compteur;Non;Non;Oui;8;Oui
+DOS50286;01/01/2023;AG007;318;Oui;5;49,28;Téléphone;Panne compteur;Oui;Non;Oui;3;Non
+DOS50287;18/03/2023;AG007;354;Oui;5;52,99;Email;Réclamation;Oui;Oui;Non Renseigné;;Non
+DOS50288;08/01/2023;AG011;378;Oui;4;12,15;Courrier;Demande d'information;Non;Non;Non;7;Oui
+DOS50289;24/07/2023;AG008;546;Oui;4;13,72;Chat;Réclamation;Oui;Non;Oui;8;Non
+DOS50290;22/11/2023;AG007;246;Non;3;22,95;Chat;Facturation;Non;Non;Oui;;Oui
+DOS50291;16/02/2023;AG007;252;Non;5;25,11;Email;Changement d'offre;Non;Non;Oui;;Non
+DOS50292;13/04/2023;AG007;186;Non;4;16,25;Chat;Réclamation;Oui;Non;Non Renseigné;10;Non
+DOS50293;30/07/2023;AG025;90;Non;5;13,82;Chat;Réclamation;Oui;Oui;Non;;Non
+DOS50294;26/04/2023;AG003;366;Oui;5;31,1;Chat;Changement d'offre;Non;Non;Oui;5;Oui
+DOS50295;10/08/2023;AG019;552;Non;5;39,28;Chat;Changement d'offre;Non;Non;Non;9;Oui
+DOS50296;10/02/2023;AG003;282;Non;5;39,57;Chat;Déménagement;Non;Non;Oui;8;Oui
+DOS50297;19/03/2023;AG025;462;Non;3;53;Email;Relevé compteur;Non;Non;Oui;;Oui
+DOS50298;13/10/2023;AG025;282;Oui;5;39,72;Courrier;Réclamation;Non;Non;Non;;Non
+DOS50299;25/06/2023;AG019;456;Oui;4;19,61;Email;Panne compteur;Non;Non;Oui;8;Non
+DOS50300;06/06/2023;AG003;354;Oui;;34,29;Email;Facturation;Non;Non;Oui;8;Non
+DOS50301;03/06/2023;AG019;318;Non;4;51,89;Chat;Déménagement;Oui;Non;Oui;9;Non
+DOS50302;04/10/2023;AG025;246;Oui;5;37,23;Chat;Panne compteur;Non;Non;Non;;Oui
+DOS50303;15/10/2023;AG025;324;Oui;4;23,81;Email;Demande d'information;Oui;Non;Non;9;Non
+DOS50304;13/05/2023;AG003;414;Oui;5;24,39;Chat;Changement d'offre;Non;Non;Oui;6;Oui
+DOS50305;27/03/2023;AG007;234;Oui;5;20,36;Email;Facturation;Oui;Non;Non;;Non
+DOS50306;17/01/2023;AG012;306;Non;3;37,86;Courrier;Facturation;Oui;Non;Oui;5;Oui
+DOS50307;05/06/2023;AG003;336;Non;5;38,23;Courrier;Relevé compteur;Non;Non;Oui;0;Oui
+DOS50308;15/10/2023;AG007;414;Oui;1;41;Email;Litige paiement;Non;Non;Oui;8;Non
+DOS50309;24/06/2023;AG003;324;Non;3;;Téléphone;Changement d'offre;Non;Non;Oui;0;Oui
+DOS50310;03/12/2023;AG008;282;Oui;4;35,4;Courrier;Changement d'offre;Non;Non;Oui;8;Non
+DOS50311;24/09/2023;AG019;348;Non;;52,87;Téléphone;Souscription contrat;Oui;Non;Oui;6;Non
+DOS50312;25/03/2023;AG019;450;Oui;5;40,1;Chat;Litige paiement;Non;Oui;Non Renseigné;8;Non
+DOS50313;08/04/2023;AG008;366;Non;5;48,09;Courrier;Souscription contrat;Non;Non;Oui;8;Non
+DOS50314;28/08/2023;AG012;306;Oui;3;19,3;Chat;Litige paiement;Oui;Non;Oui;10;Oui
+DOS50315;08/10/2023;AG011;318;Non;1;32,81;Courrier;Changement d'offre;Oui;Non;Oui;;Oui
+DOS50316;11/09/2023;AG003;192;Oui;5;12,18;Email;Changement d'offre;Non;Non;Oui;;Non
+DOS50317;07/04/2023;AG012;402;Oui;5;26,75;Chat;Facturation;Non;Non;Oui;;Non
+DOS50318;10/09/2023;AG012;162;Oui;4;27,31;Chat;Réclamation;Oui;Non;Non Renseigné;8;Non
+DOS50319;01/04/2023;AG011;264;Non;4;19,3;Téléphone;Facturation;Non;Non;Oui;8;Non
+DOS50320;02/10/2023;AG008;294;Non;;31,85;Email;Réclamation;Oui;Non;Non;;Oui
+DOS50321;17/07/2023;AG025;264;Oui;4;20,81;Courrier;Panne compteur;Non;Oui;Non;;Non
+DOS50322;24/01/2023;AG008;198;Non;;45,29;Courrier;Changement d'offre;Oui;Oui;Oui;8;Non
+DOS50323;09/03/2023;AG019;234;Oui;5;42,64;Téléphone;Panne compteur;Non;Non;Non Renseigné;8;Oui
+DOS50324;20/04/2023;AG019;156;Oui;4;51,09;Courrier;Facturation;Oui;Non;Non Renseigné;;Non
+DOS50325;04/11/2023;AG008;498;Non;;53,69;Chat;Litige paiement;Non;Non;Non;;Non
+DOS50326;07/12/2023;AG007;252;Non;5;34,6;Chat;Réclamation;Oui;Non;Oui;6;Oui
+DOS50327;10/06/2023;AG025;240;Oui;2;15,92;Courrier;Facturation;Non;Non;Non Renseigné;;Oui
+DOS50328;08/01/2023;AG008;552;Non;4;34,45;Téléphone;Déménagement;Oui;Non;Oui;;Oui
+DOS50329;04/02/2023;AG008;126;Non;5;26,23;Email;Litige paiement;Oui;Non;Oui;8;Non
+DOS50330;24/05/2023;AG012;378;Oui;5;20,86;Chat;Facturation;Non;Non;Non;2;Non
+DOS50331;10/11/2023;AG007;318;Oui;;40,16;Courrier;Relevé compteur;Oui;Non;Oui;;Non
+DOS50332;22/12/2023;AG019;198;Oui;;12,96;Téléphone;Changement d'offre;Oui;Non;Non Renseigné;;Non
+DOS50333;20/05/2023;AG003;324;Oui;2;19,38;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+DOS50334;03/01/2023;AG025;522;Non;1;20,71;Email;Facturation;Non;Non;Oui;9;Non
+DOS50335;20/04/2023;AG019;378;Oui;3;40,74;Chat;Panne compteur;Oui;Non;Oui;2;Non
+DOS50336;14/01/2023;AG012;360;Non;5;29,71;Chat;Facturation;Oui;Non;Oui;;Non
+DOS50337;05/01/2023;AG007;168;Non;;40,11;Chat;Litige paiement;Non;Non;Non;8;Oui
+DOS50338;17/01/2023;AG012;216;Non;5;15,94;Chat;Déménagement;Non;Non;Oui;7;Oui
+DOS50339;05/10/2023;AG003;138;Non;5;;Email;Réclamation;Oui;Non;Oui;;Oui
+DOS50340;08/06/2023;AG003;324;Oui;1;38,26;Téléphone;Relevé compteur;Oui;Non;Oui;9;Oui
+DOS50341;10/05/2023;AG019;318;Non;;42,78;Courrier;Relevé compteur;Non;Non;Oui;;Non
+DOS50342;05/09/2023;AG012;216;Oui;4;13,94;Chat;Déménagement;Non;Non;Oui;;Non
+DOS50343;05/12/2023;AG019;414;Non;3;12,08;Chat;Facturation;Oui;Non;Non Renseigné;7;Oui
+DOS50344;31/10/2023;AG012;162;Non;3;14,68;Chat;Changement d'offre;Oui;Non;Oui;;Oui
+DOS50345;03/10/2023;AG011;228;Oui;5;19,72;Chat;Déménagement;Oui;Non;Oui;;Non
+DOS50346;09/04/2023;AG007;324;Non;;37,5;Chat;Réclamation;Non;Non;Oui;9;Non
+DOS50347;22/08/2023;AG012;174;Non;5;35,37;Courrier;Panne compteur;Non;Oui;Non Renseigné;6;Oui
+DOS50348;11/06/2023;AG007;276;Non;4;14,2;Téléphone;Résiliation;Oui;Non;Non;8;Non
+DOS50349;21/04/2023;AG019;234;Non;;29,01;Chat;Changement d'offre;Oui;Non;Oui;6;Non
+DOS50350;03/09/2023;AG007;342;Non;3;41,79;Téléphone;Relevé compteur;Oui;Non;Non;6;Oui
+DOS50351;19/11/2023;AG003;156;Oui;;34,88;Courrier;Souscription contrat;Non;Non;Oui;;Oui
+DOS50352;27/07/2023;AG007;72;Oui;5;48,19;Téléphone;Panne compteur;Oui;Non;Oui;7;Oui
+DOS50353;04/10/2023;AG011;174;Oui;5;21,43;Chat;Panne compteur;Non;Non;Non;;Oui
+DOS50354;30/05/2023;AG025;420;Oui;2;30,03;Chat;Panne compteur;Non;Oui;Oui;;Non
+DOS50355;09/09/2023;AG012;408;Oui;4;24,78;Téléphone;Relevé compteur;Oui;Non;Non;;Oui
+DOS50356;10/04/2023;AG012;204;Non;;13,97;Chat;Réclamation;Non;Non;Non;7;Oui
+DOS50357;14/07/2023;AG012;306;Non;4;16,8;Téléphone;Panne compteur;Oui;Non;Oui;;Oui
+DOS50358;25/10/2023;AG012;312;Oui;;48,51;Email;Litige paiement;Oui;Non;Oui;10;Non
+DOS50359;17/07/2023;AG007;150;Oui;5;22,13;Courrier;Demande d'information;Non;Non;Oui;9;Oui
+DOS50360;17/05/2023;AG011;234;Oui;5;36,46;Email;Panne compteur;Oui;Non;Oui;;Oui
+DOS50361;17/12/2023;AG003;288;Non;5;36,02;Chat;Demande d'information;Non;Non;Oui;;Non
+DOS50362;12/05/2023;AG007;54;Oui;5;19,99;Email;Changement d'offre;Non;Oui;Oui;8;Non
+DOS50363;15/07/2023;AG003;324;Non;5;12,21;Courrier;Litige paiement;Non;Non;Oui;9;Non
+DOS50364;25/09/2023;AG008;660;Oui;5;47,47;Courrier;Panne compteur;Non;Non;Non Renseigné;0;Oui
+DOS50365;01/07/2023;AG008;372;Oui;5;33,7;Courrier;Facturation;Oui;Oui;Oui;;Non
+DOS50366;18/05/2023;AG008;336;Oui;1;48,13;Courrier;Réclamation;Oui;Non;Non Renseigné;;Oui
+DOS50367;21/12/2023;AG008;396;Non;5;18,38;Chat;Réclamation;Non;Non;Non;8;Non
+DOS50368;06/12/2023;AG008;366;Oui;2;19,32;Chat;Réclamation;Oui;Non;Oui;;Oui
+DOS50369;23/12/2023;AG011;414;Non;5;20,16;Téléphone;Réclamation;Non;Non;Oui;;Oui
+DOS50370;10/03/2023;AG019;78;Oui;5;40,6;Chat;Réclamation;Oui;Non;Non Renseigné;;Non
+DOS50371;22/03/2023;AG008;264;Oui;4;48,1;Téléphone;Relevé compteur;Non;Non;Oui;7;Non
+DOS50372;25/04/2023;AG012;192;Non;5;54,22;Chat;Résiliation;Oui;Non;Non;;Oui
+DOS50373;27/01/2023;AG025;84;Non;4;45,71;Chat;Résiliation;Non;Non;Non;9;Non
+DOS50374;17/07/2023;AG012;294;Non;5;22,07;Courrier;Réclamation;Oui;Non;Oui;;Non
+DOS50375;10/01/2023;AG007;420;Non;5;29,71;Chat;Changement d'offre;Non;Non;Non Renseigné;9;Non
+DOS50376;12/04/2023;AG019;240;Oui;5;23,63;Email;Réclamation;Oui;Non;Oui;7;Non
+DOS50377;08/06/2023;AG008;354;Non;;14,01;Chat;Demande d'information;Oui;Non;Oui;;Non
+DOS50378;15/06/2023;AG019;462;Oui;5;13,06;Chat;Relevé compteur;Non;Non;Oui;9;Non
+DOS50379;30/12/2023;AG008;282;Non;5;41,04;Téléphone;Changement d'offre;Non;Non;Oui;9;Non
+DOS50380;28/08/2023;AG011;438;Non;5;40,99;Téléphone;Facturation;Oui;Non;Non;;Oui
+DOS50381;27/08/2023;AG007;426;Oui;;26,45;Courrier;Demande d'information;Non;Non;Oui;;Oui
+DOS50382;07/05/2023;AG019;348;Oui;3;32,8;Téléphone;Déménagement;Oui;Non;Oui;;Non
+DOS50383;23/08/2023;AG011;168;Oui;5;43,34;Chat;Réclamation;Oui;Non;Non Renseigné;;Non
+DOS50384;20/01/2023;AG007;78;Non;4;24,62;Email;Panne compteur;Oui;Non;Non;9;Non
+DOS50385;12/02/2023;AG008;228;Non;4;21,09;Courrier;Changement d'offre;Oui;Non;Non;3;Oui
+DOS50386;29/10/2023;AG007;258;Oui;5;26,91;Courrier;Souscription contrat;Non;Non;Oui;;Oui
+DOS50387;23/11/2023;AG007;282;Oui;4;13,57;Chat;Déménagement;Oui;Non;Non;;Non
+DOS50388;17/02/2023;AG003;384;Non;;26;Téléphone;Panne compteur;Oui;Non;Oui;8;Oui
+DOS50389;10/09/2023;AG025;222;Oui;3;40,73;Téléphone;Facturation;Non;Non;Non;;Oui
+DOS50390;07/06/2023;AG008;384;Non;;53,22;Courrier;Panne compteur;Non;Non;Oui;;Oui
+DOS50391;17/09/2023;AG003;510;Non;4;12,92;Chat;Changement d'offre;Oui;Non;Oui;8;Non
+DOS50392;29/11/2023;AG012;288;Oui;;26,05;Téléphone;Souscription contrat;Oui;Non;Oui;7;Oui
+DOS50393;05/10/2023;AG025;336;Non;4;19,42;Email;Litige paiement;Non;Non;Oui;;Non
+DOS50394;07/05/2023;AG025;498;Non;5;25,63;Chat;Litige paiement;Non;Non;Oui;;Oui
+DOS50395;25/03/2023;AG003;402;Non;3;35,2;Email;Litige paiement;Oui;Non;Non Renseigné;7;Oui
+DOS50396;27/07/2023;AG011;228;Non;5;48,72;Courrier;Panne compteur;Non;Non;Non Renseigné;;Non
+DOS50397;13/02/2023;AG011;522;Oui;5;45,18;Téléphone;Résiliation;Oui;Non;Non;;Oui
+DOS50398;12/09/2023;AG025;330;Oui;5;22,12;Courrier;Déménagement;Non;Non;Oui;10;Oui
+DOS50399;29/05/2023;AG007;240;Oui;5;35,97;Chat;Réclamation;Oui;Non;Oui;5;Oui
+DOS50400;20/04/2023;AG011;120;Non;5;22,08;Chat;Litige paiement;Non;Non;Non;7;Non
+DOS50401;06/03/2023;AG019;222;Non;4;34,9;Courrier;Souscription contrat;Oui;Non;Oui;;Oui
+DOS50402;28/08/2023;AG012;;Non;3;12,06;Chat;Panne compteur;Oui;Non;Oui;10;Oui
+DOS50403;30/05/2023;AG003;192;Oui;5;25,93;Email;Facturation;Non;Non;Oui;;Non
+DOS50404;24/02/2023;AG003;210;Oui;4;15,99;Chat;Litige paiement;Non;Non;Oui;;Non
+DOS50405;29/05/2023;AG012;468;Non;3;34,22;Email;Réclamation;Non;Non;Oui;;Non
+DOS50406;20/09/2023;AG008;336;Non;5;47,92;Email;Réclamation;Non;Non;Non Renseigné;;Oui
+DOS50407;25/01/2023;AG007;138;Non;3;38,48;Chat;Déménagement;Non;Non;Non;8;Non
+DOS50408;22/11/2023;AG003;390;Non;;51,87;Courrier;Souscription contrat;Oui;Non;Oui;7;Oui
+DOS50409;15/02/2023;AG007;570;Non;4;52,07;Email;Changement d'offre;Non;Non;Oui;;Oui
+DOS50410;13/04/2023;AG025;78;Non;5;31,76;Courrier;Demande d'information;Non;Non;Oui;9;Non
+DOS50411;13/05/2023;AG025;330;Oui;4;20,02;Chat;Panne compteur;Oui;Non;Non;;Oui
+DOS50412;13/11/2023;AG003;312;Non;5;16,44;Courrier;Déménagement;Oui;Non;Oui;5;Non
+DOS50413;26/06/2023;AG003;588;Oui;3;20,5;Courrier;Litige paiement;Oui;Non;Non Renseigné;;Oui
+DOS50414;15/03/2023;AG008;432;Oui;4;36,35;Courrier;Déménagement;Oui;Non;Oui;4;Oui
+DOS50415;25/02/2023;AG011;306;Oui;;41,31;Téléphone;Déménagement;Non;Non;Non;10;Oui
+DOS50416;01/08/2023;AG019;414;Oui;4;31,24;Courrier;Changement d'offre;Oui;Oui;Non;;Oui
+DOS50417;30/08/2023;AG025;90;Non;;40,34;Chat;Réclamation;Non;Non;Oui;;Non
+DOS50418;17/05/2023;AG012;312;Non;5;24,73;Téléphone;Panne compteur;Oui;Oui;Oui;;Oui
+DOS50419;05/04/2023;AG011;234;Oui;1;26,03;Email;Relevé compteur;Non;Non;Non Renseigné;0;Oui
+DOS50420;07/01/2023;AG025;324;Non;3;49,11;Email;Panne compteur;Oui;Non;Oui;8;Oui
+DOS50421;14/01/2023;AG008;78;Oui;5;29,92;Email;Litige paiement;Oui;Non;Oui;10;Non
+DOS50422;13/06/2023;AG011;390;Non;5;25,33;Chat;Résiliation;Oui;Non;Oui;;Non
+DOS50423;01/01/2023;AG012;366;Oui;4;28,89;Email;Demande d'information;Oui;Non;Non;5;Non
+DOS50424;29/01/2023;AG003;438;Non;5;13,91;Email;Résiliation;Non;Non;Non;;Non
+DOS50425;13/06/2023;AG012;258;Oui;4;25,26;Téléphone;Demande d'information;Oui;Non;Non Renseigné;5;Oui
+DOS50426;23/12/2023;AG003;390;Oui;3;30,76;Chat;Changement d'offre;Non;Non;Oui;;Non
+DOS50427;03/06/2023;AG003;534;Oui;5;35,22;Email;Réclamation;Non;Non;Non Renseigné;6;Oui
+DOS50428;18/12/2023;AG007;276;Oui;5;33,57;Email;Déménagement;Oui;Non;Oui;;Oui
+DOS50429;27/11/2023;AG003;150;Oui;3;50,75;Téléphone;Souscription contrat;Oui;Non;Non Renseigné;;Oui
+DOS50430;15/09/2023;AG008;384;Oui;5;39,7;Email;Souscription contrat;Oui;Non;Oui;10;Non
+DOS50431;21/08/2023;AG019;264;Oui;5;12,87;Téléphone;Réclamation;Oui;Non;Oui;;Oui
+DOS50432;03/05/2023;AG008;186;Oui;2;28,4;Email;Changement d'offre;Oui;Non;Oui;;Non
+DOS50433;26/03/2023;AG025;210;Non;3;27,32;Email;Résiliation;Oui;Oui;Oui;;Non
+DOS50434;17/01/2023;AG012;138;Oui;4;38,71;Email;Déménagement;Non;Non;Oui;4;Oui
+DOS50435;15/12/2023;AG011;186;Oui;4;19,06;Email;Changement d'offre;Non;Non;Oui;6;Oui
+DOS50436;08/02/2023;AG003;354;Oui;;32,49;Téléphone;Souscription contrat;Oui;Non;Non Renseigné;;Non
+DOS50437;01/05/2023;AG007;360;Non;;48,67;Courrier;Litige paiement;Oui;Non;Oui;8;Non
+DOS50438;19/05/2023;AG012;216;Non;4;36,39;Chat;Litige paiement;Oui;Non;Non;10;Oui
+DOS50439;23/04/2023;AG012;576;Non;;50,67;Courrier;Déménagement;Oui;Non;Non;7;Oui
+DOS50440;31/08/2023;AG011;324;Oui;4;44,85;Chat;Litige paiement;Oui;Non;Oui;8;Oui
+DOS50441;01/11/2023;AG008;348;Oui;;15,6;Courrier;Relevé compteur;Non;Non;Oui;6;Oui
+DOS50442;01/10/2023;AG025;372;Oui;5;30,55;Chat;Déménagement;Non;Non;Oui;;Non
+DOS50443;01/08/2023;AG011;222;Non;4;31,18;Email;Litige paiement;Oui;Non;Non;8;Oui
+DOS50444;05/09/2023;AG025;420;Non;3;19,96;Courrier;Panne compteur;Non;Non;Oui;9;Oui
+DOS50445;30/11/2023;AG007;120;Non;4;38,96;Téléphone;Déménagement;Oui;Non;Oui;7;Non
+DOS50446;06/03/2023;AG011;174;Oui;5;50,23;Chat;Réclamation;Non;Non;Non;;Oui
+DOS50447;17/10/2023;AG003;228;Oui;;14,36;Téléphone;Litige paiement;Oui;Non;Non;;Oui
+DOS50448;02/06/2023;AG025;336;Oui;;32,69;Chat;Déménagement;Non;Non;Oui;;Non
+DOS50449;12/01/2023;AG003;156;Non;4;13,97;Email;Souscription contrat;Oui;Non;Oui;;Oui
+DOS50450;17/11/2023;AG008;168;Oui;4;32,23;Email;Déménagement;Oui;Non;Non;;Oui
+DOS50451;20/09/2023;AG019;486;Oui;;23,46;Chat;Changement d'offre;Non;Oui;Oui;;Oui
+DOS50452;27/08/2023;AG012;462;Oui;5;49,96;Chat;Souscription contrat;Non;Non;Oui;9;Non
+DOS50453;29/12/2023;AG025;;Non;4;19,92;Chat;Demande d'information;Non;Non;Oui;3;Non
+DOS50454;19/10/2023;AG025;216;Oui;4;53,27;Chat;Souscription contrat;Oui;Non;Oui;10;Non
+DOS50455;21/12/2023;AG011;300;Oui;3;49,8;Chat;Réclamation;Oui;Non;Non;4;Oui
+DOS50456;13/09/2023;AG012;378;Non;5;41,67;Email;Facturation;Oui;Non;Oui;8;Non
+DOS50457;11/08/2023;AG025;258;Non;4;49,4;Courrier;Réclamation;Oui;Non;Oui;;Non
+DOS50458;11/09/2023;AG007;240;Non;2;45,3;Chat;Déménagement;Non;Non;Oui;;Non
+DOS50459;17/02/2023;AG003;450;Non;3;23,29;Email;Litige paiement;Oui;Non;Oui;8;Non
+DOS50460;11/10/2023;AG019;228;Non;4;52,21;Email;Litige paiement;Non;Non;Non Renseigné;;Non
+DOS50461;10/11/2023;AG019;276;Non;5;24,51;Téléphone;Litige paiement;Oui;Non;Non Renseigné;;Non
+DOS50462;29/10/2023;AG011;24;Oui;4;53,28;Email;Changement d'offre;Oui;Non;Oui;10;Non
+DOS50463;08/04/2023;AG019;366;Non;3;26,41;Chat;Déménagement;Oui;Non;Oui;;Oui
+DOS50464;27/07/2023;AG012;372;Non;5;30,73;Courrier;Résiliation;Non;Non;Oui;;Oui
+DOS50465;30/05/2023;AG012;360;Oui;5;28,26;Téléphone;Souscription contrat;Oui;Non;Non;;Oui
+DOS50466;05/05/2023;AG019;354;Non;;44,46;Email;Relevé compteur;Non;Non;Oui;;Oui
+DOS50467;15/02/2023;AG003;336;Oui;5;21,77;Chat;Changement d'offre;Oui;Non;Oui;5;Oui
+DOS50468;26/02/2023;AG025;282;Non;3;36,78;Téléphone;Facturation;Oui;Oui;Oui;9;Oui
+DOS50469;10/03/2023;AG011;420;Oui;5;47,75;Chat;Changement d'offre;Non;Oui;Oui;1;Non
+DOS50470;26/07/2023;AG008;378;Non;;37,64;Chat;Panne compteur;Non;Oui;Oui;7;Non
+DOS50471;06/06/2023;AG019;240;Non;5;50,41;Courrier;Relevé compteur;Oui;Non;Oui;9;Non
+DOS50472;26/10/2023;AG007;276;Oui;1;47,81;Email;Déménagement;Non;Non;Oui;8;Non
+DOS50473;22/04/2023;AG011;168;Oui;2;12,83;Courrier;Demande d'information;Oui;Non;Oui;;Oui
+DOS50474;16/05/2023;AG007;252;Non;5;44,37;Téléphone;Facturation;Non;Oui;Oui;9;Non
+DOS50475;14/12/2023;AG025;180;Oui;;40,28;Email;Demande d'information;Non;Non;Non Renseigné;;Non
+DOS50476;24/05/2023;AG003;420;Oui;4;48,27;Email;Résiliation;Non;Non;Oui;3;Oui
+DOS50477;18/06/2023;AG011;612;Oui;4;;Chat;Litige paiement;Oui;Non;Oui;;Non
+DOS50478;22/08/2023;AG003;168;Non;5;37,63;Téléphone;Résiliation;Oui;Non;Oui;;Non
+DOS50479;07/08/2023;AG012;288;Non;4;22,77;Email;Litige paiement;Non;Non;Oui;;Non
+DOS50480;14/10/2023;AG025;270;Non;5;13,15;Chat;Relevé compteur;Non;Non;Oui;9;Non
+DOS50481;13/01/2023;AG011;66;Oui;4;15,95;Courrier;Litige paiement;Oui;Non;Oui;;Oui
+DOS50482;11/08/2023;AG007;228;Non;5;49,19;Email;Déménagement;Oui;Oui;Oui;7;Oui
+DOS50483;30/09/2023;AG012;528;Oui;2;41,87;Email;Litige paiement;Non;Non;Oui;2;Non
+DOS50484;27/07/2023;AG011;330;Oui;5;54,63;Courrier;Souscription contrat;Oui;Non;Oui;4;Oui
+DOS50485;08/01/2023;AG003;288;Non;4;34,84;Email;Souscription contrat;Non;Non;Non;0;Oui
+DOS50486;18/03/2023;AG007;180;Non;5;30,82;Courrier;Facturation;Non;Non;Non Renseigné;;Non
+DOS50487;27/03/2023;AG011;402;Oui;5;48,81;Chat;Changement d'offre;Non;Non;Oui;;Non
+DOS50488;17/10/2023;AG007;252;Non;5;31,15;Téléphone;Résiliation;Oui;Non;Oui;;Oui
+DOS50489;19/03/2023;AG008;222;Non;5;42,63;Courrier;Facturation;Oui;Non;Oui;10;Oui
+DOS50490;28/05/2023;AG008;390;Non;;16,06;Téléphone;Relevé compteur;Non;Non;Oui;;Non
+DOS50491;26/05/2023;AG012;288;Non;5;27,94;Chat;Facturation;Non;Non;Oui;;Oui
+DOS50492;26/03/2023;AG008;198;Non;;40,23;Chat;Relevé compteur;Oui;Non;Oui;7;Oui
+DOS50493;14/07/2023;AG025;402;Oui;5;19,06;Courrier;Souscription contrat;Oui;Non;Oui;6;Non
+DOS50494;08/09/2023;AG008;324;Non;;46,24;Courrier;Facturation;Oui;Non;Non;5;Non
+DOS50495;30/08/2023;AG003;402;Oui;2;26,3;Chat;Facturation;Oui;Non;Non;10;Oui
+DOS50496;12/12/2023;AG008;294;Non;3;52,67;Chat;Demande d'information;Non;Non;Oui;;Oui
+DOS50497;08/09/2023;AG003;624;Non;;44,15;Email;Déménagement;Oui;Non;Oui;;Non
+DOS50498;16/02/2023;AG011;120;Oui;4;51,9;Chat;Souscription contrat;Oui;Non;Oui;;Oui
+DOS50499;14/03/2023;AG003;606;Oui;4;23,07;Courrier;Souscription contrat;Non;Non;Non;;Oui
+DOS50500;22/02/2023;AG003;240;Non;5;22,46;Téléphone;Demande d'information;Non;Non;Non Renseigné;4;Oui
+DOS50501;06/01/2023;AG012;126;Oui;;17,55;Téléphone;Demande d'information;Non;Non;Non;;Non
+DOS50502;03/02/2023;AG025;336;Non;5;49,04;Courrier;Souscription contrat;Oui;Non;Oui;;Oui
+DOS50503;17/12/2023;AG011;444;Non;5;47,74;Courrier;Panne compteur;Oui;Non;Oui;;Non
+DOS50504;25/09/2023;AG019;360;Non;4;15,58;Courrier;Litige paiement;Oui;Non;Oui;;Non
+DOS50505;24/11/2023;AG019;102;Non;5;51,36;Email;Déménagement;Oui;Non;Oui;;Oui
+DOS50506;13/01/2023;AG012;114;Oui;5;25,02;Chat;Résiliation;Non;Non;Oui;3;Non
+DOS50507;24/08/2023;AG011;132;Non;3;31,81;Téléphone;Relevé compteur;Non;Non;Oui;;Oui
+DOS50508;25/06/2023;AG011;228;Non;4;46,4;Courrier;Relevé compteur;Non;Oui;Non;9;Non
+DOS50509;05/05/2023;AG011;150;Oui;4;47,87;Courrier;Facturation;Non;Non;Oui;6;Oui
+DOS50510;04/02/2023;AG012;276;Non;4;49,57;Chat;Déménagement;Oui;Non;Oui;;Non
+DOS50511;06/07/2023;AG003;84;Oui;5;14,26;Courrier;Litige paiement;Oui;Non;Non Renseigné;;Non
+DOS50512;04/05/2023;AG025;282;Oui;4;41,18;Email;Panne compteur;Non;Non;Oui;8;Non
+DOS50513;15/01/2023;AG008;354;Non;;37,05;Téléphone;Changement d'offre;Oui;Non;Oui;7;Non
+DOS50514;09/03/2023;AG025;444;Oui;4;16,37;Chat;Facturation;Oui;Non;Oui;6;Oui
+DOS50515;06/04/2023;AG003;330;Non;4;26,92;Courrier;Litige paiement;Non;Non;Oui;8;Non
+DOS50516;23/11/2023;AG007;474;Non;3;21,31;Courrier;Facturation;Oui;Non;Non;;Non
+DOS50517;02/09/2023;AG025;330;Oui;4;46,53;Email;Souscription contrat;Oui;Non;Oui;4;Oui
+DOS50518;01/06/2023;AG012;162;Non;5;44,64;Chat;Changement d'offre;Non;Non;Oui;8;Non
+DOS50519;05/11/2023;AG025;264;Oui;3;15,91;Téléphone;Panne compteur;Non;Non;Oui;;Oui
+DOS50520;12/05/2023;AG007;222;Oui;5;27,33;Chat;Souscription contrat;Non;Oui;Oui;7;Non
+DOS50521;24/07/2023;AG008;312;Oui;4;37,85;Email;Résiliation;Non;Non;Oui;;Non
+DOS50522;24/04/2023;AG003;60;Non;5;30,45;Chat;Facturation;Oui;Oui;Oui;7;Oui
+DOS50523;03/10/2023;AG011;462;Non;3;21,75;Chat;Réclamation;Oui;Non;Non Renseigné;7;Non
+DOS50524;18/05/2023;AG007;384;Oui;;48,57;Téléphone;Litige paiement;Oui;Non;Non Renseigné;6;Oui
+DOS50525;19/11/2023;AG012;306;Non;4;18,25;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+DOS50526;05/11/2023;AG019;612;Oui;5;45,57;Chat;Demande d'information;Non;Non;Oui;;Oui
+DOS50527;29/09/2023;AG011;528;Oui;5;25,53;Courrier;Réclamation;Non;Non;Oui;10;Oui
+DOS50528;20/09/2023;AG007;372;Oui;;40,9;Téléphone;Litige paiement;Oui;Non;Non Renseigné;;Non
+DOS50529;16/06/2023;AG007;312;Non;4;18,61;Téléphone;Souscription contrat;Non;Non;Oui;9;Oui
+DOS50530;21/05/2023;AG012;276;Oui;3;44,97;Courrier;Facturation;Non;Non;Non;;Non
+DOS50531;06/10/2023;AG019;264;Non;;24,7;Courrier;Déménagement;Oui;Non;Oui;7;Non
+DOS50532;25/04/2023;AG003;222;Non;4;30,15;Email;Litige paiement;Non;Non;Non;4;Oui
+DOS50533;04/10/2023;AG012;222;Oui;3;51,58;Chat;Déménagement;Non;Non;Oui;8;Non
+DOS50534;01/08/2023;AG007;300;Non;4;29,67;Téléphone;Litige paiement;Oui;Non;Oui;;Non
+DOS50535;27/04/2023;AG011;438;Non;3;35,87;Téléphone;Facturation;Oui;Non;Non;;Non
+DOS50536;20/11/2023;AG011;294;Oui;3;;Téléphone;Changement d'offre;Non;Oui;Oui;8;Non
+DOS50537;06/10/2023;AG011;144;Non;3;12,79;Email;Demande d'information;Non;Non;Oui;;Non
+DOS50538;19/06/2023;AG019;270;Non;4;41,4;Chat;Résiliation;Oui;Non;Oui;5;Oui
+DOS50539;19/09/2023;AG012;186;Oui;5;21,82;Téléphone;Résiliation;Oui;Non;Oui;9;Non
+DOS50540;11/09/2023;AG007;498;Oui;4;50,21;Courrier;Litige paiement;Oui;Non;Oui;;Non
+DOS50541;01/04/2023;AG012;66;Oui;4;26,02;Email;Changement d'offre;Non;Non;Oui;4;Non
+DOS50542;03/04/2023;AG007;306;Non;4;44,11;Email;Litige paiement;Non;Oui;Non;10;Non
+DOS50543;07/11/2023;AG007;180;Non;5;16,72;Chat;Panne compteur;Non;Non;Non Renseigné;;Oui
+DOS50544;24/07/2023;AG025;276;Non;;13,44;Téléphone;Panne compteur;Non;Non;Oui;6;Non
+DOS50545;02/12/2023;AG019;306;Oui;5;32,77;Téléphone;Relevé compteur;Oui;Non;Oui;;Oui
+DOS50546;25/12/2023;AG003;408;Non;;;Téléphone;Panne compteur;Non;Non;Non;8;Oui
+DOS50547;07/04/2023;AG012;252;Non;4;31,52;Chat;Demande d'information;Non;Non;Non;;Non
+DOS50548;13/06/2023;AG008;300;Oui;;13,74;Chat;Relevé compteur;Non;Non;Non;9;Non
+DOS50549;11/04/2023;AG012;;Oui;4;50,39;Email;Panne compteur;Oui;Non;Oui;;Oui
+DOS50550;22/07/2023;AG003;462;Oui;3;48,46;Email;Demande d'information;Oui;Non;Oui;5;Oui
+DOS50551;09/08/2023;AG025;462;Non;5;44,33;Téléphone;Résiliation;Non;Non;Oui;;Non
+DOS50552;05/04/2023;AG011;570;Oui;3;41,6;Chat;Facturation;Oui;Non;Non;10;Oui
+DOS50553;14/12/2023;AG003;198;Non;5;34,05;Téléphone;Déménagement;Oui;Non;Non Renseigné;6;Oui
+DOS50554;15/10/2023;AG025;576;Oui;4;35,97;Courrier;Panne compteur;Non;Non;Oui;7;Non
+DOS50555;20/10/2023;AG008;270;Oui;3;39,69;Téléphone;Demande d'information;Oui;Oui;Oui;6;Non
+DOS50556;25/02/2023;AG007;492;Non;4;39,64;Courrier;Demande d'information;Oui;Non;Oui;;Non
+DOS50557;01/10/2023;AG019;402;Non;5;34,35;Email;Résiliation;Oui;Oui;Non;;Oui
+DOS50558;23/10/2023;AG011;246;Oui;5;22,39;Chat;Changement d'offre;Oui;Non;Oui;8;Non
+DOS50559;04/01/2023;AG003;540;Oui;4;12,06;Courrier;Panne compteur;Non;Non;Oui;;Oui
+DOS50560;27/01/2023;AG011;558;Non;2;53,8;Courrier;Panne compteur;Oui;Non;Oui;;Non
+DOS50561;30/01/2023;AG003;474;Non;4;27,54;Téléphone;Réclamation;Oui;Non;Non;6;Oui
+DOS50562;10/04/2023;AG003;162;Oui;;;Chat;Résiliation;Oui;Non;Oui;10;Oui
+DOS50563;18/07/2023;AG008;258;Non;5;45,23;Email;Réclamation;Oui;Non;Non;7;Oui
+DOS50564;27/05/2023;AG011;384;Non;2;41,57;Courrier;Résiliation;Non;Non;Oui;;Non
+DOS50565;19/11/2023;AG003;138;Non;3;32,26;Courrier;Réclamation;Non;Non;Oui;10;Oui
+DOS50566;21/08/2023;AG025;294;Non;4;24,25;Téléphone;Réclamation;Oui;Non;Non;;Oui
+DOS50567;10/06/2023;AG012;438;Oui;3;50,53;Email;Demande d'information;Oui;Non;Non;;Non
+DOS50568;02/09/2023;AG011;294;Non;5;13,12;Email;Changement d'offre;Oui;Non;Oui;;Non
+DOS50569;29/08/2023;AG012;330;Non;5;15,87;Chat;Litige paiement;Non;Non;Non;7;Oui
+DOS50570;21/03/2023;AG025;66;Oui;;50,21;Chat;Facturation;Oui;Non;Oui;5;Non
+DOS50571;29/07/2023;AG025;426;Non;4;31,48;Téléphone;Relevé compteur;Non;Non;Oui;9;Oui
+DOS50572;31/10/2023;AG011;360;Non;1;48,53;Chat;Litige paiement;Oui;Non;Oui;4;Non
+DOS50573;29/11/2023;AG011;294;Oui;4;48,28;Chat;Facturation;Oui;Non;Oui;9;Oui
+DOS50574;18/12/2023;AG007;492;Oui;4;19,71;Courrier;Souscription contrat;Non;Non;Oui;;Non
+DOS50575;10/04/2023;AG008;318;Non;;36,65;Chat;Facturation;Non;Non;Oui;;Non
+DOS50576;11/10/2023;AG012;306;Oui;2;13,71;Courrier;Souscription contrat;Non;Non;Oui;;Oui
+DOS50577;15/03/2023;AG003;486;Non;4;44,81;Téléphone;Relevé compteur;Non;Non;Oui;;Non
+DOS50578;14/07/2023;AG008;366;Non;2;15,68;Chat;Panne compteur;Oui;Non;Oui;5;Non
+DOS50579;28/06/2023;AG007;180;Non;5;52,72;Email;Déménagement;Non;Non;Oui;;Non
+DOS50580;05/08/2023;AG025;198;Oui;;17,55;Chat;Changement d'offre;Oui;Non;Oui;8;Non
+DOS50581;09/02/2023;AG003;222;Non;;52,68;Téléphone;Litige paiement;Non;Non;Oui;8;Oui
+DOS50582;25/04/2023;AG019;432;Non;3;33,47;Courrier;Facturation;Non;Non;Oui;6;Oui
+DOS50583;03/07/2023;AG007;420;Non;;32,41;Téléphone;Changement d'offre;Oui;Oui;Non Renseigné;3;Oui
+DOS50584;30/03/2023;AG012;330;Oui;5;22,62;Téléphone;Souscription contrat;Non;Non;Oui;;Oui
+DOS50585;10/09/2023;AG007;198;Non;5;54,02;Téléphone;Facturation;Oui;Non;Oui;7;Non
+DOS50586;19/01/2023;AG011;264;Oui;2;18,51;Téléphone;Litige paiement;Oui;Non;Oui;;Non
+DOS50587;16/12/2023;AG011;474;Oui;;45,77;Téléphone;Changement d'offre;Non;Non;Oui;;Non
+DOS50588;10/05/2023;AG025;288;Oui;;21,1;Email;Panne compteur;Oui;Non;Oui;7;Oui
+DOS50589;19/08/2023;AG025;282;Non;4;35,95;Chat;Résiliation;Oui;Non;Oui;6;Non
+DOS50590;20/09/2023;AG003;234;Non;;15,64;Chat;Litige paiement;Non;Non;Non;;Oui
+DOS50591;23/03/2023;AG007;438;Non;4;31,98;Chat;Réclamation;Oui;Non;Oui;4;Non
+DOS50592;29/06/2023;AG007;216;Non;;21,46;Email;Relevé compteur;Oui;Non;Non;6;Non
+DOS50593;27/04/2023;AG011;396;Oui;2;52,73;Téléphone;Souscription contrat;Non;Non;Oui;9;Oui
+DOS50594;25/12/2023;AG003;252;Non;1;21,12;Courrier;Changement d'offre;Non;Non;Non;;Oui
+DOS50595;29/11/2023;AG019;372;Non;3;26,63;Chat;Déménagement;Oui;Oui;Oui;8;Non
+DOS50596;16/06/2023;AG019;342;Non;2;45,93;Email;Relevé compteur;Non;Non;Oui;0;Non
+DOS50597;20/10/2023;AG003;300;Non;5;43,13;Email;Litige paiement;Non;Non;Oui;6;Oui
+DOS50598;28/11/2023;AG025;270;Oui;1;49,46;Téléphone;Relevé compteur;Non;Non;Oui;3;Oui
+DOS50599;27/03/2023;AG008;354;Oui;;23,71;Chat;Relevé compteur;Non;Oui;Non;;Non
+DOS50600;10/05/2023;AG012;342;Oui;4;40,11;Chat;Relevé compteur;Oui;Non;Oui;7;Oui
+DOS50601;30/08/2023;AG019;240;Non;4;16,08;Chat;Changement d'offre;Non;Non;Oui;;Oui
+DOS50602;11/12/2023;AG011;450;Non;5;21,16;Courrier;Souscription contrat;Non;Non;Oui;;Oui
+DOS50603;29/10/2023;AG025;420;Non;;15,39;Téléphone;Résiliation;Non;Non;Oui;3;Non
+DOS50604;04/12/2023;AG011;198;Non;4;22,09;Courrier;Litige paiement;Oui;Non;Oui;;Non
+DOS50605;25/12/2023;AG025;210;Non;4;20,29;Chat;Résiliation;Non;Oui;Oui;4;Oui
+DOS50606;01/07/2023;AG007;96;Non;;47,27;Courrier;Souscription contrat;Non;Non;Oui;;Non
+DOS50607;10/04/2023;AG012;408;Oui;5;19,91;Chat;Résiliation;Oui;Non;Non Renseigné;8;Non
+DOS50608;14/11/2023;AG007;276;Non;5;32,71;Téléphone;Facturation;Oui;Non;Oui;5;Non
+DOS50609;14/09/2023;AG008;312;Non;1;14,4;Courrier;Réclamation;Oui;Non;Oui;6;Non
+DOS50610;30/09/2023;AG007;210;Oui;4;37,48;Courrier;Panne compteur;Non;Oui;Non;6;Non
+DOS50611;26/05/2023;AG025;312;Oui;5;44,63;Téléphone;Panne compteur;Non;Non;Oui;;Oui
+DOS50612;02/03/2023;AG007;348;Non;5;47,01;Téléphone;Litige paiement;Oui;Non;Non;9;Non
+DOS50613;16/03/2023;AG011;156;Oui;3;45,03;Téléphone;Réclamation;Oui;Non;Oui;6;Non
+DOS50614;15/07/2023;AG012;342;Oui;4;52,32;Email;Résiliation;Non;Non;Oui;2;Oui
+DOS50615;24/07/2023;AG007;336;Oui;;29,44;Téléphone;Réclamation;Oui;Oui;Non;;Oui
+DOS50616;19/07/2023;AG007;480;Oui;4;41,98;Email;Facturation;Oui;Non;Oui;8;Non
+DOS50617;08/02/2023;AG008;354;Oui;4;54,81;Email;Facturation;Non;Non;Non;7;Oui
+DOS50618;09/02/2023;AG008;198;Oui;4;21,57;Email;Relevé compteur;Oui;Non;Oui;7;Non
+DOS50619;08/02/2023;AG011;204;Oui;4;42,49;Courrier;Panne compteur;Oui;Non;Oui;;Non
+DOS50620;04/04/2023;AG007;336;Non;;41,82;Chat;Souscription contrat;Non;Non;Oui;;Oui
+DOS50621;20/06/2023;AG008;270;Non;4;22,78;Téléphone;Changement d'offre;Non;Non;Non Renseigné;;Oui
+DOS50622;17/10/2023;AG008;396;Oui;;44,77;Email;Demande d'information;Non;Non;Oui;;Non
+DOS50623;09/08/2023;AG019;150;Oui;5;49,69;Chat;Résiliation;Non;Non;Non Renseigné;;Non
+DOS50624;08/02/2023;AG012;414;Oui;5;46,77;Email;Changement d'offre;Oui;Non;Oui;2;Non
+DOS50625;01/12/2023;AG012;330;Oui;5;50,47;Courrier;Litige paiement;Oui;Non;Non;10;Oui
+DOS50626;21/12/2023;AG011;486;Oui;4;17,47;Email;Litige paiement;Oui;Non;Oui;10;Oui
+DOS50627;15/02/2023;AG019;294;Oui;4;29,03;Téléphone;Litige paiement;Non;Non;Oui;8;Oui
+DOS50628;02/06/2023;AG019;198;Oui;5;17,3;Téléphone;Changement d'offre;Non;Non;Oui;9;Oui
+DOS50629;06/04/2023;AG025;192;Non;5;46,65;Téléphone;Déménagement;Non;Non;Oui;9;Non
+DOS50630;16/11/2023;AG007;354;Oui;5;22,93;Courrier;Litige paiement;Oui;Non;Non;;Non
+DOS50631;21/01/2023;AG012;168;Oui;3;23,14;Chat;Litige paiement;Oui;Non;Oui;0;Non
+DOS50632;19/09/2023;AG025;570;Oui;5;17,22;Téléphone;Litige paiement;Oui;Non;Non;;Oui
+DOS50633;18/06/2023;AG012;294;Non;4;19,55;Chat;Déménagement;Oui;Non;Non Renseigné;9;Oui
+DOS50634;09/12/2023;AG011;498;Non;4;22,39;Téléphone;Litige paiement;Oui;Non;Oui;8;Non
+DOS50635;21/02/2023;AG012;;Oui;4;33,09;Chat;Souscription contrat;Oui;Non;Non;7;Oui
+DOS50636;11/04/2023;AG025;24;Non;4;17,89;Email;Réclamation;Oui;Non;Oui;;Oui
+DOS50637;23/11/2023;AG025;222;Oui;;41,57;Courrier;Résiliation;Oui;Non;Non Renseigné;6;Non
+DOS50638;19/08/2023;AG011;360;Oui;3;47,76;Courrier;Changement d'offre;Oui;Non;Non;;Non
+DOS50639;16/04/2023;AG007;324;Non;5;31,93;Téléphone;Déménagement;Non;Oui;Oui;;Non
+DOS50640;22/11/2023;AG025;240;Non;2;34,02;Chat;Changement d'offre;Non;Oui;Oui;;Oui
+DOS50641;18/05/2023;AG007;360;Non;5;24;Téléphone;Facturation;Oui;Non;Oui;4;Oui
+DOS50642;20/06/2023;AG012;282;Non;5;17,63;Courrier;Litige paiement;Non;Non;Oui;8;Non
+DOS50643;22/04/2023;AG019;168;Oui;4;42,06;Téléphone;Réclamation;Non;Non;Non;;Non
+DOS50644;27/05/2023;AG003;522;Oui;5;18,29;Courrier;Changement d'offre;Non;Non;Oui;;Oui
+DOS50645;05/06/2023;AG008;18;Non;5;18,01;Email;Panne compteur;Oui;Non;Non;;Non
+DOS50646;08/05/2023;AG012;342;Oui;5;16,14;Téléphone;Changement d'offre;Non;Non;Non Renseigné;;Non
+DOS50647;20/02/2023;AG007;318;Non;;24,29;Email;Relevé compteur;Oui;Non;Oui;;Oui
+DOS50648;15/12/2023;AG011;318;Non;1;29,56;Téléphone;Réclamation;Non;Non;Non;;Non
+DOS50649;06/06/2023;AG011;438;Oui;4;25,32;Courrier;Demande d'information;Oui;Oui;Non;;Oui
+DOS50650;18/12/2023;AG019;186;Non;2;50,05;Chat;Panne compteur;Non;Non;Oui;7;Non
+DOS50651;30/09/2023;AG019;180;Oui;5;43,12;Chat;Relevé compteur;Oui;Non;Non;;Oui
+DOS50652;21/09/2023;AG025;438;Non;;23,06;Courrier;Réclamation;Oui;Oui;Non;;Oui
+DOS50653;30/04/2023;AG008;384;Oui;3;38,58;Courrier;Changement d'offre;Non;Oui;Oui;9;Oui
+DOS50654;25/09/2023;AG019;492;Non;3;25,3;Email;Réclamation;Oui;Non;Oui;;Oui
+DOS50655;12/02/2023;AG003;288;Non;3;39,66;Chat;Réclamation;Oui;Oui;Non Renseigné;;Non
+DOS50656;02/03/2023;AG025;282;Oui;1;14,86;Chat;Réclamation;Non;Non;Oui;;Non
+DOS50657;23/11/2023;AG025;426;Oui;3;34,19;Courrier;Souscription contrat;Non;Non;Oui;8;Non
+DOS50658;06/01/2023;AG019;468;Oui;4;52,89;Email;Changement d'offre;Non;Non;Oui;8;Non
+DOS50659;01/10/2023;AG011;174;Non;1;;Téléphone;Déménagement;Oui;Oui;Non;10;Non
+DOS50660;17/04/2023;AG008;564;Non;3;16,45;Courrier;Litige paiement;Non;Non;Non Renseigné;;Oui
+DOS50661;12/03/2023;AG007;258;Oui;5;22,9;Courrier;Panne compteur;Non;Non;Oui;8;Non
+DOS50662;23/06/2023;AG025;342;Non;5;12,58;Courrier;Panne compteur;Oui;Non;Non;;Non
+DOS50663;13/05/2023;AG011;384;Non;;20,8;Courrier;Résiliation;Non;Non;Non Renseigné;;Oui
+DOS50664;06/02/2023;AG008;444;Oui;5;48,11;Chat;Facturation;Oui;Non;Oui;4;Non
+DOS50665;21/03/2023;AG011;402;Non;5;24,56;Courrier;Panne compteur;Non;Non;Non Renseigné;7;Non
+DOS50666;11/10/2023;AG011;;Non;2;41,95;Email;Panne compteur;Non;Non;Oui;6;Oui
+DOS50667;16/04/2023;AG007;402;Non;5;37,66;Email;Réclamation;Non;Non;Non Renseigné;;Non
+DOS50668;10/04/2023;AG008;270;Oui;5;46,99;Courrier;Résiliation;Non;Non;Oui;;Non
+DOS50669;01/11/2023;AG008;246;Oui;3;38,6;Téléphone;Souscription contrat;Non;Non;Oui;;Oui
+DOS50670;26/10/2023;AG025;318;Non;4;28,21;Courrier;Réclamation;Oui;Non;Oui;8;Non
+DOS50671;16/09/2023;AG025;462;Non;4;51,64;Email;Réclamation;Oui;Non;Non;9;Non
+DOS50672;30/06/2023;AG012;378;Non;5;17,99;Email;Litige paiement;Oui;Non;Oui;6;Non
+DOS50673;02/10/2023;AG012;258;Non;3;36,95;Email;Changement d'offre;Oui;Non;Oui;9;Non
+DOS50674;19/07/2023;AG007;306;Oui;;44,1;Chat;Facturation;Non;Non;Oui;9;Non
+DOS50675;28/06/2023;AG012;432;Non;5;46,6;Chat;Souscription contrat;Non;Non;Non Renseigné;;Non
+DOS50676;03/03/2023;AG011;348;Non;5;31,21;Téléphone;Déménagement;Oui;Non;Oui;9;Oui
+DOS50677;07/09/2023;AG011;330;Non;;19,44;Chat;Demande d'information;Non;Non;Oui;;Oui
+DOS50678;24/05/2023;AG003;336;Oui;5;19,95;Email;Relevé compteur;Oui;Oui;Oui;9;Non
+DOS50679;03/01/2023;AG012;180;Non;4;13,67;Courrier;Panne compteur;Non;Oui;Non;9;Oui
+DOS50680;13/05/2023;AG019;;Non;;50,45;Téléphone;Réclamation;Non;Non;Oui;;Non
+DOS50681;08/07/2023;AG019;450;Non;5;15,02;Courrier;Panne compteur;Non;Non;Non Renseigné;9;Oui
+DOS50682;13/11/2023;AG012;318;Non;5;19,89;Courrier;Demande d'information;Oui;Non;Non Renseigné;;Oui
+DOS50683;27/09/2023;AG011;336;Oui;5;41,2;Chat;Résiliation;Non;Non;Non;7;Oui
+DOS50684;14/02/2023;AG003;264;Oui;;49,05;Chat;Relevé compteur;Oui;Non;Oui;;Non
+DOS50685;07/04/2023;AG008;492;Non;4;18,48;Chat;Souscription contrat;Oui;Non;Non Renseigné;8;Oui
+DOS50686;10/04/2023;AG025;252;Non;3;21,07;Chat;Demande d'information;Oui;Non;Non;5;Non
+DOS50687;18/06/2023;AG019;282;Oui;4;22,27;Chat;Demande d'information;Non;Non;Oui;6;Non
+DOS50688;14/07/2023;AG003;444;Oui;3;50,64;Téléphone;Facturation;Oui;Oui;Oui;10;Non
+DOS50689;25/08/2023;AG011;12;Oui;4;54,9;Email;Panne compteur;Oui;Non;Non;9;Non
+DOS50690;20/01/2023;AG007;;Non;3;29,28;Chat;Facturation;Non;Non;Oui;;Non
+DOS50691;29/06/2023;AG008;342;Oui;4;39,8;Courrier;Panne compteur;Non;Non;Oui;9;Oui
+DOS50692;07/06/2023;AG007;156;Non;4;36,83;Courrier;Litige paiement;Oui;Non;Non Renseigné;10;Oui
+DOS50693;18/07/2023;AG008;210;Oui;4;52,14;Chat;Déménagement;Oui;Non;Oui;7;Non
+DOS50694;03/06/2023;AG011;138;Oui;5;35,45;Chat;Résiliation;Non;Oui;Non;;Oui
+DOS50695;27/08/2023;AG025;324;Oui;4;44,91;Courrier;Relevé compteur;Oui;Non;Oui;6;Oui
+DOS50696;06/07/2023;AG008;330;Oui;5;20,4;Email;Demande d'information;Oui;Non;Non Renseigné;;Oui
+DOS50697;01/10/2023;AG012;336;Non;5;37,79;Chat;Déménagement;Non;Non;Non;7;Oui
+DOS50698;26/01/2023;AG012;282;Non;5;48,24;Email;Facturation;Non;Non;Non;;Oui
+DOS50699;22/12/2023;AG003;288;Oui;4;23,12;Chat;Déménagement;Non;Non;Oui;8;Non
+DOS50700;20/03/2023;AG025;234;Oui;4;16,42;Courrier;Déménagement;Non;Non;Oui;;Oui
+DOS50701;19/04/2023;AG007;270;Oui;5;15,33;Téléphone;Facturation;Oui;Oui;Oui;;Non
+DOS50702;02/11/2023;AG008;162;Oui;4;27,53;Email;Souscription contrat;Oui;Non;Oui;10;Oui
+DOS50703;07/08/2023;AG008;360;Oui;4;49,07;Chat;Souscription contrat;Non;Non;Non Renseigné;9;Non
+DOS50704;07/02/2023;AG019;408;Non;5;33,41;Email;Changement d'offre;Oui;Non;Oui;6;Non
+DOS50705;10/03/2023;AG011;294;Non;5;29,15;Téléphone;Réclamation;Non;Non;Oui;;Non
+DOS50706;28/08/2023;AG003;288;Non;5;15,85;Chat;Souscription contrat;Non;Oui;Non;;Oui
+DOS50707;16/11/2023;AG007;324;Non;5;40,03;Téléphone;Résiliation;Oui;Non;Oui;;Oui
+DOS50708;25/06/2023;AG011;486;Oui;3;51,4;Courrier;Changement d'offre;Oui;Non;Oui;;Non
+DOS50709;04/10/2023;AG003;306;Non;4;28,7;Courrier;Demande d'information;Oui;Non;Oui;10;Oui
+DOS50710;05/01/2023;AG019;312;Non;5;54,21;Courrier;Relevé compteur;Non;Non;Oui;2;Non
+DOS50711;15/10/2023;AG012;618;Non;5;47,74;Courrier;Réclamation;Oui;Non;Oui;6;Non
+DOS50712;24/11/2023;AG007;288;Oui;5;45,22;Email;Litige paiement;Non;Non;Oui;;Non
+DOS50713;23/12/2023;AG011;354;Oui;4;23,42;Chat;Facturation;Oui;Non;Non;8;Oui
+DOS50714;24/02/2023;AG008;348;Non;5;23,86;Courrier;Litige paiement;Oui;Non;Non;6;Oui
+DOS50715;09/09/2023;AG008;270;Non;5;27,08;Courrier;Facturation;Non;Non;Non;6;Non
+DOS50716;27/01/2023;AG003;360;Oui;5;26,97;Chat;Changement d'offre;Non;Non;Oui;;Oui
+DOS50717;18/10/2023;AG007;144;Non;;40,27;Téléphone;Litige paiement;Oui;Non;Oui;8;Non
+DOS50718;11/03/2023;AG019;288;Non;5;47,04;Courrier;Déménagement;Non;Non;Oui;9;Oui
+DOS50719;19/12/2023;AG012;204;Non;;50,19;Courrier;Panne compteur;Oui;Non;Oui;7;Non
+DOS50720;09/08/2023;AG008;366;Non;2;45,04;Courrier;Réclamation;Oui;Non;Oui;7;Non
+DOS50721;16/12/2023;AG003;126;Oui;5;24,42;Téléphone;Souscription contrat;Non;Non;Oui;;Non
+DOS50722;22/11/2023;AG007;390;Oui;5;17,8;Chat;Demande d'information;Oui;Non;Oui;;Non
+DOS50723;18/03/2023;AG008;12;Oui;4;13,12;Téléphone;Réclamation;Oui;Non;Oui;7;Oui
+DOS50724;20/01/2023;AG025;360;Non;4;15,17;Courrier;Déménagement;Non;Non;Oui;;Oui
+DOS50725;02/11/2023;AG012;186;Non;5;20,16;Courrier;Souscription contrat;Non;Non;Oui;4;Oui
+DOS50726;20/08/2023;AG011;240;Oui;5;20,24;Email;Litige paiement;Oui;Non;Oui;;Non
+DOS50727;24/02/2023;AG025;282;Oui;5;51,18;Email;Panne compteur;Oui;Non;Oui;6;Oui
+DOS50728;24/04/2023;AG011;498;Non;5;37,31;Téléphone;Litige paiement;Non;Non;Oui;;Oui
+DOS50729;21/05/2023;AG025;186;Oui;4;21,61;Email;Souscription contrat;Oui;Non;Oui;9;Oui
+DOS50730;12/12/2023;AG019;306;Non;;47,37;Téléphone;Relevé compteur;Oui;Non;Oui;;Oui
+DOS50731;31/07/2023;AG008;456;Oui;4;29,46;Email;Relevé compteur;Non;Non;Oui;;Oui
+DOS50732;14/11/2023;AG012;312;Oui;5;;Téléphone;Déménagement;Oui;Non;Non Renseigné;9;Oui
+DOS50733;13/10/2023;AG019;378;Non;4;44,48;Courrier;Résiliation;Oui;Non;Oui;7;Non
+DOS50734;23/07/2023;AG019;438;Oui;;21,06;Chat;Souscription contrat;Non;Non;Oui;8;Oui
+DOS50735;25/05/2023;AG007;;Non;3;35,46;Courrier;Demande d'information;Oui;Non;Non;9;Non
+DOS50736;29/03/2023;AG011;252;Non;5;52,05;Courrier;Changement d'offre;Non;Oui;Oui;10;Oui
+DOS50737;20/08/2023;AG003;186;Oui;3;18,28;Téléphone;Litige paiement;Oui;Oui;Oui;10;Oui
+DOS50738;26/07/2023;AG019;456;Oui;5;17,19;Chat;Résiliation;Oui;Non;Non Renseigné;9;Oui
+DOS50739;17/11/2023;AG025;522;Non;3;26,02;Chat;Facturation;Non;Non;Non Renseigné;8;Oui
+DOS50740;20/06/2023;AG019;156;Oui;5;46,43;Téléphone;Souscription contrat;Oui;Non;Oui;8;Oui
+DOS50741;27/10/2023;AG012;342;Oui;5;53,8;Téléphone;Souscription contrat;Oui;Non;Oui;;Oui
+DOS50742;24/01/2023;AG025;240;Non;5;31,56;Email;Demande d'information;Non;Non;Non Renseigné;;Oui
+DOS50743;25/10/2023;AG007;246;Non;3;44,15;Email;Relevé compteur;Oui;Non;Non;10;Non
+DOS50744;03/04/2023;AG008;384;Oui;4;28,82;Courrier;Relevé compteur;Non;Non;Oui;9;Oui
+DOS50745;31/01/2023;AG007;318;Non;3;30,07;Chat;Déménagement;Non;Non;Oui;;Non
+DOS50746;09/10/2023;AG011;372;Oui;4;53,91;Courrier;Panne compteur;Non;Non;Non;;Oui
+DOS50747;10/08/2023;AG008;516;Non;5;41,62;Téléphone;Déménagement;Non;Non;Non;3;Non
+DOS50748;18/09/2023;AG025;348;Non;4;43,61;Courrier;Souscription contrat;Non;Non;Non Renseigné;5;Non
+DOS50749;31/03/2023;AG025;384;Oui;4;24,49;Courrier;Relevé compteur;Non;Non;Oui;8;Oui
+DOS50750;09/06/2023;AG019;432;Non;3;24,76;Courrier;Litige paiement;Non;Non;Non Renseigné;8;Oui
+DOS50751;07/01/2023;AG007;228;Oui;4;36,2;Email;Facturation;Oui;Non;Oui;10;Oui
+DOS50752;03/04/2023;AG025;396;Non;5;16,75;Courrier;Panne compteur;Oui;Non;Non;;Non
+DOS50753;06/10/2023;AG019;246;Non;;47,67;Email;Litige paiement;Non;Non;Oui;7;Oui
+DOS50754;01/08/2023;AG019;162;Non;;35,31;Email;Relevé compteur;Oui;Non;Oui;;Oui
+DOS50755;23/10/2023;AG025;360;Oui;5;24,15;Téléphone;Réclamation;Oui;Non;Oui;;Non
+DOS50756;04/01/2023;AG019;174;Oui;4;14,72;Email;Relevé compteur;Oui;Oui;Oui;5;Non
+DOS50757;04/01/2023;AG003;150;Non;;54,4;Téléphone;Résiliation;Non;Non;Non Renseigné;9;Non
+DOS50758;03/05/2023;AG008;318;Oui;5;27,96;Email;Panne compteur;Oui;Non;Oui;9;Non
+DOS50759;03/06/2023;AG019;294;Oui;2;39,78;Chat;Litige paiement;Non;Non;Oui;10;Non
+DOS50760;25/08/2023;AG011;480;Non;4;43,36;Téléphone;Résiliation;Non;Non;Non Renseigné;10;Oui
+DOS50761;26/11/2023;AG019;174;Non;4;41,69;Chat;Réclamation;Non;Non;Oui;;Non
+DOS50762;04/04/2023;AG007;348;Non;4;24,04;Téléphone;Souscription contrat;Oui;Non;Oui;2;Oui
+DOS50763;18/05/2023;AG012;216;Oui;;13,24;Chat;Déménagement;Non;Non;Oui;;Non
+DOS50764;13/10/2023;AG003;132;Oui;4;32,09;Chat;Déménagement;Non;Non;Oui;0;Non
+DOS50765;02/12/2023;AG011;78;Oui;3;42,31;Téléphone;Litige paiement;Non;Non;Oui;;Non
+DOS50766;23/05/2023;AG012;180;Oui;4;14,6;Email;Panne compteur;Oui;Non;Oui;8;Oui
+DOS50767;25/05/2023;AG003;174;Oui;5;41,53;Téléphone;Changement d'offre;Non;Non;Non;8;Oui
+DOS50768;27/01/2023;AG003;84;Non;;42,32;Email;Demande d'information;Non;Non;Oui;;Oui
+DOS50769;21/09/2023;AG019;414;Non;3;35,11;Chat;Litige paiement;Non;Non;Oui;10;Oui
+DOS50770;29/05/2023;AG008;450;Non;5;39,36;Téléphone;Déménagement;Non;Non;Oui;;Oui
+DOS50771;06/02/2023;AG003;;Non;4;40,38;Chat;Panne compteur;Non;Non;Non Renseigné;;Oui
+DOS50772;13/12/2023;AG012;222;Non;4;18,74;Courrier;Réclamation;Non;Non;Non;;Non
+DOS50773;19/01/2023;AG007;258;Non;5;39,49;Email;Résiliation;Oui;Oui;Oui;7;Oui
+DOS50774;28/02/2023;AG007;282;Non;4;19,29;Courrier;Souscription contrat;Oui;Non;Oui;;Oui
+DOS50775;17/06/2023;AG007;432;Oui;4;44,53;Courrier;Facturation;Oui;Oui;Non Renseigné;10;Oui
+DOS50776;20/08/2023;AG019;432;Oui;3;12,66;Chat;Relevé compteur;Oui;Non;Non;10;Oui
+DOS50777;11/10/2023;AG008;348;Non;5;16,61;Courrier;Souscription contrat;Non;Non;Non Renseigné;8;Oui
+DOS50778;26/10/2023;AG008;342;Oui;4;14,99;Téléphone;Facturation;Non;Non;Oui;;Non
+DOS50779;01/12/2023;AG025;252;Oui;4;33,34;Téléphone;Litige paiement;Non;Non;Non Renseigné;5;Oui
+DOS50780;07/04/2023;AG008;78;Oui;1;49,43;Chat;Facturation;Oui;Non;Oui;8;Non
+DOS50781;01/06/2023;AG025;276;Non;2;19,33;Chat;Déménagement;Oui;Non;Oui;;Non
+DOS50782;12/10/2023;AG007;456;Oui;3;13,31;Téléphone;Litige paiement;Oui;Non;Oui;7;Non
+DOS50783;22/02/2023;AG012;234;Non;4;40,94;Email;Déménagement;Non;Non;Oui;10;Oui
+DOS50784;12/12/2023;AG007;270;Oui;5;37,21;Email;Facturation;Non;Oui;Non;;Non
+DOS50785;15/08/2023;AG025;402;Non;5;15,32;Email;Changement d'offre;Oui;Non;Oui;8;Oui
+DOS50786;28/04/2023;AG008;264;Non;4;25,55;Email;Déménagement;Non;Non;Oui;;Non
+DOS50787;03/04/2023;AG007;282;Oui;5;49,63;Courrier;Déménagement;Oui;Oui;Oui;;Oui
+DOS50788;02/03/2023;AG025;408;Oui;4;30,64;Courrier;Déménagement;Oui;Non;Oui;9;Oui
+DOS50789;20/11/2023;AG025;78;Oui;;31,73;Email;Résiliation;Non;Non;Oui;10;Non
+DOS50790;21/02/2023;AG007;174;Non;;14,63;Email;Relevé compteur;Non;Oui;Non;7;Non
+DOS50791;03/07/2023;AG003;534;Oui;1;33,04;Chat;Demande d'information;Oui;Non;Oui;5;Oui
+DOS50792;20/10/2023;AG019;408;Oui;3;36,3;Email;Facturation;Oui;Oui;Oui;4;Oui
+DOS50793;17/09/2023;AG003;420;Non;5;32,13;Téléphone;Litige paiement;Non;Non;Oui;7;Oui
+DOS50794;16/08/2023;AG007;348;Non;2;46,91;Téléphone;Relevé compteur;Oui;Non;Oui;;Non
+DOS50795;27/01/2023;AG007;360;Non;5;46,97;Téléphone;Changement d'offre;Oui;Non;Oui;4;Oui
+DOS50796;02/07/2023;AG011;240;Oui;5;49,18;Email;Souscription contrat;Non;Non;Oui;4;Oui
+DOS50797;25/01/2023;AG025;564;Non;3;51,82;Email;Souscription contrat;Non;Non;Oui;0;Oui
+DOS50798;23/12/2023;AG012;276;Oui;5;17,12;Téléphone;Réclamation;Non;Non;Oui;7;Oui
+DOS50799;19/04/2023;AG003;426;Oui;4;15,46;Téléphone;Déménagement;Non;Non;Oui;6;Non
+DOS50800;21/11/2023;AG019;;Oui;4;33,01;Téléphone;Facturation;Oui;Non;Oui;9;Non
+DOS50801;04/10/2023;AG003;234;Oui;;42,16;Courrier;Déménagement;Oui;Oui;Non Renseigné;;Oui
+DOS50802;18/09/2023;AG025;306;Non;4;34,28;Chat;Relevé compteur;Oui;Oui;Oui;10;Oui
+DOS50803;27/08/2023;AG008;348;Non;5;34,44;Email;Déménagement;Oui;Non;Oui;;Oui
+DOS50804;13/10/2023;AG003;468;Non;5;12,38;Chat;Réclamation;Non;Non;Non;;Oui
+DOS50805;26/03/2023;AG007;654;Oui;4;12,07;Email;Déménagement;Non;Non;Oui;;Oui
+DOS50806;14/07/2023;AG003;198;Non;4;50,47;Email;Résiliation;Oui;Non;Oui;5;Non
+DOS50807;19/05/2023;AG025;390;Oui;5;51,93;Courrier;Changement d'offre;Oui;Non;Non;9;Non
+DOS50808;21/10/2023;AG011;324;Oui;5;19,54;Email;Facturation;Oui;Non;Oui;3;Non
+DOS50809;31/05/2023;AG012;102;Non;5;46,67;Chat;Souscription contrat;Non;Non;Non;;Oui
+DOS50810;30/09/2023;AG019;498;Oui;;16,2;Courrier;Déménagement;Non;Non;Non Renseigné;;Oui
+DOS50811;13/07/2023;AG012;264;Oui;5;13,73;Courrier;Souscription contrat;Non;Non;Non;;Non
+DOS50812;10/10/2023;AG011;258;Oui;5;54,81;Email;Panne compteur;Non;Non;Oui;;Non
+DOS50813;07/08/2023;AG012;498;Oui;5;16,18;Chat;Demande d'information;Oui;Non;Non;;Oui
+DOS50814;09/05/2023;AG011;306;Oui;4;47,57;Chat;Résiliation;Non;Non;Oui;9;Oui
+DOS50815;05/07/2023;AG011;450;Non;4;47,14;Courrier;Réclamation;Oui;Non;Non Renseigné;3;Oui
+DOS50816;03/09/2023;AG012;282;Non;5;52,84;Téléphone;Panne compteur;Non;Non;Oui;;Non
+DOS50817;17/01/2023;AG003;372;Non;4;18,52;Courrier;Facturation;Non;Non;Oui;;Oui
+DOS50818;01/07/2023;AG025;294;Non;3;47,62;Email;Litige paiement;Non;Non;Non Renseigné;;Oui
+DOS50819;12/01/2023;AG019;216;Oui;2;32,36;Email;Déménagement;Non;Non;Oui;2;Non
+DOS50820;04/10/2023;AG007;378;Non;;21,01;Téléphone;Facturation;Non;Non;Oui;9;Non
+DOS50821;23/10/2023;AG003;402;Oui;2;52,8;Courrier;Souscription contrat;Non;Non;Oui;8;Non
+DOS50822;03/08/2023;AG011;312;Non;5;30,16;Chat;Résiliation;Oui;Non;Non Renseigné;;Oui
+DOS50823;25/05/2023;AG025;78;Non;4;19,39;Téléphone;Facturation;Non;Non;Oui;9;Non
+DOS50824;17/10/2023;AG007;174;Oui;5;20,77;Email;Panne compteur;Non;Non;Non;3;Oui
+DOS50825;02/06/2023;AG008;252;Oui;4;20,04;Téléphone;Panne compteur;Non;Non;Oui;6;Oui
+DOS50826;04/04/2023;AG008;486;Non;;36,47;Téléphone;Résiliation;Oui;Oui;Non;6;Non
+DOS50827;03/09/2023;AG019;306;Non;;50,41;Courrier;Litige paiement;Oui;Oui;Non;;Oui
+DOS50828;19/10/2023;AG007;480;Oui;2;40,71;Courrier;Panne compteur;Non;Non;Oui;;Non
+DOS50829;16/05/2023;AG025;432;Non;;31,33;Chat;Relevé compteur;Oui;Non;Oui;;Oui
+DOS50830;01/03/2023;AG019;258;Non;1;48,97;Email;Litige paiement;Oui;Non;Non;;Non
+DOS50831;14/04/2023;AG019;336;Non;2;45,45;Téléphone;Panne compteur;Non;Non;Oui;;Oui
+DOS50832;29/01/2023;AG003;408;Oui;5;12,54;Email;Déménagement;Non;Non;Oui;;Non
+DOS50833;03/08/2023;AG019;222;Non;5;21,34;Téléphone;Souscription contrat;Non;Non;Non Renseigné;;Oui
+DOS50834;26/04/2023;AG025;396;Non;5;12,19;Chat;Facturation;Non;Non;Non;;Non
+DOS50835;16/11/2023;AG012;384;Non;3;33,55;Email;Litige paiement;Oui;Non;Oui;;Oui
+DOS50836;18/08/2023;AG025;216;Non;;39,94;Courrier;Litige paiement;Oui;Non;Non;8;Non
+DOS50837;26/11/2023;AG019;372;Non;4;15,62;Courrier;Résiliation;Oui;Non;Oui;9;Non
+DOS50838;01/02/2023;AG012;300;Non;;40,1;Email;Déménagement;Non;Non;Non;10;Non
+DOS50839;15/02/2023;AG019;150;Non;;18,27;Email;Souscription contrat;Non;Non;Non Renseigné;;Non
+DOS50840;08/07/2023;AG019;252;Non;5;22,26;Courrier;Facturation;Oui;Non;Oui;;Non
+DOS50841;15/06/2023;AG019;246;Oui;4;21,74;Chat;Facturation;Oui;Non;Non;10;Oui
+DOS50842;15/03/2023;AG011;510;Oui;5;30,84;Email;Résiliation;Oui;Non;Oui;;Non
+DOS50843;29/12/2023;AG019;180;Oui;5;45,37;Chat;Résiliation;Oui;Non;Oui;;Oui
+DOS50844;02/05/2023;AG011;234;Oui;1;14,1;Courrier;Panne compteur;Oui;Non;Non;0;Oui
+DOS50845;28/01/2023;AG007;360;Oui;4;49,75;Courrier;Réclamation;Non;Non;Non Renseigné;6;Oui
+DOS50846;27/07/2023;AG008;318;Oui;1;37,04;Chat;Résiliation;Oui;Non;Non;7;Non
+DOS50847;10/06/2023;AG008;288;Non;1;54,44;Chat;Litige paiement;Oui;Non;Oui;5;Oui
+DOS50848;30/10/2023;AG025;288;Non;5;27,98;Chat;Relevé compteur;Oui;Oui;Oui;10;Non
+DOS50849;30/04/2023;AG012;426;Oui;5;24,76;Email;Panne compteur;Non;Non;Non Renseigné;6;Non
+DOS50850;11/04/2023;AG008;216;Oui;5;53,35;Email;Changement d'offre;Non;Non;Oui;4;Oui
+DOS50851;04/01/2023;AG011;186;Oui;;36,87;Courrier;Facturation;Oui;Non;Oui;;Non
+DOS50852;27/12/2023;AG019;78;Non;4;19,86;Courrier;Souscription contrat;Non;Non;Non;;Oui
+DOS50853;30/09/2023;AG008;258;Non;5;18,16;Courrier;Réclamation;Oui;Non;Oui;4;Non
+DOS50854;08/11/2023;AG025;156;Oui;5;27,65;Téléphone;Déménagement;Oui;Non;Non;;Oui
+DOS50855;11/07/2023;AG025;276;Non;4;17,55;Courrier;Réclamation;Oui;Non;Oui;7;Non
+DOS50856;18/11/2023;AG011;108;Non;2;27,13;Chat;Résiliation;Oui;Non;Oui;8;Non
+DOS50857;25/11/2023;AG011;270;Non;1;16,06;Chat;Réclamation;Oui;Non;Non Renseigné;;Non
+DOS50858;15/03/2023;AG011;348;Non;;26,14;Email;Facturation;Oui;Non;Oui;8;Non
+DOS50859;30/04/2023;AG007;306;Oui;3;49,69;Chat;Litige paiement;Oui;Non;Oui;7;Oui
+DOS50860;24/05/2023;AG008;384;Non;3;48,83;Courrier;Demande d'information;Oui;Oui;Oui;;Non
+DOS50861;11/07/2023;AG025;444;Non;;15,25;Email;Réclamation;Oui;Non;Oui;10;Non
+DOS50862;16/05/2023;AG012;342;Oui;5;45,09;Chat;Réclamation;Non;Non;Oui;;Non
+DOS50863;22/05/2023;AG011;312;Non;5;53,37;Téléphone;Réclamation;Oui;Non;Non Renseigné;4;Oui
+DOS50864;28/06/2023;AG008;360;Non;4;42,38;Chat;Panne compteur;Oui;Non;Oui;;Non
+DOS50865;13/07/2023;AG003;348;Oui;;44,7;Chat;Résiliation;Oui;Non;Non;6;Oui
+DOS50866;13/08/2023;AG025;408;Oui;;47,48;Email;Panne compteur;Non;Non;Oui;;Oui
+DOS50867;06/05/2023;AG007;318;Non;3;48,29;Courrier;Litige paiement;Non;Non;Non;4;Non
+DOS50868;19/01/2023;AG019;168;Oui;3;13,53;Chat;Panne compteur;Non;Non;Oui;5;Non
+DOS50869;21/09/2023;AG003;438;Oui;2;52,23;Téléphone;Résiliation;Non;Non;Oui;;Oui
+DOS50870;09/02/2023;AG008;114;Oui;5;18,41;Téléphone;Réclamation;Non;Non;Non Renseigné;;Oui
+DOS50871;16/08/2023;AG011;396;Oui;3;47,67;Email;Relevé compteur;Oui;Oui;Oui;7;Oui
+DOS50872;21/11/2023;AG007;360;Oui;;39,74;Courrier;Panne compteur;Non;Non;Oui;3;Oui
+DOS50873;09/06/2023;AG012;360;Oui;3;27,74;Téléphone;Relevé compteur;Non;Non;Oui;;Oui
+DOS50874;05/03/2023;AG012;318;Oui;5;34,65;Chat;Changement d'offre;Non;Oui;Oui;;Oui
+DOS50875;08/11/2023;AG008;588;Non;4;51,85;Téléphone;Réclamation;Oui;Non;Oui;0;Oui
+DOS50876;29/04/2023;AG012;228;Oui;;45,93;Email;Changement d'offre;Non;Non;Non;9;Oui
+DOS50877;21/11/2023;AG019;300;Oui;3;34,77;Courrier;Déménagement;Oui;Non;Oui;;Oui
+DOS50878;19/08/2023;AG003;462;Non;5;30,83;Chat;Souscription contrat;Non;Non;Non;9;Non
+DOS50879;13/06/2023;AG003;366;Oui;;35,85;Courrier;Résiliation;Non;Non;Non Renseigné;10;Non
+DOS50880;23/01/2023;AG008;366;Oui;1;21,66;Courrier;Panne compteur;Non;Non;Oui;10;Oui
+DOS50881;21/07/2023;AG025;462;Oui;4;38,36;Téléphone;Résiliation;Non;Non;Oui;5;Non
+DOS50882;30/08/2023;AG019;480;Oui;5;38,7;Téléphone;Facturation;Oui;Non;Oui;6;Non
+DOS50883;13/07/2023;AG007;402;Non;3;53,68;Chat;Litige paiement;Oui;Non;Oui;9;Oui
+DOS50884;30/03/2023;AG007;552;Non;;16,28;Email;Demande d'information;Oui;Non;Non;7;Non
+DOS50885;19/05/2023;AG011;366;Non;;28,36;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+DOS50886;21/10/2023;AG008;402;Non;2;13,73;Email;Demande d'information;Oui;Oui;Oui;;Oui
+DOS50887;20/04/2023;AG025;432;Non;;35,5;Chat;Litige paiement;Non;Non;Oui;;Oui
+DOS50888;28/03/2023;AG003;474;Non;4;31,01;Courrier;Déménagement;Oui;Non;Non;;Oui
+DOS50889;31/01/2023;AG008;204;Oui;1;40,17;Téléphone;Résiliation;Non;Non;Oui;9;Non
+DOS50890;14/02/2023;AG012;156;Oui;2;30,25;Courrier;Demande d'information;Oui;Non;Non;;Oui
+DOS50891;16/05/2023;AG003;174;Oui;2;18,26;Téléphone;Relevé compteur;Oui;Oui;Oui;;Non
+DOS50892;27/10/2023;AG003;258;Oui;4;29,21;Courrier;Demande d'information;Non;Non;Oui;;Oui
+DOS50893;07/03/2023;AG007;432;Non;4;50,44;Téléphone;Déménagement;Oui;Oui;Oui;;Oui
+DOS50894;17/11/2023;AG011;684;Oui;5;53,13;Courrier;Demande d'information;Non;Non;Non;7;Oui
+DOS50895;13/05/2023;AG011;282;Oui;3;50,13;Courrier;Panne compteur;Non;Non;Non;8;Non
+DOS50896;18/06/2023;AG003;300;Oui;5;53,77;Chat;Déménagement;Non;Non;Oui;;Oui
+DOS50897;18/03/2023;AG003;156;Oui;2;28,01;Courrier;Demande d'information;Non;Oui;Oui;4;Oui
+DOS50898;11/07/2023;AG019;168;Non;5;16,92;Chat;Relevé compteur;Oui;Non;Oui;4;Oui
+DOS50899;07/02/2023;AG019;252;Oui;;43,83;Téléphone;Litige paiement;Non;Non;Oui;7;Non
+DOS50900;28/11/2023;AG003;222;Oui;4;13,73;Téléphone;Demande d'information;Non;Non;Oui;;Non
+DOS50901;20/04/2023;AG012;408;Non;4;54,37;Chat;Souscription contrat;Non;Non;Oui;7;Oui
+DOS50902;21/11/2023;AG007;156;Oui;1;50,96;Chat;Panne compteur;Non;Non;Non Renseigné;;Oui
+DOS50903;16/03/2023;AG025;180;Oui;3;37,16;Email;Facturation;Oui;Non;Oui;;Non
+DOS50904;03/01/2023;AG007;348;Non;5;54,71;Courrier;Souscription contrat;Oui;Non;Non;5;Oui
+DOS50905;16/03/2023;AG003;288;Oui;5;15,73;Téléphone;Litige paiement;Oui;Non;Non;9;Oui
+DOS50906;17/08/2023;AG008;276;Oui;5;34,54;Téléphone;Souscription contrat;Non;Non;Non;;Non
+DOS50907;28/01/2023;AG007;432;Non;4;51,34;Chat;Demande d'information;Non;Non;Oui;;Oui
+DOS50908;25/09/2023;AG008;276;Oui;5;29,71;Email;Panne compteur;Oui;Non;Oui;8;Oui
+DOS50909;29/04/2023;AG012;318;Oui;4;15,16;Chat;Litige paiement;Non;Oui;Non;8;Oui
+DOS50910;24/05/2023;AG019;252;Non;5;47,91;Téléphone;Relevé compteur;Oui;Non;Oui;3;Oui
+DOS50911;23/02/2023;AG025;300;Non;;21,02;Téléphone;Changement d'offre;Oui;Non;Oui;9;Non
+DOS50912;06/02/2023;AG019;408;Oui;4;44,09;Téléphone;Souscription contrat;Non;Non;Oui;;Oui
+DOS50913;30/11/2023;AG019;264;Oui;;21,42;Téléphone;Panne compteur;Non;Oui;Oui;6;Non
+DOS50914;16/02/2023;AG008;336;Non;4;28,8;Courrier;Demande d'information;Oui;Non;Oui;;Non
+DOS50915;26/03/2023;AG019;270;Oui;5;44,94;Courrier;Changement d'offre;Non;Non;Non;6;Non
+DOS50916;04/12/2023;AG012;72;Non;4;31,4;Email;Litige paiement;Oui;Non;Oui;9;Non
+DOS50917;11/06/2023;AG025;228;Non;;44,19;Email;Panne compteur;Non;Non;Oui;10;Non
+DOS50918;19/12/2023;AG011;252;Oui;5;32,14;Email;Souscription contrat;Non;Non;Non;;Non
+DOS50919;07/01/2023;AG008;318;Non;5;50,07;Courrier;Facturation;Non;Non;Oui;10;Non
+DOS50920;10/07/2023;AG025;384;Non;5;39,12;Chat;Souscription contrat;Oui;Non;Oui;;Oui
+DOS50921;23/06/2023;AG019;288;Non;5;52,17;Chat;Déménagement;Non;Non;Oui;10;Non
+DOS50922;22/04/2023;AG003;264;Non;4;21,94;Téléphone;Panne compteur;Oui;Oui;Oui;;Oui
+DOS50923;18/06/2023;AG011;342;Non;4;28,95;Courrier;Litige paiement;Non;Oui;Non;;Non
+DOS50924;25/03/2023;AG025;312;Oui;;;Chat;Changement d'offre;Non;Non;Oui;8;Non
+DOS50925;18/01/2023;AG019;156;Non;;53,12;Téléphone;Litige paiement;Non;Non;Non;;Non
+DOS50926;17/06/2023;AG025;480;Oui;4;52,5;Email;Litige paiement;Oui;Non;Oui;9;Oui
+DOS50927;14/04/2023;AG007;270;Oui;;49,71;Téléphone;Changement d'offre;Oui;Non;Oui;10;Non
+DOS50928;26/11/2023;AG019;312;Non;3;26,95;Courrier;Litige paiement;Oui;Non;Non Renseigné;;Oui
+DOS50929;14/09/2023;AG025;138;Non;2;29,19;Chat;Résiliation;Non;Non;Non Renseigné;9;Non
+DOS50930;31/01/2023;AG012;444;Oui;5;31,44;Téléphone;Panne compteur;Non;Non;Oui;7;Non
+DOS50931;30/06/2023;AG012;258;Oui;;34,52;Courrier;Résiliation;Oui;Oui;Non;8;Non
+DOS50932;21/01/2023;AG007;498;Oui;4;18,5;Téléphone;Déménagement;Non;Non;Non;7;Oui
+DOS50933;20/08/2023;AG003;306;Oui;1;38,3;Courrier;Réclamation;Oui;Non;Non;;Non
+DOS50934;24/09/2023;AG011;378;Oui;3;26,07;Email;Relevé compteur;Non;Oui;Oui;;Non
+DOS50935;29/06/2023;AG019;270;Non;;26,15;Chat;Relevé compteur;Non;Non;Oui;9;Oui
+DOS50936;22/09/2023;AG003;162;Non;4;24,25;Chat;Résiliation;Non;Non;Non;10;Oui
+DOS50937;18/08/2023;AG003;360;Oui;4;29,92;Courrier;Litige paiement;Oui;Oui;Oui;9;Non
+DOS50938;25/12/2023;AG008;354;Non;3;37,78;Téléphone;Réclamation;Oui;Oui;Non;0;Non
+DOS50939;24/01/2023;AG003;54;Oui;3;36,37;Email;Résiliation;Non;Non;Oui;;Non
+DOS50940;12/02/2023;AG025;156;Oui;3;17,44;Chat;Souscription contrat;Oui;Non;Oui;;Oui
+DOS50941;23/03/2023;AG025;438;Oui;5;44,71;Email;Relevé compteur;Oui;Non;Oui;6;Non
+DOS50942;23/02/2023;AG025;258;Oui;5;29,5;Email;Souscription contrat;Non;Non;Oui;7;Non
+DOS50943;22/06/2023;AG007;390;Oui;3;33,44;Courrier;Demande d'information;Oui;Oui;Oui;5;Oui
+DOS50944;28/01/2023;AG011;558;Non;5;13,79;Courrier;Réclamation;Oui;Non;Oui;;Non
+DOS50945;18/04/2023;AG025;366;Non;;43,02;Courrier;Réclamation;Oui;Non;Oui;;Non
+DOS50946;09/12/2023;AG011;306;Non;5;47,59;Email;Relevé compteur;Non;Non;Oui;6;Oui
+DOS50947;16/02/2023;AG008;228;Oui;3;31,4;Chat;Souscription contrat;Non;Non;Oui;;Non
+DOS50948;22/06/2023;AG007;342;Oui;5;29,69;Téléphone;Litige paiement;Oui;Oui;Oui;9;Oui
+DOS50949;24/11/2023;AG007;360;Non;;19,91;Email;Facturation;Oui;Non;Oui;0;Non
+DOS50950;17/08/2023;AG007;318;Oui;5;48,65;Téléphone;Changement d'offre;Non;Non;Non;9;Non
+DOS50951;22/03/2023;AG011;396;Oui;;26,71;Courrier;Relevé compteur;Non;Non;Oui;4;Non
+DOS50952;19/09/2023;AG025;174;Oui;3;21,45;Chat;Relevé compteur;Non;Oui;Oui;6;Oui
+DOS50953;05/11/2023;AG007;318;Oui;3;32,72;Téléphone;Facturation;Non;Non;Non;9;Oui
+DOS50954;05/06/2023;AG011;306;Non;4;30,01;Courrier;Résiliation;Oui;Non;Oui;7;Non
+DOS50955;12/12/2023;AG007;240;Non;5;45,51;Email;Demande d'information;Oui;Non;Non Renseigné;;Non
+DOS50956;26/05/2023;AG019;354;Oui;5;15,86;Courrier;Facturation;Oui;Non;Oui;7;Oui
+DOS50957;20/02/2023;AG012;162;Non;4;43,56;Téléphone;Relevé compteur;Non;Non;Oui;;Non
+DOS50958;09/03/2023;AG025;216;Non;5;47,91;Téléphone;Changement d'offre;Non;Non;Non Renseigné;10;Oui
+DOS50959;06/01/2023;AG012;654;Oui;2;52,25;Courrier;Déménagement;Oui;Non;Oui;;Non
+DOS50960;16/09/2023;AG003;270;Oui;4;23,68;Courrier;Facturation;Non;Non;Oui;5;Oui
+DOS50961;22/04/2023;AG019;288;Oui;4;45,02;Téléphone;Résiliation;Oui;Non;Oui;9;Non
+DOS50962;22/10/2023;AG025;360;Non;4;39,14;Courrier;Réclamation;Non;Non;Non;7;Oui
+DOS50963;12/09/2023;AG008;372;Oui;5;34,1;Courrier;Litige paiement;Non;Non;Oui;;Non
+DOS50964;10/01/2023;AG008;216;Oui;;48,18;Email;Résiliation;Non;Oui;Oui;9;Oui
+DOS50965;22/07/2023;AG007;498;Non;5;41,12;Chat;Changement d'offre;Non;Oui;Oui;;Oui
+DOS50966;29/06/2023;AG019;354;Non;4;50,06;Email;Facturation;Oui;Non;Oui;;Non
+DOS50967;10/07/2023;AG007;540;Non;4;22,84;Email;Réclamation;Non;Non;Oui;8;Oui
+DOS50968;19/08/2023;AG025;468;Oui;5;33,19;Chat;Déménagement;Non;Non;Non;;Oui
+DOS50969;19/07/2023;AG003;246;Oui;4;50,24;Chat;Réclamation;Oui;Oui;Oui;;Non
+DOS50970;08/11/2023;AG003;162;Non;;50,22;Téléphone;Demande d'information;Non;Non;Oui;;Oui
+DOS50971;10/01/2023;AG008;138;Oui;3;31,97;Téléphone;Facturation;Oui;Non;Oui;;Oui
+DOS50972;19/01/2023;AG012;60;Non;5;23,9;Email;Résiliation;Non;Non;Oui;;Non
+DOS50973;18/08/2023;AG012;336;Oui;5;40,21;Email;Relevé compteur;Non;Non;Non;9;Non
+DOS50974;02/02/2023;AG019;234;Non;4;41,84;Courrier;Changement d'offre;Non;Non;Non Renseigné;8;Oui
+DOS50975;13/06/2023;AG008;378;Non;;37,91;Chat;Changement d'offre;Oui;Non;Non Renseigné;6;Non
+DOS50976;09/04/2023;AG019;240;Non;5;29,59;Chat;Souscription contrat;Non;Non;Non;;Non
+DOS50977;05/06/2023;AG003;216;Non;4;42,07;Courrier;Facturation;Non;Non;Oui;10;Oui
+DOS50978;18/10/2023;AG007;372;Non;4;;Chat;Facturation;Non;Non;Oui;9;Non
+DOS50979;25/01/2023;AG003;576;Oui;5;44,59;Courrier;Déménagement;Oui;Oui;Non Renseigné;;Oui
+DOS50980;10/09/2023;AG007;468;Non;;26,37;Téléphone;Réclamation;Oui;Non;Oui;;Oui
+DOS50981;05/08/2023;AG012;372;Non;4;49,89;Email;Déménagement;Oui;Non;Non;8;Non
+DOS50982;18/08/2023;AG019;450;Oui;5;35,49;Chat;Réclamation;Oui;Non;Non;6;Non
+DOS50983;01/05/2023;AG025;360;Oui;3;21,39;Courrier;Panne compteur;Non;Non;Oui;10;Non
+DOS50984;19/12/2023;AG012;54;Oui;;41,99;Courrier;Réclamation;Oui;Non;Oui;;Oui
+DOS50985;09/11/2023;AG011;396;Oui;5;32,46;Email;Panne compteur;Non;Non;Oui;;Non
+DOS50986;17/08/2023;AG025;372;Non;4;41,44;Courrier;Facturation;Oui;Non;Oui;2;Non
+DOS50987;19/03/2023;AG003;420;Oui;5;21,34;Courrier;Relevé compteur;Oui;Non;Oui;8;Oui
+DOS50988;11/01/2023;AG019;234;Non;4;35,03;Chat;Changement d'offre;Oui;Non;Non;;Oui
+DOS50989;27/03/2023;AG003;444;Non;3;17,9;Email;Déménagement;Oui;Oui;Non;8;Oui
+DOS50990;05/01/2023;AG011;174;Oui;4;35,78;Courrier;Souscription contrat;Oui;Non;Non;4;Non
+DOS50991;13/07/2023;AG019;330;Non;4;39,9;Téléphone;Relevé compteur;Non;Non;Oui;;Non
+DOS50992;06/04/2023;AG019;306;Non;5;49,65;Email;Demande d'information;Non;Oui;Oui;4;Non
+DOS50993;08/08/2023;AG007;18;Oui;5;16,67;Téléphone;Déménagement;Non;Non;Oui;8;Non
+DOS50994;19/04/2023;AG019;246;Oui;5;13,58;Courrier;Litige paiement;Oui;Non;Oui;8;Non
+DOS50995;08/07/2023;AG008;366;Oui;5;19,98;Chat;Réclamation;Non;Oui;Non;9;Oui
+DOS50996;05/10/2023;AG007;252;Oui;4;49,52;Courrier;Résiliation;Oui;Non;Non;;Oui
+DOS50997;28/10/2023;AG008;486;Oui;4;34,56;Courrier;Changement d'offre;Oui;Non;Oui;7;Non
+DOS50998;19/11/2023;AG019;336;Oui;5;19,23;Téléphone;Résiliation;Oui;Non;Oui;10;Non
+DOS50999;17/07/2023;AG025;276;Oui;;26,85;Courrier;Relevé compteur;Oui;Oui;Oui;;Oui
+DOS51000;25/06/2023;AG007;444;Non;4;20,2;Courrier;Relevé compteur;Non;Non;Oui;8;Non
+DOS51001;05/03/2023;AG003;258;Oui;5;46,71;Chat;Litige paiement;Non;Oui;Non;;Oui
+DOS51002;27/08/2023;AG003;180;Oui;4;25,01;Téléphone;Résiliation;Non;Oui;Oui;;Non
+DOS51003;15/01/2023;AG003;378;Oui;4;17,67;Courrier;Panne compteur;Oui;Non;Oui;;Oui
+DOS51004;03/12/2023;AG003;162;Oui;5;39,69;Email;Panne compteur;Oui;Non;Oui;;Non
+DOS51005;16/01/2023;AG003;252;Oui;5;54,76;Téléphone;Demande d'information;Non;Oui;Non;9;Oui
+DOS51006;27/05/2023;AG012;312;Non;5;36,67;Téléphone;Relevé compteur;Oui;Non;Oui;7;Oui
+DOS51007;06/06/2023;AG008;276;Non;3;51,31;Courrier;Souscription contrat;Oui;Non;Non;9;Non
+DOS51008;18/02/2023;AG011;684;Oui;4;32,28;Téléphone;Changement d'offre;Oui;Non;Oui;8;Non
+DOS51009;24/09/2023;AG019;360;Non;2;23,56;Email;Réclamation;Non;Non;Oui;;Oui
+DOS51010;29/04/2023;AG011;294;Oui;4;14,26;Téléphone;Litige paiement;Non;Non;Oui;;Oui
+DOS51011;23/11/2023;AG025;240;Non;4;35,67;Chat;Déménagement;Non;Oui;Oui;;Non
+DOS51012;26/09/2023;AG012;354;Oui;3;17,77;Chat;Résiliation;Oui;Non;Non;;Oui
+DOS51013;08/12/2023;AG008;84;Non;5;52,1;Chat;Changement d'offre;Oui;Non;Oui;0;Non
+DOS51014;08/12/2023;AG012;450;Oui;3;16,11;Email;Litige paiement;Oui;Non;Oui;8;Oui
+DOS51015;09/03/2023;AG019;120;Non;2;27,25;Chat;Facturation;Oui;Non;Non Renseigné;7;Non
+DOS51016;18/03/2023;AG012;348;Oui;4;48,66;Courrier;Réclamation;Oui;Non;Oui;3;Non
+DOS51017;17/02/2023;AG003;288;Oui;4;36,93;Email;Demande d'information;Non;Oui;Oui;;Non
+DOS51018;18/03/2023;AG012;402;Non;3;52,09;Chat;Demande d'information;Non;Non;Oui;9;Non
+DOS51019;01/06/2023;AG011;318;Oui;3;53,68;Chat;Facturation;Oui;Non;Non Renseigné;;Oui
+DOS51020;03/12/2023;AG003;366;Oui;5;12,79;Téléphone;Réclamation;Non;Non;Non;;Oui
+DOS51021;24/08/2023;AG011;546;Oui;5;14,66;Téléphone;Réclamation;Non;Non;Oui;8;Non
+DOS51022;17/10/2023;AG008;408;Oui;5;37,53;Chat;Facturation;Non;Non;Oui;8;Non
+DOS51023;13/11/2023;AG012;276;Oui;5;46,65;Téléphone;Changement d'offre;Oui;Non;Non;8;Oui
+DOS51024;22/05/2023;AG025;198;Oui;;30,65;Chat;Litige paiement;Oui;Non;Oui;0;Oui
+DOS51025;25/08/2023;AG012;288;Non;5;31,66;Téléphone;Panne compteur;Oui;Non;Non;9;Oui
+DOS51026;08/11/2023;AG012;198;Oui;;54,63;Email;Changement d'offre;Non;Non;Oui;;Non
+DOS51027;24/12/2023;AG003;324;Oui;5;22,5;Courrier;Relevé compteur;Oui;Oui;Non;9;Oui
+DOS51028;02/10/2023;AG025;330;Oui;3;35,1;Courrier;Résiliation;Non;Non;Oui;6;Non
+DOS51029;06/06/2023;AG003;144;Oui;5;30,91;Email;Changement d'offre;Non;Non;Non;8;Non
+DOS51030;19/01/2023;AG008;324;Non;;38,22;Téléphone;Souscription contrat;Non;Non;Oui;;Oui
+DOS51031;21/01/2023;AG007;498;Oui;5;43,12;Téléphone;Souscription contrat;Oui;Non;Non Renseigné;0;Non
+DOS51032;18/10/2023;AG019;318;Oui;1;50,02;Chat;Changement d'offre;Oui;Non;Oui;7;Non
+DOS51033;19/07/2023;AG003;264;Non;5;12,75;Téléphone;Relevé compteur;Oui;Non;Oui;8;Non
+DOS51034;05/04/2023;AG008;396;Oui;;27,19;Email;Litige paiement;Oui;Non;Non;7;Oui
+DOS51035;31/05/2023;AG025;294;Oui;;31,73;Courrier;Changement d'offre;Non;Non;Oui;8;Oui
+DOS51036;24/12/2023;AG008;300;Oui;;34,11;Email;Souscription contrat;Non;Non;Oui;5;Oui
+DOS51037;12/10/2023;AG003;444;Non;5;47,94;Courrier;Souscription contrat;Non;Non;Oui;;Oui
+DOS51038;19/06/2023;AG003;204;Non;2;12,73;Email;Litige paiement;Non;Non;Oui;;Oui
+DOS51039;10/03/2023;AG025;420;Oui;3;32,63;Chat;Souscription contrat;Oui;Non;Oui;;Non
+DOS51040;16/01/2023;AG008;138;Oui;5;45,32;Chat;Réclamation;Oui;Non;Oui;9;Non
+DOS51041;23/05/2023;AG003;564;Non;4;43,81;Chat;Relevé compteur;Oui;Non;Oui;6;Oui
+DOS51042;19/03/2023;AG011;210;Non;5;51,82;Courrier;Souscription contrat;Oui;Non;Oui;8;Non
+DOS51043;16/10/2023;AG003;324;Oui;4;31,59;Téléphone;Litige paiement;Oui;Non;Oui;5;Oui
+DOS51044;10/01/2023;AG011;474;Oui;3;40,98;Téléphone;Réclamation;Non;Non;Non;6;Non
+DOS51045;02/03/2023;AG012;138;Non;4;21,06;Chat;Changement d'offre;Oui;Oui;Oui;7;Oui
+DOS51046;22/02/2023;AG003;252;Oui;3;20,03;Email;Demande d'information;Non;Non;Oui;;Non
+DOS51047;09/10/2023;AG008;408;Non;5;29,48;Téléphone;Souscription contrat;Non;Non;Oui;5;Oui
+DOS51048;24/07/2023;AG011;102;Oui;4;47,61;Email;Litige paiement;Oui;Non;Non;;Oui
+DOS51049;18/03/2023;AG007;372;Oui;4;40,9;Courrier;Panne compteur;Non;Non;Oui;6;Non
+DOS51050;22/12/2023;AG019;354;Oui;4;22,28;Courrier;Litige paiement;Oui;Non;Oui;8;Oui
+DOS51051;30/05/2023;AG012;;Oui;2;37,37;Téléphone;Souscription contrat;Oui;Non;Oui;7;Non
+DOS51052;26/01/2023;AG019;90;Oui;4;27,6;Email;Facturation;Non;Non;Non;;Oui
+DOS51053;18/09/2023;AG012;72;Oui;5;12,73;Email;Réclamation;Oui;Non;Oui;8;Non
+DOS51054;21/01/2023;AG019;60;Non;5;12,06;Email;Résiliation;Oui;Non;Oui;;Oui
+DOS51055;04/04/2023;AG019;348;Oui;3;25,24;Courrier;Relevé compteur;Oui;Non;Non;8;Non
+DOS51056;30/09/2023;AG025;222;Oui;5;17,67;Chat;Relevé compteur;Oui;Non;Non Renseigné;7;Non
+DOS51057;23/05/2023;AG011;132;Oui;5;33,83;Email;Résiliation;Non;Non;Oui;6;Oui
+DOS51058;24/03/2023;AG011;432;Oui;3;46,56;Email;Résiliation;Non;Non;Oui;;Oui
+DOS51059;02/11/2023;AG007;486;Oui;5;31,44;Email;Souscription contrat;Non;Non;Oui;10;Non
+DOS51060;27/11/2023;AG011;480;Non;3;30,39;Email;Changement d'offre;Oui;Non;Oui;;Oui
+DOS51061;11/01/2023;AG008;324;Non;5;42,17;Chat;Demande d'information;Oui;Oui;Oui;;Non
+DOS51062;06/05/2023;AG007;78;Non;2;44,69;Courrier;Réclamation;Non;Non;Oui;;Oui
+DOS51063;08/02/2023;AG003;126;Non;1;19,52;Chat;Demande d'information;Oui;Non;Oui;;Oui
+DOS51064;14/07/2023;AG019;174;Non;5;27,44;Chat;Relevé compteur;Oui;Oui;Oui;7;Oui
+DOS51065;04/09/2023;AG008;228;Non;2;21,91;Chat;Demande d'information;Oui;Non;Oui;;Oui
+DOS51066;01/03/2023;AG025;474;Non;5;45,82;Email;Déménagement;Non;Non;Oui;4;Non
+DOS51067;27/08/2023;AG019;354;Oui;4;27,67;Téléphone;Déménagement;Non;Non;Oui;9;Non
+DOS51068;07/12/2023;AG008;318;Non;5;29,17;Chat;Déménagement;Non;Non;Oui;;Oui
+DOS51069;07/07/2023;AG019;330;Non;;47,93;Email;Panne compteur;Non;Non;Oui;2;Non
+DOS51070;08/03/2023;AG008;420;Oui;5;20,43;Chat;Relevé compteur;Non;Oui;Non Renseigné;2;Oui
+DOS51071;01/07/2023;AG008;414;Oui;5;32,14;Courrier;Résiliation;Oui;Non;Oui;8;Non
+DOS51072;14/01/2023;AG019;312;Non;4;41,39;Email;Litige paiement;Non;Oui;Oui;0;Oui
+DOS51073;19/10/2023;AG008;450;Non;5;37,28;Email;Souscription contrat;Oui;Oui;Oui;8;Oui
+DOS51074;21/05/2023;AG019;252;Oui;5;36,75;Email;Déménagement;Non;Oui;Oui;6;Oui
+DOS51075;27/11/2023;AG011;408;Oui;4;17,3;Chat;Relevé compteur;Oui;Non;Oui;;Non
+DOS51076;11/05/2023;AG019;444;Oui;5;13,84;Courrier;Réclamation;Oui;Non;Oui;5;Oui
+DOS51077;08/07/2023;AG008;420;Oui;3;41,06;Courrier;Demande d'information;Oui;Non;Oui;8;Oui
+DOS51078;13/06/2023;AG019;192;Non;4;30,06;Téléphone;Déménagement;Oui;Non;Oui;6;Oui
+DOS51079;03/05/2023;AG019;282;Non;2;20,35;Courrier;Réclamation;Oui;Non;Oui;;Oui
+DOS51080;22/03/2023;AG019;96;Non;5;43,75;Téléphone;Facturation;Oui;Oui;Oui;8;Non
+DOS51081;13/10/2023;AG007;156;Oui;;45,29;Email;Relevé compteur;Oui;Non;Non;;Non
+DOS51082;25/12/2023;AG012;276;Oui;4;52,03;Chat;Résiliation;Non;Non;Non;4;Non
+DOS51083;13/08/2023;AG012;318;Non;2;41,51;Téléphone;Souscription contrat;Oui;Non;Oui;5;Non
+DOS51084;28/10/2023;AG011;354;Oui;4;32,07;Téléphone;Facturation;Oui;Non;Non;;Non
+DOS51085;28/01/2023;AG007;150;Oui;5;30,05;Chat;Réclamation;Oui;Oui;Non;;Non
+DOS51086;10/04/2023;AG007;294;Oui;5;15,24;Chat;Litige paiement;Oui;Non;Non;1;Oui
+DOS51087;18/05/2023;AG025;426;Oui;1;52,71;Chat;Panne compteur;Oui;Non;Non;8;Oui
+DOS51088;26/07/2023;AG019;342;Oui;4;32,12;Téléphone;Résiliation;Non;Oui;Oui;;Non
+DOS51089;21/08/2023;AG007;378;Non;4;15,99;Courrier;Facturation;Non;Oui;Non;;Non
+DOS51090;20/05/2023;AG003;318;Oui;5;18,89;Téléphone;Litige paiement;Non;Non;Oui;7;Oui
+DOS51091;13/01/2023;AG008;222;Non;4;12,33;Téléphone;Demande d'information;Non;Non;Oui;7;Oui
+DOS51092;26/02/2023;AG011;186;Non;4;18,9;Chat;Résiliation;Oui;Non;Non;9;Oui
+DOS51093;17/12/2023;AG012;282;Oui;4;15,31;Téléphone;Souscription contrat;Non;Non;Oui;7;Oui
+DOS51094;17/10/2023;AG019;390;Oui;3;46,78;Téléphone;Résiliation;Non;Non;Oui;;Non
+DOS51095;30/03/2023;AG011;204;Oui;1;31,46;Chat;Souscription contrat;Oui;Non;Oui;8;Non
+DOS51096;04/04/2023;AG007;252;Oui;5;14,98;Chat;Changement d'offre;Oui;Non;Oui;9;Non
+DOS51097;17/10/2023;AG003;312;Oui;4;23,08;Email;Facturation;Non;Non;Oui;;Non
+DOS51098;10/12/2023;AG011;510;Oui;4;38,02;Email;Facturation;Non;Non;Oui;7;Oui
+DOS51099;17/09/2023;AG012;348;Non;3;28,86;Courrier;Déménagement;Non;Non;Oui;;Non
+DOS51100;19/10/2023;AG025;342;Non;;27,64;Téléphone;Souscription contrat;Non;Non;Oui;6;Oui
+DOS51101;10/05/2023;AG008;270;Non;3;43,65;Courrier;Déménagement;Oui;Non;Oui;10;Non
+DOS51102;18/07/2023;AG019;516;Non;5;51,01;Email;Déménagement;Oui;Non;Non Renseigné;;Non
+DOS51103;12/02/2023;AG019;324;Oui;5;51,6;Chat;Litige paiement;Oui;Non;Oui;;Oui
+DOS51104;10/04/2023;AG012;432;Oui;4;23,42;Courrier;Réclamation;Oui;Non;Oui;9;Oui
+DOS51105;29/01/2023;AG008;;Oui;5;52,24;Email;Demande d'information;Non;Non;Non Renseigné;;Oui
+DOS51106;27/05/2023;AG003;186;Oui;5;30,61;Chat;Panne compteur;Non;Oui;Oui;10;Non
+DOS51107;02/08/2023;AG019;300;Oui;2;17,46;Email;Litige paiement;Non;Non;Oui;9;Oui
+DOS51108;10/04/2023;AG019;660;Oui;2;26,52;Chat;Facturation;Non;Non;Oui;;Non
+DOS51109;15/01/2023;AG007;324;Oui;4;15,08;Courrier;Résiliation;Oui;Non;Non;10;Non
+DOS51110;25/09/2023;AG012;264;Non;4;44,72;Chat;Déménagement;Non;Non;Oui;8;Non
+DOS51111;22/08/2023;AG019;438;Non;4;32,87;Email;Réclamation;Non;Non;Oui;7;Oui
+DOS51112;19/06/2023;AG007;276;Oui;;26,84;Téléphone;Changement d'offre;Non;Non;Oui;3;Oui
+DOS51113;17/02/2023;AG008;282;Non;5;17,91;Courrier;Facturation;Oui;Non;Non;8;Oui
+DOS51114;22/06/2023;AG025;102;Oui;;24,93;Téléphone;Résiliation;Oui;Non;Oui;4;Non
+DOS51115;23/02/2023;AG025;54;Oui;5;36,57;Chat;Résiliation;Non;Oui;Non;5;Non
+DOS51116;12/09/2023;AG011;360;Oui;4;26,3;Courrier;Souscription contrat;Oui;Non;Oui;4;Non
+DOS51117;15/12/2023;AG003;252;Oui;4;37,43;Téléphone;Changement d'offre;Non;Non;Oui;;Oui
+DOS51118;23/11/2023;AG003;384;Oui;3;47,94;Chat;Déménagement;Non;Non;Oui;8;Oui
+DOS51119;08/11/2023;AG003;354;Non;2;38,16;Téléphone;Changement d'offre;Oui;Non;Oui;6;Non
+DOS51120;10/03/2023;AG003;318;Non;5;45,06;Courrier;Relevé compteur;Oui;Non;Oui;8;Non
+DOS51121;13/02/2023;AG025;18;Non;;49,73;Courrier;Facturation;Oui;Non;Non Renseigné;8;Oui
+DOS51122;14/05/2023;AG003;282;Non;4;45,37;Email;Relevé compteur;Non;Non;Oui;;Non
+DOS51123;02/02/2023;AG003;210;Non;;30,56;Chat;Demande d'information;Oui;Non;Oui;;Non
+DOS51124;27/09/2023;AG007;204;Non;4;;Téléphone;Résiliation;Non;Non;Non Renseigné;8;Non
+DOS51125;08/12/2023;AG025;102;Oui;4;54,99;Email;Litige paiement;Non;Non;Oui;10;Non
+DOS51126;25/07/2023;AG008;138;Oui;5;19;Chat;Panne compteur;Oui;Non;Oui;;Oui
+DOS51127;21/03/2023;AG019;306;Oui;5;13,82;Chat;Litige paiement;Oui;Non;Oui;;Non
+DOS51128;22/08/2023;AG007;510;Oui;;20,83;Chat;Relevé compteur;Oui;Non;Oui;;Non
+DOS51129;25/04/2023;AG012;576;Oui;;41,9;Téléphone;Souscription contrat;Oui;Non;Non;9;Oui
+DOS51130;11/08/2023;AG012;204;Non;2;26,8;Courrier;Réclamation;Non;Non;Non Renseigné;6;Non
+DOS51131;12/05/2023;AG008;420;Non;5;54,59;Téléphone;Souscription contrat;Non;Non;Non;6;Non
+DOS51132;27/06/2023;AG025;474;Non;;31,47;Email;Panne compteur;Oui;Non;Non;;Non
+DOS51133;31/03/2023;AG008;234;Oui;3;46,11;Email;Changement d'offre;Oui;Non;Oui;;Non
+DOS51134;12/01/2023;AG003;396;Oui;5;48,76;Courrier;Réclamation;Non;Non;Oui;2;Oui
+DOS51135;24/03/2023;AG011;450;Oui;4;52,39;Chat;Réclamation;Non;Non;Oui;10;Oui
+DOS51136;05/10/2023;AG007;132;Non;4;29,14;Email;Facturation;Non;Non;Oui;;Non
+DOS51137;06/06/2023;AG003;366;Oui;4;44,61;Chat;Réclamation;Non;Non;Oui;;Non
+DOS51138;12/02/2023;AG011;186;Non;2;14,2;Email;Changement d'offre;Non;Non;Non;7;Non
+DOS51139;06/02/2023;AG012;372;Non;4;41,37;Téléphone;Réclamation;Non;Non;Non;;Oui
+DOS51140;16/11/2023;AG008;312;Oui;5;44,11;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+DOS51141;07/06/2023;AG008;114;Oui;5;36,19;Chat;Résiliation;Oui;Non;Non;7;Oui
+DOS51142;10/05/2023;AG003;228;Oui;4;36,31;Chat;Facturation;Oui;Non;Non;;Non
+DOS51143;18/01/2023;AG003;210;Non;5;33,67;Chat;Litige paiement;Non;Non;Oui;9;Non
+DOS51144;08/05/2023;AG025;444;Oui;5;;Chat;Changement d'offre;Oui;Non;Oui;4;Oui
+DOS51145;14/04/2023;AG012;300;Oui;3;34;Téléphone;Facturation;Oui;Non;Oui;;Oui
+DOS51146;05/03/2023;AG011;204;Oui;4;41,6;Chat;Souscription contrat;Non;Non;Oui;8;Non
+DOS51147;17/06/2023;AG007;384;Oui;;23,71;Chat;Déménagement;Oui;Non;Oui;10;Oui
+DOS51148;23/02/2023;AG025;276;Oui;4;49,89;Téléphone;Relevé compteur;Oui;Non;Oui;;Oui
+DOS51149;22/10/2023;AG011;336;Oui;;25,08;Chat;Souscription contrat;Non;Non;Oui;;Oui
+DOS51150;03/06/2023;AG012;294;Oui;5;27,75;Email;Panne compteur;Oui;Non;Oui;8;Non
+DOS51151;26/07/2023;AG003;570;Non;5;39,75;Chat;Panne compteur;Oui;Non;Oui;;Oui
+DOS51152;18/01/2023;AG011;336;Non;4;46,71;Chat;Déménagement;Oui;Non;Oui;;Non
+DOS51153;11/02/2023;AG011;402;Oui;4;28,51;Email;Réclamation;Non;Non;Non;;Non
+DOS51154;23/05/2023;AG007;444;Non;5;29,84;Courrier;Demande d'information;Oui;Non;Oui;8;Oui
+DOS51155;22/02/2023;AG008;300;Non;5;34,99;Courrier;Demande d'information;Oui;Non;Oui;;Oui
+DOS51156;19/11/2023;AG007;474;Oui;5;37,05;Email;Souscription contrat;Non;Non;Oui;6;Non
+DOS51157;15/09/2023;AG019;420;Non;;18,16;Courrier;Facturation;Oui;Non;Non;9;Non
+DOS51158;11/05/2023;AG011;66;Oui;3;33,31;Chat;Relevé compteur;Non;Non;Oui;10;Non
+DOS51159;08/02/2023;AG011;222;Non;4;49,42;Chat;Souscription contrat;Oui;Non;Oui;;Oui
+DOS51160;02/09/2023;AG011;306;Non;3;50,28;Téléphone;Litige paiement;Non;Oui;Oui;6;Oui
+DOS51161;04/06/2023;AG007;318;Oui;4;32,29;Email;Souscription contrat;Non;Non;Oui;;Oui
+DOS51162;17/12/2023;AG012;240;Oui;5;40,84;Email;Déménagement;Non;Non;Oui;9;Oui
+DOS51163;28/10/2023;AG025;360;Non;3;22,16;Téléphone;Changement d'offre;Oui;Non;Non;1;Non
+DOS51164;25/06/2023;AG007;276;Oui;2;18,52;Email;Déménagement;Oui;Non;Non;;Non
+DOS51165;28/02/2023;AG007;306;Non;5;15,96;Courrier;Litige paiement;Oui;Non;Non Renseigné;7;Non
+DOS51166;14/10/2023;AG019;270;Non;5;41,75;Chat;Déménagement;Oui;Non;Oui;3;Non
+DOS51167;14/10/2023;AG007;282;Oui;4;13,25;Courrier;Relevé compteur;Non;Non;Oui;8;Non
+DOS51168;09/10/2023;AG019;192;Non;5;52,64;Chat;Résiliation;Non;Oui;Non Renseigné;6;Oui
+DOS51169;09/11/2023;AG011;354;Non;2;52,12;Chat;Litige paiement;Oui;Non;Oui;;Non
+DOS51170;26/10/2023;AG008;378;Oui;4;13,2;Courrier;Résiliation;Non;Non;Oui;10;Non
+DOS51171;01/08/2023;AG011;150;Oui;4;52,07;Téléphone;Changement d'offre;Oui;Non;Oui;9;Non
+DOS51172;13/04/2023;AG019;240;Oui;5;26,73;Email;Déménagement;Oui;Non;Oui;8;Non
+DOS51173;19/10/2023;AG012;318;Oui;5;15,3;Courrier;Panne compteur;Non;Non;Oui;6;Non
+DOS51174;14/11/2023;AG012;504;Non;4;32,21;Courrier;Relevé compteur;Oui;Non;Oui;;Oui
+DOS51175;22/07/2023;AG012;192;Oui;4;28,5;Email;Réclamation;Oui;Non;Oui;;Oui
+DOS51176;18/01/2023;AG025;270;Oui;5;16,31;Courrier;Résiliation;Non;Non;Non Renseigné;;Oui
+DOS51177;25/03/2023;AG003;252;Oui;5;46,72;Chat;Réclamation;Non;Non;Non;5;Non
+DOS51178;06/10/2023;AG008;342;Oui;4;26,74;Email;Relevé compteur;Oui;Non;Oui;9;Oui
+DOS51179;13/12/2023;AG007;186;Non;2;21,72;Courrier;Facturation;Non;Non;Oui;4;Oui
+DOS51180;23/10/2023;AG025;234;Oui;5;29,21;Téléphone;Changement d'offre;Non;Oui;Oui;;Non
+DOS51181;09/05/2023;AG025;564;Non;3;37,49;Téléphone;Panne compteur;Non;Oui;Non Renseigné;9;Oui
+DOS51182;19/02/2023;AG008;78;Non;4;36,04;Chat;Litige paiement;Oui;Non;Non;9;Non
+DOS51183;26/06/2023;AG011;300;Non;;40,79;Courrier;Litige paiement;Non;Non;Oui;;Oui
+DOS51184;09/03/2023;AG007;306;Non;1;14,48;Email;Litige paiement;Non;Oui;Non Renseigné;9;Oui
+DOS51185;22/03/2023;AG008;;Oui;4;20,02;Email;Résiliation;Oui;Oui;Oui;;Oui
+DOS51186;20/09/2023;AG012;;Non;;49,96;Courrier;Réclamation;Non;Non;Non Renseigné;;Non
+DOS51187;31/08/2023;AG007;336;Non;5;15,01;Chat;Demande d'information;Oui;Non;Oui;;Non
+DOS51188;07/12/2023;AG025;522;Oui;4;18,32;Chat;Litige paiement;Non;Non;Oui;8;Non
+DOS51189;13/01/2023;AG003;;Non;1;44,91;Téléphone;Facturation;Non;Non;Oui;6;Non
+DOS51190;09/10/2023;AG011;360;Non;;12,36;Email;Litige paiement;Oui;Non;Non;9;Oui
+DOS51191;10/10/2023;AG019;342;Oui;2;21,32;Courrier;Relevé compteur;Non;Non;Oui;10;Non
+DOS51192;29/07/2023;AG025;372;Oui;4;50,46;Chat;Résiliation;Non;Non;Oui;6;Non
+DOS51193;19/08/2023;AG008;432;Oui;2;14,46;Courrier;Déménagement;Non;Non;Oui;8;Non
+DOS51194;29/06/2023;AG019;480;Non;5;13,53;Courrier;Souscription contrat;Non;Non;Non;4;Non
+DOS51195;09/08/2023;AG007;546;Non;;34,08;Email;Demande d'information;Oui;Non;Non;9;Non
+DOS51196;23/10/2023;AG008;162;Non;4;23,75;Chat;Résiliation;Non;Non;Non;7;Oui
+DOS51197;14/12/2023;AG011;366;Oui;4;39,53;Email;Changement d'offre;Oui;Oui;Oui;10;Oui
+DOS51198;03/01/2023;AG011;450;Oui;4;26,72;Chat;Litige paiement;Oui;Non;Oui;;Oui
+DOS51199;10/02/2023;AG007;300;Non;4;23,47;Téléphone;Souscription contrat;Non;Non;Non Renseigné;;Oui
+DOS51200;25/11/2023;AG025;198;Non;3;47,23;Chat;Résiliation;Non;Oui;Oui;8;Non
+DOS51201;27/03/2023;AG011;198;Oui;5;42,56;Téléphone;Changement d'offre;Non;Non;Oui;10;Oui
+DOS51202;28/03/2023;AG025;516;Non;;54,98;Téléphone;Résiliation;Oui;Non;Oui;7;Non
+DOS51203;31/12/2023;AG025;228;Oui;;42,54;Chat;Litige paiement;Oui;Non;Oui;;Non
+DOS51204;02/07/2023;AG007;354;Non;3;48,58;Téléphone;Panne compteur;Oui;Non;Non Renseigné;8;Non
+DOS51205;10/02/2023;AG012;234;Non;2;53,04;Email;Changement d'offre;Non;Non;Oui;8;Non
+DOS51206;10/06/2023;AG003;312;Oui;3;41,26;Chat;Panne compteur;Oui;Non;Oui;7;Non
+DOS51207;16/05/2023;AG007;132;Non;;22,64;Chat;Litige paiement;Non;Non;Oui;10;Oui
+DOS51208;22/10/2023;AG007;132;Non;5;26,34;Téléphone;Panne compteur;Oui;Non;Oui;6;Oui
+DOS51209;07/10/2023;AG008;384;Non;4;30,99;Chat;Litige paiement;Non;Non;Non Renseigné;8;Oui
+DOS51210;29/04/2023;AG019;;Oui;4;33,21;Courrier;Facturation;Oui;Non;Oui;;Non
+DOS51211;26/04/2023;AG012;486;Oui;4;24,84;Chat;Relevé compteur;Oui;Oui;Non;7;Non
+DOS51212;30/05/2023;AG003;354;Non;5;45,8;Email;Réclamation;Non;Non;Non;3;Oui
+DOS51213;04/12/2023;AG003;156;Oui;5;19,28;Courrier;Litige paiement;Oui;Non;Oui;;Oui
+DOS51214;07/01/2023;AG003;348;Oui;5;25,12;Courrier;Relevé compteur;Non;Non;Oui;;Oui
+DOS51215;15/11/2023;AG012;258;Oui;3;52,91;Téléphone;Résiliation;Oui;Non;Oui;4;Oui
+DOS51216;18/09/2023;AG025;198;Non;3;24,45;Chat;Relevé compteur;Oui;Non;Oui;10;Oui
+DOS51217;02/04/2023;AG003;456;Oui;4;34,52;Email;Changement d'offre;Oui;Non;Oui;;Non
+DOS51218;11/12/2023;AG008;372;Non;4;34,1;Email;Déménagement;Oui;Non;Non;;Oui
+DOS51219;28/02/2023;AG008;240;Non;5;12,45;Email;Litige paiement;Non;Non;Oui;;Oui
+DOS51220;06/05/2023;AG008;216;Oui;4;33,97;Courrier;Déménagement;Non;Non;Oui;;Non
+DOS51221;21/09/2023;AG019;528;Non;;21,21;Courrier;Litige paiement;Oui;Non;Oui;;Oui
+DOS51222;21/03/2023;AG025;360;Oui;5;15,16;Courrier;Facturation;Non;Non;Non Renseigné;10;Oui
+DOS51223;03/02/2023;AG025;318;Oui;;24,21;Téléphone;Demande d'information;Non;Non;Oui;;Non
+DOS51224;20/02/2023;AG019;216;Non;2;28,28;Email;Souscription contrat;Oui;Non;Oui;;Non
+DOS51225;25/05/2023;AG012;216;Oui;4;47,18;Chat;Changement d'offre;Non;Non;Oui;5;Non
+DOS51226;02/02/2023;AG008;570;Non;4;34,44;Téléphone;Résiliation;Oui;Non;Oui;4;Oui
+DOS51227;27/04/2023;AG025;390;Non;5;30,67;Email;Panne compteur;Non;Non;Oui;6;Oui
+DOS51228;19/07/2023;AG011;306;Non;5;29,25;Courrier;Réclamation;Oui;Non;Oui;;Non
+DOS51229;28/10/2023;AG007;144;Oui;4;46,21;Courrier;Panne compteur;Non;Non;Oui;10;Non
+DOS51230;10/09/2023;AG012;252;Non;5;15,81;Email;Relevé compteur;Oui;Non;Oui;4;Oui
+DOS51231;10/12/2023;AG012;360;Oui;3;51,05;Téléphone;Demande d'information;Non;Non;Non Renseigné;;Oui
+DOS51232;06/03/2023;AG007;450;Non;5;14,5;Email;Relevé compteur;Non;Non;Oui;;Non
+DOS51233;27/01/2023;AG007;;Oui;1;34,64;Email;Facturation;Non;Non;Oui;9;Oui
+DOS51234;16/05/2023;AG007;450;Non;5;16,2;Chat;Panne compteur;Non;Non;Oui;6;Non
+DOS51235;14/07/2023;AG019;324;Non;3;22,34;Email;Déménagement;Non;Non;Oui;9;Oui
+DOS51236;05/06/2023;AG011;438;Oui;5;52,37;Chat;Demande d'information;Oui;Oui;Non;;Non
+DOS51237;13/04/2023;AG012;282;Oui;3;54,69;Téléphone;Résiliation;Oui;Oui;Oui;1;Non
+DOS51238;17/03/2023;AG003;438;Non;4;50,38;Téléphone;Résiliation;Non;Non;Oui;9;Non
+DOS51239;24/03/2023;AG007;258;Non;3;20,03;Email;Panne compteur;Oui;Non;Non;;Non
+DOS51240;19/03/2023;AG003;396;Oui;4;31,94;Chat;Réclamation;Non;Non;Oui;;Oui
+DOS51241;28/06/2023;AG019;336;Oui;4;16,45;Courrier;Litige paiement;Oui;Non;Oui;;Oui
+DOS51242;13/10/2023;AG003;48;Oui;5;36,84;Téléphone;Déménagement;Non;Non;Oui;;Oui
+DOS51243;17/04/2023;AG003;222;Non;4;30,86;Email;Résiliation;Non;Non;Non Renseigné;8;Oui
+DOS51244;04/04/2023;AG019;;Non;4;53,05;Téléphone;Relevé compteur;Oui;Non;Oui;10;Oui
+DOS51245;31/08/2023;AG008;;Non;;18,7;Courrier;Facturation;Oui;Oui;Non;9;Oui
+DOS51246;18/07/2023;AG012;372;Non;5;23,22;Chat;Réclamation;Oui;Non;Oui;10;Oui
+DOS51247;15/07/2023;AG011;252;Non;5;46,37;Courrier;Souscription contrat;Non;Non;Oui;1;Oui
+DOS51248;05/03/2023;AG025;144;Oui;4;44,59;Téléphone;Facturation;Oui;Non;Oui;7;Oui
+DOS51249;06/11/2023;AG012;324;Oui;4;39,57;Chat;Résiliation;Oui;Non;Oui;6;Oui
+DOS51250;12/06/2023;AG025;372;Non;4;39,59;Téléphone;Demande d'information;Non;Non;Oui;8;Oui
+DOS51251;10/04/2023;AG011;246;Oui;3;40,76;Chat;Résiliation;Non;Non;Oui;;Oui
+DOS51252;18/04/2023;AG008;342;Oui;;;Courrier;Changement d'offre;Non;Non;Non Renseigné;;Non
+DOS51253;05/11/2023;AG008;456;Non;4;39,38;Chat;Résiliation;Oui;Non;Oui;10;Non
+DOS51254;26/03/2023;AG007;204;Non;3;38,51;Courrier;Réclamation;Non;Non;Oui;6;Non
+DOS51255;11/07/2023;AG008;246;Non;4;22,06;Chat;Panne compteur;Non;Non;Non;;Oui
+DOS51256;21/05/2023;AG007;120;Oui;5;44,35;Téléphone;Relevé compteur;Oui;Oui;Non Renseigné;6;Non
+DOS51257;27/09/2023;AG003;462;Non;5;28,13;Email;Panne compteur;Non;Non;Non;;Non
+DOS51258;23/05/2023;AG025;;Non;4;39,97;Courrier;Demande d'information;Non;Oui;Non Renseigné;;Oui
+DOS51259;22/12/2023;AG008;264;Oui;;27,31;Téléphone;Réclamation;Oui;Non;Oui;9;Oui
+DOS51260;27/05/2023;AG019;516;Oui;;43,91;Courrier;Résiliation;Non;Non;Non;9;Oui
+DOS51261;20/07/2023;AG007;30;Non;;41,93;Téléphone;Changement d'offre;Oui;Non;Non;;Non
+DOS51262;29/07/2023;AG025;354;Oui;4;54,91;Courrier;Panne compteur;Oui;Non;Oui;8;Non
+DOS51263;28/04/2023;AG019;384;Non;4;26,99;Email;Changement d'offre;Oui;Non;Oui;;Oui
+DOS51264;24/04/2023;AG012;372;Oui;5;41,73;Chat;Changement d'offre;Oui;Non;Oui;4;Oui
+DOS51265;16/06/2023;AG011;414;Oui;5;26,01;Téléphone;Souscription contrat;Non;Non;Oui;3;Oui
+DOS51266;05/05/2023;AG012;336;Oui;4;21,4;Téléphone;Facturation;Non;Non;Oui;9;Oui
+DOS51267;01/04/2023;AG011;330;Non;3;38,9;Chat;Panne compteur;Oui;Oui;Oui;10;Oui
+DOS51268;16/07/2023;AG008;126;Non;5;28,42;Courrier;Résiliation;Non;Non;Oui;7;Oui
+DOS51269;07/12/2023;AG019;300;Non;5;40,12;Email;Relevé compteur;Non;Non;Oui;;Non
+DOS51270;09/09/2023;AG019;336;Oui;;52,04;Chat;Demande d'information;Non;Non;Oui;;Oui
+DOS51271;30/05/2023;AG003;228;Non;3;48,57;Courrier;Relevé compteur;Non;Non;Oui;;Non
+DOS51272;10/04/2023;AG019;210;Oui;3;12,53;Téléphone;Changement d'offre;Non;Non;Non;8;Oui
+DOS51273;01/01/2023;AG007;;Non;5;19,37;Courrier;Relevé compteur;Non;Non;Oui;10;Non
+DOS51274;15/03/2023;AG008;402;Non;5;37,2;Chat;Déménagement;Oui;Non;Oui;;Non
+DOS51275;31/05/2023;AG011;216;Oui;3;45,66;Email;Déménagement;Non;Non;Oui;;Oui
+DOS51276;08/06/2023;AG012;282;Non;;35,8;Email;Demande d'information;Non;Non;Oui;;Non
+DOS51277;17/12/2023;AG008;354;Oui;5;39,7;Email;Relevé compteur;Non;Non;Oui;;Non
+DOS51278;04/09/2023;AG012;228;Non;5;52,3;Chat;Demande d'information;Oui;Non;Oui;;Non
+DOS51279;11/07/2023;AG007;312;Non;4;37,21;Courrier;Litige paiement;Oui;Oui;Oui;7;Oui
+DOS51280;22/08/2023;AG011;342;Non;1;47,89;Chat;Changement d'offre;Non;Non;Non;9;Oui
+DOS51281;26/09/2023;AG012;540;Non;3;13,42;Téléphone;Réclamation;Oui;Non;Non Renseigné;;Non
+DOS51282;13/04/2023;AG011;282;Oui;;15,29;Courrier;Demande d'information;Oui;Non;Oui;9;Oui
+DOS51283;24/11/2023;AG019;102;Oui;3;42,35;Email;Souscription contrat;Non;Non;Oui;;Oui
+DOS51284;20/11/2023;AG011;132;Oui;;12,15;Email;Souscription contrat;Non;Non;Oui;10;Oui
+DOS51285;18/06/2023;AG007;228;Non;5;42,95;Courrier;Panne compteur;Oui;Non;Non;8;Oui
+DOS51286;21/06/2023;AG011;270;Non;2;36,26;Chat;Panne compteur;Non;Oui;Non;;Oui
+DOS51287;17/05/2023;AG008;450;Non;4;21,79;Chat;Panne compteur;Non;Non;Oui;;Non
+DOS51288;03/04/2023;AG025;576;Non;1;51,48;Téléphone;Déménagement;Non;Non;Non Renseigné;;Non
+DOS51289;04/03/2023;AG008;294;Non;3;28,4;Chat;Souscription contrat;Non;Non;Non;5;Oui
+DOS51290;24/09/2023;AG019;372;Non;2;51,86;Téléphone;Changement d'offre;Non;Non;Oui;4;Non
+DOS51291;09/02/2023;AG012;480;Non;4;29,13;Courrier;Résiliation;Oui;Non;Oui;;Oui
+DOS51292;23/01/2023;AG003;396;Non;5;14,12;Chat;Déménagement;Non;Non;Oui;6;Oui
+DOS51293;07/12/2023;AG003;270;Non;1;17,86;Email;Panne compteur;Non;Oui;Non;;Non
+DOS51294;28/04/2023;AG008;300;Non;5;29,27;Chat;Réclamation;Oui;Non;Non;;Oui
+DOS51295;07/05/2023;AG019;312;Oui;;20,03;Email;Litige paiement;Oui;Oui;Oui;;Oui
+DOS51296;18/04/2023;AG003;492;Non;5;32,96;Téléphone;Réclamation;Non;Non;Oui;7;Oui
+DOS51297;20/03/2023;AG003;438;Oui;3;13,74;Courrier;Réclamation;Oui;Oui;Non Renseigné;;Non
+DOS51298;20/02/2023;AG007;426;Non;5;42,97;Téléphone;Demande d'information;Oui;Non;Oui;9;Non
+DOS51299;12/02/2023;AG011;366;Oui;3;47,69;Téléphone;Déménagement;Non;Non;Non Renseigné;8;Non
+DOS51300;26/11/2023;AG008;336;Non;3;25,85;Courrier;Facturation;Non;Non;Non;;Non
+DOS51301;04/05/2023;AG003;294;Oui;4;12,58;Chat;Réclamation;Oui;Non;Oui;;Oui
+DOS51302;02/03/2023;AG008;168;Oui;3;22,83;Téléphone;Demande d'information;Non;Non;Non;;Non
+DOS51303;15/01/2023;AG011;396;Oui;5;32,06;Courrier;Facturation;Non;Non;Non;9;Non
+DOS51304;10/02/2023;AG012;246;Oui;5;46,77;Téléphone;Réclamation;Oui;Non;Non;3;Non
+DOS51305;04/01/2023;AG019;414;Non;2;51,57;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+DOS51306;21/06/2023;AG008;84;Non;4;46,5;Email;Relevé compteur;Non;Non;Oui;9;Non
+DOS51307;15/03/2023;AG008;186;Non;4;34,77;Email;Souscription contrat;Non;Oui;Oui;10;Oui
+DOS51308;04/12/2023;AG011;432;Oui;4;18,57;Email;Litige paiement;Non;Oui;Oui;;Oui
+DOS51309;10/12/2023;AG008;492;Oui;5;48,33;Téléphone;Déménagement;Oui;Oui;Non;8;Non
+DOS51310;27/02/2023;AG012;414;Non;3;24,24;Courrier;Changement d'offre;Non;Non;Oui;10;Oui
+DOS51311;20/08/2023;AG011;204;Oui;4;25,66;Email;Litige paiement;Non;Non;Non;;Non
+DOS51312;17/03/2023;AG019;444;Oui;5;35,94;Chat;Relevé compteur;Non;Non;Non;;Oui
+DOS51313;27/01/2023;AG025;210;Non;3;49,97;Courrier;Demande d'information;Oui;Oui;Oui;;Oui
+DOS51314;18/06/2023;AG019;444;Non;3;44,38;Courrier;Facturation;Non;Non;Oui;;Non
+DOS51315;06/09/2023;AG003;180;Non;3;18,51;Courrier;Souscription contrat;Oui;Non;Oui;9;Oui
+DOS51316;16/07/2023;AG008;258;Non;4;27,29;Courrier;Litige paiement;Oui;Non;Oui;10;Oui
+DOS51317;26/03/2023;AG007;12;Non;5;25,85;Courrier;Demande d'information;Oui;Non;Oui;;Non
+DOS51318;10/11/2023;AG025;186;Non;5;42,5;Téléphone;Litige paiement;Oui;Non;Oui;;Non
+DOS51319;31/12/2023;AG012;396;Non;1;52,21;Courrier;Relevé compteur;Oui;Non;Oui;6;Non
+DOS51320;07/01/2023;AG003;552;Non;5;14,96;Courrier;Litige paiement;Non;Non;Oui;;Oui
+DOS51321;16/02/2023;AG007;456;Oui;5;49,17;Téléphone;Demande d'information;Oui;Non;Oui;7;Non
+DOS51322;13/03/2023;AG019;408;Non;5;54,1;Email;Déménagement;Non;Non;Oui;6;Oui
+DOS51323;17/09/2023;AG019;132;Oui;3;37,61;Email;Réclamation;Oui;Non;Oui;7;Oui
+DOS51324;06/12/2023;AG007;264;Non;4;14,6;Téléphone;Déménagement;Oui;Non;Oui;;Oui
+DOS51325;20/02/2023;AG003;516;Oui;4;46,3;Email;Facturation;Oui;Oui;Non;;Oui
+DOS51326;21/09/2023;AG007;318;Oui;;37,68;Chat;Réclamation;Non;Non;Non;;Non
+DOS51327;11/08/2023;AG011;162;Non;5;31,67;Courrier;Changement d'offre;Oui;Non;Oui;9;Oui
+DOS51328;10/01/2023;AG003;264;Non;4;25,39;Chat;Facturation;Non;Non;Oui;8;Non
+DOS51329;25/12/2023;AG025;60;Non;3;30,84;Téléphone;Souscription contrat;Non;Non;Non;10;Oui
+DOS51330;26/11/2023;AG011;420;Oui;5;22,23;Chat;Facturation;Non;Non;Oui;6;Non
+DOS51331;19/01/2023;AG011;78;Oui;4;54,51;Courrier;Litige paiement;Non;Non;Oui;;Oui
+DOS51332;26/04/2023;AG012;144;Oui;3;32,51;Email;Résiliation;Oui;Oui;Oui;7;Non
+DOS51333;20/04/2023;AG019;312;Non;4;49,26;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+DOS51334;22/12/2023;AG012;162;Non;4;47,15;Email;Demande d'information;Non;Non;Oui;;Oui
+DOS51335;17/11/2023;AG012;336;Oui;4;27,86;Chat;Déménagement;Oui;Non;Oui;;Oui
+DOS51336;15/01/2023;AG012;414;Non;2;39,46;Courrier;Déménagement;Oui;Non;Oui;;Oui
+DOS51337;20/10/2023;AG011;246;Non;5;50,63;Téléphone;Réclamation;Oui;Non;Oui;;Non
+DOS51338;24/12/2023;AG025;474;Non;5;47,97;Courrier;Réclamation;Oui;Non;Non;;Non
+DOS51339;14/02/2023;AG003;402;Oui;4;14,35;Chat;Souscription contrat;Non;Non;Oui;;Oui
+DOS51340;30/01/2023;AG019;378;Non;5;14,99;Chat;Panne compteur;Oui;Non;Non;7;Oui
+DOS51341;07/12/2023;AG011;474;Oui;3;33,87;Courrier;Réclamation;Non;Oui;Non;8;Non
+DOS51342;21/01/2023;AG003;336;Oui;3;35,5;Téléphone;Facturation;Oui;Non;Non;;Oui
+DOS51343;29/11/2023;AG003;270;Oui;5;53;Téléphone;Souscription contrat;Oui;Non;Oui;;Oui
+DOS51344;02/06/2023;AG007;360;Oui;2;21,1;Téléphone;Résiliation;Oui;Non;Oui;;Oui
+DOS51345;19/03/2023;AG012;168;Oui;3;38,4;Email;Changement d'offre;Oui;Non;Oui;;Non
+DOS51346;16/07/2023;AG003;426;Oui;3;47,05;Email;Panne compteur;Oui;Non;Oui;;Oui
+DOS51347;30/08/2023;AG011;426;Non;3;48,7;Email;Panne compteur;Non;Non;Oui;;Non
+DOS51348;17/06/2023;AG012;288;Non;3;41,55;Chat;Panne compteur;Non;Oui;Non;8;Non
+DOS51349;05/02/2023;AG003;240;Oui;5;33,44;Chat;Changement d'offre;Non;Non;Non Renseigné;;Non
+DOS51350;03/11/2023;AG003;342;Non;5;29,52;Téléphone;Panne compteur;Non;Non;Oui;10;Oui
+DOS51351;06/09/2023;AG025;150;Non;5;28,77;Email;Réclamation;Oui;Non;Oui;8;Non
+DOS51352;25/03/2023;AG003;264;Oui;4;13,14;Email;Changement d'offre;Oui;Non;Oui;;Non
+DOS51353;02/05/2023;AG003;462;Oui;3;14,5;Courrier;Résiliation;Non;Non;Oui;8;Oui
+DOS51354;04/09/2023;AG025;192;Oui;4;52,36;Email;Facturation;Non;Non;Non;;Non
+DOS51355;30/04/2023;AG025;480;Non;3;40,5;Email;Souscription contrat;Non;Non;Oui;5;Non
+DOS51356;26/03/2023;AG007;366;Oui;;28,3;Email;Facturation;Non;Non;Oui;;Oui
+DOS51357;25/03/2023;AG011;384;Non;;32,58;Téléphone;Réclamation;Non;Non;Oui;3;Non
+DOS51358;23/03/2023;AG003;240;Non;1;45,46;Téléphone;Résiliation;Non;Non;Oui;10;Oui
+DOS51359;15/09/2023;AG019;204;Non;4;50,44;Téléphone;Facturation;Non;Non;Oui;8;Oui
+DOS51360;31/07/2023;AG007;282;Oui;1;15,72;Téléphone;Facturation;Oui;Non;Non Renseigné;8;Non
+DOS51361;01/11/2023;AG019;522;Oui;1;14,45;Chat;Panne compteur;Oui;Oui;Oui;0;Non
+DOS51362;15/10/2023;AG011;234;Non;4;38,19;Chat;Relevé compteur;Non;Non;Oui;8;Oui
+DOS51363;20/12/2023;AG011;42;Non;4;12,28;Courrier;Réclamation;Non;Non;Oui;9;Non
+DOS51364;24/05/2023;AG019;324;Oui;;17,61;Email;Facturation;Non;Non;Non;6;Oui
+DOS51365;31/12/2023;AG007;456;Non;5;46,3;Email;Litige paiement;Non;Non;Non;10;Non
+DOS51366;18/02/2023;AG007;342;Oui;;34,13;Courrier;Panne compteur;Non;Non;Non;;Non
+DOS51367;01/05/2023;AG019;534;Non;4;15,76;Email;Panne compteur;Non;Non;Non;8;Non
+DOS51368;07/04/2023;AG003;390;Oui;4;16,01;Chat;Demande d'information;Non;Non;Oui;;Oui
+DOS51369;23/02/2023;AG011;342;Non;1;23,33;Email;Litige paiement;Non;Non;Oui;5;Non
+DOS51370;22/01/2023;AG003;276;Oui;5;40,12;Email;Déménagement;Oui;Non;Non;4;Oui
+DOS51371;21/09/2023;AG003;378;Oui;5;35;Email;Litige paiement;Non;Oui;Oui;4;Oui
+DOS51372;24/05/2023;AG025;126;Non;;24,9;Email;Résiliation;Non;Oui;Oui;;Non
+DOS51373;28/04/2023;AG007;522;Non;5;14,09;Email;Demande d'information;Oui;Non;Non;;Non
+DOS51374;19/12/2023;AG019;414;Non;3;40,84;Email;Facturation;Oui;Non;Oui;;Non
+DOS51375;28/03/2023;AG025;414;Non;5;39,68;Email;Demande d'information;Non;Non;Oui;7;Oui
+DOS51376;01/10/2023;AG011;306;Oui;5;25,19;Chat;Litige paiement;Oui;Non;Oui;;Non
+DOS51377;04/06/2023;AG012;480;Non;3;16,38;Email;Demande d'information;Oui;Non;Oui;;Non
+DOS51378;02/03/2023;AG003;288;Oui;4;46,6;Email;Déménagement;Non;Non;Oui;;Non
+DOS51379;22/02/2023;AG025;246;Oui;5;51,51;Courrier;Souscription contrat;Oui;Non;Oui;7;Oui
+DOS51380;04/10/2023;AG019;318;Oui;5;21,43;Courrier;Changement d'offre;Non;Non;Oui;;Non
+DOS51381;22/12/2023;AG012;420;Non;4;46,32;Email;Réclamation;Non;Non;Oui;;Non
+DOS51382;05/12/2023;AG003;228;Non;5;22,03;Téléphone;Souscription contrat;Non;Oui;Oui;6;Oui
+DOS51383;01/12/2023;AG007;210;Non;5;34,14;Chat;Changement d'offre;Non;Non;Oui;;Non
+DOS51384;27/04/2023;AG012;204;Oui;4;31,49;Téléphone;Relevé compteur;Oui;Non;Non;;Non
+DOS51385;29/03/2023;AG012;258;Non;2;49,58;Chat;Facturation;Oui;Non;Oui;8;Oui
+DOS51386;18/10/2023;AG007;432;Non;5;20,42;Email;Relevé compteur;Oui;Non;Oui;8;Non
+DOS51387;09/10/2023;AG025;336;Non;5;19,18;Téléphone;Facturation;Oui;Non;Oui;7;Oui
+DOS51388;13/09/2023;AG003;174;Non;;40,39;Chat;Réclamation;Oui;Non;Oui;8;Oui
+DOS51389;19/10/2023;AG012;600;Oui;4;46,17;Courrier;Litige paiement;Non;Non;Oui;7;Oui
+DOS51390;19/01/2023;AG025;;Oui;;35,69;Chat;Litige paiement;Oui;Oui;Oui;;Non
+DOS51391;16/06/2023;AG003;258;Non;3;16,76;Courrier;Déménagement;Non;Oui;Non;5;Non
+DOS51392;17/06/2023;AG011;198;Non;5;29,05;Email;Litige paiement;Non;Oui;Oui;;Non
+DOS51393;05/04/2023;AG025;234;Oui;3;16,78;Email;Réclamation;Non;Non;Oui;7;Non
+DOS51394;08/02/2023;AG008;318;Oui;1;38,24;Téléphone;Panne compteur;Non;Non;Oui;;Non
+DOS51395;03/07/2023;AG007;288;Oui;4;42,46;Email;Souscription contrat;Non;Non;Oui;8;Non
+DOS51396;06/06/2023;AG011;216;Non;2;24,52;Email;Demande d'information;Oui;Oui;Oui;9;Oui
+DOS51397;27/12/2023;AG003;354;Oui;1;17,57;Email;Réclamation;Oui;Non;Oui;;Oui
+DOS51398;22/07/2023;AG003;372;Non;;20,67;Téléphone;Litige paiement;Oui;Non;Non;;Non
+DOS51399;02/02/2023;AG019;390;Oui;4;26,68;Téléphone;Résiliation;Oui;Oui;Oui;;Non
+DOS51400;29/01/2023;AG012;324;Non;3;46,45;Chat;Litige paiement;Non;Non;Non;4;Oui
+DOS51401;31/10/2023;AG007;366;Non;5;23,38;Courrier;Demande d'information;Oui;Non;Oui;;Non
+DOS51402;17/03/2023;AG008;390;Oui;3;41,49;Courrier;Changement d'offre;Non;Non;Oui;;Oui
+DOS51403;28/03/2023;AG012;234;Oui;4;41,28;Courrier;Souscription contrat;Non;Non;Oui;8;Oui
+DOS51404;16/01/2023;AG012;558;Non;5;43,63;Chat;Réclamation;Non;Non;Oui;;Non
+DOS51405;10/01/2023;AG019;516;Oui;5;23,61;Chat;Facturation;Oui;Non;Oui;;Oui
+DOS51406;06/08/2023;AG007;420;Non;3;25,28;Courrier;Panne compteur;Oui;Non;Oui;6;Oui
+DOS51407;28/03/2023;AG007;270;Non;;35,49;Email;Facturation;Non;Non;Oui;5;Oui
+DOS51408;17/07/2023;AG025;84;Non;5;48,23;Courrier;Souscription contrat;Oui;Non;Non Renseigné;7;Non
+DOS51409;17/03/2023;AG008;108;Non;;46,64;Email;Changement d'offre;Oui;Oui;Oui;;Oui
+DOS51410;20/10/2023;AG003;282;Oui;3;25,93;Email;Réclamation;Non;Non;Oui;9;Oui
+DOS51411;27/03/2023;AG003;516;Non;3;38,18;Chat;Demande d'information;Oui;Non;Oui;9;Non
+DOS51412;28/01/2023;AG007;294;Oui;5;31,98;Courrier;Relevé compteur;Non;Non;Oui;8;Oui
+DOS51413;19/07/2023;AG011;198;Non;;54,04;Courrier;Demande d'information;Non;Oui;Oui;5;Oui
+DOS51414;31/08/2023;AG019;204;Oui;5;13,12;Chat;Relevé compteur;Oui;Non;Oui;7;Non
+DOS51415;01/05/2023;AG008;516;Oui;1;36,31;Chat;Demande d'information;Oui;Non;Non;9;Oui
+DOS51416;13/10/2023;AG012;282;Oui;3;30,46;Courrier;Litige paiement;Oui;Non;Oui;;Non
+DOS51417;12/10/2023;AG008;504;Non;3;50,59;Chat;Relevé compteur;Oui;Non;Oui;10;Oui
+DOS51418;27/05/2023;AG012;192;Oui;5;52,39;Téléphone;Litige paiement;Oui;Non;Oui;;Oui
+DOS51419;30/05/2023;AG007;210;Oui;;46,8;Courrier;Demande d'information;Non;Non;Oui;8;Non
+DOS51420;02/08/2023;AG012;252;Oui;5;18,16;Chat;Résiliation;Non;Non;Non Renseigné;;Oui
+DOS51421;02/10/2023;AG008;372;Non;4;13,12;Courrier;Réclamation;Non;Non;Oui;;Oui
+DOS51422;11/06/2023;AG025;402;Oui;5;22,32;Téléphone;Relevé compteur;Oui;Non;Oui;;Oui
+DOS51423;24/05/2023;AG011;222;Non;;43,35;Téléphone;Litige paiement;Oui;Oui;Non;;Non
+DOS51424;23/07/2023;AG025;240;Oui;5;54,28;Courrier;Facturation;Non;Non;Oui;;Non
+DOS51425;17/05/2023;AG008;138;Non;5;22,53;Chat;Litige paiement;Non;Non;Oui;;Oui
+DOS51426;06/02/2023;AG011;132;Oui;5;16,71;Courrier;Changement d'offre;Oui;Non;Non Renseigné;;Oui
+DOS51427;29/10/2023;AG019;204;Non;4;33,07;Email;Souscription contrat;Non;Non;Oui;9;Non
+DOS51428;02/12/2023;AG011;492;Non;5;47,16;Courrier;Réclamation;Oui;Non;Oui;;Non
+DOS51429;04/07/2023;AG025;198;Non;3;35,4;Email;Déménagement;Non;Non;Oui;7;Oui
+DOS51430;29/11/2023;AG019;324;Non;2;14,38;Téléphone;Relevé compteur;Non;Non;Non Renseigné;;Oui
+DOS51431;28/06/2023;AG007;270;Oui;2;38,5;Email;Relevé compteur;Non;Non;Oui;10;Non
+DOS51432;06/07/2023;AG012;;Oui;3;47,23;Chat;Changement d'offre;Non;Non;Oui;7;Non
+DOS51433;17/12/2023;AG012;384;Oui;3;51,18;Chat;Réclamation;Non;Oui;Oui;5;Non
+DOS51434;30/08/2023;AG007;240;Non;1;37,23;Courrier;Relevé compteur;Non;Non;Oui;;Non
+DOS51435;31/05/2023;AG011;426;Non;4;51,34;Téléphone;Déménagement;Oui;Non;Oui;10;Non
+DOS51436;08/04/2023;AG007;426;Oui;;12,41;Email;Déménagement;Oui;Non;Non;7;Non
+DOS51437;06/11/2023;AG025;246;Non;5;12,16;Chat;Résiliation;Oui;Non;Oui;9;Non
+DOS51438;25/10/2023;AG007;408;Non;5;45,93;Email;Changement d'offre;Oui;Non;Non Renseigné;;Non
+DOS51439;31/03/2023;AG007;408;Non;1;51,99;Chat;Changement d'offre;Oui;Non;Oui;7;Oui
+DOS51440;28/09/2023;AG011;276;Oui;5;50,86;Email;Résiliation;Non;Non;Oui;;Oui
+DOS51441;08/02/2023;AG003;258;Non;5;19,62;Chat;Panne compteur;Oui;Non;Oui;;Non
+DOS51442;06/03/2023;AG019;354;Non;5;15,58;Courrier;Résiliation;Oui;Non;Non;;Oui
+DOS51443;13/06/2023;AG007;546;Oui;5;24,27;Courrier;Litige paiement;Oui;Non;Oui;;Non
+DOS51444;23/12/2023;AG019;456;Oui;4;42,42;Téléphone;Réclamation;Oui;Non;Oui;10;Non
+DOS51445;22/12/2023;AG025;318;Non;5;38,74;Courrier;Facturation;Oui;Non;Oui;;Oui
+DOS51446;29/07/2023;AG019;84;Oui;4;17,13;Chat;Litige paiement;Oui;Non;Non;10;Oui
+DOS51447;21/10/2023;AG003;306;Non;4;29,59;Chat;Changement d'offre;Non;Non;Oui;9;Non
+DOS51448;04/12/2023;AG008;84;Oui;5;13,9;Téléphone;Résiliation;Oui;Non;Oui;8;Oui
+DOS51449;22/09/2023;AG003;120;Oui;2;37,33;Téléphone;Relevé compteur;Oui;Non;Oui;9;Non
+DOS51450;22/07/2023;AG007;216;Non;2;52,56;Chat;Réclamation;Oui;Non;Non Renseigné;9;Non
+DOS51451;18/01/2023;AG011;324;Oui;3;16,27;Email;Demande d'information;Oui;Non;Oui;4;Non
+DOS51452;02/11/2023;AG025;228;Oui;;43,74;Téléphone;Réclamation;Non;Oui;Oui;9;Non
+DOS51453;25/07/2023;AG012;468;Oui;4;29,28;Téléphone;Panne compteur;Oui;Non;Non;;Non
+DOS51454;04/03/2023;AG007;306;Non;3;;Téléphone;Déménagement;Non;Non;Oui;;Oui
+DOS51455;01/09/2023;AG008;234;Oui;5;28,91;Téléphone;Réclamation;Oui;Non;Oui;4;Oui
+DOS51456;08/03/2023;AG011;396;Non;5;45,72;Chat;Résiliation;Non;Non;Oui;;Non
+DOS51457;10/06/2023;AG019;222;Non;;51,68;Courrier;Réclamation;Oui;Non;Oui;;Non
+DOS51458;31/03/2023;AG012;324;Oui;5;27,61;Chat;Déménagement;Non;Non;Oui;;Non
+DOS51459;09/07/2023;AG019;;Oui;2;23,05;Email;Litige paiement;Non;Non;Oui;;Non
+DOS51460;13/02/2023;AG025;222;Non;;30,41;Courrier;Résiliation;Oui;Non;Oui;0;Non
+DOS51461;15/10/2023;AG008;456;Oui;4;29,36;Courrier;Relevé compteur;Non;Non;Oui;9;Non
+DOS51462;03/05/2023;AG007;366;Oui;3;40,67;Email;Changement d'offre;Oui;Oui;Oui;9;Non
+DOS51463;10/06/2023;AG012;342;Oui;5;32,28;Chat;Facturation;Non;Non;Oui;;Oui
+DOS51464;17/01/2023;AG019;384;Non;5;14,61;Chat;Réclamation;Non;Non;Oui;9;Non
+DOS51465;31/05/2023;AG025;456;Non;3;16,11;Téléphone;Souscription contrat;Oui;Non;Non;;Non
+DOS51466;17/11/2023;AG008;306;Non;4;47,51;Courrier;Demande d'information;Oui;Non;Non;9;Non
+DOS51467;28/11/2023;AG007;246;Non;4;25,46;Chat;Facturation;Oui;Non;Non;8;Oui
+DOS51468;24/11/2023;AG011;402;Non;3;47,99;Chat;Changement d'offre;Oui;Non;Non Renseigné;3;Non
+DOS51469;04/02/2023;AG003;288;Oui;2;40,6;Téléphone;Demande d'information;Non;Non;Non;7;Non
+DOS51470;10/02/2023;AG008;246;Oui;4;12,69;Email;Relevé compteur;Oui;Oui;Non;5;Non
+DOS51471;16/09/2023;AG008;;Non;2;16,6;Email;Changement d'offre;Non;Non;Oui;9;Oui
+DOS51472;07/08/2023;AG019;366;Oui;2;14,75;Email;Facturation;Non;Non;Oui;8;Oui
+DOS51473;30/07/2023;AG011;96;Non;4;17,86;Téléphone;Changement d'offre;Oui;Non;Oui;7;Non
+DOS51474;02/03/2023;AG008;366;Non;1;38,48;Chat;Panne compteur;Non;Non;Non;;Non
+DOS51475;14/09/2023;AG003;174;Non;4;35,68;Téléphone;Litige paiement;Oui;Non;Non Renseigné;;Oui
+DOS51476;18/04/2023;AG011;228;Oui;4;16,16;Courrier;Changement d'offre;Non;Non;Non;8;Oui
+DOS51477;26/08/2023;AG019;150;Oui;4;21,74;Email;Réclamation;Non;Non;Non;;Oui
+DOS51478;24/06/2023;AG003;390;Oui;5;39,64;Email;Souscription contrat;Oui;Non;Oui;8;Non
+DOS51479;13/05/2023;AG008;342;Non;4;13,43;Téléphone;Demande d'information;Oui;Non;Oui;;Oui
+DOS51480;27/05/2023;AG025;180;Oui;;28,86;Courrier;Relevé compteur;Oui;Non;Non Renseigné;;Non
+DOS51481;22/07/2023;AG019;414;Non;5;39,78;Chat;Résiliation;Oui;Non;Oui;5;Oui
+DOS51482;30/04/2023;AG012;120;Oui;3;26,38;Email;Réclamation;Oui;Non;Non Renseigné;5;Non
+DOS51483;06/08/2023;AG008;264;Oui;4;26,69;Chat;Réclamation;Non;Non;Non Renseigné;5;Oui
+DOS51484;21/03/2023;AG008;144;Non;4;46,87;Courrier;Facturation;Non;Non;Oui;;Oui
+DOS51485;19/09/2023;AG008;288;Non;;18,76;Chat;Déménagement;Non;Non;Oui;5;Oui
+DOS51486;05/04/2023;AG008;246;Oui;5;49,85;Téléphone;Facturation;Non;Non;Oui;;Non
+DOS51487;17/03/2023;AG019;168;Non;5;17,67;Téléphone;Souscription contrat;Non;Non;Oui;;Non
+DOS51488;13/03/2023;AG019;312;Oui;4;23,89;Email;Facturation;Oui;Oui;Oui;4;Non
+DOS51489;04/06/2023;AG012;186;Non;4;36,46;Email;Changement d'offre;Non;Non;Oui;8;Oui
+DOS51490;05/07/2023;AG011;54;Oui;;16,81;Téléphone;Réclamation;Non;Non;Oui;7;Non
+DOS51491;01/02/2023;AG008;120;Oui;;18,07;Email;Résiliation;Oui;Non;Oui;8;Oui
+DOS51492;17/02/2023;AG007;264;Non;4;14,3;Téléphone;Résiliation;Oui;Non;Non;10;Oui
+DOS51493;27/06/2023;AG003;276;Oui;5;38,16;Chat;Déménagement;Oui;Non;Non Renseigné;5;Non
+DOS51494;18/09/2023;AG003;210;Oui;;41,23;Courrier;Litige paiement;Non;Non;Oui;;Non
+DOS51495;03/01/2023;AG012;486;Non;4;42,66;Email;Panne compteur;Non;Non;Non Renseigné;;Oui
+DOS51496;29/08/2023;AG008;348;Oui;4;36,71;Courrier;Souscription contrat;Non;Non;Oui;10;Non
+DOS51497;24/06/2023;AG025;360;Oui;5;15,6;Email;Souscription contrat;Non;Non;Oui;10;Non
+DOS51498;30/01/2023;AG011;198;Non;4;36,11;Courrier;Réclamation;Non;Non;Oui;0;Oui
+DOS51499;30/11/2023;AG008;186;Non;4;23,1;Téléphone;Demande d'information;Non;Non;Oui;7;Non
+DOS51500;07/10/2023;AG003;330;Oui;5;24,86;Chat;Litige paiement;Oui;Non;Oui;5;Oui
+DOS51501;20/04/2023;AG025;276;Oui;5;31,45;Courrier;Demande d'information;Non;Non;Oui;2;Non
+DOS51502;28/12/2023;AG012;342;Non;5;36,32;Téléphone;Résiliation;Oui;Non;Oui;;Non
+DOS51503;26/05/2023;AG025;276;Oui;5;50,77;Courrier;Litige paiement;Non;Non;Oui;10;Oui
+DOS51504;26/10/2023;AG025;396;Non;5;50,35;Chat;Changement d'offre;Oui;Non;Non;7;Non
+DOS51505;16/02/2023;AG007;312;Oui;5;36,79;Chat;Facturation;Oui;Non;Oui;9;Non
+DOS51506;12/04/2023;AG008;288;Non;;27,72;Email;Litige paiement;Non;Non;Oui;8;Oui
+DOS51507;05/04/2023;AG011;366;Non;5;13,96;Chat;Demande d'information;Non;Non;Oui;;Non
+DOS51508;09/01/2023;AG003;504;Oui;5;45,26;Téléphone;Litige paiement;Oui;Non;Oui;;Oui
+DOS51509;26/09/2023;AG011;390;Oui;4;18,44;Téléphone;Réclamation;Non;Non;Oui;8;Non
+DOS51510;16/02/2023;AG007;156;Non;4;40,47;Téléphone;Demande d'information;Non;Non;Oui;0;Non
+DOS51511;15/08/2023;AG003;288;Oui;1;18,79;Téléphone;Demande d'information;Non;Non;Oui;8;Non
+DOS51512;06/06/2023;AG025;288;Non;5;24,53;Chat;Changement d'offre;Oui;Non;Oui;;Oui
+DOS51513;13/04/2023;AG019;348;Non;5;48,59;Courrier;Litige paiement;Non;Non;Oui;;Non
+DOS51514;11/12/2023;AG008;264;Non;4;33,27;Email;Panne compteur;Non;Oui;Oui;9;Oui
+DOS51515;02/05/2023;AG008;306;Oui;3;15,64;Chat;Demande d'information;Oui;Non;Oui;;Non
+DOS51516;23/01/2023;AG007;318;Non;5;23,03;Chat;Litige paiement;Non;Oui;Oui;8;Non
+DOS51517;02/04/2023;AG025;342;Non;5;36,24;Chat;Facturation;Non;Non;Non Renseigné;;Non
+DOS51518;22/04/2023;AG007;156;Oui;5;13,51;Email;Résiliation;Oui;Non;Oui;3;Oui
+DOS51519;26/08/2023;AG007;174;Oui;4;40,01;Chat;Souscription contrat;Non;Non;Oui;;Oui
+DOS51520;20/04/2023;AG011;42;Oui;5;51,03;Téléphone;Changement d'offre;Non;Non;Oui;;Oui
+DOS51521;15/04/2023;AG011;546;Non;3;19,22;Chat;Résiliation;Oui;Non;Oui;;Oui
+DOS51522;04/04/2023;AG003;72;Oui;;19,76;Courrier;Réclamation;Oui;Non;Non;;Non
+DOS51523;25/10/2023;AG008;318;Oui;5;44,25;Téléphone;Relevé compteur;Non;Non;Non Renseigné;10;Oui
+DOS51524;18/04/2023;AG012;390;Oui;4;27,02;Email;Facturation;Non;Oui;Non Renseigné;6;Oui
+DOS51525;25/07/2023;AG007;192;Non;2;34,01;Téléphone;Demande d'information;Oui;Oui;Oui;;Non
+DOS51526;04/09/2023;AG019;450;Oui;5;37,28;Courrier;Panne compteur;Non;Non;Oui;;Oui
+DOS51527;14/09/2023;AG003;312;Oui;4;23,91;Courrier;Déménagement;Oui;Non;Oui;;Oui
+DOS51528;07/05/2023;AG025;510;Non;2;50,3;Courrier;Relevé compteur;Oui;Non;Non;3;Non
+DOS51529;17/04/2023;AG007;198;Non;4;13,77;Chat;Déménagement;Non;Non;Oui;8;Non
+DOS51530;20/07/2023;AG019;288;Oui;5;22,01;Email;Litige paiement;Oui;Non;Oui;8;Oui
+DOS51531;14/09/2023;AG019;252;Non;5;23,39;Téléphone;Facturation;Non;Non;Non;;Non
+DOS51532;15/07/2023;AG025;234;Oui;3;17,62;Téléphone;Facturation;Non;Non;Oui;3;Oui
+DOS51533;11/01/2023;AG025;240;Oui;1;52,16;Courrier;Panne compteur;Non;Non;Oui;6;Non
+DOS51534;28/10/2023;AG003;270;Non;5;22,59;Chat;Souscription contrat;Non;Non;Oui;;Non
+DOS51535;21/09/2023;AG007;258;Oui;4;52,12;Email;Relevé compteur;Oui;Non;Non Renseigné;6;Non
+DOS51536;23/08/2023;AG007;402;Non;2;16,5;Email;Litige paiement;Non;Non;Oui;5;Oui
+DOS51537;26/10/2023;AG012;390;Oui;4;47,96;Téléphone;Réclamation;Oui;Oui;Oui;;Non
+DOS51538;21/12/2023;AG012;126;Oui;5;36,76;Courrier;Relevé compteur;Non;Non;Oui;7;Oui
+DOS51539;10/12/2023;AG007;240;Oui;5;47,35;Courrier;Relevé compteur;Non;Non;Non;;Oui
+DOS51540;03/02/2023;AG011;354;Oui;4;51,91;Téléphone;Changement d'offre;Non;Non;Oui;;Non
+DOS51541;13/04/2023;AG019;342;Oui;2;22,24;Téléphone;Panne compteur;Oui;Non;Oui;10;Non
+DOS51542;20/04/2023;AG025;282;Oui;3;49,81;Courrier;Demande d'information;Non;Oui;Oui;;Non
+DOS51543;02/05/2023;AG003;306;Non;3;18,65;Email;Résiliation;Non;Non;Oui;;Non
+DOS51544;23/01/2023;AG011;264;Non;4;27,83;Email;Relevé compteur;Non;Non;Oui;;Oui
+DOS51545;17/03/2023;AG019;414;Oui;5;13,68;Courrier;Relevé compteur;Non;Non;Oui;4;Oui
+DOS51546;08/03/2023;AG008;402;Oui;;13,1;Téléphone;Facturation;Non;Non;Oui;10;Oui
+DOS51547;06/10/2023;AG019;270;Oui;5;29,47;Téléphone;Relevé compteur;Oui;Non;Oui;6;Oui
+DOS51548;07/02/2023;AG019;300;Oui;4;19,42;Chat;Réclamation;Oui;Non;Oui;;Oui
+DOS51549;31/01/2023;AG025;276;Non;5;22,85;Chat;Panne compteur;Non;Non;Oui;8;Non
+DOS51550;15/03/2023;AG019;294;Non;4;23,77;Téléphone;Litige paiement;Oui;Non;Non;10;Oui
+DOS51551;20/01/2023;AG008;432;Oui;5;37,34;Email;Panne compteur;Non;Non;Oui;8;Non
+DOS51552;11/11/2023;AG019;258;Oui;4;35,49;Email;Résiliation;Oui;Non;Oui;8;Non
+DOS51553;02/03/2023;AG012;234;Non;4;22,21;Chat;Réclamation;Non;Non;Oui;;Oui
+DOS51554;06/08/2023;AG025;300;Oui;4;45,2;Email;Souscription contrat;Non;Non;Oui;6;Oui
+DOS51555;29/11/2023;AG019;552;Non;5;52,77;Email;Déménagement;Non;Non;Oui;;Oui
+DOS51556;10/02/2023;AG007;270;Non;4;25,74;Chat;Réclamation;Oui;Non;Oui;6;Non
+DOS51557;06/05/2023;AG008;216;Oui;5;18,5;Chat;Déménagement;Non;Non;Oui;;Non
+DOS51558;04/07/2023;AG007;384;Oui;;32,83;Téléphone;Changement d'offre;Oui;Non;Oui;7;Non
+DOS51559;19/03/2023;AG007;396;Non;1;35,12;Email;Facturation;Oui;Non;Non;8;Non
+DOS51560;22/01/2023;AG003;324;Oui;2;46,03;Téléphone;Souscription contrat;Oui;Non;Non;;Oui
+DOS51561;04/03/2023;AG019;228;Non;3;36,67;Email;Déménagement;Oui;Non;Oui;6;Oui
+DOS51562;17/04/2023;AG003;414;Non;5;27,54;Email;Déménagement;Oui;Non;Non;;Oui
+DOS51563;27/04/2023;AG011;168;Oui;4;35,43;Courrier;Réclamation;Oui;Non;Non Renseigné;;Oui
+DOS51564;04/03/2023;AG025;24;Oui;2;42,91;Téléphone;Demande d'information;Oui;Oui;Oui;;Oui
+DOS51565;26/09/2023;AG019;282;Non;5;50,01;Email;Souscription contrat;Non;Oui;Oui;;Oui
+DOS51566;13/08/2023;AG025;540;Non;1;48,79;Email;Panne compteur;Oui;Oui;Oui;;Oui
+DOS51567;03/04/2023;AG011;324;Oui;4;32,09;Chat;Résiliation;Non;Non;Oui;7;Oui
+DOS51568;04/04/2023;AG011;270;Non;;18,84;Email;Déménagement;Non;Non;Oui;9;Non
+DOS51569;26/05/2023;AG003;360;Oui;5;40,27;Chat;Réclamation;Non;Non;Non;;Non
+DOS51570;23/07/2023;AG008;360;Oui;2;26,25;Courrier;Résiliation;Non;Non;Oui;7;Oui
+DOS51571;18/05/2023;AG025;576;Non;5;54,14;Email;Panne compteur;Oui;Non;Oui;8;Oui
+DOS51572;11/06/2023;AG012;450;Oui;5;34,88;Email;Demande d'information;Non;Non;Oui;;Oui
+DOS51573;03/03/2023;AG011;210;Oui;5;38,17;Email;Déménagement;Non;Non;Non Renseigné;;Oui
+DOS51574;22/07/2023;AG011;360;Non;5;36,58;Téléphone;Changement d'offre;Non;Non;Oui;;Non
+DOS51575;02/04/2023;AG012;300;Non;4;52,32;Courrier;Souscription contrat;Non;Oui;Oui;10;Non
+DOS51576;23/06/2023;AG003;312;Non;4;42,84;Email;Résiliation;Oui;Non;Oui;7;Oui
+DOS51577;08/12/2023;AG019;294;Oui;;44,04;Email;Changement d'offre;Oui;Non;Oui;;Oui
+DOS51578;31/01/2023;AG011;294;Oui;4;14,63;Téléphone;Relevé compteur;Non;Non;Non Renseigné;0;Oui
+DOS51579;27/09/2023;AG003;132;Non;3;34,45;Chat;Demande d'information;Non;Non;Oui;10;Non
+DOS51580;31/10/2023;AG012;258;Oui;3;26,41;Téléphone;Réclamation;Oui;Non;Oui;4;Non
+DOS51581;15/02/2023;AG007;300;Oui;4;28,83;Courrier;Demande d'information;Non;Non;Oui;0;Oui
+DOS51582;11/07/2023;AG012;348;Oui;4;46,06;Courrier;Réclamation;Oui;Non;Oui;5;Oui
+DOS51583;11/12/2023;AG007;318;Non;5;54,71;Email;Litige paiement;Non;Non;Oui;;Oui
+DOS51584;17/01/2023;AG003;312;Oui;;41,94;Courrier;Réclamation;Oui;Non;Oui;;Non
+DOS51585;02/02/2023;AG025;372;Oui;;16,75;Téléphone;Changement d'offre;Non;Non;Oui;6;Non
+DOS51586;21/12/2023;AG003;474;Non;5;33,73;Email;Litige paiement;Non;Non;Oui;8;Oui
+DOS51587;15/05/2023;AG007;282;Oui;5;42,22;Email;Changement d'offre;Non;Non;Oui;;Non
+DOS51588;07/01/2023;AG008;210;Oui;2;49,66;Téléphone;Changement d'offre;Non;Non;Non Renseigné;6;Oui
+DOS51589;25/11/2023;AG003;414;Non;4;31,77;Chat;Réclamation;Oui;Non;Oui;;Non
+DOS51590;18/10/2023;AG012;360;Non;1;29,97;Email;Changement d'offre;Oui;Non;Oui;7;Oui
+DOS51591;23/01/2023;AG012;270;Non;5;44,26;Email;Changement d'offre;Oui;Non;Oui;;Non
+DOS51592;09/05/2023;AG011;54;Non;4;46,82;Courrier;Déménagement;Non;Non;Oui;;Oui
+DOS51593;18/09/2023;AG025;420;Oui;5;37,13;Email;Changement d'offre;Non;Non;Oui;7;Non
+DOS51594;27/12/2023;AG011;204;Non;5;50,5;Chat;Facturation;Oui;Non;Non;8;Non
+DOS51595;01/08/2023;AG003;282;Non;3;13,53;Email;Souscription contrat;Oui;Non;Oui;;Non
+DOS51596;12/01/2023;AG011;270;Non;2;39,49;Chat;Facturation;Non;Non;Oui;;Oui
+DOS51597;24/08/2023;AG025;426;Non;;51,65;Téléphone;Relevé compteur;Oui;Non;Oui;;Oui
+DOS51598;05/03/2023;AG008;336;Non;;44,87;Courrier;Facturation;Oui;Non;Oui;;Non
+DOS51599;14/07/2023;AG025;174;Oui;3;44,58;Téléphone;Panne compteur;Oui;Non;Oui;;Oui
+DOS51600;10/09/2023;AG011;588;Non;5;44,57;Téléphone;Souscription contrat;Non;Non;Non;;Oui
+DOS51601;16/08/2023;AG008;366;Non;5;48,16;Courrier;Facturation;Non;Non;Non Renseigné;8;Non
+DOS51602;03/03/2023;AG012;228;Oui;2;54,86;Courrier;Changement d'offre;Oui;Non;Non Renseigné;;Oui
+DOS51603;22/08/2023;AG003;462;Non;;30,68;Téléphone;Facturation;Non;Non;Oui;8;Oui
+DOS51604;10/09/2023;AG003;306;Oui;2;17,49;Courrier;Litige paiement;Oui;Non;Oui;;Non
+DOS51605;19/05/2023;AG003;288;Non;4;17,22;Chat;Litige paiement;Oui;Non;Oui;7;Non
+DOS51606;26/10/2023;AG011;294;Non;;41,61;Courrier;Relevé compteur;Oui;Non;Non Renseigné;;Non
+DOS51607;06/05/2023;AG012;306;Non;4;15,18;Email;Demande d'information;Oui;Non;Oui;;Oui
+DOS51608;10/12/2023;AG019;300;Non;5;36,59;Chat;Changement d'offre;Oui;Non;Non;;Non
+DOS51609;29/10/2023;AG008;288;Oui;5;53,48;Email;Changement d'offre;Non;Oui;Oui;;Oui
+DOS51610;30/09/2023;AG008;246;Oui;5;15,28;Email;Demande d'information;Oui;Non;Oui;8;Non
+DOS51611;29/07/2023;AG025;222;Non;3;45,47;Chat;Facturation;Non;Non;Oui;8;Non
+DOS51612;09/04/2023;AG008;324;Non;5;22,66;Chat;Changement d'offre;Oui;Non;Non Renseigné;9;Oui
+DOS51613;09/04/2023;AG007;;Non;3;22,47;Email;Relevé compteur;Non;Non;Non Renseigné;6;Non
+DOS51614;14/12/2023;AG003;342;Non;3;49,45;Email;Déménagement;Oui;Non;Oui;9;Oui
+DOS51615;12/10/2023;AG008;456;Oui;5;39,76;Chat;Changement d'offre;Non;Non;Oui;;Non
+DOS51616;21/02/2023;AG011;306;Oui;4;37,6;Téléphone;Facturation;Oui;Non;Non Renseigné;;Oui
+DOS51617;29/05/2023;AG008;330;Oui;;41,68;Chat;Litige paiement;Non;Non;Oui;3;Oui
+DOS51618;11/08/2023;AG011;426;Non;3;54,13;Téléphone;Facturation;Oui;Non;Oui;10;Oui
+DOS51619;02/06/2023;AG007;282;Oui;2;33,23;Courrier;Relevé compteur;Oui;Oui;Oui;8;Non
+DOS51620;02/03/2023;AG003;240;Non;3;48,67;Chat;Demande d'information;Oui;Oui;Oui;;Non
+DOS51621;04/08/2023;AG011;30;Oui;5;39,76;Chat;Relevé compteur;Non;Non;Non;10;Non
+DOS51622;23/08/2023;AG019;318;Non;2;12,74;Email;Souscription contrat;Non;Oui;Oui;;Oui
+DOS51623;27/11/2023;AG011;240;Oui;5;45,48;Téléphone;Réclamation;Oui;Oui;Oui;8;Oui
+DOS51624;11/10/2023;AG012;270;Non;4;46,34;Courrier;Facturation;Oui;Non;Non Renseigné;2;Non
+DOS51625;10/06/2023;AG025;66;Non;3;14;Email;Changement d'offre;Oui;Oui;Oui;1;Non
+DOS51626;27/10/2023;AG003;270;Non;3;21,89;Téléphone;Relevé compteur;Non;Non;Oui;10;Non
+DOS51627;21/03/2023;AG025;180;Non;3;26,53;Email;Litige paiement;Non;Oui;Oui;8;Oui
+DOS51628;20/08/2023;AG011;156;Oui;4;22,06;Chat;Relevé compteur;Oui;Non;Oui;;Non
+DOS51629;07/06/2023;AG007;192;Oui;4;47,7;Email;Litige paiement;Non;Non;Oui;;Non
+DOS51630;25/07/2023;AG019;180;Non;4;28,21;Téléphone;Litige paiement;Oui;Non;Oui;;Oui
+DOS51631;27/10/2023;AG007;402;Oui;4;33,79;Email;Changement d'offre;Oui;Non;Non Renseigné;5;Non
+DOS51632;19/10/2023;AG019;;Non;5;28,36;Chat;Litige paiement;Non;Non;Oui;10;Non
+DOS51633;02/09/2023;AG008;318;Oui;5;51,07;Courrier;Souscription contrat;Non;Non;Oui;9;Non
+DOS51634;24/03/2023;AG003;504;Oui;5;52;Email;Résiliation;Oui;Non;Oui;;Oui
+DOS51635;25/04/2023;AG019;;Non;4;51,03;Courrier;Résiliation;Non;Non;Non Renseigné;5;Oui
+DOS51636;15/04/2023;AG008;;Non;4;39,56;Courrier;Relevé compteur;Oui;Non;Oui;8;Non
+DOS51637;04/05/2023;AG011;204;Non;5;52,62;Chat;Réclamation;Oui;Non;Oui;;Non
+DOS51638;01/10/2023;AG007;300;Non;5;20,27;Email;Panne compteur;Non;Non;Oui;7;Non
+DOS51639;12/11/2023;AG008;192;Non;;50,45;Chat;Litige paiement;Non;Non;Non;;Non
+DOS51640;09/11/2023;AG012;312;Oui;4;16,47;Email;Souscription contrat;Oui;Non;Non Renseigné;8;Oui
+DOS51641;28/02/2023;AG011;378;Oui;4;45,77;Email;Demande d'information;Oui;Non;Oui;;Non
+DOS51642;22/02/2023;AG011;192;Non;5;50,16;Courrier;Résiliation;Oui;Oui;Non Renseigné;10;Non
+DOS51643;12/12/2023;AG019;474;Oui;4;53,96;Chat;Demande d'information;Oui;Non;Non;;Non
+DOS51644;03/04/2023;AG025;552;Non;4;24,79;Téléphone;Souscription contrat;Oui;Non;Oui;10;Oui
+DOS51645;05/06/2023;AG003;522;Non;5;37,13;Téléphone;Panne compteur;Oui;Non;Oui;;Oui
+DOS51646;27/04/2023;AG011;96;Oui;2;14,89;Courrier;Déménagement;Oui;Non;Non;8;Oui
+DOS51647;27/07/2023;AG012;246;Non;;22,87;Courrier;Résiliation;Oui;Non;Oui;10;Oui
+DOS51648;29/03/2023;AG025;336;Oui;4;37,87;Email;Relevé compteur;Oui;Oui;Non;6;Non
+DOS51649;22/10/2023;AG011;144;Non;5;38,17;Email;Souscription contrat;Non;Non;Oui;;Non
+DOS51650;07/06/2023;AG019;156;Non;4;47,87;Courrier;Panne compteur;Oui;Non;Oui;9;Non
+DOS51651;04/11/2023;AG003;90;Non;3;32,48;Téléphone;Réclamation;Non;Non;Oui;3;Non
+DOS51652;29/09/2023;AG025;306;Non;3;39,93;Chat;Panne compteur;Non;Non;Non Renseigné;;Oui
+DOS51653;19/07/2023;AG019;342;Non;;14,17;Téléphone;Panne compteur;Oui;Non;Non;;Oui
+DOS51654;31/01/2023;AG019;426;Non;3;52,53;Courrier;Résiliation;Oui;Non;Non;8;Non
+DOS51655;15/10/2023;AG003;360;Oui;5;54,88;Chat;Demande d'information;Non;Non;Non;5;Non
+DOS51656;19/06/2023;AG019;384;Oui;5;31,38;Chat;Facturation;Oui;Non;Oui;10;Oui
+DOS51657;22/08/2023;AG003;114;Non;1;36,24;Chat;Relevé compteur;Oui;Non;Oui;2;Non
+DOS51658;06/12/2023;AG019;330;Non;3;51,11;Téléphone;Souscription contrat;Oui;Non;Oui;8;Oui
+DOS51659;07/05/2023;AG003;294;Non;4;31,34;Courrier;Changement d'offre;Non;Non;Non;9;Oui
+DOS51660;23/09/2023;AG025;228;Oui;1;41,4;Email;Facturation;Non;Non;Oui;;Non
+DOS51661;17/12/2023;AG003;258;Non;5;25,43;Téléphone;Réclamation;Non;Oui;Non;5;Non
+DOS51662;23/01/2023;AG008;342;Non;3;39,76;Courrier;Demande d'information;Oui;Non;Oui;8;Oui
+DOS51663;01/06/2023;AG008;390;Non;4;36,05;Email;Réclamation;Non;Non;Oui;7;Non
+DOS51664;16/03/2023;AG019;528;Oui;5;14,42;Téléphone;Déménagement;Oui;Non;Oui;9;Non
+DOS51665;12/12/2023;AG011;348;Oui;4;39,16;Email;Souscription contrat;Oui;Non;Non;7;Oui
+DOS51666;21/10/2023;AG025;402;Non;4;;Courrier;Demande d'information;Non;Non;Non;8;Oui
+DOS51667;15/05/2023;AG019;396;Non;5;21,73;Email;Facturation;Oui;Non;Non;;Oui
+DOS51668;10/12/2023;AG003;432;Non;5;26,54;Courrier;Demande d'information;Non;Oui;Oui;8;Non
+DOS51669;05/04/2023;AG007;180;Oui;5;53,61;Courrier;Changement d'offre;Non;Non;Oui;;Oui
+DOS51670;08/11/2023;AG025;312;Oui;5;30,41;Email;Facturation;Oui;Non;Oui;4;Oui
+DOS51671;17/12/2023;AG003;198;Oui;2;26,02;Chat;Souscription contrat;Oui;Non;Oui;7;Oui
+DOS51672;04/10/2023;AG012;204;Oui;;42,82;Chat;Litige paiement;Non;Oui;Non;;Non
+DOS51673;20/09/2023;AG011;354;Oui;1;54,17;Chat;Relevé compteur;Oui;Non;Oui;;Oui
+DOS51674;26/08/2023;AG007;354;Non;;27,46;Téléphone;Déménagement;Oui;Non;Oui;8;Oui
+DOS51675;24/06/2023;AG008;348;Oui;4;25,97;Chat;Réclamation;Non;Non;Oui;8;Oui
+DOS51676;22/05/2023;AG012;240;Non;;52,65;Courrier;Déménagement;Non;Non;Oui;;Oui
+DOS51677;16/02/2023;AG003;312;Non;3;18,18;Email;Réclamation;Oui;Non;Non;9;Non
+DOS51678;23/08/2023;AG007;270;Non;5;13,64;Courrier;Déménagement;Non;Non;Oui;;Non
+DOS51679;10/10/2023;AG025;348;Non;4;42,94;Email;Relevé compteur;Oui;Non;Oui;;Non
+DOS51680;22/06/2023;AG019;432;Non;4;35,87;Chat;Réclamation;Oui;Non;Oui;;Oui
+DOS51681;09/01/2023;AG019;192;Oui;5;16,68;Téléphone;Souscription contrat;Oui;Non;Oui;;Oui
+DOS51682;01/03/2023;AG003;300;Non;3;43,58;Chat;Relevé compteur;Non;Oui;Oui;;Non
+DOS51683;19/03/2023;AG025;402;Oui;4;33,54;Téléphone;Relevé compteur;Non;Non;Non;;Non
+DOS51684;21/12/2023;AG025;120;Oui;3;20,62;Courrier;Déménagement;Non;Non;Oui;6;Oui
+DOS51685;18/03/2023;AG008;414;Oui;2;35,33;Email;Changement d'offre;Non;Non;Non Renseigné;10;Oui
+DOS51686;23/08/2023;AG011;66;Oui;5;40,92;Courrier;Résiliation;Oui;Oui;Oui;8;Oui
+DOS51687;11/10/2023;AG008;174;Non;4;41,69;Téléphone;Déménagement;Non;Non;Non;;Non
+DOS51688;22/10/2023;AG007;294;Non;5;29,71;Chat;Facturation;Oui;Non;Oui;;Oui
+DOS51689;05/07/2023;AG011;270;Oui;;16,17;Chat;Réclamation;Oui;Non;Oui;;Oui
+DOS51690;10/06/2023;AG007;258;Non;2;45,83;Chat;Litige paiement;Non;Non;Oui;6;Non
+DOS51691;10/04/2023;AG019;516;Non;3;51,71;Téléphone;Facturation;Oui;Non;Oui;5;Non
+DOS51692;03/06/2023;AG011;162;Oui;2;45,63;Téléphone;Facturation;Oui;Non;Non;7;Non
+DOS51693;25/01/2023;AG008;360;Non;5;53,1;Chat;Souscription contrat;Oui;Non;Non;10;Oui
+DOS51694;09/03/2023;AG011;522;Non;5;26,51;Téléphone;Souscription contrat;Oui;Oui;Oui;7;Non
+DOS51695;03/02/2023;AG003;402;Non;4;28,41;Chat;Déménagement;Non;Non;Non Renseigné;8;Oui
+DOS51696;26/12/2023;AG003;342;Non;3;39,05;Courrier;Réclamation;Non;Non;Non;2;Oui
+DOS51697;04/07/2023;AG025;330;Oui;1;45,96;Courrier;Relevé compteur;Non;Non;Oui;;Non
+DOS51698;09/04/2023;AG019;252;Non;4;34,88;Email;Facturation;Non;Non;Oui;10;Non
+DOS51699;18/09/2023;AG019;246;Non;4;19,59;Courrier;Relevé compteur;Non;Non;Oui;7;Non
+DOS51700;04/04/2023;AG007;144;Non;4;46,04;Chat;Facturation;Non;Non;Oui;5;Oui
+DOS51701;17/04/2023;AG019;420;Oui;3;46,75;Courrier;Résiliation;Oui;Non;Oui;10;Oui
+DOS51702;27/09/2023;AG007;156;Non;4;39,81;Téléphone;Facturation;Oui;Non;Oui;;Non
+DOS51703;03/11/2023;AG003;294;Oui;5;54,69;Chat;Litige paiement;Oui;Non;Non;1;Oui
+DOS51704;02/05/2023;AG019;264;Oui;4;12,74;Chat;Déménagement;Non;Non;Non;6;Non
+DOS51705;05/03/2023;AG008;324;Oui;4;25,78;Téléphone;Déménagement;Non;Non;Non;6;Non
+DOS51706;19/01/2023;AG007;378;Non;5;48,33;Téléphone;Souscription contrat;Oui;Non;Non;10;Non
+DOS51707;18/10/2023;AG003;252;Non;;23,12;Téléphone;Facturation;Non;Non;Oui;;Non
+DOS51708;04/10/2023;AG012;174;Non;5;51,06;Téléphone;Déménagement;Non;Non;Oui;;Oui
+DOS51709;22/11/2023;AG008;222;Non;4;33,61;Courrier;Litige paiement;Non;Non;Oui;;Non
+DOS51710;18/06/2023;AG011;198;Non;3;39,13;Courrier;Déménagement;Oui;Non;Oui;9;Non
+DOS51711;08/09/2023;AG012;528;Oui;5;28,59;Email;Déménagement;Non;Non;Oui;0;Non
+DOS51712;28/10/2023;AG007;456;Non;3;37,42;Chat;Panne compteur;Non;Non;Non Renseigné;9;Non
+DOS51713;05/08/2023;AG011;138;Non;2;24,62;Courrier;Relevé compteur;Oui;Non;Oui;8;Oui
+DOS51714;17/07/2023;AG019;264;Oui;5;29,85;Téléphone;Souscription contrat;Oui;Non;Oui;;Oui
+DOS51715;18/12/2023;AG011;192;Oui;;39,03;Email;Résiliation;Non;Oui;Non;;Oui
+DOS51716;03/11/2023;AG008;222;Non;3;33,6;Téléphone;Résiliation;Non;Non;Oui;;Non
+DOS51717;17/04/2023;AG025;240;Oui;3;30,48;Courrier;Relevé compteur;Non;Non;Non Renseigné;9;Non
+DOS51718;28/12/2023;AG025;204;Oui;5;37,56;Email;Demande d'information;Oui;Non;Non Renseigné;;Oui
+DOS51719;15/12/2023;AG025;408;Non;4;50,01;Chat;Demande d'information;Oui;Oui;Oui;6;Non
+DOS51720;11/09/2023;AG012;342;Oui;1;22,08;Chat;Réclamation;Oui;Non;Non;4;Non
+DOS51721;10/08/2023;AG025;330;Oui;5;20,5;Courrier;Demande d'information;Non;Non;Oui;6;Non
+DOS51722;06/02/2023;AG003;468;Oui;2;51,89;Téléphone;Souscription contrat;Oui;Non;Oui;;Oui
+DOS51723;19/07/2023;AG025;402;Non;;39,81;Email;Déménagement;Oui;Non;Oui;3;Oui
+DOS51724;24/03/2023;AG008;306;Oui;4;27,05;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+DOS51725;30/05/2023;AG011;336;Oui;3;35,35;Courrier;Demande d'information;Non;Non;Oui;7;Oui
+DOS51726;30/05/2023;AG008;420;Non;3;44,12;Email;Facturation;Non;Non;Oui;;Non
+DOS51727;08/05/2023;AG007;414;Non;5;26,84;Courrier;Panne compteur;Oui;Non;Oui;7;Non
+DOS51728;05/12/2023;AG019;48;Oui;3;12,69;Courrier;Résiliation;Oui;Oui;Oui;8;Non
+DOS51729;12/10/2023;AG011;354;Non;;36,19;Téléphone;Résiliation;Oui;Non;Oui;8;Oui
+DOS51730;04/11/2023;AG007;312;Oui;5;54,27;Courrier;Panne compteur;Oui;Non;Oui;;Non
+DOS51731;24/01/2023;AG025;384;Non;3;14,49;Email;Changement d'offre;Non;Non;Oui;8;Non
+DOS51732;04/05/2023;AG019;96;Non;5;48,27;Courrier;Demande d'information;Non;Non;Oui;;Non
+DOS51733;15/05/2023;AG003;432;Oui;;27,53;Email;Litige paiement;Non;Non;Non Renseigné;9;Non
+DOS51734;16/02/2023;AG012;390;Oui;3;28,11;Courrier;Facturation;Non;Non;Oui;;Non
+DOS51735;11/12/2023;AG019;258;Non;3;12,72;Téléphone;Déménagement;Non;Non;Oui;;Oui
+DOS51736;19/08/2023;AG012;504;Non;5;22,94;Téléphone;Changement d'offre;Oui;Non;Oui;;Non
+DOS51737;10/12/2023;AG019;174;Non;4;30,58;Courrier;Litige paiement;Non;Non;Oui;8;Non
+DOS51738;03/10/2023;AG019;324;Oui;1;44,52;Email;Relevé compteur;Non;Non;Non;;Oui
+DOS51739;07/03/2023;AG011;240;Oui;5;29,77;Email;Demande d'information;Oui;Non;Oui;;Non
+DOS51740;25/05/2023;AG012;216;Oui;4;20,68;Email;Réclamation;Oui;Non;Oui;;Oui
+DOS51741;29/06/2023;AG007;294;Non;4;18,65;Email;Résiliation;Oui;Oui;Non;;Non
+DOS51742;15/05/2023;AG012;642;Non;;52,8;Chat;Changement d'offre;Oui;Non;Oui;;Oui
+DOS51743;08/02/2023;AG019;102;Non;5;15,15;Téléphone;Réclamation;Non;Non;Oui;;Oui
+DOS51744;11/01/2023;AG011;;Non;5;34,2;Email;Relevé compteur;Oui;Non;Oui;;Non
+DOS51745;24/08/2023;AG003;606;Oui;4;49,55;Email;Changement d'offre;Oui;Non;Oui;5;Oui
+DOS51746;12/06/2023;AG008;174;Non;5;12,76;Chat;Résiliation;Oui;Oui;Non;10;Oui
+DOS51747;19/06/2023;AG012;468;Oui;5;22,81;Chat;Résiliation;Non;Non;Oui;9;Oui
+DOS51748;15/01/2023;AG011;426;Oui;1;19,42;Courrier;Litige paiement;Oui;Non;Non;;Oui
+DOS51749;19/07/2023;AG011;126;Non;5;29,76;Téléphone;Réclamation;Oui;Non;Oui;10;Non
+DOS51750;26/04/2023;AG003;;Oui;4;53,88;Courrier;Changement d'offre;Oui;Non;Oui;;Non
+DOS51751;22/11/2023;AG012;162;Oui;5;13,96;Chat;Panne compteur;Oui;Oui;Non;;Oui
+DOS51752;18/01/2023;AG012;324;Non;4;46,22;Courrier;Réclamation;Oui;Non;Non;8;Non
+DOS51753;23/08/2023;AG012;384;Non;2;30,51;Chat;Réclamation;Non;Non;Non Renseigné;;Non
+DOS51754;24/02/2023;AG025;438;Oui;4;50,53;Chat;Souscription contrat;Non;Oui;Non;10;Non
+DOS51755;14/02/2023;AG025;294;Oui;4;22,26;Téléphone;Souscription contrat;Non;Non;Oui;7;Oui
+DOS51756;19/05/2023;AG012;;Oui;4;50,71;Courrier;Panne compteur;Non;Non;Oui;;Non
+DOS51757;26/09/2023;AG007;138;Non;2;25,86;Email;Déménagement;Non;Non;Non;5;Non
+DOS51758;12/10/2023;AG007;468;Non;4;45,48;Courrier;Déménagement;Oui;Non;Oui;7;Non
+DOS51759;04/12/2023;AG011;426;Non;1;36,25;Email;Déménagement;Non;Non;Non;;Oui
+DOS51760;20/11/2023;AG012;360;Oui;5;38,29;Courrier;Changement d'offre;Oui;Non;Oui;9;Oui
+DOS51761;08/12/2023;AG007;300;Non;5;43,33;Email;Déménagement;Non;Non;Non;9;Non
+DOS51762;29/06/2023;AG003;468;Oui;5;23,09;Courrier;Souscription contrat;Oui;Non;Oui;0;Non
+DOS51763;29/10/2023;AG008;168;Non;5;22,54;Email;Réclamation;Oui;Non;Oui;4;Oui
+DOS51764;11/01/2023;AG011;336;Non;4;41,38;Téléphone;Réclamation;Non;Non;Oui;3;Oui
+DOS51765;09/04/2023;AG008;528;Oui;5;23,59;Email;Changement d'offre;Oui;Non;Oui;5;Non
+DOS51766;21/07/2023;AG007;168;Non;;37,67;Téléphone;Litige paiement;Oui;Non;Non;;Oui
+DOS51767;01/11/2023;AG008;564;Oui;4;24,51;Courrier;Litige paiement;Oui;Non;Non;;Non
+DOS51768;17/09/2023;AG019;420;Oui;4;23,18;Chat;Panne compteur;Non;Non;Oui;8;Non
+DOS51769;15/12/2023;AG008;384;Non;3;24,93;Chat;Résiliation;Oui;Non;Non;9;Non
+DOS51770;17/07/2023;AG012;462;Non;;42,28;Courrier;Relevé compteur;Oui;Non;Oui;;Non
+DOS51771;27/11/2023;AG011;438;Oui;;41,36;Email;Facturation;Oui;Non;Non Renseigné;0;Oui
+DOS51772;29/10/2023;AG003;126;Oui;4;22,96;Courrier;Souscription contrat;Oui;Non;Oui;;Non
+DOS51773;24/07/2023;AG008;126;Non;5;18,74;Email;Facturation;Oui;Oui;Oui;6;Non
+DOS51774;01/03/2023;AG011;240;Non;4;52,33;Chat;Litige paiement;Oui;Non;Oui;;Oui
+DOS51775;16/01/2023;AG008;348;Non;;47,55;Chat;Demande d'information;Non;Oui;Oui;;Non
+DOS51776;18/06/2023;AG011;444;Non;2;18,8;Chat;Litige paiement;Oui;Non;Oui;8;Non
+DOS51777;16/10/2023;AG025;276;Oui;4;12,93;Email;Panne compteur;Non;Non;Oui;;Oui
+DOS51778;25/10/2023;AG019;216;Oui;;40,98;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+DOS51779;10/02/2023;AG007;408;Oui;4;13,86;Email;Relevé compteur;Non;Non;Oui;7;Non
+DOS51780;06/06/2023;AG019;270;Non;5;41,99;Téléphone;Résiliation;Oui;Non;Oui;;Non
+DOS51781;04/01/2023;AG007;;Oui;4;21,65;Email;Facturation;Oui;Non;Non;;Non
+DOS51782;01/06/2023;AG008;306;Non;3;19,28;Email;Litige paiement;Oui;Non;Oui;;Oui
+DOS51783;01/01/2023;AG011;222;Oui;5;43,37;Email;Déménagement;Non;Non;Oui;;Oui
+DOS51784;31/10/2023;AG007;228;Oui;5;36,4;Téléphone;Facturation;Oui;Non;Oui;5;Oui
+DOS51785;07/02/2023;AG008;168;Oui;5;24,25;Email;Changement d'offre;Oui;Oui;Oui;;Oui
+DOS51786;17/09/2023;AG019;450;Non;4;19,71;Courrier;Résiliation;Oui;Non;Oui;10;Non
+DOS51787;05/07/2023;AG011;258;Non;5;15,53;Chat;Facturation;Non;Oui;Non;7;Non
+DOS51788;22/01/2023;AG025;216;Oui;5;35,33;Courrier;Demande d'information;Oui;Non;Oui;;Non
+DOS51789;01/11/2023;AG003;96;Oui;4;28,01;Email;Changement d'offre;Non;Non;Oui;;Non
+DOS51790;18/10/2023;AG019;78;Non;5;39,85;Téléphone;Réclamation;Oui;Non;Non;7;Oui
+DOS51791;11/07/2023;AG003;174;Oui;5;53,55;Téléphone;Souscription contrat;Non;Non;Oui;5;Non
+DOS51792;23/02/2023;AG012;348;Non;5;25;Email;Panne compteur;Oui;Non;Oui;;Non
+DOS51793;26/10/2023;AG007;312;Oui;4;13,33;Courrier;Résiliation;Oui;Non;Oui;7;Oui
+DOS51794;13/04/2023;AG011;270;Non;;25,6;Email;Réclamation;Non;Non;Oui;7;Non
+DOS51795;12/09/2023;AG007;174;Non;3;16,17;Téléphone;Relevé compteur;Oui;Non;Non;;Non
+DOS51796;08/05/2023;AG007;84;Oui;1;17,27;Courrier;Souscription contrat;Oui;Non;Oui;7;Non
+DOS51797;16/06/2023;AG008;216;Oui;5;24,73;Chat;Souscription contrat;Oui;Oui;Oui;9;Non
+DOS51798;19/09/2023;AG011;270;Non;5;42,7;Téléphone;Litige paiement;Non;Non;Non;7;Oui
+DOS51799;24/10/2023;AG025;390;Oui;;38,32;Email;Déménagement;Non;Non;Oui;;Oui
+DOS50266;06/09/2023;AG011;264;Oui;2;43,41;Email;Changement d'offre;Non;Non;Oui;;Oui
+DOS50356;10/04/2023;AG012;204;Non;;13,97;Chat;Réclamation;Non;Non;Non;7;Oui
+DOS50221;02/06/2023;AG012;582;Oui;5;26,37;Courrier;Demande d'information;Oui;Non;Non;8;Non
+DOS51242;13/10/2023;AG003;48;Oui;5;36,84;Téléphone;Déménagement;Non;Non;Oui;;Oui
+DOS51154;23/05/2023;AG007;444;Non;5;29,84;Courrier;Demande d'information;Oui;Non;Oui;8;Oui
+DOS50602;11/12/2023;AG011;450;Non;5;21,16;Courrier;Souscription contrat;Non;Non;Oui;;Oui
+DOS50667;16/04/2023;AG007;402;Non;5;37,66;Email;Réclamation;Non;Non;Non Renseigné;;Non
+DOS51669;05/04/2023;AG007;180;Oui;5;53,61;Courrier;Changement d'offre;Non;Non;Oui;;Oui
+DOS51721;10/08/2023;AG025;330;Oui;5;20,5;Courrier;Demande d'information;Non;Non;Oui;6;Non
+DOS51219;28/02/2023;AG008;240;Non;5;12,45;Email;Litige paiement;Non;Non;Oui;;Oui
+DOS50318;10/09/2023;AG012;162;Oui;4;27,31;Chat;Réclamation;Oui;Non;Non Renseigné;8;Non
+DOS50420;07/01/2023;AG025;324;Non;3;49,11;Email;Panne compteur;Oui;Non;Oui;8;Oui
+DOS51414;31/08/2023;AG019;204;Oui;5;13,12;Chat;Relevé compteur;Oui;Non;Oui;7;Non
+DOS50713;23/12/2023;AG011;354;Oui;4;23,42;Chat;Facturation;Oui;Non;Non;8;Oui
+DOS51116;12/09/2023;AG011;360;Oui;4;26,3;Courrier;Souscription contrat;Oui;Non;Oui;4;Non

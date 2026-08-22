@@ -43,12 +43,61 @@ Colonnes (en anglais) : `N_Contact`, `Date` (MM/JJ/AAAA), `Agent_ID`, `Handling_
 
 ## Synthèse nettoyage 
 
-# Table Prestataire A
-1. Renommage des colonnes et des champs des colonnes en français pour mieux harmoniser les données 
-2. Traitement des valeurs aberrantes dans Duree traitement seconde en les remplaçants pas null ( les valeeurs > 2000 et < 0)
-3. Correction des types Note satisfaction client, NPS (String -> INT) Montant_Facture String -> Float
-4. Ajout d'une colonne Id Agent 
-5. Remplacement de certains champs vide par Non Renseigné dans les colonnes non quantitatives.
+## Table Prestataire A
+1. Renommage des colonnes et harmonisation des libellés en français.
+2. Nettoyage des valeurs aberrantes dans `Duree_Traitement_Sec` :
+   - Remplacement des valeurs < 10s et > 2000s par `null`.
+3. Correction des types de données :
+   - `Note_Satisfaction_Client` : String → Int
+   - `NPS` : String → Int
+   - `Montant_Facture` : String → Float
+4. Ajout d'une colonne `ID_Agent` basée sur le nom de l’agent.
+5. Remplacement des champs vides dans les colonnes non quantitatives par `Non renseigné`.
+
+## Table Prestataire B
+1. Renommage des colonnes et harmonisation des libellés en français.
+2. Création de la colonne `Duree_Traitement_Sec` :
+   - Conversion des minutes en secondes.
+3. Correction des types de données :
+   - `Note_Satisfaction_Client` : String → Int
+   - `NPS` : String → Int
+   - `Montant_Facture` : String → Float
+4. Normalisation des doublons dans `Canal` :
+   - `Tel` → `Téléphone`
+   - `Mail` → `Email`
+5. Conversion des colonnes binaires en valeurs textuelles :
+   - `Oui` / `Non`
+6. Remplacement des champs vides dans les colonnes non quantitatives par `Non renseigné`.
+
+## Table Prestataire C
+
+1. Renommage des colonnes et harmonisation des libellés en français afin d’aligner la structure avec les tables A et B.
+
+2. Normalisation des identifiants agents :
+   - Conversion des formats `AGT-01`, `AGT-02`, etc. vers un format standardisé `AG001`, `AG002`, etc.
+
+3. Correction des types de données :
+   - Conversion de la colonne `Date` depuis un format texte (String) vers un type Date.
+   - Renommage de la colonne en `Date` après conversion.
+
+4. Création de la colonne `Duree_Traitement_Sec` :
+   - Transformation de la durée exprimée en minutes vers une durée en secondes.
+   - Formule : `Durée (min) × 60`.
+
+5. Remplacement des champs vides dans les colonnes non quantitatives par la valeur `Non renseigné` afin d’assurer une cohérence des données.
+
+6. Conversion des colonnes binaires en valeurs textuelles :
+   - Transformation des valeurs numériques ou booléennes en `Oui` / `Non`.
+
+7. Normalisation des valeurs booléennes textuelles :
+   - Remplacement des valeurs `VRAI`, `FAUSSE`, `TRUE`, `FALSE` par `Oui` / `Non` dans les colonnes `Traite`, `Reclamation` et `Dossier_Cloture`.
+
+8. Nettoyage des valeurs aberrantes dans `Duree_Traitement_Sec` :
+   - Remplacement des valeurs < 10 secondes par `null`.
+
+9. Nettoyage des valeurs aberrantes dans `Prix_Prestation` :
+   - Remplacement des valeurs < 12 € par `null`.
+
 
 
 ## Modèle en étoile (à construire)
@@ -61,7 +110,7 @@ Colonnes (en anglais) : `N_Contact`, `Date` (MM/JJ/AAAA), `Agent_ID`, `Handling_
 3. Harmonisation : renommage des colonnes vers un nom commun, conversion des unités (durée), conversion des formats de date, uniformisation des booléens et de l'échelle NPS
 4. Fusion des 4 sources en une table unique (`Append`), avec colonne `Prestataire`
 5. Construction du modèle en étoile
-6. Formules complexes pour les KPI (à définir toi-même — voir familles ci-dessous)
+6. Formules complexes pour les KPI 
 7. Tableaux croisés dynamiques sur plusieurs angles (prestataire, mois, canal, sujet)
 8. Macros VBA :
    - rafraîchissement des données
@@ -75,29 +124,27 @@ Colonnes (en anglais) : `N_Contact`, `Date` (MM/JJ/AAAA), `Agent_ID`, `Handling_
 ### Documentation
 11. Mise à jour de ce README au fil du projet
 
-## Familles de KPI à définir et calculer toi-même
-
-- **Volumétrie** : nombre de contacts reçus, traités, non traités par prestataire
-- **Qualité** : taux de résolution, taux de conformité, taux de réclamation, taux de reprise (rappels)
-- **Délai** : temps de traitement moyen/médian par prestataire, par canal
-- **Satisfaction** : note moyenne, NPS moyen, répartition des notes
-- **Budgétaire** : montant facturé total et moyen par prestataire, par sujet, par mois
-- **Comparatif** : classement des prestataires sur un ou plusieurs indicateurs combinés
+## Familles de KPI à définir
 
 ## Stack
 
 - Excel (Power Query, formules, TCD, VBA)
 - Power BI (modélisation, DAX, dashboard)
 
-## Structure du repo (à adapter)
+## Structure du repo 
 
 ```
 ├── data/
-│   └── raw/
-│       ├── Prestataire_A.csv
-│       ├── Prestataire_B.csv
-│       ├── Prestataire_C.csv
-│       └── Prestataire_D.csv
+│   └── brut/
+│   │    ├── Prestataire_A.csv
+│   │    ├── Prestataire_B.csv
+│   │    ├── Prestataire_C.csv
+│   │    └── Prestataire_D.csv
+│   └── corrigé/
+│        ├── Prestataire_A.corrigé.csv
+│        ├── Prestataire_B.corrigé.csv
+│        ├── Prestataire_C.corrigé.csv    
+│
 ├── excel/
 │   └── suivi_prestataires.xlsx
 ├── powerbi/
@@ -106,7 +153,3 @@ Colonnes (en anglais) : `N_Contact`, `Date` (MM/JJ/AAAA), `Agent_ID`, `Handling_
 │   └── captures/
 └── README.md
 ```
-
-## Notes
-
-*(à compléter au fil du projet : difficultés de réconciliation entre prestataires, choix de modélisation, macros VBA développées, indicateurs et insights finalement retenus)*
