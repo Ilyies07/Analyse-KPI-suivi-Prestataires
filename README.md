@@ -41,27 +41,17 @@ Colonnes (en anglais) : `N_Contact`, `Date` (MM/JJ/AAAA), `Agent_ID`, `Handling_
 | NPS | NPS | Score_NPS | NPS_Client | NPS_Score |
 | Réclamation | Reclamation | Motif_Reclamation | Est_Reclamation | Complaint |
 
-## Problèmes de qualité identifiés (à confirmer et détailler toi-même en explorant)
+## Synthèse nettoyage 
 
-**Communs à plusieurs prestataires**
-- [ ] Unités de durée différentes (secondes vs minutes) — à harmoniser sur une seule unité avant de fusionner
-- [ ] Formats de date différents (JJ/MM/AAAA, AAAA-MM-JJ, numéro de série Excel, MM/JJ/AAAA américain) — risque de confusion jour/mois entre A et D si non vérifié
-- [ ] Encodages hétérogènes des booléens (Oui/Non, 1/0, TRUE/FALSE, VRAI/FAUX, Yes/No) sur les colonnes de statut, traitement, conformité, réclamation
-- [ ] Casse incohérente sur les colonnes texte (canal, statut)
-- [ ] Doublons volontaires dans chaque fichier
-- [ ] Valeurs vides sur satisfaction, coût, conformité, NPS
+# Table Prestataire A
+1. Renommage des colonnes et des champs des colonnes en français pour mieux harmoniser les données 
+2. Traitement des valeurs aberrantes dans Duree traitement seconde en les remplaçants pas null ( les valeeurs > 2000 et < 0)
+3. Correction des types Note satisfaction client, NPS (String -> INT) Montant_Facture String -> Float
+4. Ajout d'une colonne Id Agent 
+5. Remplacement de certains champs vide par Non Renseigné dans les colonnes non quantitatives.
 
-**Spécifiques**
-- [ ] Prestataire A : durées négatives et valeurs extrêmes (outliers) sur le temps de traitement
-- [ ] Prestataire B : **échelle de NPS incohérente** — une partie des lignes semble sur une échelle 0-5 au lieu de 0-10 (à repérer via la distribution des valeurs)
-- [ ] Prestataire B : `Motif_Reclamation` est un champ texte libre à transformer toi-même en indicateur Oui/Non pour l'harmoniser avec les autres prestataires
-- [ ] Prestataire C : durées à 0, montants négatifs (avoirs/remboursements à interpréter)
-- [ ] Prestataire D : quelques valeurs texte `"N/A"` dans une colonne numérique (`Handling_Time_Sec`)
 
 ## Modèle en étoile (à construire)
-
-- **Table de faits** : `Fait_Contacts`, une ligne par contact/appel/ticket harmonisé, toutes sources réunies, avec une colonne `Prestataire` pour tracer l'origine
-- **Dimensions à construire** : `Dim_Agent`, `Dim_Date`, `Dim_Prestataire`, `Dim_Sujet` / `Dim_Canal`
 
 ## Plan de travail
 
