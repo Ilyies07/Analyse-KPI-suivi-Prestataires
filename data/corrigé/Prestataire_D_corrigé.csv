@@ -1,0 +1,2119 @@
+﻿N_Contact;Date;Agent_ID;Durée_Traitement_Sec;Status;Note_Satisfaction_Client;Montant Facture;Canal;Sujet;Appel traité;Appel repris;Conforme;NPS;Réclamation
+CNT-70000;01/12/2023;AG003;109;Résolu;3;24,13;Réseaux Sociaux;Résiliation;Oui;Oui;Oui;;Non
+CNT-70001;14/02/2023;AG008;217;Résolu;5;33,28;Téléphone;Changement d'offre;Oui;Non;Non;10;Non
+CNT-70002;08/11/2023;AG008;142;Résolu;;13,77;Réseaux Sociaux;Souscription contrat;Oui;Oui;Non Renseigné;10;Non
+CNT-70003;11/11/2023;AG005;198;Résolu;2;45,07;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;9;Non
+CNT-70004;09/10/2023;AG001;464;Résolu;4;29,11;Chat;Résiliation;Oui;Non;Oui;5;Non
+CNT-70005;05/10/2023;AG002;162;Résolu;5;44,78;Réseaux Sociaux;Réclamation;yes;Oui;Non Renseigné;;Non
+CNT-70006;15/09/2023;AG008;145;Résolu;4;46,91;Téléphone;Résiliation;Oui;Non;Oui;8;Non
+CNT-70007;25/05/2023;AG009;539;Non Résolu;2;38,51;Réseaux Sociaux;Souscription contrat;Oui;Oui;Non Renseigné;4;Non
+CNT-70008;22/06/2023;AG001;313;Résolu;3;31,35;Téléphone;Souscription contrat;Oui;Oui;Oui;10;Oui
+CNT-70009;27/10/2023;AG002;305;Résolu;5;31,73;Chat;Demande d'information;Oui;Non;Oui;;Non
+CNT-70010;12/12/2023;AG008;166;Résolu;;36,89;Email;Changement d'offre;Oui;Non;Non Renseigné;;Non
+CNT-70011;14/10/2023;AG004;461;En Attente;2;13,45;Chat;Litige paiement;Oui;Non;Non Renseigné;;Non
+CNT-70012;06/11/2023;AG001;114;En Attente;5;15,6;Chat;Litige paiement;Oui;Non;Oui;8;Non
+CNT-70013;10/11/2023;AG003;363;Résolu;;25,78;Chat;Relevé compteur;Oui;Non;Oui;;Non
+CNT-70014;17/01/2023;AG001;378;Résolu;2;24,69;Réseaux Sociaux;Réclamation;Oui;Oui;Oui;;Non
+CNT-70015;10/04/2023;AG004;403;En Attente;5;34,14;Téléphone;Réclamation;Oui;Non;Non;10;Non
+CNT-70016;27/12/2023;AG006;;Non Résolu;4;31,39;Chat;Panne compteur;Oui;Non;Non;10;Non
+CNT-70017;13/02/2023;AG002;;En Attente;4;35,71;Réseaux Sociaux;Demande d'information;Non;Non;Oui;;Non
+CNT-70018;01/08/2023;AG008;285;Résolu;4;11,24;Email;Réclamation;Oui;Oui;Non;4;Non
+CNT-70019;29/05/2023;AG002;260;Résolu;5;29,13;Email;Changement d'offre;Oui;Non;Oui;;Oui
+CNT-70020;26/04/2023;AG006;153;En Attente;3;48,51;Réseaux Sociaux;Litige paiement;Oui;Non;Oui;8;Non
+CNT-70021;14/06/2023;AG003;223;En Attente;;47,82;Réseaux Sociaux;Panne compteur;Oui;Oui;Oui;;Non
+CNT-70022;29/03/2023;AG008;379;Résolu;;30,88;Email;Panne compteur;Non;Non;Oui;10;Non
+CNT-70023;08/08/2023;AG003;120;Non Résolu;5;42,44;Chat;Déménagement;Non;Non;Oui;3;Non
+CNT-70024;18/02/2023;AG003;338;Résolu;4;29,9;Email;Souscription contrat;;Non;Oui;;Non
+CNT-70025;15/03/2023;AG002;343;Résolu;1;46,02;Téléphone;Litige paiement;Non;Non;Non;;Non
+CNT-70026;20/02/2023;AG002;265;Non Résolu;3;33,93;Email;Réclamation;Oui;Non;Oui;;Non
+CNT-70027;06/04/2023;AG002;349;Résolu;5;49,86;Chat;Déménagement;Oui;Non;Oui;7;Non
+CNT-70028;08/05/2023;AG006;155;Résolu;1;16,49;Téléphone;Souscription contrat;Oui;Non;Non;;Oui
+CNT-70029;09/02/2023;AG003;140;Résolu;5;45,73;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;10;Non
+CNT-70030;11/11/2023;AG002;213;En Attente;5;49,25;Email;Relevé compteur;Oui;Oui;Oui;5;Non
+CNT-70031;03/04/2023;AG009;;Résolu;4;38,97;Téléphone;Facturation;Oui;Non;Non;7;Non
+CNT-70032;12/08/2023;AG003;452;Non Résolu;4;31,26;Chat;Relevé compteur;Oui;Oui;Oui;5;Non
+CNT-70033;25/07/2023;AG009;;Non Résolu;5;36,33;Chat;Relevé compteur;Oui;Non;Oui;10;Non
+CNT-70034;03/05/2023;AG004;214;En Attente;3;43,8;Réseaux Sociaux;Facturation;Oui;Non;Non;4;Non
+CNT-70035;19/12/2023;AG003;374;Résolu;5;15,68;Chat;Réclamation;Oui;Non;Oui;5;Non
+CNT-70036;27/09/2023;AG007;126;Résolu;4;42,02;Chat;Demande d'information;Oui;Non;Oui;;Non
+CNT-70037;29/04/2023;AG006;109;Non Résolu;2;35,78;Téléphone;Déménagement;Non;Non;Oui;8;Non
+CNT-70038;12/06/2023;AG007;454;Résolu;2;11,16;Chat;Déménagement;Oui;Non;Oui;8;Non
+CNT-70039;10/02/2023;AG003;179;Résolu;3;16,39;Réseaux Sociaux;Changement d'offre;Oui;Oui;Oui;;Non
+CNT-70040;31/08/2023;AG003;406;Résolu;5;40,74;Téléphone;Facturation;Oui;Non;Non Renseigné;6;Non
+CNT-70041;31/10/2023;AG007;391;Résolu;5;25,52;Chat;Demande d'information;Oui;Non;Oui;;Non
+CNT-70042;17/08/2023;AG004;354;Résolu;3;48,5;Téléphone;Demande d'information;Non;Non;Oui;8;Non
+CNT-70043;26/07/2023;AG005;374;En Attente;;17,82;Email;Changement d'offre;Oui;Oui;Oui;9;Non
+CNT-70044;09/04/2023;AG007;476;En Attente;;49,94;Email;Facturation;Non;Non;Oui;;Non
+CNT-70045;15/04/2023;AG004;370;Résolu;5;17,25;Réseaux Sociaux;Panne compteur;Oui;Oui;Non;;Non
+CNT-70046;12/11/2023;AG009;46;Non Résolu;5;30,56;Chat;Souscription contrat;Oui;Non;Oui;9;Non
+CNT-70047;30/12/2023;AG004;292;Résolu;2;18,52;Téléphone;Panne compteur;Oui;Non;Non;;Non
+CNT-70048;07/08/2023;AG005;269;Résolu;2;22,77;Réseaux Sociaux;Déménagement;Oui;Non;Oui;7;Non
+CNT-70049;26/04/2023;AG006;201;En Attente;4;16,46;Email;Réclamation;Oui;Non;Oui;8;Non
+CNT-70050;13/02/2023;AG004;226;Non Résolu;1;47,97;Téléphone;Résiliation;Non;Non;Non;;Non
+CNT-70051;29/12/2023;AG006;246;Non Résolu;4;32,83;Email;Relevé compteur;Oui;Non;Oui;10;Non
+CNT-70052;17/03/2023;AG006;228;Résolu;4;;Email;Changement d'offre;Oui;Non;Oui;0;Non
+CNT-70053;29/10/2023;AG009;387;Non Résolu;4;46,04;Chat;Panne compteur;Oui;Non;Non Renseigné;7;Non
+CNT-70054;29/08/2023;AG007;527;Non Résolu;4;29,16;Réseaux Sociaux;Déménagement;Non;Non;Oui;;Non
+CNT-70055;15/10/2023;AG006;199;En Attente;2;39,06;Réseaux Sociaux;Panne compteur;Oui;Non;Non;7;Non
+CNT-70056;31/05/2023;AG006;94;Non Résolu;4;14,97;Réseaux Sociaux;Panne compteur;Non;Non;Non Renseigné;;Non
+CNT-70057;23/04/2023;AG004;308;Résolu;4;33,85;Téléphone;Litige paiement;Oui;Non;Non;;Oui
+CNT-70058;13/08/2023;AG002;;En Attente;5;25,22;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-70059;03/04/2023;AG006;257;Non Résolu;5;30,11;Téléphone;Facturation;Oui;Non;Non Renseigné;8;Non
+CNT-70060;30/04/2023;AG003;365;Résolu;5;35,59;Email;Relevé compteur;Oui;Non;Oui;9;Non
+CNT-70061;21/06/2023;AG009;210;Non Résolu;4;20,89;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-70062;21/04/2023;AG006;257;Résolu;4;29,43;Email;Déménagement;Oui;Non;Oui;9;Non
+CNT-70063;24/05/2023;AG001;381;Résolu;;49,04;Téléphone;Réclamation;Oui;Oui;Oui;;Non
+CNT-70064;19/07/2023;AG003;244;En Attente;2;14,76;Téléphone;Litige paiement;Oui;Non;Oui;8;Non
+CNT-70065;21/01/2023;AG008;308;Résolu;2;22,35;Téléphone;Demande d'information;Oui;Oui;Oui;9;Non
+CNT-70066;24/02/2023;AG004;320;Résolu;3;44,73;Réseaux Sociaux;Résiliation;Oui;Non;Oui;8;Non
+CNT-70067;28/12/2023;AG002;245;Non Résolu;;29,97;Email;Demande d'information;Oui;Non;Oui;;Non
+CNT-70068;03/01/2023;AG007;248;Résolu;3;17,84;Téléphone;Facturation;Non;Non;Oui;5;Non
+CNT-70069;13/07/2023;AG005;261;Résolu;5;10,02;Téléphone;Résiliation;Oui;Non;Oui;3;Non
+CNT-70070;11/12/2023;AG006;200;En Attente;5;44,63;Téléphone;Litige paiement;Oui;Oui;Oui;;Non
+CNT-70071;26/03/2023;AG004;303;Non Résolu;5;35,38;Réseaux Sociaux;Réclamation;yes;Non;Oui;;Non
+CNT-70072;19/06/2023;AG002;202;Résolu;4;34,73;Chat;Demande d'information;Oui;Non;Oui;0;Oui
+CNT-70073;24/09/2023;AG004;214;Résolu;5;45,93;Téléphone;Déménagement;Non;Non;Non Renseigné;;Non
+CNT-70074;29/07/2023;AG004;169;Résolu;4;33,08;Téléphone;Litige paiement;Oui;Non;Oui;10;Non
+CNT-70075;10/11/2023;AG001;390;En Attente;3;21,74;Réseaux Sociaux;Souscription contrat;Non;Oui;Non Renseigné;6;Non
+CNT-70076;03/08/2023;AG004;133;Résolu;;34,34;Chat;Relevé compteur;Oui;Non;Oui;;Non
+CNT-70077;25/01/2023;AG009;448;Non Résolu;4;23,01;Téléphone;Changement d'offre;Oui;Non;Oui;6;Oui
+CNT-70078;10/01/2023;AG009;251;Résolu;4;47,15;Téléphone;Souscription contrat;Oui;Non;Non;10;Non
+CNT-70079;25/02/2023;AG007;223;Non Résolu;4;34,68;Chat;Demande d'information;Oui;Oui;Non;;Non
+CNT-70080;17/02/2023;AG005;169;Résolu;3;21,18;Réseaux Sociaux;Litige paiement;Oui;Oui;Oui;9;Non
+CNT-70081;17/04/2023;AG009;178;Résolu;1;32,67;Réseaux Sociaux;Demande d'information;Oui;Non;Oui;;Non
+CNT-70082;20/09/2023;AG002;201;En Attente;5;38,42;Téléphone;Panne compteur;Oui;Non;Oui;4;Non
+CNT-70083;28/02/2023;AG003;564;Résolu;4;21,98;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;6;Non
+CNT-70084;22/12/2023;AG004;201;Non Résolu;5;41,09;Téléphone;Facturation;Non;Non;Oui;9;Non
+CNT-70085;20/04/2023;AG002;310;Résolu;4;36,22;Téléphone;Facturation;Oui;Non;Oui;10;Non
+CNT-70086;26/11/2023;AG003;239;Non Résolu;;36,35;Téléphone;Panne compteur;Oui;Non;Oui;10;Non
+CNT-70087;14/09/2023;AG007;458;Non Résolu;4;12,27;Email;Litige paiement;Oui;Non;Oui;6;Non
+CNT-70088;20/01/2023;AG008;284;En Attente;4;39,32;Réseaux Sociaux;Déménagement;Oui;Oui;Oui;10;Oui
+CNT-70089;22/12/2023;AG009;147;Non Résolu;2;12,13;Réseaux Sociaux;Réclamation;Oui;Non;Oui;6;Non
+CNT-70090;06/08/2023;AG007;216;Non Résolu;4;39,4;Réseaux Sociaux;Facturation;Oui;Non;Oui;9;Non
+CNT-70091;23/06/2023;AG007;504;En Attente;3;22,46;Téléphone;Réclamation;Oui;Non;Non Renseigné;;Non
+CNT-70092;27/02/2023;AG005;345;En Attente;3;48,18;Réseaux Sociaux;Résiliation;Oui;Non;Non Renseigné;;Non
+CNT-70093;26/03/2023;AG004;258;Non Résolu;4;47,01;Téléphone;Déménagement;Oui;Non;Oui;;Non
+CNT-70094;16/09/2023;AG008;173;Non Résolu;;21,2;Téléphone;Changement d'offre;Oui;Oui;Oui;;Non
+CNT-70095;13/11/2023;AG001;183;En Attente;3;27,09;Téléphone;Résiliation;Oui;Non;Oui;8;Non
+CNT-70096;07/03/2023;AG001;159;Résolu;5;34,45;Téléphone;Changement d'offre;Non;Non;Oui;10;Non
+CNT-70097;25/04/2023;AG007;111;En Attente;5;40,26;Email;Déménagement;Oui;Oui;Oui;10;Non
+CNT-70098;20/08/2023;AG004;338;Résolu;4;10,32;Réseaux Sociaux;Litige paiement;Oui;Non;Oui;;Non
+CNT-70099;29/04/2023;AG004;318;Non Résolu;5;10,96;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;;Non
+CNT-70100;22/06/2023;AG003;276;Non Résolu;;32,7;Email;Réclamation;Oui;Non;Oui;7;Non
+CNT-70101;18/07/2023;AG007;406;Résolu;3;11,16;Email;Panne compteur;Oui;Non;Oui;;Non
+CNT-70102;09/02/2023;AG004;334;Résolu;4;44,23;Téléphone;Réclamation;Oui;Oui;Oui;8;Non
+CNT-70103;24/11/2023;AG003;127;En Attente;;46,6;Téléphone;Changement d'offre;Oui;Non;Oui;;Non
+CNT-70104;16/01/2023;AG004;569;Non Résolu;;43,16;Téléphone;Résiliation;Oui;Non;Oui;8;Non
+CNT-70105;22/04/2023;AG005;262;Résolu;4;31,04;Téléphone;Changement d'offre;Oui;Non;Non;9;Non
+CNT-70106;14/06/2023;AG001;351;En Attente;3;41,39;Chat;Relevé compteur;Oui;Non;Oui;;Non
+CNT-70107;29/08/2023;AG008;263;Résolu;1;46,27;Chat;Litige paiement;Oui;Oui;Non Renseigné;7;Non
+CNT-70108;08/01/2023;AG007;273;En Attente;4;43,54;Réseaux Sociaux;Résiliation;Oui;Non;Oui;1;Non
+CNT-70109;02/08/2023;AG002;109;Résolu;4;13,56;Email;Panne compteur;Oui;Non;Oui;3;Non
+CNT-70110;16/03/2023;AG009;204;En Attente;4;42,13;Chat;Déménagement;Non;Non;Oui;;Non
+CNT-70111;02/05/2023;AG004;311;Résolu;;34,09;Téléphone;Changement d'offre;Non;Non;Oui;9;Non
+CNT-70112;01/02/2023;AG003;247;Non Résolu;5;36,96;Téléphone;Réclamation;Oui;Non;Oui;;Oui
+CNT-70113;18/04/2023;AG001;121;Résolu;4;34,99;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;;Non
+CNT-70114;15/03/2023;AG005;349;Résolu;4;30,29;Chat;Facturation;Oui;Non;Non;10;Non
+CNT-70115;14/05/2023;AG003;243;Non Résolu;5;29,74;Email;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70116;20/06/2023;AG002;271;Résolu;3;41,95;Chat;Litige paiement;Oui;Oui;Oui;6;Oui
+CNT-70117;13/08/2023;AG007;128;En Attente;4;17,83;Téléphone;Résiliation;Oui;Non;Oui;9;Non
+CNT-70118;08/04/2023;AG006;99;Résolu;;40,15;Email;Réclamation;Oui;Non;Non;7;Non
+CNT-70119;02/12/2023;AG002;276;Résolu;3;32,14;Téléphone;Panne compteur;Oui;Non;Oui;4;Non
+CNT-70120;16/04/2023;AG006;391;Résolu;;31,52;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70121;13/06/2023;AG006;346;En Attente;1;24,76;Téléphone;Facturation;Oui;Non;Non;7;Non
+CNT-70122;28/11/2023;AG008;330;Non Résolu;;26,08;Téléphone;Panne compteur;Oui;Non;Oui;10;Non
+CNT-70123;18/09/2023;AG001;285;Non Résolu;4;21,89;Téléphone;Changement d'offre;Oui;Non;Oui;7;Non
+CNT-70124;23/06/2023;AG004;143;Résolu;4;12,02;Téléphone;Facturation;Oui;Non;Non;7;Non
+CNT-70125;06/07/2023;AG009;58;Non Résolu;;29,44;Réseaux Sociaux;Relevé compteur;Non;Non;Non;8;Non
+CNT-70126;22/12/2023;AG003;522;Non Résolu;4;23,88;Téléphone;Panne compteur;Oui;Oui;Oui;1;Non
+CNT-70127;17/11/2023;AG003;243;En Attente;5;34,14;Téléphone;Litige paiement;Oui;Non;Oui;;Non
+CNT-70128;23/07/2023;AG008;206;Résolu;;48,74;Chat;Litige paiement;Oui;Oui;Oui;;Non
+CNT-70129;25/09/2023;AG002;269;Non Résolu;;37,94;Email;Demande d'information;Oui;Non;Non Renseigné;7;Non
+CNT-70130;02/02/2023;AG004;169;Non Résolu;5;14,88;Téléphone;Changement d'offre;Oui;Non;Oui;7;Non
+CNT-70131;11/07/2023;AG005;217;Résolu;;15,88;Téléphone;Déménagement;Oui;Non;Oui;8;Non
+CNT-70132;09/04/2023;AG008;445;Non Résolu;5;42,95;Réseaux Sociaux;Litige paiement;Oui;Non;Non Renseigné;;Non
+CNT-70133;10/09/2023;AG004;297;Non Résolu;3;41,45;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70134;25/08/2023;AG007;321;Résolu;3;38,65;Email;Déménagement;Oui;Non;Oui;5;Oui
+CNT-70135;11/07/2023;AG002;251;En Attente;;11,9;Email;Changement d'offre;Non;Non;Oui;;Non
+CNT-70136;27/02/2023;AG007;375;Non Résolu;5;46,14;Email;Relevé compteur;Oui;Non;Oui;5;Non
+CNT-70137;22/03/2023;AG006;372;En Attente;3;24,29;Chat;Litige paiement;Oui;Non;Non;10;Oui
+CNT-70138;03/12/2023;AG001;240;Non Résolu;4;22,62;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;1;Non
+CNT-70139;16/01/2023;AG005;263;Résolu;4;11,55;Téléphone;Relevé compteur;Oui;Non;Oui;6;Non
+CNT-70140;11/12/2023;AG005;394;Non Résolu;1;17,46;Chat;Panne compteur;Oui;Oui;Oui;;Non
+CNT-70141;18/06/2023;AG008;269;En Attente;;30,63;Chat;Changement d'offre;Oui;Non;Oui;4;Non
+CNT-70142;26/05/2023;AG002;229;Non Résolu;4;29,95;Email;Changement d'offre;Non;Non;Oui;;Non
+CNT-70143;24/12/2023;AG005;235;Non Résolu;4;12,25;Réseaux Sociaux;Relevé compteur;Oui;Oui;Oui;10;Non
+CNT-70144;20/12/2023;AG009;217;Résolu;2;13,38;Téléphone;Facturation;Oui;Non;Oui;9;Non
+CNT-70145;01/11/2023;AG006;267;Résolu;5;31,55;Email;Panne compteur;Oui;Non;Oui;7;Non
+CNT-70146;17/06/2023;AG005;220;En Attente;2;32,51;Email;Souscription contrat;Non;Non;Non;4;Non
+CNT-70147;16/07/2023;AG009;267;Non Résolu;4;43,38;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70148;04/10/2023;AG009;193;Non Résolu;;33,29;Réseaux Sociaux;Relevé compteur;Oui;Oui;Oui;;Non
+CNT-70149;08/05/2023;AG002;299;Résolu;5;36,56;Email;Réclamation;Oui;Non;Oui;;Non
+CNT-70150;23/02/2023;AG007;314;En Attente;4;34,97;Email;Résiliation;Oui;Non;Non;7;Non
+CNT-70151;27/05/2023;AG001;332;Résolu;5;36,82;Chat;Réclamation;Oui;Oui;Oui;;Non
+CNT-70152;08/05/2023;AG007;316;Résolu;;22,44;Téléphone;Facturation;Oui;Non;Oui;;Non
+CNT-70153;18/10/2023;AG007;366;Non Résolu;;;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-70154;30/04/2023;AG006;341;Résolu;5;9,7;Chat;Réclamation;Oui;Non;Oui;;Oui
+CNT-70155;26/04/2023;AG003;234;Résolu;4;37,65;Téléphone;Demande d'information;Oui;Non;Non;2;Non
+CNT-70156;02/01/2023;AG009;262;En Attente;2;49,75;Email;Résiliation;Oui;Oui;Oui;10;Non
+CNT-70157;29/06/2023;AG009;266;Résolu;3;37,19;Téléphone;Relevé compteur;Oui;Oui;Oui;;Non
+CNT-70158;06/11/2023;AG003;216;Résolu;4;21,8;Réseaux Sociaux;Demande d'information;Non;Non;Oui;;Non
+CNT-70159;28/05/2023;AG006;85;Résolu;3;20,01;Téléphone;Litige paiement;Oui;Non;Non Renseigné;9;Non
+CNT-70160;09/04/2023;AG008;63;En Attente;5;;Chat;Litige paiement;Oui;Non;Oui;10;Non
+CNT-70161;18/04/2023;AG005;148;Non Résolu;1;34,97;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-70162;31/05/2023;AG004;201;Non Résolu;4;17,76;Téléphone;Facturation;Oui;Non;Oui;10;Non
+CNT-70163;17/11/2023;AG001;350;En Attente;3;36,34;Téléphone;Souscription contrat;Oui;Non;Non;;Non
+CNT-70164;06/05/2023;AG002;328;Résolu;5;9,65;Chat;Demande d'information;Oui;Non;Oui;;Non
+CNT-70165;28/09/2023;AG009;288;Résolu;4;43,97;Email;Litige paiement;Oui;Non;Oui;7;Non
+CNT-70166;06/09/2023;AG003;493;Résolu;4;12,75;Email;Déménagement;Oui;Non;Oui;;Non
+CNT-70167;19/12/2023;AG004;300;Résolu;4;26,74;Chat;Relevé compteur;Oui;Non;Oui;5;Non
+CNT-70168;15/02/2023;AG009;185;Non Résolu;;29,67;Réseaux Sociaux;Litige paiement;Non;Non;Non Renseigné;;Non
+CNT-70169;21/05/2023;AG002;177;Résolu;3;42,31;Chat;Changement d'offre;Oui;Non;Oui;7;Non
+CNT-70170;26/05/2023;AG009;316;En Attente;4;31,12;Téléphone;Souscription contrat;Oui;Non;Oui;8;Oui
+CNT-70171;12/08/2023;AG003;411;Résolu;4;26,52;Téléphone;Déménagement;Oui;Non;Oui;;Non
+CNT-70172;30/01/2023;AG005;265;En Attente;4;19,41;Chat;Résiliation;Oui;Non;Oui;8;Non
+CNT-70173;05/02/2023;AG007;303;En Attente;4;;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-70174;22/04/2023;AG008;315;Non Résolu;4;30,44;Chat;Résiliation;Oui;Non;Oui;8;Non
+CNT-70175;25/06/2023;AG009;124;Non Résolu;5;9,32;Chat;Résiliation;Non;Oui;Oui;;Non
+CNT-70176;07/02/2023;AG004;312;Résolu;5;36,14;Téléphone;Résiliation;Oui;Non;Oui;7;Non
+CNT-70177;08/08/2023;AG001;345;Résolu;4;11,82;Email;Panne compteur;Oui;Oui;Oui;4;Oui
+CNT-70178;29/04/2023;AG005;317;Résolu;4;44,37;Téléphone;Panne compteur;Oui;Non;Non;6;Non
+CNT-70179;05/10/2023;AG007;241;En Attente;5;20,71;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70180;01/07/2023;AG008;242;En Attente;4;23,59;Réseaux Sociaux;Litige paiement;Oui;Non;Oui;7;Oui
+CNT-70181;02/08/2023;AG002;140;Résolu;5;36,97;Email;Demande d'information;Oui;Non;Oui;9;Non
+CNT-70182;10/05/2023;AG003;250;En Attente;5;;Téléphone;Déménagement;Oui;Non;Oui;7;Non
+CNT-70183;01/02/2023;AG006;292;En Attente;5;11,55;Réseaux Sociaux;Changement d'offre;Non;Oui;Oui;9;Non
+CNT-70184;27/04/2023;AG002;273;Résolu;1;47,61;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-70185;25/01/2023;AG003;296;En Attente;4;17,19;Chat;Changement d'offre;Non;Non;Oui;;Non
+CNT-70186;26/12/2023;AG003;258;Non Résolu;3;27,48;Réseaux Sociaux;Litige paiement;Oui;Non;Oui;1;Non
+CNT-70187;04/10/2023;AG007;201;Non Résolu;5;22,59;Téléphone;Relevé compteur;Oui;Non;Non;7;Non
+CNT-70188;15/11/2023;AG007;162;Résolu;1;39,11;Chat;Réclamation;Oui;Non;Non;;Non
+CNT-70189;21/12/2023;AG002;306;Résolu;;38,81;Email;Facturation;Non;Non;Oui;;Oui
+CNT-70190;01/07/2023;AG001;335;Résolu;5;15,85;Téléphone;Relevé compteur;Oui;Oui;Oui;;Non
+CNT-70191;26/08/2023;AG006;246;Résolu;4;19,96;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;;Non
+CNT-70192;27/01/2023;AG002;109;Non Résolu;4;15,72;Email;Changement d'offre;Oui;Oui;Oui;7;Non
+CNT-70193;06/12/2023;AG009;359;Non Résolu;5;10,65;Email;Relevé compteur;Oui;Non;Non;;Non
+CNT-70194;16/10/2023;AG005;242;En Attente;2;19,13;Réseaux Sociaux;Réclamation;Oui;Non;Oui;;Non
+CNT-70195;14/11/2023;AG007;135;Résolu;4;19,62;Téléphone;Panne compteur;Oui;Oui;Non;;Non
+CNT-70196;19/04/2023;AG001;264;Résolu;5;38,9;Téléphone;Résiliation;Oui;Oui;Oui;8;Non
+CNT-70197;14/01/2023;AG009;366;En Attente;3;10,46;Téléphone;Résiliation;Oui;Non;Oui;9;Oui
+CNT-70198;12/05/2023;AG006;225;Résolu;4;16,64;Téléphone;Litige paiement;Oui;Non;Non Renseigné;8;Non
+CNT-70199;10/09/2023;AG005;34;Résolu;5;13,93;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-70200;31/05/2023;AG007;237;Résolu;4;48,29;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+CNT-70201;23/03/2023;AG007;197;Non Résolu;;12,41;Email;Réclamation;Oui;Non;Oui;9;Non
+CNT-70202;03/10/2023;AG008;281;Résolu;5;49,11;Téléphone;Litige paiement;Oui;Non;Oui;8;Non
+CNT-70203;14/02/2023;AG008;266;Non Résolu;5;28,32;Chat;Souscription contrat;Oui;Non;Non Renseigné;;Non
+CNT-70204;31/05/2023;AG005;217;Résolu;;45,47;Téléphone;Changement d'offre;Oui;Non;Oui;;Non
+CNT-70205;21/11/2023;AG004;211;Non Résolu;3;46,38;Téléphone;Relevé compteur;Oui;Non;Non;5;Non
+CNT-70206;15/02/2023;AG002;398;Non Résolu;3;39,34;Téléphone;Relevé compteur;Oui;Non;Oui;2;Non
+CNT-70207;08/08/2023;AG005;315;En Attente;4;36,13;Email;Déménagement;Oui;Oui;Oui;;Non
+CNT-70208;22/06/2023;AG009;312;Résolu;5;30,89;Téléphone;Litige paiement;Oui;Non;Oui;7;Non
+CNT-70209;19/11/2023;AG003;352;Résolu;4;18,72;Téléphone;Litige paiement;Oui;Non;Oui;;Non
+CNT-70210;23/02/2023;AG007;241;En Attente;2;21,09;Téléphone;Déménagement;Oui;Non;Non;8;Non
+CNT-70211;26/06/2023;AG007;427;Résolu;2;41,88;Téléphone;Résiliation;Oui;Non;Non Renseigné;;Non
+CNT-70212;21/10/2023;AG005;297;Non Résolu;5;15,78;Chat;Demande d'information;Oui;Oui;Oui;8;Non
+CNT-70213;07/05/2023;AG006;276;Non Résolu;4;35,62;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70214;06/01/2023;AG006;296;Résolu;3;13,08;Réseaux Sociaux;Facturation;Oui;Non;Oui;;Non
+CNT-70215;18/11/2023;AG003;237;En Attente;5;35,9;Téléphone;Panne compteur;Oui;Non;Oui;0;Non
+CNT-70216;28/01/2023;AG005;201;Résolu;4;48,12;Réseaux Sociaux;Réclamation;Oui;Non;Oui;;Non
+CNT-70217;07/12/2023;AG002;377;En Attente;3;43,88;Email;Souscription contrat;Non;Non;Non;;Non
+CNT-70218;15/09/2023;AG007;154;Résolu;4;45,49;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70219;03/12/2023;AG004;162;En Attente;4;48,65;Chat;Panne compteur;Oui;Non;Oui;;Non
+CNT-70220;16/03/2023;AG008;254;Résolu;4;31,48;Téléphone;Souscription contrat;Oui;Oui;Oui;;Oui
+CNT-70221;10/08/2023;AG006;182;En Attente;;12,81;Chat;Déménagement;Non;Non;Oui;6;Non
+CNT-70222;10/02/2023;AG004;109;Résolu;4;30,98;Téléphone;Litige paiement;Oui;Non;Oui;;Non
+CNT-70223;10/12/2023;AG005;159;Résolu;5;36,11;Téléphone;Facturation;Oui;Non;Oui;;Non
+CNT-70224;24/09/2023;AG001;185;Résolu;5;42,33;Réseaux Sociaux;Déménagement;Oui;Non;Non Renseigné;;Non
+CNT-70225;06/04/2023;AG003;301;En Attente;3;36,82;Téléphone;Litige paiement;Non;Oui;Oui;7;Non
+CNT-70226;03/04/2023;AG006;247;En Attente;4;45,65;Chat;Litige paiement;Oui;Non;Oui;8;Oui
+CNT-70227;02/12/2023;AG002;357;En Attente;5;44,5;Email;Demande d'information;yes;Non;Oui;;Non
+CNT-70228;18/06/2023;AG008;56;En Attente;3;47,25;Chat;Panne compteur;Oui;Oui;Non Renseigné;10;Oui
+CNT-70229;23/04/2023;AG004;154;Non Résolu;5;38,32;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70230;06/10/2023;AG002;168;Résolu;2;20,95;Chat;Panne compteur;Oui;Non;Oui;;Non
+CNT-70231;24/11/2023;AG004;285;Résolu;5;;Réseaux Sociaux;Litige paiement;Oui;Non;Oui;;Non
+CNT-70232;05/07/2023;AG001;287;Résolu;;39,09;Téléphone;Déménagement;Oui;Oui;Oui;0;Non
+CNT-70233;30/12/2023;AG006;206;Non Résolu;4;20,7;Email;Changement d'offre;Oui;Non;Oui;6;Non
+CNT-70234;29/01/2023;AG004;231;En Attente;4;9,89;Téléphone;Souscription contrat;Non;Non;Non Renseigné;6;Non
+CNT-70235;21/10/2023;AG001;73;Non Résolu;3;41,36;Téléphone;Déménagement;Oui;Non;Non;8;Non
+CNT-70236;28/07/2023;AG001;344;Résolu;5;41,91;Téléphone;Relevé compteur;Oui;Non;Oui;;Non
+CNT-70237;05/10/2023;AG002;216;Résolu;5;36,12;Téléphone;Réclamation;yes;Non;Oui;;Non
+CNT-70238;07/08/2023;AG009;278;Résolu;4;27,24;Téléphone;Souscription contrat;Non;Non;Non Renseigné;8;Non
+CNT-70239;16/03/2023;AG009;56;Non Résolu;3;22,89;Téléphone;Relevé compteur;Oui;Non;Non;;Non
+CNT-70240;25/03/2023;AG006;254;Résolu;4;43,14;Téléphone;Facturation;Non;Non;Non;;Non
+CNT-70241;09/05/2023;AG009;380;En Attente;5;13,31;Téléphone;Relevé compteur;Oui;Non;Oui;2;Non
+CNT-70242;28/08/2023;AG007;289;En Attente;4;30,45;Téléphone;Relevé compteur;Non;Non;Non;;Non
+CNT-70243;18/10/2023;AG007;;Résolu;5;17,83;Email;Demande d'information;Oui;Non;Oui;;Non
+CNT-70244;07/07/2023;AG002;215;En Attente;5;;Chat;Panne compteur;Oui;Non;Oui;;Non
+CNT-70245;28/04/2023;AG007;283;Résolu;4;32,51;Téléphone;Réclamation;Oui;Oui;Oui;;Non
+CNT-70246;19/11/2023;AG008;342;Résolu;5;30,57;Chat;Relevé compteur;Oui;Oui;Non Renseigné;;Non
+CNT-70247;19/04/2023;AG003;274;Résolu;4;14,62;Email;Litige paiement;Oui;Non;Oui;7;Non
+CNT-70248;12/06/2023;AG005;175;En Attente;;17,36;Réseaux Sociaux;Souscription contrat;Oui;Non;Non;7;Non
+CNT-70249;02/02/2023;AG003;275;Résolu;5;10,28;Email;Déménagement;Oui;Non;Oui;;Non
+CNT-70250;06/02/2023;AG002;174;Résolu;2;28,25;Email;Facturation;Oui;Non;Oui;;Non
+CNT-70251;01/09/2023;AG009;262;Résolu;5;47,25;Chat;Litige paiement;Non;Non;Oui;8;Non
+CNT-70252;11/01/2023;AG006;220;Non Résolu;3;18,19;Réseaux Sociaux;Résiliation;Oui;Non;Oui;;Non
+CNT-70253;09/10/2023;AG003;280;En Attente;1;36,62;Réseaux Sociaux;Résiliation;Oui;Non;Oui;8;Non
+CNT-70254;13/12/2023;AG001;286;Résolu;;31,39;Réseaux Sociaux;Relevé compteur;Non;Non;Non Renseigné;8;Non
+CNT-70255;27/04/2023;AG003;391;Résolu;5;48,27;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70256;16/06/2023;AG003;323;Résolu;3;23,51;Téléphone;Résiliation;Oui;Non;Oui;6;Non
+CNT-70257;08/01/2023;AG003;305;Résolu;;31,73;Email;Relevé compteur;Oui;Oui;Oui;8;Non
+CNT-70258;01/08/2023;AG006;104;En Attente;5;32,38;Téléphone;Résiliation;Oui;Non;Oui;8;Non
+CNT-70259;01/04/2023;AG005;360;Résolu;4;18,7;Téléphone;Demande d'information;Oui;Non;Oui;8;Non
+CNT-70260;26/08/2023;AG006;224;En Attente;3;39,31;Réseaux Sociaux;Litige paiement;Oui;Non;Non Renseigné;0;Non
+CNT-70261;10/04/2023;AG006;160;Résolu;5;46,56;Email;Changement d'offre;Oui;Oui;Oui;9;Non
+CNT-70262;10/12/2023;AG008;471;Résolu;4;13,22;Email;Litige paiement;Oui;Non;Oui;;Non
+CNT-70263;11/11/2023;AG008;197;Résolu;3;46,08;Chat;Changement d'offre;Oui;Non;Non;8;Non
+CNT-70264;10/12/2023;AG003;404;Non Résolu;5;41,57;Email;Réclamation;Oui;Non;Oui;;Non
+CNT-70265;08/12/2023;AG002;295;Non Résolu;4;19,52;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70266;27/11/2023;AG002;316;En Attente;5;12,68;Email;Changement d'offre;Oui;Non;Non Renseigné;;Non
+CNT-70267;04/08/2023;AG009;263;Résolu;4;37,01;Téléphone;Facturation;Oui;Non;Oui;8;Non
+CNT-70268;12/01/2023;AG009;177;En Attente;2;;Chat;Changement d'offre;Oui;Oui;Non;;Non
+CNT-70269;07/08/2023;AG007;335;Résolu;4;22,69;Chat;Demande d'information;Non;Non;Oui;;Non
+CNT-70270;17/07/2023;AG007;298;En Attente;5;23,45;Email;Relevé compteur;Oui;Non;Oui;2;Non
+CNT-70271;23/12/2023;AG006;360;Non Résolu;4;12,15;Email;Changement d'offre;Oui;Oui;Oui;;Non
+CNT-70272;20/10/2023;AG006;342;Résolu;;46,42;Téléphone;Facturation;Oui;Non;Oui;7;Non
+CNT-70273;27/12/2023;AG003;352;Résolu;5;38,95;Téléphone;Déménagement;Oui;Non;Oui;;Non
+CNT-70274;26/08/2023;AG009;313;Non Résolu;5;34,86;Email;Litige paiement;yes;Oui;Oui;7;Non
+CNT-70275;07/05/2023;AG008;331;Non Résolu;5;26,51;Téléphone;Panne compteur;Oui;Oui;Non;;Oui
+CNT-70276;27/02/2023;AG001;;Résolu;4;25,33;Téléphone;Panne compteur;Oui;Non;Non;8;Non
+CNT-70277;30/08/2023;AG002;332;Non Résolu;3;12,42;Téléphone;Réclamation;Oui;Non;Oui;8;Non
+CNT-70278;12/07/2023;AG004;297;Résolu;4;;Téléphone;Demande d'information;Oui;Oui;Oui;;Non
+CNT-70279;11/02/2023;AG006;79;Résolu;3;20,3;Téléphone;Demande d'information;Oui;Non;Oui;8;Non
+CNT-70280;07/03/2023;AG009;274;En Attente;5;15,96;Téléphone;Déménagement;Oui;Non;Oui;9;Non
+CNT-70281;27/09/2023;AG003;108;Résolu;5;41,82;Email;Panne compteur;Oui;Non;Oui;;Non
+CNT-70282;10/06/2023;AG004;529;Résolu;4;15,04;Téléphone;Demande d'information;Oui;Non;Non Renseigné;8;Non
+CNT-70283;31/05/2023;AG008;203;Résolu;4;22,31;Chat;Relevé compteur;Oui;Non;Non Renseigné;8;Non
+CNT-70284;30/11/2023;AG002;387;En Attente;5;40,58;Téléphone;Litige paiement;Oui;Oui;Oui;8;Non
+CNT-70285;05/07/2023;AG006;222;Non Résolu;1;18,14;Réseaux Sociaux;Résiliation;Oui;Non;Oui;8;Oui
+CNT-70286;17/01/2023;AG006;121;En Attente;4;49,52;Téléphone;Relevé compteur;Oui;Oui;Oui;;Non
+CNT-70287;23/05/2023;AG004;322;Non Résolu;3;48,04;Chat;Panne compteur;Oui;Non;Oui;7;Non
+CNT-70288;25/06/2023;AG009;438;Résolu;2;41,86;Chat;Litige paiement;Oui;Oui;Oui;1;Non
+CNT-70289;07/12/2023;AG005;316;Résolu;2;38,56;Téléphone;Déménagement;Non;Non;Oui;6;Non
+CNT-70290;26/11/2023;AG002;430;Résolu;4;43,82;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-70291;03/08/2023;AG002;380;Résolu;4;36,47;Téléphone;Demande d'information;;Non;Oui;;Non
+CNT-70292;03/03/2023;AG009;171;Résolu;3;24,22;Réseaux Sociaux;Résiliation;Oui;Non;Oui;7;Non
+CNT-70293;13/02/2023;AG001;337;Résolu;;15,04;Chat;Changement d'offre;yes;Non;Oui;8;Non
+CNT-70294;29/06/2023;AG002;;Résolu;3;49,88;Téléphone;Panne compteur;Oui;Non;Non Renseigné;6;Non
+CNT-70295;09/09/2023;AG008;300;En Attente;;34,06;Chat;Résiliation;Oui;Non;Oui;;Non
+CNT-70296;17/05/2023;AG005;195;Non Résolu;3;43,09;Chat;Facturation;Oui;Oui;Oui;;Non
+CNT-70297;01/02/2023;AG004;371;Non Résolu;5;34,22;Réseaux Sociaux;Facturation;Oui;Non;Oui;0;Non
+CNT-70298;08/05/2023;AG004;151;En Attente;5;31,49;Téléphone;Relevé compteur;Oui;Oui;Oui;10;Non
+CNT-70299;21/03/2023;AG007;363;Résolu;5;35;Réseaux Sociaux;Litige paiement;Oui;Non;Oui;9;Non
+CNT-70300;07/09/2023;AG005;339;En Attente;3;45,83;Réseaux Sociaux;Litige paiement;Oui;Non;Non;9;Non
+CNT-70301;24/04/2023;AG003;276;Résolu;4;48,81;Téléphone;Souscription contrat;Oui;Non;Oui;6;Non
+CNT-70302;24/05/2023;AG007;207;Résolu;1;26,52;Email;Facturation;Oui;Non;Non;8;Non
+CNT-70303;13/12/2023;AG007;336;Résolu;;18,77;Email;Relevé compteur;Oui;Non;Non;10;Non
+CNT-70304;02/01/2023;AG004;82;Non Résolu;4;40,23;Email;Litige paiement;Oui;Non;Non Renseigné;;Non
+CNT-70305;09/04/2023;AG007;189;Résolu;;43,13;Email;Demande d'information;Oui;Non;Oui;8;Non
+CNT-70306;10/09/2023;AG008;265;Résolu;;27,92;Téléphone;Relevé compteur;Non;Non;Oui;;Oui
+CNT-70307;18/11/2023;AG007;277;Résolu;4;21,52;Téléphone;Résiliation;Oui;Non;Non Renseigné;;Oui
+CNT-70308;30/04/2023;AG004;191;Résolu;2;25,78;Email;Résiliation;yes;Oui;Oui;8;Non
+CNT-70309;15/03/2023;AG006;194;Non Résolu;3;49,66;Réseaux Sociaux;Panne compteur;yes;Non;Non Renseigné;;Non
+CNT-70310;18/05/2023;AG001;319;Non Résolu;5;23,45;Chat;Réclamation;Non;Non;Oui;;Non
+CNT-70311;05/03/2023;AG009;173;En Attente;3;27,75;Chat;Résiliation;Oui;Non;Oui;;Non
+CNT-70312;01/05/2023;AG009;230;En Attente;3;13,23;Téléphone;Déménagement;Oui;Non;Oui;9;Non
+CNT-70313;06/10/2023;AG001;151;En Attente;4;30,85;Téléphone;Souscription contrat;Non;Non;Non;;Non
+CNT-70314;22/10/2023;AG004;270;Résolu;4;32,23;Téléphone;Souscription contrat;;Non;Oui;;Oui
+CNT-70315;04/03/2023;AG006;245;Non Résolu;2;38,68;Email;Déménagement;Oui;Non;Oui;9;Oui
+CNT-70316;04/11/2023;AG001;76;Résolu;4;13,03;Email;Panne compteur;Oui;Non;Oui;4;Non
+CNT-70317;12/11/2023;AG004;133;Résolu;5;30,48;Téléphone;Facturation;Oui;Oui;Oui;6;Non
+CNT-70318;27/04/2023;AG008;;En Attente;5;39,36;Chat;Litige paiement;Oui;Non;Oui;6;Non
+CNT-70319;24/11/2023;AG009;394;En Attente;5;43,13;Email;Résiliation;Oui;Non;Non;;Non
+CNT-70320;10/06/2023;AG004;199;Non Résolu;4;34,5;Téléphone;Résiliation;Non;Non;Oui;8;Non
+CNT-70321;03/08/2023;AG006;302;Résolu;5;12,29;Téléphone;Déménagement;Oui;Oui;Oui;9;Non
+CNT-70322;15/01/2023;AG003;167;Non Résolu;2;14,43;Réseaux Sociaux;Changement d'offre;Oui;Non;Non;3;Oui
+CNT-70323;29/03/2023;AG009;411;Non Résolu;5;;Téléphone;Demande d'information;Oui;Oui;Oui;8;Non
+CNT-70324;18/01/2023;AG002;291;Résolu;2;23,54;Email;Panne compteur;Oui;Non;Oui;;Oui
+CNT-70325;08/03/2023;AG009;360;En Attente;;10,26;Chat;Changement d'offre;yes;Oui;Oui;;Non
+CNT-70326;10/05/2023;AG003;340;Résolu;5;33,45;Téléphone;Facturation;Non;Non;Oui;8;Non
+CNT-70327;31/12/2023;AG003;267;En Attente;5;48,84;Email;Demande d'information;Non;Oui;Non;10;Non
+CNT-70328;23/06/2023;AG005;280;En Attente;3;41,72;Chat;Panne compteur;Oui;Non;Oui;;Non
+CNT-70329;13/04/2023;AG006;152;En Attente;3;30,55;Chat;Changement d'offre;Oui;Non;Oui;;Non
+CNT-70330;29/08/2023;AG004;276;Résolu;5;34,08;Chat;Résiliation;Oui;Non;Oui;7;Non
+CNT-70331;02/11/2023;AG004;176;Résolu;4;38,88;Chat;Facturation;Oui;Non;Non Renseigné;10;Non
+CNT-70332;05/08/2023;AG003;336;En Attente;;36,2;Chat;Déménagement;Oui;Oui;Oui;6;Non
+CNT-70333;08/02/2023;AG008;334;Résolu;;17,85;Réseaux Sociaux;Relevé compteur;Non;Oui;Oui;10;Non
+CNT-70334;04/03/2023;AG008;398;Résolu;3;48,09;Email;Déménagement;Oui;Non;Oui;6;Non
+CNT-70335;03/12/2023;AG009;211;Non Résolu;5;12,24;Téléphone;Réclamation;Oui;Oui;Oui;;Oui
+CNT-70336;24/08/2023;AG005;67;Non Résolu;4;18,24;Téléphone;Relevé compteur;Oui;Non;Non Renseigné;6;Non
+CNT-70337;27/05/2023;AG009;296;Résolu;3;29,74;Email;Relevé compteur;Oui;Non;Oui;9;Non
+CNT-70338;10/12/2023;AG004;320;Résolu;1;48,59;Téléphone;Demande d'information;Oui;Non;Non Renseigné;10;Non
+CNT-70339;08/04/2023;AG004;313;En Attente;3;16,41;Réseaux Sociaux;Demande d'information;Non;Non;Oui;10;Non
+CNT-70340;06/07/2023;AG002;113;Résolu;5;22,73;Chat;Résiliation;Non;Non;Oui;10;Non
+CNT-70341;21/02/2023;AG005;448;Non Résolu;3;32,19;Chat;Relevé compteur;yes;Non;Oui;4;Non
+CNT-70342;15/02/2023;AG004;341;Résolu;3;;Téléphone;Réclamation;Oui;Oui;Oui;6;Non
+CNT-70343;29/09/2023;AG002;338;Non Résolu;5;24,95;Chat;Demande d'information;Non;Non;Oui;;Oui
+CNT-70344;09/04/2023;AG003;;Résolu;;45,85;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-70345;27/10/2023;AG003;400;En Attente;4;16,27;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70346;20/02/2023;AG009;304;En Attente;;22,09;Email;Facturation;Oui;Oui;Oui;;Non
+CNT-70347;28/12/2023;AG001;81;En Attente;3;;Téléphone;Souscription contrat;Oui;Non;Oui;10;Non
+CNT-70348;05/01/2023;AG004;232;Non Résolu;1;44,11;Email;Facturation;Oui;Non;Oui;;Non
+CNT-70349;27/09/2023;AG005;;En Attente;5;30,45;Email;Résiliation;Oui;Oui;Oui;;Non
+CNT-70350;12/02/2023;AG009;129;En Attente;4;25,76;Email;Réclamation;Oui;Non;Non;1;Oui
+CNT-70351;06/03/2023;AG008;188;En Attente;;30,15;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;9;Non
+CNT-70352;22/02/2023;AG005;206;Résolu;5;18,09;Email;Souscription contrat;Non;Non;Non;8;Oui
+CNT-70353;03/05/2023;AG001;294;Résolu;5;24,57;Chat;Demande d'information;Oui;Non;Oui;;Non
+CNT-70354;26/09/2023;AG003;134;Non Résolu;3;41,53;Téléphone;Résiliation;Oui;Non;Non;6;Non
+CNT-70355;02/03/2023;AG004;98;En Attente;4;22,29;Téléphone;Relevé compteur;Oui;Non;Oui;;Non
+CNT-70356;26/07/2023;AG002;496;Résolu;5;18,52;Téléphone;Souscription contrat;Oui;Non;Non;8;Non
+CNT-70357;03/05/2023;AG001;263;En Attente;5;38,47;Chat;Relevé compteur;Oui;Oui;Oui;;Non
+CNT-70358;24/05/2023;AG008;50;Résolu;4;42,2;Chat;Demande d'information;Oui;Non;Oui;9;Non
+CNT-70359;10/10/2023;AG003;445;En Attente;;18,98;Téléphone;Déménagement;Non;Non;Non Renseigné;8;Non
+CNT-70360;06/06/2023;AG008;275;Résolu;4;33,98;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;4;Non
+CNT-70361;16/04/2023;AG006;359;Résolu;5;44,88;Réseaux Sociaux;Panne compteur;Oui;Non;Non Renseigné;;Oui
+CNT-70362;08/07/2023;AG003;298;Résolu;5;39,88;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-70363;05/11/2023;AG003;381;Résolu;2;26,77;Email;Litige paiement;;Non;Non Renseigné;5;Non
+CNT-70364;17/10/2023;AG005;189;Non Résolu;4;12,68;Téléphone;Déménagement;yes;Non;Oui;7;Oui
+CNT-70365;13/02/2023;AG007;267;Résolu;5;43,01;Réseaux Sociaux;Changement d'offre;Non;Non;Oui;10;Non
+CNT-70366;21/05/2023;AG001;322;Non Résolu;5;33,41;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-70367;12/01/2023;AG004;97;Résolu;4;40,86;Téléphone;Relevé compteur;Oui;Oui;Non Renseigné;8;Oui
+CNT-70368;28/04/2023;AG002;590;Non Résolu;4;38,74;Téléphone;Panne compteur;Non;Non;Oui;4;Non
+CNT-70369;23/12/2023;AG008;468;Résolu;4;29,44;Email;Panne compteur;Non;Non;Oui;;Non
+CNT-70370;29/07/2023;AG004;344;Résolu;3;25,46;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;;Non
+CNT-70371;04/12/2023;AG009;283;Résolu;5;24,79;Téléphone;Réclamation;Oui;Non;Non;9;Non
+CNT-70372;30/05/2023;AG001;260;En Attente;4;41,97;Email;Changement d'offre;Non;Non;Non Renseigné;;Non
+CNT-70373;02/11/2023;AG004;210;Résolu;;31,55;Email;Facturation;Oui;Non;Oui;0;Non
+CNT-70374;30/01/2023;AG001;346;Résolu;5;20,06;Email;Résiliation;Non;Non;Oui;7;Non
+CNT-70375;22/09/2023;AG009;190;En Attente;3;39,05;Téléphone;Facturation;Oui;Non;Oui;5;Oui
+CNT-70376;18/06/2023;AG004;145;Résolu;4;46,11;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+CNT-70377;05/06/2023;AG009;298;Résolu;5;17,23;Email;Litige paiement;Oui;Non;Oui;8;Non
+CNT-70378;22/04/2023;AG002;178;Résolu;1;9,57;Téléphone;Demande d'information;Non;Non;Oui;9;Non
+CNT-70379;16/08/2023;AG009;195;Non Résolu;;39,03;Réseaux Sociaux;Panne compteur;Oui;Oui;Oui;;Non
+CNT-70380;26/06/2023;AG002;359;Non Résolu;5;19,52;Téléphone;Panne compteur;Oui;Non;Oui;;Oui
+CNT-70381;30/04/2023;AG001;325;Résolu;5;27,22;Chat;Litige paiement;Non;Non;Oui;8;Oui
+CNT-70382;03/12/2023;AG001;186;Résolu;;37,59;Chat;Relevé compteur;Non;Non;Oui;8;Non
+CNT-70383;03/10/2023;AG005;454;Résolu;4;34,99;Email;Changement d'offre;Oui;Non;Oui;0;Non
+CNT-70384;29/11/2023;AG008;285;Résolu;3;38,55;Email;Déménagement;Oui;Oui;Non;5;Oui
+CNT-70385;03/03/2023;AG005;224;Résolu;5;35,89;Chat;Demande d'information;Oui;Non;Oui;10;Non
+CNT-70386;22/01/2023;AG001;212;En Attente;4;25,12;Réseaux Sociaux;Relevé compteur;Oui;Non;Non;;Non
+CNT-70387;04/08/2023;AG008;188;Résolu;5;20,48;Réseaux Sociaux;Changement d'offre;Oui;Non;Non Renseigné;;Non
+CNT-70388;05/09/2023;AG004;326;En Attente;5;35,17;Réseaux Sociaux;Litige paiement;Oui;Non;Non Renseigné;8;Non
+CNT-70389;10/03/2023;AG005;200;Non Résolu;3;32,18;Chat;Facturation;Oui;Non;Oui;10;Non
+CNT-70390;04/04/2023;AG008;262;Non Résolu;;16,84;Email;Demande d'information;Oui;Non;Oui;7;Non
+CNT-70391;25/07/2023;AG008;258;Résolu;5;41,59;Réseaux Sociaux;Réclamation;Non;Non;Oui;0;Non
+CNT-70392;03/11/2023;AG007;195;Résolu;4;;Réseaux Sociaux;Souscription contrat;Oui;Non;Non;8;Non
+CNT-70393;02/02/2023;AG004;198;Résolu;5;22,31;Téléphone;Relevé compteur;Oui;Non;Non;;Non
+CNT-70394;06/04/2023;AG004;339;Résolu;5;23,73;Réseaux Sociaux;Relevé compteur;Oui;Non;Non;;Oui
+CNT-70395;08/06/2023;AG003;201;Non Résolu;5;28,68;Réseaux Sociaux;Panne compteur;Oui;Oui;Oui;;Non
+CNT-70396;11/11/2023;AG007;354;En Attente;5;18,06;Téléphone;Résiliation;Oui;Non;Oui;6;Non
+CNT-70397;20/08/2023;AG003;342;Résolu;4;29,54;Email;Changement d'offre;Oui;Non;Non Renseigné;7;Non
+CNT-70398;04/10/2023;AG007;380;Non Résolu;1;34,52;Email;Déménagement;Oui;Non;Oui;6;Non
+CNT-70399;16/07/2023;AG009;193;Résolu;5;28,52;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-70400;14/09/2023;AG007;189;Non Résolu;4;39,9;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-70401;17/09/2023;AG003;334;Résolu;2;44,48;Chat;Souscription contrat;Oui;Non;Non Renseigné;;Non
+CNT-70402;24/12/2023;AG006;288;Non Résolu;4;25,73;Chat;Litige paiement;Non;Non;Oui;;Non
+CNT-70403;01/06/2023;AG002;297;Résolu;;49,25;Téléphone;Demande d'information;Oui;Non;Oui;5;Non
+CNT-70404;07/12/2023;AG004;411;Non Résolu;2;15,6;Téléphone;Panne compteur;Oui;Non;Oui;10;Non
+CNT-70405;22/04/2023;AG005;128;Non Résolu;3;49,2;Chat;Panne compteur;Oui;Non;Oui;;Non
+CNT-70406;06/05/2023;AG002;362;Non Résolu;2;11,7;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-70407;12/11/2023;AG008;342;En Attente;;40,3;Email;Panne compteur;Oui;Oui;Oui;8;Non
+CNT-70408;25/03/2023;AG006;329;En Attente;5;;Téléphone;Demande d'information;Oui;Oui;Oui;;Non
+CNT-70409;26/07/2023;AG005;371;Résolu;4;20,97;Réseaux Sociaux;Réclamation;Oui;Non;Oui;8;Non
+CNT-70410;09/03/2023;AG006;160;Résolu;4;28,34;Téléphone;Déménagement;Oui;Non;Oui;;Non
+CNT-70411;21/09/2023;AG003;257;Résolu;2;;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70412;12/04/2023;AG004;186;En Attente;4;15,67;Réseaux Sociaux;Demande d'information;Non;Non;Oui;6;Non
+CNT-70413;02/10/2023;AG002;135;En Attente;4;18,43;Téléphone;Relevé compteur;Oui;Oui;Oui;6;Non
+CNT-70414;31/08/2023;AG005;22;En Attente;1;30,94;Téléphone;Panne compteur;Oui;Non;Oui;5;Non
+CNT-70415;28/02/2023;AG006;330;Résolu;1;34,76;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;7;Non
+CNT-70416;28/09/2023;AG004;239;Résolu;4;15,05;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-70417;03/04/2023;AG008;254;Résolu;5;10,08;Réseaux Sociaux;Demande d'information;Oui;Non;Oui;8;Oui
+CNT-70418;27/09/2023;AG009;217;Résolu;5;12,35;Chat;Relevé compteur;Oui;Non;Non Renseigné;9;Non
+CNT-70419;01/06/2023;AG003;269;Résolu;3;28,75;Email;Litige paiement;yes;Non;Oui;9;Non
+CNT-70420;22/02/2023;AG004;428;Non Résolu;3;26,99;Réseaux Sociaux;Facturation;Oui;Oui;Non Renseigné;;Non
+CNT-70421;13/12/2023;AG001;111;Résolu;4;47,3;Réseaux Sociaux;Demande d'information;Oui;Non;Oui;0;Non
+CNT-70422;03/06/2023;AG001;450;Non Résolu;2;45,76;Chat;Demande d'information;Oui;Non;Oui;;Non
+CNT-70423;29/06/2023;AG001;294;Résolu;5;15,02;Email;Relevé compteur;Non;Non;Oui;8;Oui
+CNT-70424;24/12/2023;AG008;224;En Attente;5;14,73;Chat;Réclamation;Non;Non;Oui;;Non
+CNT-70425;23/10/2023;AG002;235;Non Résolu;5;30,02;Email;Changement d'offre;Oui;Oui;Oui;7;Non
+CNT-70426;07/06/2023;AG009;183;Résolu;3;49,28;Réseaux Sociaux;Réclamation;Oui;Oui;Oui;7;Non
+CNT-70427;11/11/2023;AG004;81;Non Résolu;4;15,42;Téléphone;Panne compteur;yes;Oui;Oui;6;Non
+CNT-70428;06/06/2023;AG003;167;En Attente;4;22,06;Réseaux Sociaux;Réclamation;Oui;Non;Oui;7;Non
+CNT-70429;26/02/2023;AG004;269;Résolu;4;30,63;Email;Litige paiement;Oui;Non;Oui;;Non
+CNT-70430;31/05/2023;AG008;246;Résolu;;11,66;Réseaux Sociaux;Demande d'information;Oui;Non;Oui;;Non
+CNT-70431;26/08/2023;AG005;316;En Attente;4;24,91;Téléphone;Litige paiement;Oui;Non;Oui;;Non
+CNT-70432;03/02/2023;AG007;218;Résolu;5;34,34;Chat;Changement d'offre;Non;Non;Oui;;Non
+CNT-70433;23/07/2023;AG007;205;Non Résolu;;11,76;Chat;Réclamation;Oui;Non;Oui;;Non
+CNT-70434;21/10/2023;AG003;490;Résolu;3;26,3;Chat;Litige paiement;Oui;Non;Oui;5;Non
+CNT-70435;10/10/2023;AG002;185;Résolu;5;9,78;Chat;Facturation;Non;Oui;Oui;7;Non
+CNT-70436;11/04/2023;AG009;191;Résolu;5;28,48;Téléphone;Panne compteur;Non;Non;Oui;6;Non
+CNT-70437;31/01/2023;AG002;369;Non Résolu;3;24,93;Email;Demande d'information;Oui;Non;Oui;;Non
+CNT-70438;23/01/2023;AG008;341;Résolu;2;37,31;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70439;04/11/2023;AG006;230;Résolu;;14,96;Téléphone;Facturation;Oui;Non;Oui;8;Non
+CNT-70440;09/10/2023;AG006;350;Résolu;5;37,7;Téléphone;Panne compteur;Oui;Non;Oui;9;Non
+CNT-70441;09/11/2023;AG006;281;En Attente;;;Email;Panne compteur;Oui;Non;Oui;6;Non
+CNT-70442;18/08/2023;AG006;217;Résolu;4;30,57;Téléphone;Changement d'offre;;Oui;Oui;;Non
+CNT-70443;03/02/2023;AG009;75;En Attente;2;43,87;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-70444;13/04/2023;AG004;;Résolu;5;33,79;Email;Réclamation;Oui;Oui;Oui;;Non
+CNT-70445;30/01/2023;AG003;467;Résolu;3;28,66;Téléphone;Demande d'information;Oui;Non;Oui;5;Non
+CNT-70446;01/09/2023;AG005;297;Non Résolu;4;;Téléphone;Résiliation;Non;Non;Oui;;Non
+CNT-70447;28/02/2023;AG003;239;Résolu;;12,15;Email;Facturation;Oui;Non;Oui;2;Non
+CNT-70448;17/12/2023;AG008;418;Non Résolu;2;29,73;Chat;Relevé compteur;Oui;Non;Oui;5;Non
+CNT-70449;06/05/2023;AG001;355;Résolu;3;37,46;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70450;19/12/2023;AG007;288;Résolu;1;14,74;Chat;Déménagement;Oui;Oui;Oui;7;Non
+CNT-70451;22/09/2023;AG009;233;Résolu;4;25,43;Téléphone;Souscription contrat;Oui;Oui;Non;8;Non
+CNT-70452;21/02/2023;AG002;268;En Attente;4;36,46;Réseaux Sociaux;Facturation;Oui;Non;Oui;;Non
+CNT-70453;15/09/2023;AG007;181;Non Résolu;3;47,59;Email;Déménagement;Oui;Non;Oui;10;Non
+CNT-70454;06/09/2023;AG002;288;En Attente;3;47,24;Chat;Résiliation;Oui;Oui;Oui;5;Non
+CNT-70455;19/07/2023;AG004;427;En Attente;;28,62;Téléphone;Facturation;Oui;Non;Oui;5;Non
+CNT-70456;26/06/2023;AG002;465;Non Résolu;4;25,81;Email;Demande d'information;Oui;Non;Oui;;Non
+CNT-70457;24/12/2023;AG007;390;Non Résolu;3;43,38;Chat;Facturation;Non;Oui;Non;4;Non
+CNT-70458;25/08/2023;AG003;282;En Attente;;38,61;Chat;Demande d'information;Oui;Oui;Oui;;Non
+CNT-70459;17/12/2023;AG005;128;Non Résolu;5;;Téléphone;Facturation;Oui;Non;Oui;;Non
+CNT-70460;24/04/2023;AG001;483;Résolu;4;25,16;Réseaux Sociaux;Relevé compteur;Non;Non;Non;7;Non
+CNT-70461;05/12/2023;AG001;273;En Attente;4;28,2;Réseaux Sociaux;Résiliation;Oui;Oui;Oui;0;Non
+CNT-70462;01/07/2023;AG007;290;Résolu;;40,94;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;;Non
+CNT-70463;03/04/2023;AG004;36;Non Résolu;;32,05;Téléphone;Facturation;Oui;Non;Oui;6;Non
+CNT-70464;10/02/2023;AG005;258;Résolu;4;38,27;Téléphone;Souscription contrat;Non;Non;Oui;8;Non
+CNT-70465;09/02/2023;AG007;279;Résolu;5;41,5;Téléphone;Demande d'information;Non;Non;Oui;7;Oui
+CNT-70466;29/06/2023;AG001;376;Résolu;5;31,39;Chat;Résiliation;Oui;Oui;Oui;6;Non
+CNT-70467;22/08/2023;AG004;258;Résolu;4;25,88;Réseaux Sociaux;Relevé compteur;Oui;Oui;Oui;9;Non
+CNT-70468;16/03/2023;AG005;;Résolu;4;39,09;Email;Résiliation;Non;Non;Oui;8;Non
+CNT-70469;08/10/2023;AG002;172;En Attente;4;46,77;Téléphone;Litige paiement;Oui;Non;Non Renseigné;5;Non
+CNT-70470;21/10/2023;AG006;185;Résolu;4;15,31;Chat;Demande d'information;Oui;Non;Oui;4;Non
+CNT-70471;24/04/2023;AG003;131;Non Résolu;3;37,32;Téléphone;Demande d'information;Oui;Non;Oui;;Oui
+CNT-70472;05/10/2023;AG002;271;Résolu;5;34,3;Téléphone;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-70473;05/09/2023;AG004;297;Non Résolu;5;31,69;Téléphone;Relevé compteur;Oui;Oui;Oui;9;Oui
+CNT-70474;13/11/2023;AG005;283;En Attente;3;33,68;Chat;Souscription contrat;Oui;Non;Oui;5;Non
+CNT-70475;06/07/2023;AG009;217;Résolu;4;36,12;Téléphone;Réclamation;Oui;Non;Non;;Non
+CNT-70476;13/09/2023;AG006;276;Résolu;;;Téléphone;Panne compteur;Oui;Non;Non Renseigné;8;Non
+CNT-70477;05/02/2023;AG005;283;En Attente;5;;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+CNT-70478;30/08/2023;AG001;262;Résolu;;13,46;Réseaux Sociaux;Demande d'information;Oui;Non;Oui;;Non
+CNT-70479;01/03/2023;AG007;276;Résolu;5;27,82;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+CNT-70480;12/03/2023;AG007;260;Résolu;4;24,12;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-70481;14/05/2023;AG007;435;En Attente;5;13,33;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-70482;02/06/2023;AG007;170;Résolu;3;19,88;Email;Souscription contrat;Oui;Non;Non Renseigné;;Non
+CNT-70483;20/03/2023;AG003;;Résolu;5;35,75;Réseaux Sociaux;Souscription contrat;Oui;Oui;Oui;2;Non
+CNT-70484;01/07/2023;AG009;58;Résolu;4;35,3;Chat;Résiliation;Oui;Non;Oui;6;Non
+CNT-70485;18/11/2023;AG001;346;Non Résolu;5;20,12;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;6;Non
+CNT-70486;03/05/2023;AG002;196;Non Résolu;3;15,51;Téléphone;Facturation;Oui;Non;Non Renseigné;10;Non
+CNT-70487;16/01/2023;AG007;329;Résolu;5;41,08;Chat;Résiliation;Oui;Non;Oui;;Non
+CNT-70488;08/12/2023;AG004;172;Non Résolu;4;13,77;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;;Oui
+CNT-70489;18/09/2023;AG009;317;Non Résolu;5;;Email;Facturation;Oui;Non;Oui;7;Non
+CNT-70490;12/05/2023;AG009;306;Résolu;5;22,42;Réseaux Sociaux;Souscription contrat;Oui;Oui;Oui;9;Non
+CNT-70491;14/05/2023;AG009;316;En Attente;5;35,99;Email;Réclamation;Oui;Non;Oui;6;Non
+CNT-70492;21/04/2023;AG009;262;Résolu;;9,77;Téléphone;Résiliation;Oui;Oui;Non Renseigné;6;Oui
+CNT-70493;20/01/2023;AG006;153;En Attente;2;25,06;Email;Réclamation;Oui;Non;Oui;;Non
+CNT-70494;13/10/2023;AG003;255;Résolu;5;26,29;Email;Relevé compteur;Oui;Oui;Oui;7;Non
+CNT-70495;15/03/2023;AG001;180;Résolu;5;27,22;Téléphone;Litige paiement;Oui;Non;Oui;;Non
+CNT-70496;13/03/2023;AG001;246;Non Résolu;;40,02;Chat;Panne compteur;Oui;Non;Oui;7;Non
+CNT-70497;05/05/2023;AG006;216;Non Résolu;4;24,13;Chat;Facturation;Oui;Non;Oui;;Non
+CNT-70498;03/12/2023;AG007;174;Résolu;3;26,35;Email;Facturation;Oui;Oui;Oui;0;Oui
+CNT-70499;20/06/2023;AG007;401;Résolu;4;;Téléphone;Demande d'information;Non;Non;Oui;;Non
+CNT-70500;23/03/2023;AG003;320;Non Résolu;4;13,46;Téléphone;Souscription contrat;Oui;Oui;Non;;Non
+CNT-70501;15/08/2023;AG008;268;En Attente;4;;Réseaux Sociaux;Résiliation;Non;Oui;Oui;6;Non
+CNT-70502;08/05/2023;AG008;269;Résolu;3;47,91;Chat;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70503;08/04/2023;AG002;220;Résolu;4;49,58;Email;Réclamation;Oui;Non;Oui;;Non
+CNT-70504;04/12/2023;AG003;;Non Résolu;4;35,44;Email;Relevé compteur;Oui;Oui;Oui;5;Non
+CNT-70505;25/02/2023;AG007;115;En Attente;5;31,78;Email;Résiliation;Oui;Non;Oui;2;Non
+CNT-70506;17/04/2023;AG001;350;Non Résolu;;39,6;Chat;Facturation;Oui;Non;Oui;2;Non
+CNT-70507;24/01/2023;AG008;292;Non Résolu;4;29,37;Chat;Relevé compteur;Oui;Non;Oui;7;Non
+CNT-70508;03/08/2023;AG006;474;Non Résolu;4;27,68;Chat;Facturation;Oui;Oui;Non;;Non
+CNT-70509;19/05/2023;AG009;201;Résolu;;27,77;Email;Changement d'offre;Oui;Non;Oui;;Non
+CNT-70510;05/06/2023;AG002;392;Résolu;4;20,43;Chat;Réclamation;Non;Non;Oui;5;Non
+CNT-70511;02/04/2023;AG001;255;En Attente;3;30,43;Email;Changement d'offre;Oui;Non;Non;7;Non
+CNT-70512;05/02/2023;AG001;184;En Attente;5;48,29;Réseaux Sociaux;Souscription contrat;Non;Non;Non;5;Non
+CNT-70513;28/07/2023;AG006;230;Résolu;4;44,04;Email;Facturation;Oui;Non;Oui;;Non
+CNT-70514;08/01/2023;AG002;280;Non Résolu;4;23,25;Téléphone;Déménagement;Non;Non;Non Renseigné;3;Non
+CNT-70515;30/12/2023;AG001;220;Résolu;5;49,79;Email;Résiliation;Oui;Non;Non Renseigné;7;Non
+CNT-70516;30/11/2023;AG008;156;Résolu;3;32,28;Réseaux Sociaux;Facturation;Oui;Non;Oui;;Non
+CNT-70517;19/04/2023;AG001;181;Non Résolu;4;43,24;Chat;Souscription contrat;Oui;Oui;Oui;10;Non
+CNT-70518;19/02/2023;AG002;321;Résolu;5;11,52;Chat;Souscription contrat;Non;Non;Oui;8;Non
+CNT-70519;20/04/2023;AG002;170;En Attente;4;46,68;Email;Réclamation;Oui;Non;Non Renseigné;;Non
+CNT-70520;19/01/2023;AG002;;Non Résolu;2;48,91;Chat;Litige paiement;Oui;Non;Non;8;Non
+CNT-70521;24/08/2023;AG001;207;Résolu;5;49,61;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70522;21/10/2023;AG004;173;Résolu;4;;Réseaux Sociaux;Facturation;Oui;Non;Non;;Non
+CNT-70523;18/06/2023;AG003;294;En Attente;5;29,75;Email;Changement d'offre;Oui;Non;Oui;9;Non
+CNT-70524;31/12/2023;AG009;406;Non Résolu;5;32,35;Téléphone;Réclamation;Oui;Non;Non;;Non
+CNT-70525;15/03/2023;AG003;556;En Attente;4;9,77;Email;Souscription contrat;Oui;Oui;Oui;9;Non
+CNT-70526;05/12/2023;AG008;361;Résolu;5;13,73;Chat;Résiliation;Oui;Non;Oui;;Non
+CNT-70527;08/10/2023;AG003;360;Non Résolu;2;32,38;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;7;Non
+CNT-70528;30/06/2023;AG008;441;Résolu;4;12,5;Chat;Déménagement;Oui;Non;Oui;7;Oui
+CNT-70529;15/03/2023;AG003;328;Résolu;3;34,69;Chat;Déménagement;Oui;Non;Oui;5;Non
+CNT-70530;10/03/2023;AG006;265;Non Résolu;5;40,71;Téléphone;Facturation;Oui;Non;Oui;7;Non
+CNT-70531;18/03/2023;AG009;78;Résolu;;37,93;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;10;Non
+CNT-70532;26/05/2023;AG009;282;Résolu;4;48,73;Email;Relevé compteur;Oui;Non;Oui;4;Non
+CNT-70533;15/05/2023;AG002;163;Résolu;4;15,43;Téléphone;Litige paiement;Oui;Oui;Oui;4;Non
+CNT-70534;13/11/2023;AG005;305;Résolu;4;40,73;Email;Litige paiement;Oui;Oui;Oui;8;Non
+CNT-70535;11/01/2023;AG008;338;Non Résolu;5;20,56;Chat;Résiliation;Oui;Non;Oui;8;Non
+CNT-70536;19/04/2023;AG002;312;Résolu;3;23,75;Téléphone;Réclamation;Oui;Non;Non;8;Oui
+CNT-70537;27/08/2023;AG007;232;Résolu;3;11,58;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;9;Non
+CNT-70538;08/06/2023;AG006;162;En Attente;5;41,66;Téléphone;Résiliation;Oui;Non;Oui;10;Non
+CNT-70539;29/12/2023;AG006;286;Non Résolu;4;35,31;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;;Non
+CNT-70540;17/06/2023;AG006;289;Non Résolu;3;13,6;Chat;Résiliation;Oui;Non;Oui;;Non
+CNT-70541;07/10/2023;AG002;299;Résolu;3;24,62;Réseaux Sociaux;Litige paiement;Oui;Non;Non;5;Non
+CNT-70542;16/09/2023;AG004;217;Non Résolu;5;48,87;Email;Déménagement;Oui;Non;Oui;;Non
+CNT-70543;28/08/2023;AG005;402;En Attente;3;39,17;Téléphone;Facturation;Non;Non;Non;;Non
+CNT-70544;06/12/2023;AG009;323;Résolu;4;30,99;Email;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-70545;21/09/2023;AG002;300;Non Résolu;4;20,85;Téléphone;Litige paiement;Oui;Non;Oui;7;Non
+CNT-70546;27/08/2023;AG003;127;En Attente;5;22,39;Chat;Changement d'offre;Oui;Non;Oui;3;Non
+CNT-70547;26/11/2023;AG007;134;Résolu;;18,96;Email;Relevé compteur;Oui;Non;Non;8;Non
+CNT-70548;11/01/2023;AG005;343;Non Résolu;5;21,59;Téléphone;Résiliation;Oui;Non;Oui;9;Non
+CNT-70549;24/12/2023;AG002;282;Non Résolu;3;16,65;Téléphone;Réclamation;Oui;Oui;Oui;;Non
+CNT-70550;22/11/2023;AG001;309;Résolu;5;47,16;Email;Panne compteur;Oui;Oui;Oui;7;Non
+CNT-70551;10/02/2023;AG004;329;Résolu;4;15,79;Chat;Litige paiement;Oui;Non;Non;;Non
+CNT-70552;03/12/2023;AG008;273;Non Résolu;5;34,19;Réseaux Sociaux;Résiliation;Oui;Non;Oui;8;Non
+CNT-70553;04/03/2023;AG008;145;Résolu;;28,69;Téléphone;Litige paiement;Non;Non;Non Renseigné;10;Non
+CNT-70554;12/08/2023;AG009;138;Résolu;5;28,66;Téléphone;Facturation;Oui;Non;Oui;;Non
+CNT-70555;16/10/2023;AG003;297;Résolu;5;35,98;Email;Changement d'offre;Oui;Non;Non Renseigné;9;Non
+CNT-70556;03/04/2023;AG009;443;Non Résolu;5;27,5;Téléphone;Déménagement;Non;Non;Non;;Non
+CNT-70557;03/01/2023;AG006;191;Résolu;2;22,68;Réseaux Sociaux;Panne compteur;Non;Non;Oui;;Non
+CNT-70558;11/10/2023;AG004;184;En Attente;4;9,95;Email;Réclamation;Oui;Non;Oui;5;Oui
+CNT-70559;03/04/2023;AG002;92;En Attente;3;36,41;Téléphone;Souscription contrat;Oui;Non;Non;9;Non
+CNT-70560;13/11/2023;AG002;218;Résolu;4;10,89;Téléphone;Souscription contrat;Oui;Non;Non;8;Non
+CNT-70561;12/12/2023;AG006;359;Non Résolu;;;Réseaux Sociaux;Relevé compteur;Non;Non;Oui;;Non
+CNT-70562;31/07/2023;AG008;228;En Attente;;39,28;Réseaux Sociaux;Panne compteur;yes;Non;Oui;;Non
+CNT-70563;04/03/2023;AG002;168;En Attente;5;21,05;Réseaux Sociaux;Panne compteur;Non;Non;Oui;;Non
+CNT-70564;18/04/2023;AG008;77;Résolu;4;13,83;Chat;Litige paiement;Oui;Oui;Oui;8;Non
+CNT-70565;21/11/2023;AG004;421;En Attente;4;22,54;Réseaux Sociaux;Litige paiement;Oui;Non;Oui;;Non
+CNT-70566;06/12/2023;AG001;333;Résolu;5;13,91;Chat;Litige paiement;Oui;Non;Oui;7;Non
+CNT-70567;17/09/2023;AG005;408;Résolu;5;15,7;Email;Changement d'offre;Non;Non;Oui;;Non
+CNT-70568;25/09/2023;AG009;;Résolu;3;23,33;Téléphone;Litige paiement;Oui;Oui;Oui;;Non
+CNT-70569;02/06/2023;AG009;310;Résolu;2;33,41;Email;Panne compteur;;Non;Oui;;Non
+CNT-70570;07/03/2023;AG007;207;Résolu;4;9,83;Téléphone;Facturation;Oui;Non;Non Renseigné;8;Oui
+CNT-70571;26/04/2023;AG009;168;Non Résolu;4;40,5;Téléphone;Relevé compteur;Non;Oui;Oui;;Non
+CNT-70572;30/01/2023;AG005;382;Résolu;;38,04;Chat;Panne compteur;Oui;Non;Oui;3;Non
+CNT-70573;09/09/2023;AG007;221;Non Résolu;4;;Chat;Litige paiement;Oui;Non;Non;;Oui
+CNT-70574;18/05/2023;AG009;206;En Attente;4;16,59;Téléphone;Relevé compteur;Oui;Non;Oui;3;Non
+CNT-70575;23/11/2023;AG005;342;Non Résolu;3;48,85;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;2;Non
+CNT-70576;02/06/2023;AG005;339;Résolu;3;;Email;Relevé compteur;Oui;Non;Non;9;Non
+CNT-70577;30/10/2023;AG006;311;Résolu;5;9,54;Chat;Facturation;Oui;Oui;Oui;;Non
+CNT-70578;17/06/2023;AG009;389;En Attente;4;12,2;Téléphone;Réclamation;Oui;Non;Non;9;Non
+CNT-70579;09/03/2023;AG008;182;Résolu;4;32,26;Téléphone;Résiliation;Oui;Non;Oui;8;Non
+CNT-70580;05/10/2023;AG002;228;Non Résolu;5;18,67;Réseaux Sociaux;Litige paiement;Oui;Non;Oui;;Non
+CNT-70581;26/03/2023;AG009;255;En Attente;5;20,68;Email;Déménagement;Oui;Non;Non;;Non
+CNT-70582;09/12/2023;AG007;288;En Attente;3;18,94;Chat;Déménagement;Non;Non;Oui;10;Non
+CNT-70583;14/03/2023;AG005;175;Résolu;5;20,38;Téléphone;Réclamation;Oui;Non;Oui;3;Non
+CNT-70584;16/11/2023;AG006;252;Non Résolu;4;25,08;Téléphone;Souscription contrat;Oui;Non;Oui;9;Non
+CNT-70585;06/05/2023;AG007;354;Résolu;1;38,68;Téléphone;Réclamation;Oui;Non;Non;;Non
+CNT-70586;30/08/2023;AG003;475;Résolu;4;22,06;Téléphone;Relevé compteur;Oui;Non;Oui;9;Non
+CNT-70587;28/08/2023;AG009;159;Non Résolu;5;40,67;Chat;Facturation;Oui;Non;Oui;9;Oui
+CNT-70588;06/07/2023;AG003;172;En Attente;5;48,26;Chat;Demande d'information;Oui;Non;Oui;;Oui
+CNT-70589;31/10/2023;AG006;185;En Attente;5;27,8;Téléphone;Réclamation;yes;Non;Oui;7;Non
+CNT-70590;21/06/2023;AG003;326;En Attente;2;20,66;Email;Demande d'information;Non;Non;Oui;9;Non
+CNT-70591;28/03/2023;AG001;165;Résolu;4;19,96;Téléphone;Relevé compteur;Non;Oui;Oui;7;Non
+CNT-70592;28/04/2023;AG001;248;Résolu;5;33,88;Email;Relevé compteur;Oui;Non;Oui;10;Non
+CNT-70593;19/06/2023;AG003;238;Résolu;5;;Email;Litige paiement;Oui;Non;Non;7;Non
+CNT-70594;25/02/2023;AG005;252;Résolu;4;34,72;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-70595;27/06/2023;AG007;154;Résolu;5;43,8;Téléphone;Facturation;Oui;Non;Oui;8;Non
+CNT-70596;27/03/2023;AG002;324;Non Résolu;2;18,63;Réseaux Sociaux;Réclamation;Oui;Non;Non;;Non
+CNT-70597;13/08/2023;AG001;204;En Attente;;36,75;Téléphone;Changement d'offre;Oui;Non;Oui;;Non
+CNT-70598;04/08/2023;AG006;162;Non Résolu;3;38,28;Téléphone;Facturation;Non;Non;Oui;9;Non
+CNT-70599;18/09/2023;AG003;242;Résolu;3;17,93;Email;Relevé compteur;Oui;Oui;Oui;8;Non
+CNT-70600;02/11/2023;AG006;212;Non Résolu;5;35,78;Chat;Déménagement;Oui;Oui;Oui;;Non
+CNT-70601;15/05/2023;AG007;151;Résolu;5;18,59;Email;Relevé compteur;Oui;Non;Oui;5;Non
+CNT-70602;08/04/2023;AG006;;Résolu;4;18,59;Chat;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70603;15/03/2023;AG005;158;Résolu;5;11,2;Téléphone;Relevé compteur;Oui;Oui;Oui;10;Non
+CNT-70604;01/07/2023;AG008;400;Non Résolu;5;38,33;Téléphone;Déménagement;Oui;Non;Oui;;Non
+CNT-70605;07/05/2023;AG009;225;Non Résolu;4;44,29;Email;Facturation;Oui;Non;Oui;;Non
+CNT-70606;19/06/2023;AG006;240;Résolu;;23,51;Chat;Résiliation;Oui;Non;Non;7;Non
+CNT-70607;07/06/2023;AG002;94;Résolu;5;23,59;Réseaux Sociaux;Résiliation;Oui;Oui;Non Renseigné;;Non
+CNT-70608;26/11/2023;AG009;308;Non Résolu;3;49,68;Téléphone;Souscription contrat;Oui;Non;Oui;8;Oui
+CNT-70609;06/04/2023;AG001;326;Résolu;5;34,15;Chat;Relevé compteur;Oui;Non;Non Renseigné;;Non
+CNT-70610;20/11/2023;AG003;172;En Attente;4;49,86;Téléphone;Facturation;Oui;Non;Oui;;Non
+CNT-70611;10/02/2023;AG005;252;Non Résolu;3;31,61;Téléphone;Changement d'offre;Oui;Non;Oui;;Non
+CNT-70612;01/01/2023;AG004;183;En Attente;2;31,46;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70613;05/09/2023;AG009;423;Résolu;5;47,65;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;10;Non
+CNT-70614;10/03/2023;AG005;208;Résolu;5;15,23;Téléphone;Panne compteur;Oui;Non;Oui;10;Non
+CNT-70615;10/05/2023;AG003;176;En Attente;1;41,48;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;9;Non
+CNT-70616;20/06/2023;AG007;273;Résolu;;25,66;Téléphone;Réclamation;Non;Non;Oui;;Non
+CNT-70617;26/08/2023;AG005;;Résolu;5;;Téléphone;Demande d'information;Oui;Oui;Oui;;Oui
+CNT-70618;10/11/2023;AG003;314;Résolu;5;18,74;Chat;Litige paiement;Non;Non;Oui;;Non
+CNT-70619;14/01/2023;AG004;420;Résolu;4;19,75;Réseaux Sociaux;Résiliation;Oui;Non;Oui;;Non
+CNT-70620;09/10/2023;AG007;;En Attente;;20,94;Chat;Facturation;yes;Non;Oui;4;Non
+CNT-70621;06/10/2023;AG007;230;En Attente;;42,11;Téléphone;Panne compteur;yes;Non;Oui;;Non
+CNT-70622;03/06/2023;AG002;474;Résolu;2;;Chat;Relevé compteur;Oui;Non;Oui;;Non
+CNT-70623;24/05/2023;AG009;234;Résolu;2;16,76;Réseaux Sociaux;Facturation;Oui;Non;Oui;;Non
+CNT-70624;04/02/2023;AG005;63;En Attente;3;30,58;Chat;Changement d'offre;Oui;Non;Oui;;Non
+CNT-70625;02/04/2023;AG005;296;Non Résolu;5;41,01;Email;Réclamation;Oui;Non;Non;;Non
+CNT-70626;28/07/2023;AG006;193;Résolu;4;;Chat;Souscription contrat;Oui;Non;Oui;2;Non
+CNT-70627;15/06/2023;AG006;383;Non Résolu;;37,47;Téléphone;Relevé compteur;Oui;Non;Oui;7;Non
+CNT-70628;24/04/2023;AG002;276;Résolu;5;15,08;Email;Souscription contrat;Non;Oui;Oui;6;Non
+CNT-70629;26/05/2023;AG003;316;Résolu;4;36,87;Téléphone;Changement d'offre;Oui;Non;Oui;10;Non
+CNT-70630;28/10/2023;AG003;20;En Attente;3;11,34;Réseaux Sociaux;Panne compteur;Oui;Oui;Oui;6;Oui
+CNT-70631;09/04/2023;AG007;294;En Attente;3;24,61;Chat;Demande d'information;Oui;Non;Oui;;Non
+CNT-70632;17/03/2023;AG007;336;Résolu;4;25,19;Téléphone;Souscription contrat;Oui;Non;Oui;9;Non
+CNT-70633;03/03/2023;AG002;255;Non Résolu;4;26,56;Réseaux Sociaux;Souscription contrat;Non;Non;Oui;8;Oui
+CNT-70634;02/07/2023;AG001;147;Résolu;5;15,91;Chat;Souscription contrat;Oui;Non;Oui;2;Non
+CNT-70635;21/04/2023;AG006;499;Résolu;4;9,76;Email;Panne compteur;Oui;Non;Oui;;Oui
+CNT-70636;06/09/2023;AG002;332;Non Résolu;2;13,36;Chat;Panne compteur;Oui;Non;Non;;Non
+CNT-70637;16/04/2023;AG009;278;Résolu;;17,65;Téléphone;Facturation;Non;Non;Oui;;Non
+CNT-70638;08/11/2023;AG006;376;En Attente;4;20,04;Téléphone;Déménagement;Oui;Non;Oui;8;Non
+CNT-70639;27/02/2023;AG009;210;Résolu;4;45,16;Chat;Changement d'offre;Oui;Oui;Oui;;Non
+CNT-70640;12/04/2023;AG003;454;Résolu;5;24,08;Réseaux Sociaux;Déménagement;Oui;Non;Oui;;Non
+CNT-70641;20/08/2023;AG008;334;En Attente;4;41,06;Réseaux Sociaux;Relevé compteur;Oui;Non;Non Renseigné;;Oui
+CNT-70642;10/05/2023;AG008;365;Résolu;4;39,95;Chat;Souscription contrat;;Non;Oui;;Non
+CNT-70643;03/06/2023;AG009;228;Non Résolu;3;30,2;Chat;Litige paiement;Oui;Non;Oui;2;Non
+CNT-70644;26/06/2023;AG006;155;Résolu;2;43,47;Email;Résiliation;Oui;Non;Oui;;Non
+CNT-70645;19/09/2023;AG007;280;En Attente;;41,27;Chat;Déménagement;Oui;Non;Non Renseigné;;Non
+CNT-70646;24/02/2023;AG002;214;Résolu;5;48,54;Téléphone;Facturation;Non;Non;Oui;6;Non
+CNT-70647;04/11/2023;AG005;468;Résolu;5;45,04;Téléphone;Changement d'offre;Oui;Oui;Oui;7;Non
+CNT-70648;02/06/2023;AG006;130;Résolu;5;34,34;Téléphone;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-70649;30/11/2023;AG002;405;Résolu;5;32,59;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;4;Non
+CNT-70650;05/08/2023;AG007;101;En Attente;;25,69;Téléphone;Panne compteur;Oui;Oui;Oui;2;Non
+CNT-70651;15/07/2023;AG009;173;En Attente;4;32,53;Téléphone;Relevé compteur;Oui;Non;Oui;5;Non
+CNT-70652;25/11/2023;AG003;99;Non Résolu;4;40,2;Téléphone;Relevé compteur;Non;Non;Oui;4;Non
+CNT-70653;22/02/2023;AG008;211;En Attente;4;30,79;Téléphone;Facturation;Oui;Oui;Oui;10;Non
+CNT-70654;18/06/2023;AG007;241;En Attente;5;45,28;Chat;Relevé compteur;Oui;Non;Oui;;Non
+CNT-70655;14/08/2023;AG007;199;En Attente;4;39,96;Réseaux Sociaux;Réclamation;;Oui;Oui;;Non
+CNT-70656;05/09/2023;AG002;304;En Attente;3;12,14;Chat;Résiliation;Non;Oui;Oui;;Oui
+CNT-70657;06/04/2023;AG007;242;En Attente;;48,41;Téléphone;Déménagement;Non;Non;Oui;7;Non
+CNT-70658;04/11/2023;AG006;64;Résolu;;31,1;Email;Demande d'information;Oui;Non;Oui;4;Non
+CNT-70659;09/01/2023;AG001;168;Non Résolu;4;41,67;Téléphone;Déménagement;Oui;Oui;Oui;;Non
+CNT-70660;10/05/2023;AG008;227;Non Résolu;2;26,62;Chat;Déménagement;Oui;Non;Oui;;Oui
+CNT-70661;06/09/2023;AG008;371;Non Résolu;4;15,08;Email;Relevé compteur;Oui;Non;Non;6;Non
+CNT-70662;18/01/2023;AG003;273;Résolu;3;11,64;Téléphone;Relevé compteur;Oui;Non;Oui;7;Oui
+CNT-70663;06/12/2023;AG006;215;Résolu;5;39,09;Téléphone;Déménagement;Oui;Non;Oui;8;Non
+CNT-70664;17/08/2023;AG005;120;Non Résolu;4;31,12;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-70665;04/07/2023;AG008;278;En Attente;3;16,5;Réseaux Sociaux;Résiliation;Oui;Non;Oui;;Non
+CNT-70666;28/11/2023;AG001;;En Attente;4;27,94;Téléphone;Réclamation;Oui;Non;Oui;4;Non
+CNT-70667;05/08/2023;AG007;231;Non Résolu;5;15,1;Réseaux Sociaux;Déménagement;Non;Oui;Oui;;Non
+CNT-70668;15/06/2023;AG003;176;Non Résolu;3;39,28;Réseaux Sociaux;Panne compteur;Oui;Oui;Oui;;Non
+CNT-70669;02/11/2023;AG009;319;Résolu;4;28,65;Téléphone;Souscription contrat;Non;Non;Oui;9;Non
+CNT-70670;14/02/2023;AG003;376;Non Résolu;4;38,05;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70671;14/12/2023;AG009;244;Non Résolu;4;10,35;Email;Déménagement;Oui;Non;Oui;;Non
+CNT-70672;13/03/2023;AG002;331;Résolu;3;9,75;Email;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70673;27/10/2023;AG007;220;En Attente;5;31,36;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-70674;22/06/2023;AG008;336;Résolu;3;40,18;Téléphone;Changement d'offre;Oui;Oui;Non Renseigné;;Non
+CNT-70675;11/02/2023;AG009;403;Résolu;1;38,75;Email;Déménagement;Oui;Non;Non;7;Non
+CNT-70676;19/04/2023;AG009;352;Résolu;4;35,47;Chat;Relevé compteur;Oui;Non;Non;5;Non
+CNT-70677;01/04/2023;AG001;315;Résolu;4;25,5;Téléphone;Facturation;Non;Non;Non;;Non
+CNT-70678;24/08/2023;AG004;440;En Attente;4;44,93;Email;Litige paiement;Oui;Non;Oui;10;Non
+CNT-70679;09/07/2023;AG009;236;Résolu;2;20,16;Chat;Déménagement;Oui;Non;Oui;;Non
+CNT-70680;01/12/2023;AG005;315;Résolu;;32,72;Chat;Réclamation;Non;Non;Non;;Non
+CNT-70681;03/03/2023;AG006;239;Résolu;5;16,34;Chat;Changement d'offre;Oui;Non;Oui;7;Non
+CNT-70682;01/07/2023;AG001;315;En Attente;5;17,53;Email;Litige paiement;Oui;Non;Non;;Non
+CNT-70683;30/04/2023;AG009;332;Résolu;1;44,92;Chat;Déménagement;Oui;Non;Oui;7;Non
+CNT-70684;01/03/2023;AG005;359;Non Résolu;3;22,52;Chat;Déménagement;Oui;Non;Oui;;Non
+CNT-70685;13/03/2023;AG005;266;Résolu;4;11,54;Téléphone;Déménagement;Oui;Non;Oui;;Non
+CNT-70686;15/06/2023;AG001;85;Résolu;4;38,32;Chat;Changement d'offre;Non;Non;Oui;2;Non
+CNT-70687;18/02/2023;AG002;241;En Attente;2;48,24;Chat;Déménagement;Oui;Non;Oui;;Non
+CNT-70688;05/12/2023;AG003;328;En Attente;4;27,57;Réseaux Sociaux;Facturation;;Non;Non Renseigné;;Non
+CNT-70689;10/10/2023;AG001;293;Non Résolu;5;40,64;Téléphone;Déménagement;Oui;Non;Oui;10;Non
+CNT-70690;02/12/2023;AG006;308;Résolu;4;29,82;Téléphone;Réclamation;Oui;Non;Oui;5;Non
+CNT-70691;26/10/2023;AG004;339;Résolu;4;34,66;Chat;Réclamation;Oui;Non;Oui;;Non
+CNT-70692;12/04/2023;AG003;155;En Attente;3;42,19;Email;Changement d'offre;Oui;Non;Oui;;Non
+CNT-70693;20/07/2023;AG006;344;Résolu;3;47,96;Téléphone;Demande d'information;Oui;Oui;Oui;8;Non
+CNT-70694;22/01/2023;AG004;446;Résolu;5;39,22;Chat;Réclamation;Non;Oui;Non;7;Non
+CNT-70695;10/11/2023;AG005;227;Résolu;;36,15;Téléphone;Souscription contrat;Oui;Non;Oui;3;Non
+CNT-70696;09/07/2023;AG001;361;Résolu;5;27,41;Chat;Demande d'information;Oui;Non;Oui;6;Non
+CNT-70697;07/05/2023;AG003;272;En Attente;4;11,51;Chat;Souscription contrat;Oui;Non;Oui;4;Non
+CNT-70698;13/05/2023;AG001;305;En Attente;4;43,82;Téléphone;Souscription contrat;Oui;Non;Non Renseigné;9;Non
+CNT-70699;30/09/2023;AG007;350;Résolu;3;14,68;Téléphone;Relevé compteur;Oui;Oui;Non Renseigné;8;Non
+CNT-70700;03/10/2023;AG008;293;Résolu;4;42,75;Réseaux Sociaux;Souscription contrat;Non;Non;Non;6;Non
+CNT-70701;15/03/2023;AG008;222;Résolu;5;38,06;Téléphone;Réclamation;Non;Non;Oui;;Non
+CNT-70702;28/09/2023;AG007;297;Résolu;5;45,45;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-70703;23/05/2023;AG009;176;Résolu;3;26,45;Réseaux Sociaux;Réclamation;Oui;Oui;Non Renseigné;4;Non
+CNT-70704;08/01/2023;AG007;121;Résolu;4;12,37;Réseaux Sociaux;Panne compteur;Non;Non;Oui;8;Non
+CNT-70705;30/05/2023;AG005;50;Non Résolu;3;45,57;Chat;Changement d'offre;Oui;Non;Oui;2;Non
+CNT-70706;24/06/2023;AG009;410;Non Résolu;4;17,31;Téléphone;Relevé compteur;Oui;Non;Non Renseigné;;Non
+CNT-70707;01/04/2023;AG002;311;Résolu;5;36,37;Email;Changement d'offre;Non;Oui;Non Renseigné;;Oui
+CNT-70708;10/01/2023;AG002;333;Non Résolu;3;43,06;Réseaux Sociaux;Changement d'offre;Oui;Non;Non;;Non
+CNT-70709;06/09/2023;AG006;287;Résolu;4;47,48;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-70710;24/10/2023;AG008;101;En Attente;;;Réseaux Sociaux;Réclamation;Oui;Non;Non;9;Non
+CNT-70711;25/02/2023;AG008;402;Résolu;4;11,32;Email;Résiliation;Oui;Non;Oui;;Non
+CNT-70712;03/08/2023;AG008;143;Non Résolu;2;28,18;Réseaux Sociaux;Panne compteur;Oui;Non;Non Renseigné;;Non
+CNT-70713;04/01/2023;AG002;380;Non Résolu;4;36,95;Téléphone;Facturation;Oui;Non;Oui;;Non
+CNT-70714;06/09/2023;AG009;42;Résolu;5;18,83;Réseaux Sociaux;Relevé compteur;Non;Non;Oui;10;Non
+CNT-70715;26/05/2023;AG003;164;Résolu;5;24,27;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;;Non
+CNT-70716;22/04/2023;AG009;156;Non Résolu;4;23,47;Téléphone;Résiliation;yes;Oui;Oui;;Non
+CNT-70717;09/08/2023;AG009;280;En Attente;5;31,43;Téléphone;Litige paiement;Oui;Non;Non;1;Non
+CNT-70718;20/09/2023;AG009;206;Résolu;3;47,98;Téléphone;Litige paiement;;Non;Oui;;Non
+CNT-70719;14/06/2023;AG002;263;En Attente;;20,29;Réseaux Sociaux;Litige paiement;Oui;Non;Oui;;Non
+CNT-70720;21/02/2023;AG001;153;Résolu;5;10,71;Téléphone;Réclamation;Oui;Oui;Oui;;Non
+CNT-70721;20/07/2023;AG005;283;Non Résolu;5;24,56;Chat;Litige paiement;Oui;Oui;Oui;4;Non
+CNT-70722;21/06/2023;AG001;173;Non Résolu;1;21,85;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;8;Non
+CNT-70723;16/04/2023;AG003;287;Non Résolu;5;26,13;Téléphone;Litige paiement;Oui;Non;Oui;5;Non
+CNT-70724;26/01/2023;AG001;262;Résolu;;12,49;Email;Litige paiement;Oui;Non;Oui;8;Non
+CNT-70725;14/02/2023;AG004;136;Non Résolu;5;10,91;Réseaux Sociaux;Relevé compteur;Oui;Oui;Oui;8;Non
+CNT-70726;19/03/2023;AG008;95;Résolu;;12,91;Téléphone;Litige paiement;Oui;Non;Oui;8;Non
+CNT-70727;27/11/2023;AG001;272;Résolu;2;26,38;Chat;Résiliation;Oui;Non;Oui;;Non
+CNT-70728;12/07/2023;AG004;282;Résolu;1;42,44;Téléphone;Réclamation;Oui;Non;Oui;9;Non
+CNT-70729;01/10/2023;AG005;302;Non Résolu;2;44,75;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-70730;05/04/2023;AG004;99;Résolu;5;16,45;Email;Changement d'offre;Oui;Non;Oui;;Non
+CNT-70731;23/02/2023;AG006;389;Résolu;3;37,15;Chat;Réclamation;Oui;Non;Oui;10;Non
+CNT-70732;11/11/2023;AG006;258;Résolu;4;38,67;Email;Souscription contrat;Oui;Non;Oui;3;Non
+CNT-70733;27/02/2023;AG001;277;En Attente;4;29,3;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-70734;21/06/2023;AG004;65;En Attente;;29,69;Email;Résiliation;Oui;Oui;Oui;6;Non
+CNT-70735;02/06/2023;AG006;112;Résolu;5;24,04;Email;Changement d'offre;Non;Non;Oui;5;Non
+CNT-70736;01/01/2023;AG001;314;Résolu;2;45,2;Chat;Changement d'offre;Oui;Oui;Oui;4;Non
+CNT-70737;04/04/2023;AG006;296;Non Résolu;5;18,34;Chat;Déménagement;Oui;Non;Oui;;Non
+CNT-70738;29/09/2023;AG003;230;En Attente;3;21,68;Email;Litige paiement;Oui;Non;Oui;10;Non
+CNT-70739;22/04/2023;AG001;334;Non Résolu;5;38,8;Téléphone;Réclamation;Oui;Non;Oui;1;Non
+CNT-70740;30/05/2023;AG009;231;Non Résolu;4;;Chat;Réclamation;Oui;Non;Non Renseigné;2;Non
+CNT-70741;29/05/2023;AG005;247;Non Résolu;;24,32;Téléphone;Changement d'offre;Oui;Non;Oui;9;Non
+CNT-70742;26/03/2023;AG009;166;Résolu;;34,81;Téléphone;Réclamation;Non;Non;Non;9;Oui
+CNT-70743;17/07/2023;AG007;379;En Attente;5;36,06;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;7;Non
+CNT-70744;11/06/2023;AG006;309;Non Résolu;4;26,74;Téléphone;Résiliation;Oui;Oui;Oui;8;Non
+CNT-70745;15/06/2023;AG008;288;Résolu;2;15,82;Réseaux Sociaux;Changement d'offre;yes;Non;Non;;Non
+CNT-70746;12/07/2023;AG004;191;Résolu;4;38,27;Chat;Litige paiement;Oui;Non;Non Renseigné;;Non
+CNT-70747;01/11/2023;AG006;77;Non Résolu;5;9,54;Email;Résiliation;Oui;Non;Oui;;Oui
+CNT-70748;19/06/2023;AG005;365;Non Résolu;4;36,51;Email;Résiliation;Oui;Non;Oui;;Non
+CNT-70749;10/02/2023;AG008;190;En Attente;;39;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70750;22/11/2023;AG005;315;Résolu;4;36,97;Chat;Litige paiement;Non;Non;Oui;9;Oui
+CNT-70751;24/04/2023;AG006;321;Non Résolu;3;27,03;Téléphone;Demande d'information;Oui;Non;Oui;9;Non
+CNT-70752;03/01/2023;AG002;264;Résolu;2;17,31;Téléphone;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-70753;12/01/2023;AG005;290;Résolu;4;21,01;Chat;Relevé compteur;Oui;Non;Oui;;Non
+CNT-70754;23/03/2023;AG007;307;Résolu;5;16,33;Téléphone;Facturation;;Non;Oui;;Oui
+CNT-70755;11/07/2023;AG005;281;Non Résolu;5;12,38;Chat;Réclamation;Oui;Oui;Oui;;Non
+CNT-70756;09/06/2023;AG002;181;Résolu;3;36,07;Téléphone;Résiliation;Oui;Non;Oui;6;Non
+CNT-70757;21/11/2023;AG002;116;En Attente;4;22,53;Chat;Résiliation;Oui;Non;Oui;;Non
+CNT-70758;06/04/2023;AG005;198;Résolu;;11,69;Téléphone;Facturation;Oui;Non;Non;4;Non
+CNT-70759;21/05/2023;AG004;226;Résolu;4;39,98;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-70760;04/04/2023;AG009;405;Non Résolu;4;18,24;Téléphone;Réclamation;Oui;Non;Non Renseigné;10;Non
+CNT-70761;07/08/2023;AG002;147;Résolu;5;18,85;Téléphone;Réclamation;Oui;Non;Oui;9;Non
+CNT-70762;06/07/2023;AG009;421;Résolu;3;40,52;Réseaux Sociaux;Litige paiement;Oui;Non;Oui;5;Non
+CNT-70763;24/09/2023;AG006;459;Résolu;4;40,07;Téléphone;Facturation;Oui;Non;Non;;Non
+CNT-70764;24/07/2023;AG005;201;Résolu;3;45,52;Email;Réclamation;Oui;Oui;Oui;7;Non
+CNT-70765;05/06/2023;AG001;454;Non Résolu;5;34,53;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;;Non
+CNT-70766;09/09/2023;AG009;249;Résolu;5;32,45;Email;Réclamation;yes;Non;Oui;9;Non
+CNT-70767;09/04/2023;AG003;233;Non Résolu;4;38,58;Téléphone;Litige paiement;Oui;Non;Non Renseigné;0;Non
+CNT-70768;07/01/2023;AG008;405;Non Résolu;4;20,59;Téléphone;Litige paiement;Oui;Oui;Oui;5;Non
+CNT-70769;27/07/2023;AG003;285;Non Résolu;5;16,54;Réseaux Sociaux;Souscription contrat;Oui;Oui;Oui;;Non
+CNT-70770;24/10/2023;AG005;;Non Résolu;5;37,23;Chat;Litige paiement;Oui;Non;Oui;6;Non
+CNT-70771;01/11/2023;AG003;197;En Attente;4;22,37;Email;Résiliation;Oui;Non;Oui;;Non
+CNT-70772;06/12/2023;AG008;205;Résolu;5;13,07;Téléphone;Facturation;Oui;Oui;Oui;8;Non
+CNT-70773;29/04/2023;AG007;273;Résolu;4;37,77;Email;Demande d'information;Oui;Non;Oui;;Non
+CNT-70774;26/02/2023;AG001;405;Résolu;1;43,1;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+CNT-70775;15/07/2023;AG006;148;Résolu;3;43,96;Chat;Panne compteur;Oui;Non;Oui;10;Non
+CNT-70776;24/09/2023;AG005;254;Non Résolu;5;39,09;Email;Relevé compteur;Oui;Non;Non Renseigné;7;Non
+CNT-70777;01/10/2023;AG005;130;Résolu;2;40,73;Email;Réclamation;Oui;Non;Non;;Non
+CNT-70778;24/10/2023;AG009;192;Résolu;4;16,89;Email;Relevé compteur;Non;Non;Oui;6;Non
+CNT-70779;05/04/2023;AG002;330;Résolu;5;33,19;Réseaux Sociaux;Facturation;Oui;Non;Oui;9;Non
+CNT-70780;27/01/2023;AG004;174;Résolu;4;13,29;Chat;Panne compteur;Oui;Non;Non Renseigné;;Oui
+CNT-70781;07/12/2023;AG005;373;Résolu;4;38,39;Chat;Réclamation;Oui;Oui;Oui;;Non
+CNT-70782;31/07/2023;AG009;174;En Attente;5;15,06;Chat;Relevé compteur;Oui;Non;Non;8;Non
+CNT-70783;15/12/2023;AG007;208;Résolu;4;21,91;Chat;Panne compteur;Oui;Non;Non Renseigné;7;Non
+CNT-70784;15/01/2023;AG006;85;Résolu;4;9,85;Téléphone;Litige paiement;Oui;Non;Oui;7;Non
+CNT-70785;02/06/2023;AG009;374;Non Résolu;1;12,97;Email;Litige paiement;Oui;Non;Non;;Non
+CNT-70786;17/07/2023;AG002;357;Non Résolu;;13,04;Téléphone;Résiliation;Oui;Non;Non;8;Non
+CNT-70787;31/01/2023;AG001;132;Résolu;;31,99;Chat;Changement d'offre;Oui;Non;Oui;6;Non
+CNT-70788;23/02/2023;AG009;233;Non Résolu;4;16,06;Réseaux Sociaux;Facturation;Non;Non;Oui;;Non
+CNT-70789;16/02/2023;AG004;225;Résolu;;11,76;Chat;Déménagement;Non;Oui;Oui;7;Non
+CNT-70790;08/01/2023;AG001;217;Résolu;4;43,07;Email;Changement d'offre;Oui;Non;Oui;;Non
+CNT-70791;14/12/2023;AG008;460;Résolu;3;13,05;Réseaux Sociaux;Facturation;yes;Non;Oui;9;Non
+CNT-70792;05/06/2023;AG003;215;Résolu;3;40,4;Email;Demande d'information;Oui;Non;Oui;5;Non
+CNT-70793;04/06/2023;AG001;179;Résolu;5;21,54;Réseaux Sociaux;Litige paiement;Oui;Non;Non;7;Non
+CNT-70794;30/10/2023;AG002;94;En Attente;1;12,29;Email;Demande d'information;Oui;Non;Oui;3;Non
+CNT-70795;08/12/2023;AG006;183;Résolu;4;;Téléphone;Réclamation;Oui;Non;Non;7;Non
+CNT-70796;23/05/2023;AG007;267;Résolu;;41,3;Chat;Réclamation;Oui;Non;Oui;;Non
+CNT-70797;04/05/2023;AG001;329;Non Résolu;2;35,99;Téléphone;Panne compteur;Oui;Oui;Oui;;Non
+CNT-70798;16/12/2023;AG004;171;Non Résolu;4;35,35;Téléphone;Litige paiement;;Non;Non;;Non
+CNT-70799;02/12/2023;AG001;263;Non Résolu;3;15,37;Chat;Résiliation;Non;Non;Non;10;Non
+CNT-70800;20/03/2023;AG009;440;Non Résolu;4;41,07;Email;Facturation;Non;Non;Non;8;Non
+CNT-70801;04/12/2023;AG002;140;Résolu;;37,09;Chat;Demande d'information;Non;Non;Oui;;Non
+CNT-70802;26/08/2023;AG005;170;Non Résolu;5;23,19;Réseaux Sociaux;Facturation;Non;Oui;Oui;;Non
+CNT-70803;01/07/2023;AG009;303;Résolu;5;10,76;Email;Résiliation;Oui;Oui;Oui;;Oui
+CNT-70804;06/06/2023;AG009;220;Résolu;5;;Chat;Souscription contrat;Oui;Non;Non;9;Non
+CNT-70805;23/07/2023;AG008;237;Résolu;4;28,5;Téléphone;Facturation;Oui;Non;Oui;;Non
+CNT-70806;30/12/2023;AG009;276;Résolu;;10,92;Email;Demande d'information;Oui;Non;Oui;4;Non
+CNT-70807;26/05/2023;AG008;373;Résolu;4;48,95;Téléphone;Réclamation;Oui;Non;Oui;9;Non
+CNT-70808;18/02/2023;AG007;243;En Attente;3;46,79;Téléphone;Déménagement;Oui;Non;Non;8;Oui
+CNT-70809;03/11/2023;AG006;274;Non Résolu;5;;Téléphone;Déménagement;Oui;Non;Oui;6;Non
+CNT-70810;03/09/2023;AG006;47;Non Résolu;5;27,9;Téléphone;Panne compteur;Non;Non;Non;10;Non
+CNT-70811;22/03/2023;AG004;178;Résolu;5;43,22;Réseaux Sociaux;Réclamation;Oui;Non;Oui;3;Non
+CNT-70812;21/09/2023;AG007;212;Résolu;4;48,26;Email;Réclamation;Oui;Non;Oui;8;Non
+CNT-70813;24/11/2023;AG008;277;Résolu;4;15,06;Réseaux Sociaux;Demande d'information;Oui;Non;Oui;;Non
+CNT-70814;22/08/2023;AG001;333;Résolu;4;16,69;Chat;Panne compteur;Oui;Non;Oui;4;Non
+CNT-70815;05/09/2023;AG009;392;Non Résolu;5;16;Chat;Changement d'offre;Oui;Non;Non;6;Oui
+CNT-70816;31/07/2023;AG003;237;Résolu;5;35,84;Téléphone;Facturation;Oui;Oui;Oui;;Non
+CNT-70817;13/12/2023;AG001;362;Résolu;5;29,67;Réseaux Sociaux;Déménagement;Non;Oui;Oui;;Non
+CNT-70818;19/05/2023;AG002;243;En Attente;;20,78;Email;Résiliation;Oui;Non;Non Renseigné;;Non
+CNT-70819;19/10/2023;AG001;436;En Attente;;23,9;Téléphone;Changement d'offre;Oui;Oui;Non;8;Non
+CNT-70820;24/08/2023;AG006;249;Non Résolu;3;17,75;Téléphone;Déménagement;Oui;Oui;Oui;7;Non
+CNT-70821;28/07/2023;AG003;373;Résolu;4;47,32;Téléphone;Déménagement;Non;Non;Oui;;Oui
+CNT-70822;05/04/2023;AG009;212;En Attente;5;37,39;Téléphone;Souscription contrat;Oui;Non;Oui;8;Non
+CNT-70823;23/10/2023;AG001;198;Non Résolu;3;40,97;Chat;Relevé compteur;Oui;Non;Oui;4;Non
+CNT-70824;03/06/2023;AG003;180;Résolu;5;21,59;Téléphone;Panne compteur;Non;Non;Non;8;Non
+CNT-70825;20/09/2023;AG009;174;Résolu;3;33,52;Téléphone;Relevé compteur;Non;Non;Oui;6;Non
+CNT-70826;12/04/2023;AG006;367;Non Résolu;4;29,54;Chat;Résiliation;;Non;Oui;9;Non
+CNT-70827;12/08/2023;AG003;329;En Attente;4;23,92;Réseaux Sociaux;Déménagement;Oui;Non;Oui;3;Non
+CNT-70828;21/11/2023;AG007;62;Non Résolu;5;48,36;Téléphone;Litige paiement;Oui;Non;Oui;2;Non
+CNT-70829;03/08/2023;AG004;139;Résolu;5;40,49;Téléphone;Facturation;Oui;Non;Oui;9;Oui
+CNT-70830;07/11/2023;AG009;209;Résolu;5;31,3;Téléphone;Souscription contrat;Non;Non;Non;;Non
+CNT-70831;24/10/2023;AG002;133;Non Résolu;2;34,13;Email;Relevé compteur;Non;Non;Oui;10;Non
+CNT-70832;25/08/2023;AG001;396;Résolu;5;40,47;Email;Déménagement;Oui;Non;Oui;8;Non
+CNT-70833;25/07/2023;AG004;245;Résolu;2;29,71;Réseaux Sociaux;Relevé compteur;Oui;Non;Non;8;Non
+CNT-70834;24/05/2023;AG007;303;En Attente;1;40,92;Chat;Souscription contrat;Oui;Oui;Non Renseigné;;Non
+CNT-70835;10/06/2023;AG003;321;Non Résolu;5;48,21;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70836;22/05/2023;AG003;168;En Attente;;;Chat;Réclamation;Oui;Non;Oui;0;Oui
+CNT-70837;07/10/2023;AG007;168;Résolu;;45,45;Téléphone;Demande d'information;Oui;Non;Non Renseigné;8;Non
+CNT-70838;05/09/2023;AG001;277;En Attente;4;14,93;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-70839;18/01/2023;AG006;201;Résolu;4;29,66;Téléphone;Demande d'information;Oui;Non;Non Renseigné;10;Non
+CNT-70840;20/09/2023;AG009;180;En Attente;4;22,24;Email;Panne compteur;Oui;Non;Non;;Non
+CNT-70841;03/11/2023;AG005;231;En Attente;3;15,93;Téléphone;Demande d'information;Oui;Non;Non Renseigné;;Non
+CNT-70842;01/04/2023;AG008;243;Résolu;3;22,69;Téléphone;Souscription contrat;Oui;Non;Oui;9;Non
+CNT-70843;31/07/2023;AG006;300;En Attente;;43,43;Téléphone;Déménagement;yes;Non;Oui;;Non
+CNT-70844;26/11/2023;AG001;393;Résolu;1;35,08;Email;Panne compteur;Oui;Oui;Oui;;Non
+CNT-70845;20/11/2023;AG008;353;Résolu;;47,79;Téléphone;Résiliation;Oui;Non;Oui;10;Non
+CNT-70846;18/05/2023;AG007;;Non Résolu;5;36,16;Chat;Demande d'information;Non;Non;Oui;7;Non
+CNT-70847;22/12/2023;AG008;378;Résolu;5;35,6;Email;Litige paiement;Oui;Non;Oui;8;Non
+CNT-70848;12/02/2023;AG008;264;Résolu;3;24,51;Chat;Panne compteur;Oui;Non;Non;8;Non
+CNT-70849;30/09/2023;AG002;315;Non Résolu;5;40,24;Téléphone;Souscription contrat;Oui;Non;Non;;Oui
+CNT-70850;18/11/2023;AG009;228;Résolu;5;39,19;Téléphone;Déménagement;Oui;Non;Non;8;Non
+CNT-70851;20/06/2023;AG001;261;Non Résolu;3;39,02;Téléphone;Facturation;Oui;Non;Oui;6;Oui
+CNT-70852;19/07/2023;AG004;236;Non Résolu;5;13,7;Chat;Facturation;Oui;Non;Non Renseigné;;Non
+CNT-70853;12/02/2023;AG004;109;En Attente;5;33,73;Téléphone;Réclamation;Oui;Non;Non;;Non
+CNT-70854;06/10/2023;AG008;111;En Attente;;42,91;Email;Panne compteur;Oui;Non;Oui;8;Non
+CNT-70855;08/05/2023;AG004;133;En Attente;1;9,39;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;7;Non
+CNT-70856;27/09/2023;AG004;292;Non Résolu;5;49,43;Chat;Changement d'offre;Non;Oui;Oui;7;Non
+CNT-70857;30/03/2023;AG009;396;Résolu;2;33,17;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70858;24/05/2023;AG007;378;Résolu;5;29,07;Téléphone;Litige paiement;Oui;Non;Non Renseigné;0;Non
+CNT-70859;13/03/2023;AG003;105;Non Résolu;5;48,65;Email;Changement d'offre;Oui;Non;Oui;6;Non
+CNT-70860;09/10/2023;AG004;316;Résolu;;38,06;Téléphone;Réclamation;Oui;Non;Oui;7;Non
+CNT-70861;27/03/2023;AG003;211;Résolu;5;48,47;Téléphone;Panne compteur;Non;Non;Oui;;Non
+CNT-70862;26/11/2023;AG004;178;Non Résolu;5;33,49;Téléphone;Changement d'offre;Oui;Non;Oui;;Non
+CNT-70863;04/09/2023;AG005;274;Non Résolu;5;37,15;Réseaux Sociaux;Résiliation;Oui;Non;Oui;10;Non
+CNT-70864;13/11/2023;AG005;209;Résolu;4;33,54;Téléphone;Facturation;Oui;Non;Oui;2;Non
+CNT-70865;29/09/2023;AG005;125;Résolu;;24,34;Email;Facturation;Oui;Non;Oui;8;Non
+CNT-70866;01/06/2023;AG004;164;Résolu;4;47,57;Téléphone;Souscription contrat;Non;Oui;Non;;Non
+CNT-70867;22/06/2023;AG007;227;Résolu;4;39,77;Chat;Souscription contrat;Oui;Non;Oui;8;Non
+CNT-70868;09/09/2023;AG008;392;Non Résolu;5;;Téléphone;Résiliation;Oui;Non;Oui;7;Non
+CNT-70869;12/11/2023;AG002;98;En Attente;5;27,56;Chat;Réclamation;Oui;Non;Oui;;Non
+CNT-70870;21/02/2023;AG007;221;En Attente;4;15,31;Chat;Facturation;Oui;Non;Oui;10;Non
+CNT-70871;23/01/2023;AG009;403;Non Résolu;3;49,03;Chat;Souscription contrat;Oui;Non;Non Renseigné;3;Non
+CNT-70872;07/01/2023;AG005;340;Non Résolu;4;14,87;Téléphone;Relevé compteur;Oui;Oui;Oui;3;Non
+CNT-70873;17/01/2023;AG005;164;Non Résolu;;22,49;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-70874;07/01/2023;AG001;125;En Attente;4;27,45;Réseaux Sociaux;Déménagement;Oui;Non;Oui;8;Non
+CNT-70875;10/12/2023;AG001;234;Non Résolu;3;15,44;Chat;Panne compteur;Oui;Non;Oui;9;Non
+CNT-70876;03/08/2023;AG002;453;Résolu;3;11,56;Email;Déménagement;Oui;Non;Non Renseigné;;Non
+CNT-70877;22/11/2023;AG004;329;Non Résolu;3;44,72;Email;Relevé compteur;Oui;Non;Non;7;Oui
+CNT-70878;09/01/2023;AG006;204;Résolu;4;36,12;Email;Demande d'information;Non;Non;Oui;;Non
+CNT-70879;08/03/2023;AG005;196;Résolu;3;28,22;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;5;Non
+CNT-70880;29/12/2023;AG002;151;Résolu;3;42,04;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;8;Non
+CNT-70881;26/06/2023;AG004;259;Non Résolu;5;34,3;Réseaux Sociaux;Litige paiement;Oui;Non;Oui;9;Non
+CNT-70882;19/07/2023;AG006;226;Résolu;4;42,23;Email;Réclamation;Non;Oui;Non Renseigné;6;Non
+CNT-70883;09/01/2023;AG003;163;Non Résolu;;32,3;Téléphone;Résiliation;Oui;Non;Oui;8;Non
+CNT-70884;29/05/2023;AG004;232;En Attente;4;18,95;Email;Déménagement;Oui;Non;Oui;;Non
+CNT-70885;12/08/2023;AG002;176;Résolu;3;30,22;Email;Souscription contrat;Oui;Non;Oui;7;Non
+CNT-70886;17/07/2023;AG008;238;Résolu;4;26,77;Email;Facturation;Oui;Non;Oui;5;Non
+CNT-70887;14/11/2023;AG001;377;Résolu;4;46,12;Email;Réclamation;Oui;Non;Non;0;Non
+CNT-70888;17/11/2023;AG001;425;Résolu;1;19,74;Téléphone;Relevé compteur;Oui;Non;Oui;8;Non
+CNT-70889;04/05/2023;AG009;450;Résolu;5;;Réseaux Sociaux;Réclamation;Oui;Oui;Oui;;Oui
+CNT-70890;28/08/2023;AG002;393;Non Résolu;4;25,27;Téléphone;Relevé compteur;Oui;Non;Oui;;Non
+CNT-70891;11/01/2023;AG007;448;En Attente;5;49,62;Chat;Panne compteur;Oui;Non;Oui;9;Non
+CNT-70892;14/08/2023;AG001;293;En Attente;;31,03;Téléphone;Souscription contrat;Non;Non;Oui;;Non
+CNT-70893;21/03/2023;AG009;310;Résolu;2;27,94;Téléphone;Litige paiement;Oui;Non;Non;6;Non
+CNT-70894;12/10/2023;AG002;202;Non Résolu;3;40,73;Réseaux Sociaux;Souscription contrat;Non;Non;Oui;9;Non
+CNT-70895;27/01/2023;AG002;166;En Attente;5;27,6;Réseaux Sociaux;Réclamation;Oui;Non;Oui;6;Non
+CNT-70896;12/05/2023;AG002;480;Résolu;;30,19;Téléphone;Litige paiement;Oui;Oui;Non Renseigné;8;Non
+CNT-70897;23/07/2023;AG001;272;Non Résolu;5;45,46;Téléphone;Réclamation;Oui;Non;Non;9;Non
+CNT-70898;04/02/2023;AG009;156;En Attente;5;39,07;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;7;Non
+CNT-70899;29/12/2023;AG008;407;Non Résolu;;25,62;Téléphone;Réclamation;Non;Non;Oui;;Non
+CNT-70900;08/09/2023;AG004;389;Résolu;;31,48;Chat;Changement d'offre;Oui;Oui;Oui;9;Oui
+CNT-70901;02/08/2023;AG008;321;En Attente;2;31,12;Chat;Panne compteur;;Oui;Oui;;Non
+CNT-70902;28/01/2023;AG008;242;En Attente;;31,38;Chat;Relevé compteur;Oui;Non;Oui;;Non
+CNT-70903;23/02/2023;AG006;179;Résolu;5;27,94;Chat;Souscription contrat;Oui;Oui;Oui;5;Non
+CNT-70904;11/08/2023;AG006;;Résolu;;38,41;Téléphone;Litige paiement;Oui;Non;Oui;7;Non
+CNT-70905;10/04/2023;AG002;373;Résolu;4;25,21;Chat;Réclamation;Oui;Non;Oui;6;Non
+CNT-70906;12/08/2023;AG004;189;Résolu;3;11,91;Email;Résiliation;Oui;Non;Oui;0;Non
+CNT-70907;22/12/2023;AG005;140;Non Résolu;4;22,6;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70908;09/05/2023;AG005;319;Résolu;3;21,85;Email;Résiliation;Oui;Oui;Oui;5;Non
+CNT-70909;12/05/2023;AG008;254;Résolu;3;46;Chat;Réclamation;Oui;Non;Non Renseigné;1;Oui
+CNT-70910;01/11/2023;AG006;193;En Attente;5;30,28;Réseaux Sociaux;Litige paiement;Oui;Non;Non;;Non
+CNT-70911;05/03/2023;AG007;201;Résolu;1;36,57;Email;Déménagement;Non;Oui;Non Renseigné;;Non
+CNT-70912;08/08/2023;AG008;61;Non Résolu;4;38,22;Chat;Facturation;Oui;Non;Oui;7;Oui
+CNT-70913;22/03/2023;AG002;207;Résolu;5;29,96;Chat;Réclamation;Oui;Non;Oui;8;Non
+CNT-70914;11/03/2023;AG003;362;Résolu;;40,98;Email;Réclamation;Oui;Non;Non;;Non
+CNT-70915;23/09/2023;AG005;167;En Attente;4;48,49;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-70916;03/11/2023;AG002;501;Résolu;5;22,73;Réseaux Sociaux;Changement d'offre;Oui;Non;Non;8;Non
+CNT-70917;21/01/2023;AG007;256;En Attente;5;36,81;Téléphone;Souscription contrat;yes;Non;Oui;9;Non
+CNT-70918;06/01/2023;AG003;20;Résolu;1;44,07;Email;Résiliation;Oui;Non;Oui;9;Non
+CNT-70919;16/04/2023;AG002;119;Résolu;5;11,06;Email;Facturation;Non;Oui;Oui;6;Non
+CNT-70920;07/07/2023;AG002;;En Attente;4;23,83;Téléphone;Litige paiement;Oui;Non;Oui;;Non
+CNT-70921;29/07/2023;AG004;471;Non Résolu;2;49,76;Chat;Changement d'offre;Oui;Non;Oui;7;Non
+CNT-70922;17/12/2023;AG002;281;En Attente;5;36,95;Téléphone;Panne compteur;Non;Non;Oui;;Non
+CNT-70923;14/07/2023;AG001;167;Résolu;3;47,31;Email;Résiliation;Oui;Non;Non Renseigné;8;Non
+CNT-70924;25/04/2023;AG004;322;Non Résolu;5;13,79;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70925;12/02/2023;AG006;380;Non Résolu;1;;Chat;Relevé compteur;Oui;Oui;Oui;;Non
+CNT-70926;13/09/2023;AG003;162;En Attente;3;45,13;Téléphone;Facturation;yes;Non;Oui;7;Non
+CNT-70927;14/02/2023;AG003;225;En Attente;3;39,73;Email;Souscription contrat;Non;Non;Oui;;Non
+CNT-70928;09/05/2023;AG006;;Non Résolu;4;29,79;Chat;Relevé compteur;Oui;Non;Non;;Non
+CNT-70929;20/10/2023;AG003;383;En Attente;;15,15;Téléphone;Réclamation;Oui;Oui;Oui;9;Non
+CNT-70930;30/07/2023;AG006;174;En Attente;4;38,72;Réseaux Sociaux;Souscription contrat;Non;Non;Oui;;Non
+CNT-70931;01/06/2023;AG003;220;Non Résolu;;15,57;Chat;Réclamation;Oui;Non;Oui;;Non
+CNT-70932;23/02/2023;AG005;365;Non Résolu;5;27,83;Téléphone;Réclamation;Non;Non;Oui;9;Non
+CNT-70933;08/10/2023;AG006;370;En Attente;3;14,54;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-70934;06/01/2023;AG006;146;Résolu;5;37,72;Chat;Panne compteur;Oui;Non;Oui;;Non
+CNT-70935;07/10/2023;AG005;143;Non Résolu;4;13,66;Téléphone;Résiliation;Oui;Non;Oui;10;Non
+CNT-70936;21/07/2023;AG002;311;Résolu;2;16,64;Email;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70937;03/06/2023;AG009;325;En Attente;4;38,49;Téléphone;Panne compteur;;Oui;Non;9;Non
+CNT-70938;17/07/2023;AG007;378;En Attente;;16,75;Chat;Souscription contrat;Oui;Oui;Non;6;Non
+CNT-70939;27/02/2023;AG001;340;Résolu;2;15,46;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-70940;16/12/2023;AG004;194;Résolu;5;41,54;Téléphone;Facturation;Oui;Non;Oui;7;Non
+CNT-70941;15/09/2023;AG009;130;Résolu;3;39,25;Email;Litige paiement;Oui;Non;Oui;;Non
+CNT-70942;03/12/2023;AG003;167;Non Résolu;1;31,42;Téléphone;Changement d'offre;Oui;Non;Oui;;Non
+CNT-70943;14/02/2023;AG008;136;Non Résolu;4;13,2;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;;Non
+CNT-70944;23/10/2023;AG002;121;En Attente;3;34,94;Téléphone;Résiliation;Non;Non;Non Renseigné;;Non
+CNT-70945;07/05/2023;AG006;372;Résolu;4;43,19;Téléphone;Panne compteur;Oui;Non;Non Renseigné;;Non
+CNT-70946;05/11/2023;AG005;340;En Attente;;17,52;Téléphone;Réclamation;Oui;Non;Non;9;Non
+CNT-70947;15/04/2023;AG006;265;En Attente;3;33,79;Téléphone;Changement d'offre;Oui;Non;Non;7;Non
+CNT-70948;05/05/2023;AG003;399;Résolu;4;33,84;Téléphone;Facturation;yes;Non;Oui;2;Non
+CNT-70949;08/04/2023;AG001;211;Résolu;;29,28;Téléphone;Litige paiement;Oui;Non;Oui;7;Non
+CNT-70950;04/03/2023;AG002;237;Résolu;3;18,02;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;8;Non
+CNT-70951;31/05/2023;AG001;333;Non Résolu;4;33,93;Téléphone;Résiliation;Oui;Oui;Oui;5;Non
+CNT-70952;18/09/2023;AG006;160;Non Résolu;1;;Téléphone;Résiliation;Oui;Non;Oui;9;Non
+CNT-70953;09/12/2023;AG007;463;Non Résolu;4;28,95;Téléphone;Réclamation;Non;Non;Oui;8;Non
+CNT-70954;24/01/2023;AG008;238;En Attente;2;49;Chat;Changement d'offre;Oui;Non;Oui;;Non
+CNT-70955;30/03/2023;AG003;231;Non Résolu;4;38,79;Téléphone;Panne compteur;Oui;Oui;Oui;6;Oui
+CNT-70956;25/02/2023;AG004;235;En Attente;5;39,42;Chat;Demande d'information;Oui;Non;Oui;;Non
+CNT-70957;29/01/2023;AG003;312;Résolu;5;38,27;Email;Panne compteur;Oui;Non;Non Renseigné;4;Non
+CNT-70958;20/02/2023;AG004;304;En Attente;5;34,72;Chat;Déménagement;Oui;Non;Oui;5;Non
+CNT-70959;14/12/2023;AG005;79;En Attente;4;28,73;Email;Facturation;Oui;Non;Oui;8;Non
+CNT-70960;08/03/2023;AG009;297;Non Résolu;3;43,87;Téléphone;Déménagement;Non;Non;Non Renseigné;;Non
+CNT-70961;12/09/2023;AG007;296;Non Résolu;5;41,94;Téléphone;Relevé compteur;Oui;Non;Oui;6;Non
+CNT-70962;18/03/2023;AG001;21;En Attente;4;43,09;Téléphone;Résiliation;Non;Non;Oui;7;Non
+CNT-70963;23/03/2023;AG006;236;Résolu;4;29,1;Réseaux Sociaux;Déménagement;yes;Non;Oui;;Non
+CNT-70964;28/07/2023;AG003;264;En Attente;4;14,82;Chat;Facturation;Oui;Non;Oui;9;Non
+CNT-70965;11/01/2023;AG009;95;Non Résolu;;37,36;Téléphone;Facturation;Oui;Non;Oui;10;Non
+CNT-70966;22/09/2023;AG006;138;Résolu;5;48,22;Téléphone;Changement d'offre;Oui;Non;Oui;;Non
+CNT-70967;03/08/2023;AG007;;Résolu;4;40,85;Téléphone;Changement d'offre;Oui;Non;Oui;9;Non
+CNT-70968;01/12/2023;AG002;314;Résolu;5;43,41;Téléphone;Facturation;Oui;Oui;Oui;8;Non
+CNT-70969;25/10/2023;AG009;385;Résolu;4;40,13;Téléphone;Changement d'offre;yes;Non;Oui;8;Non
+CNT-70970;11/09/2023;AG005;307;Résolu;3;16,86;Email;Souscription contrat;Non;Non;Non;;Non
+CNT-70971;22/05/2023;AG002;270;Résolu;4;47,68;Téléphone;Demande d'information;Oui;Non;Non;8;Non
+CNT-70972;15/06/2023;AG007;329;Non Résolu;5;14,03;Chat;Panne compteur;yes;Non;Oui;;Non
+CNT-70973;30/08/2023;AG003;18;Non Résolu;4;31,14;Chat;Panne compteur;Oui;Non;Oui;7;Non
+CNT-70974;14/05/2023;AG003;376;En Attente;4;;Téléphone;Réclamation;Oui;Oui;Non;;Non
+CNT-70975;24/09/2023;AG006;245;Résolu;5;17,87;Réseaux Sociaux;Réclamation;Oui;Oui;Non Renseigné;7;Non
+CNT-70976;24/04/2023;AG005;313;Résolu;1;47,83;Téléphone;Relevé compteur;Oui;Non;Non;9;Non
+CNT-70977;09/01/2023;AG002;260;En Attente;4;37,03;Email;Demande d'information;Oui;Non;Oui;;Non
+CNT-70978;11/09/2023;AG001;207;Non Résolu;5;38,59;Chat;Souscription contrat;Non;Non;Oui;7;Non
+CNT-70979;07/10/2023;AG004;308;Non Résolu;5;34,34;Téléphone;Relevé compteur;Oui;Non;Oui;;Non
+CNT-70980;29/08/2023;AG004;291;Résolu;1;14,81;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-70981;10/03/2023;AG007;204;Résolu;5;28,18;Chat;Litige paiement;Oui;Non;Non Renseigné;8;Non
+CNT-70982;23/01/2023;AG001;332;Non Résolu;5;37,97;Chat;Facturation;Oui;Non;Non;10;Non
+CNT-70983;22/09/2023;AG003;54;Non Résolu;5;37,07;Téléphone;Réclamation;Non;Non;Oui;;Non
+CNT-70984;23/09/2023;AG005;;Non Résolu;;25,31;Téléphone;Changement d'offre;Oui;Non;Non;8;Oui
+CNT-70985;26/02/2023;AG004;387;Non Résolu;5;44,34;Chat;Litige paiement;Non;Non;Oui;;Non
+CNT-70986;29/08/2023;AG008;140;Résolu;;39,48;Réseaux Sociaux;Demande d'information;Oui;Non;Oui;9;Non
+CNT-70987;15/07/2023;AG004;176;Résolu;5;23,75;Téléphone;Facturation;Oui;Non;Oui;10;Non
+CNT-70988;06/03/2023;AG003;215;Non Résolu;4;37,78;Téléphone;Relevé compteur;Oui;Non;Oui;;Oui
+CNT-70989;14/12/2023;AG002;350;Non Résolu;;10,85;Téléphone;Souscription contrat;yes;Non;Oui;7;Non
+CNT-70990;26/06/2023;AG001;102;Résolu;5;42,48;Chat;Changement d'offre;Oui;Non;Oui;9;Non
+CNT-70991;19/10/2023;AG005;145;Résolu;5;48,65;Réseaux Sociaux;Souscription contrat;Oui;Oui;Oui;0;Non
+CNT-70992;16/02/2023;AG007;389;Non Résolu;5;37,69;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-70993;05/12/2023;AG006;244;Résolu;4;48,66;Email;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-70994;01/01/2023;AG001;290;Résolu;5;9,67;Téléphone;Changement d'offre;Oui;Non;Oui;;Non
+CNT-70995;26/01/2023;AG007;440;Résolu;4;19,3;Chat;Déménagement;Oui;Non;Oui;;Non
+CNT-70996;02/07/2023;AG004;247;En Attente;1;29,65;Réseaux Sociaux;Réclamation;Oui;Non;Oui;;Non
+CNT-70997;18/09/2023;AG003;241;Non Résolu;4;43,75;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+CNT-70998;09/04/2023;AG001;292;Non Résolu;4;47,06;Chat;Résiliation;Oui;Non;Non;7;Non
+CNT-70999;08/08/2023;AG001;359;Non Résolu;2;29,5;Chat;Résiliation;Non;Non;Oui;5;Non
+CNT-71000;17/10/2023;AG007;248;En Attente;5;20,37;Chat;Déménagement;Oui;Oui;Oui;2;Non
+CNT-71001;02/07/2023;AG004;358;Résolu;5;46,57;Email;Résiliation;;Non;Oui;;Non
+CNT-71002;13/05/2023;AG001;267;Résolu;3;22,48;Chat;Facturation;Oui;Non;Oui;;Oui
+CNT-71003;14/11/2023;AG007;15;Non Résolu;2;36,18;Téléphone;Facturation;Oui;Non;Oui;10;Non
+CNT-71004;17/01/2023;AG001;153;Résolu;4;40,05;Réseaux Sociaux;Facturation;Oui;Non;Non;;Non
+CNT-71005;16/07/2023;AG007;216;En Attente;5;11,08;Téléphone;Changement d'offre;Oui;Non;Oui;2;Non
+CNT-71006;05/05/2023;AG007;80;Résolu;2;14,48;Réseaux Sociaux;Déménagement;Oui;Non;Oui;10;Non
+CNT-71007;19/04/2023;AG007;306;Résolu;5;40,64;Chat;Panne compteur;Oui;Non;Oui;10;Non
+CNT-71008;03/08/2023;AG004;192;Résolu;4;20,28;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-71009;30/08/2023;AG008;190;Résolu;;33,06;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;;Non
+CNT-71010;11/11/2023;AG008;219;En Attente;4;22,61;Chat;Réclamation;Oui;Non;Oui;7;Oui
+CNT-71011;03/12/2023;AG003;107;Résolu;5;45,25;Email;Litige paiement;Oui;Non;Oui;0;Non
+CNT-71012;29/03/2023;AG002;314;Non Résolu;2;22,86;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;8;Non
+CNT-71013;13/09/2023;AG007;384;Non Résolu;5;37,73;Chat;Demande d'information;Oui;Non;Oui;9;Non
+CNT-71014;14/12/2023;AG001;290;Résolu;;41,16;Téléphone;Litige paiement;Oui;Non;Oui;;Non
+CNT-71015;12/05/2023;AG007;372;Résolu;5;39,71;Téléphone;Facturation;Oui;Non;Oui;8;Non
+CNT-71016;06/06/2023;AG006;81;En Attente;4;39,58;Réseaux Sociaux;Panne compteur;Non;Non;Oui;8;Non
+CNT-71017;14/07/2023;AG008;328;En Attente;4;17,48;Email;Déménagement;Oui;Non;Oui;7;Non
+CNT-71018;22/08/2023;AG008;324;Non Résolu;3;42,71;Réseaux Sociaux;Réclamation;yes;Non;Oui;10;Non
+CNT-71019;10/03/2023;AG009;318;En Attente;3;28,39;Téléphone;Relevé compteur;Non;Non;Oui;5;Non
+CNT-71020;10/09/2023;AG002;311;Résolu;3;35,68;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-71021;21/09/2023;AG005;292;En Attente;4;14,91;Email;Déménagement;Oui;Oui;Non Renseigné;;Non
+CNT-71022;20/06/2023;AG009;457;Résolu;5;40,87;Chat;Réclamation;Oui;Non;Oui;4;Non
+CNT-71023;16/10/2023;AG004;120;Non Résolu;4;39,19;Chat;Facturation;Oui;Non;Oui;2;Non
+CNT-71024;26/12/2023;AG004;432;Résolu;4;45,49;Téléphone;Demande d'information;Oui;Oui;Non Renseigné;9;Non
+CNT-71025;07/09/2023;AG005;332;Résolu;;44,84;Téléphone;Litige paiement;Oui;Non;Oui;3;Non
+CNT-71026;22/12/2023;AG001;261;Résolu;5;43,06;Réseaux Sociaux;Résiliation;Oui;Non;Non;;Oui
+CNT-71027;25/07/2023;AG004;302;Non Résolu;;26,52;Chat;Changement d'offre;Oui;Oui;Non;;Non
+CNT-71028;04/12/2023;AG008;105;Résolu;3;42,55;Email;Litige paiement;Oui;Non;Oui;7;Non
+CNT-71029;01/03/2023;AG005;;Non Résolu;4;49,42;Email;Facturation;Oui;Non;Non;4;Non
+CNT-71030;14/06/2023;AG002;304;Non Résolu;4;48,35;Réseaux Sociaux;Réclamation;Non;Non;Oui;5;Non
+CNT-71031;15/10/2023;AG005;377;Résolu;4;19,34;Réseaux Sociaux;Réclamation;Oui;Non;Oui;;Non
+CNT-71032;04/10/2023;AG003;258;Résolu;4;12,5;Téléphone;Facturation;Oui;Non;Oui;5;Non
+CNT-71033;15/02/2023;AG005;181;En Attente;;19,73;Téléphone;Réclamation;Oui;Oui;Oui;;Non
+CNT-71034;15/12/2023;AG004;227;Résolu;4;13,35;Email;Réclamation;Non;Non;Oui;6;Non
+CNT-71035;16/04/2023;AG004;216;Non Résolu;;48,11;Réseaux Sociaux;Réclamation;Oui;Oui;Oui;;Non
+CNT-71036;11/07/2023;AG004;216;Résolu;4;45,84;Chat;Facturation;Oui;Non;Oui;;Non
+CNT-71037;04/08/2023;AG003;88;Résolu;5;36,77;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-71038;02/09/2023;AG008;409;Résolu;2;42,98;Chat;Panne compteur;Oui;Non;Non;5;Non
+CNT-71039;10/02/2023;AG009;346;Résolu;;44,98;Téléphone;Facturation;Oui;Non;Oui;2;Non
+CNT-71040;29/07/2023;AG005;340;Résolu;4;30,95;Email;Facturation;Oui;Non;Oui;3;Non
+CNT-71041;09/09/2023;AG008;289;En Attente;4;20,37;Téléphone;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-71042;30/05/2023;AG005;271;Résolu;5;46,15;Chat;Changement d'offre;Non;Non;Oui;;Non
+CNT-71043;19/09/2023;AG004;362;Résolu;;10,65;Email;Panne compteur;Non;Non;Oui;10;Non
+CNT-71044;13/05/2023;AG009;316;En Attente;5;19,24;Téléphone;Demande d'information;Oui;Non;Oui;8;Non
+CNT-71045;02/10/2023;AG003;247;Résolu;4;47,6;Téléphone;Déménagement;Oui;Non;Oui;;Non
+CNT-71046;26/04/2023;AG004;455;Résolu;5;44,65;Téléphone;Demande d'information;Oui;Non;Oui;8;Non
+CNT-71047;16/05/2023;AG005;344;Non Résolu;5;40,81;Téléphone;Facturation;Oui;Non;Oui;7;Non
+CNT-71048;05/02/2023;AG004;266;En Attente;4;37,11;Téléphone;Relevé compteur;Oui;Non;Non Renseigné;;Non
+CNT-71049;26/01/2023;AG008;;Résolu;;;Téléphone;Facturation;Oui;Oui;Non;5;Non
+CNT-71050;17/12/2023;AG001;245;En Attente;5;24,78;Téléphone;Déménagement;Oui;Oui;Oui;4;Non
+CNT-71051;06/04/2023;AG002;148;En Attente;5;41,09;Chat;Relevé compteur;Oui;Non;Non Renseigné;0;Oui
+CNT-71052;17/03/2023;AG009;190;Non Résolu;5;20,26;Réseaux Sociaux;Souscription contrat;Oui;Non;Non;8;Non
+CNT-71053;10/05/2023;AG004;80;En Attente;5;32,75;Email;Réclamation;Oui;Non;Oui;7;Non
+CNT-71054;26/07/2023;AG009;184;Résolu;4;18,66;Email;Demande d'information;Oui;Oui;Oui;7;Non
+CNT-71055;18/02/2023;AG003;318;Résolu;4;41,51;Téléphone;Déménagement;Oui;Oui;Oui;;Non
+CNT-71056;06/09/2023;AG007;246;Non Résolu;5;9,95;Chat;Résiliation;Oui;Non;Oui;;Non
+CNT-71057;31/03/2023;AG007;172;En Attente;5;23,22;Chat;Litige paiement;Oui;Non;Oui;;Non
+CNT-71058;09/01/2023;AG007;205;Non Résolu;5;45,42;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+CNT-71059;08/04/2023;AG003;286;Non Résolu;;;Téléphone;Facturation;Oui;Non;Oui;7;Non
+CNT-71060;11/07/2023;AG006;435;Résolu;5;22,62;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-71061;23/10/2023;AG004;136;Non Résolu;2;43,31;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-71062;29/04/2023;AG002;168;En Attente;;39,11;Email;Changement d'offre;Oui;Non;Oui;9;Non
+CNT-71063;30/11/2023;AG008;391;En Attente;;47,56;Email;Changement d'offre;Non;Non;Oui;1;Non
+CNT-71064;10/09/2023;AG003;232;Résolu;2;;Chat;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71065;02/03/2023;AG003;201;Résolu;4;28;Réseaux Sociaux;Litige paiement;Non;Oui;Non;;Non
+CNT-71066;10/02/2023;AG007;574;Résolu;4;21,33;Réseaux Sociaux;Relevé compteur;Non;Non;Oui;7;Non
+CNT-71067;17/03/2023;AG009;245;Résolu;4;36,36;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;10;Non
+CNT-71068;10/06/2023;AG005;359;Résolu;4;13,66;Chat;Changement d'offre;Oui;Non;Non Renseigné;10;Non
+CNT-71069;27/04/2023;AG007;445;Non Résolu;5;;Réseaux Sociaux;Résiliation;Oui;Non;Oui;8;Non
+CNT-71070;18/10/2023;AG002;40;Résolu;5;29,13;Téléphone;Résiliation;Oui;Non;Oui;10;Non
+CNT-71071;26/10/2023;AG004;;Non Résolu;4;46,8;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-71072;28/12/2023;AG006;226;Résolu;5;26,99;Réseaux Sociaux;Demande d'information;Oui;Non;Oui;;Non
+CNT-71073;07/03/2023;AG007;258;En Attente;2;42,65;Chat;Changement d'offre;Non;Non;Oui;9;Non
+CNT-71074;01/09/2023;AG009;267;Résolu;5;19,24;Email;Litige paiement;Oui;Non;Non;8;Non
+CNT-71075;11/07/2023;AG005;411;Résolu;;28,07;Email;Demande d'information;Oui;Oui;Oui;7;Non
+CNT-71076;29/05/2023;AG007;396;Résolu;5;29,15;Chat;Litige paiement;Oui;Non;Oui;9;Non
+CNT-71077;23/08/2023;AG005;361;Non Résolu;5;;Chat;Panne compteur;Oui;Non;Oui;8;Non
+CNT-71078;16/05/2023;AG008;370;Résolu;5;29,29;Téléphone;Demande d'information;Oui;Non;Non;6;Non
+CNT-71079;20/05/2023;AG007;208;Résolu;5;49,78;Téléphone;Litige paiement;Non;Non;Oui;;Non
+CNT-71080;24/09/2023;AG008;185;En Attente;5;36,99;Chat;Réclamation;Oui;Non;Non;4;Non
+CNT-71081;04/09/2023;AG002;252;En Attente;3;10,91;Email;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71082;01/02/2023;AG005;185;En Attente;5;39,32;Téléphone;Changement d'offre;Oui;Oui;Oui;6;Non
+CNT-71083;07/11/2023;AG002;132;Résolu;4;29,26;Email;Litige paiement;Oui;Non;Oui;;Non
+CNT-71084;02/04/2023;AG003;268;En Attente;5;25,87;Téléphone;Réclamation;Non;Non;Oui;9;Non
+CNT-71085;02/07/2023;AG003;226;Résolu;3;46,8;Téléphone;Résiliation;;Non;Oui;10;Non
+CNT-71086;26/08/2023;AG003;446;Résolu;5;17,97;Chat;Souscription contrat;Oui;Non;Oui;10;Oui
+CNT-71087;15/01/2023;AG007;259;Résolu;5;40,2;Réseaux Sociaux;Facturation;Oui;Non;Non Renseigné;7;Non
+CNT-71088;16/12/2023;AG004;310;Non Résolu;3;10,39;Chat;Résiliation;Oui;Non;Oui;;Non
+CNT-71089;02/09/2023;AG004;287;En Attente;5;27,35;Email;Facturation;Oui;Oui;Oui;6;Oui
+CNT-71090;11/07/2023;AG001;196;Résolu;5;25,83;Téléphone;Facturation;Oui;Non;Oui;;Non
+CNT-71091;08/01/2023;AG007;288;Résolu;;47,63;Téléphone;Changement d'offre;Oui;Non;Oui;1;Non
+CNT-71092;01/02/2023;AG004;288;Résolu;3;11,33;Chat;Réclamation;Oui;Non;Non;9;Non
+CNT-71093;26/08/2023;AG006;256;Résolu;2;38,43;Réseaux Sociaux;Résiliation;Non;Non;Non;;Non
+CNT-71094;03/08/2023;AG007;261;Résolu;;48,8;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-71095;08/07/2023;AG003;529;En Attente;4;14,32;Chat;Facturation;Oui;Non;Oui;;Non
+CNT-71096;24/09/2023;AG008;291;Résolu;;19,62;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;8;Non
+CNT-71097;05/06/2023;AG002;324;En Attente;;45,97;Email;Relevé compteur;Oui;Non;Non Renseigné;8;Non
+CNT-71098;26/09/2023;AG001;389;En Attente;5;24,94;Téléphone;Réclamation;Non;Non;Oui;10;Non
+CNT-71099;03/01/2023;AG008;230;En Attente;5;43,89;Téléphone;Relevé compteur;Oui;Non;Oui;8;Non
+CNT-71100;18/12/2023;AG004;164;Résolu;4;35,64;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-71101;07/08/2023;AG002;296;Non Résolu;5;16,85;Chat;Souscription contrat;;Non;Oui;6;Non
+CNT-71102;26/07/2023;AG001;140;Résolu;5;9,9;Téléphone;Demande d'information;Oui;Oui;Non Renseigné;7;Non
+CNT-71103;16/01/2023;AG001;228;En Attente;4;17,69;Téléphone;Déménagement;Oui;Non;Oui;10;Oui
+CNT-71104;09/02/2023;AG004;116;Résolu;4;29,56;Email;Réclamation;Oui;Non;Oui;8;Non
+CNT-71105;17/06/2023;AG008;542;Résolu;4;19,16;Téléphone;Panne compteur;Non;Non;Non;;Non
+CNT-71106;03/09/2023;AG004;374;Résolu;3;23,68;Email;Litige paiement;Oui;Non;Oui;9;Non
+CNT-71107;08/11/2023;AG008;363;Résolu;5;;Téléphone;Relevé compteur;Oui;Non;Oui;6;Non
+CNT-71108;07/07/2023;AG004;291;Non Résolu;4;38,23;Réseaux Sociaux;Demande d'information;Oui;Non;Oui;;Non
+CNT-71109;28/03/2023;AG007;344;En Attente;;20,37;Chat;Litige paiement;Oui;Non;Oui;;Non
+CNT-71110;22/01/2023;AG008;246;Non Résolu;5;24,34;Chat;Panne compteur;;Oui;Non;10;Oui
+CNT-71111;29/10/2023;AG003;271;Non Résolu;4;36,11;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;4;Non
+CNT-71112;24/12/2023;AG003;351;Non Résolu;5;14,75;Téléphone;Litige paiement;Oui;Non;Oui;;Non
+CNT-71113;18/06/2023;AG001;298;Non Résolu;5;26,63;Chat;Réclamation;Oui;Non;Oui;;Oui
+CNT-71114;28/06/2023;AG003;237;En Attente;4;9,62;Chat;Facturation;Oui;Oui;Oui;9;Non
+CNT-71115;23/04/2023;AG006;178;Non Résolu;5;45,83;Chat;Résiliation;Oui;Non;Non;8;Non
+CNT-71116;27/06/2023;AG009;378;En Attente;3;11,46;Email;Relevé compteur;Oui;Non;Oui;2;Non
+CNT-71117;24/05/2023;AG007;269;En Attente;4;18,33;Téléphone;Réclamation;Oui;Oui;Oui;8;Non
+CNT-71118;29/09/2023;AG006;192;Non Résolu;3;41,92;Email;Panne compteur;Oui;Non;Oui;4;Non
+CNT-71119;19/04/2023;AG008;116;Résolu;;24,85;Téléphone;Demande d'information;Oui;Non;Non;;Non
+CNT-71120;03/01/2023;AG009;271;En Attente;5;27,24;Téléphone;Litige paiement;Oui;Non;Oui;7;Oui
+CNT-71121;05/04/2023;AG005;241;Non Résolu;5;38,77;Email;Souscription contrat;Oui;Non;Oui;9;Non
+CNT-71122;02/08/2023;AG003;179;Non Résolu;5;14,86;Téléphone;Relevé compteur;Oui;Non;Oui;8;Non
+CNT-71123;22/03/2023;AG005;;Résolu;5;39,97;Email;Litige paiement;Oui;Non;Non;;Oui
+CNT-71124;04/11/2023;AG004;180;Résolu;4;12,17;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71125;22/10/2023;AG004;404;Résolu;4;9,5;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;10;Non
+CNT-71126;28/02/2023;AG003;216;Résolu;4;13,98;Téléphone;Réclamation;Non;Non;Oui;8;Non
+CNT-71127;02/08/2023;AG004;114;Non Résolu;4;13,28;Téléphone;Souscription contrat;Oui;Non;Oui;2;Non
+CNT-71128;21/08/2023;AG003;279;Résolu;4;47,31;Chat;Relevé compteur;Non;Non;Oui;7;Non
+CNT-71129;02/03/2023;AG008;349;Résolu;;23,18;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;;Non
+CNT-71130;09/08/2023;AG009;155;Résolu;5;34,35;Email;Résiliation;Oui;Non;Oui;6;Non
+CNT-71131;15/07/2023;AG008;322;En Attente;5;14,31;Réseaux Sociaux;Souscription contrat;Oui;Oui;Non Renseigné;;Non
+CNT-71132;13/10/2023;AG004;336;En Attente;3;22,69;Réseaux Sociaux;Déménagement;Oui;Non;Oui;;Non
+CNT-71133;20/06/2023;AG005;269;Résolu;5;22,44;Chat;Relevé compteur;Oui;Non;Oui;9;Non
+CNT-71134;21/11/2023;AG002;419;Résolu;4;32,2;Réseaux Sociaux;Déménagement;Oui;Non;Oui;7;Non
+CNT-71135;14/11/2023;AG007;183;Non Résolu;5;46,94;Réseaux Sociaux;Changement d'offre;Non;Non;Non Renseigné;;Non
+CNT-71136;05/05/2023;AG001;159;Résolu;3;29,93;Email;Déménagement;Non;Non;Oui;6;Non
+CNT-71137;23/09/2023;AG002;206;Résolu;;29,71;Email;Panne compteur;Oui;Non;Oui;7;Non
+CNT-71138;05/08/2023;AG003;;Non Résolu;;25,73;Chat;Réclamation;Oui;Non;Oui;7;Non
+CNT-71139;28/10/2023;AG003;221;En Attente;4;25,76;Réseaux Sociaux;Litige paiement;yes;Non;Oui;;Non
+CNT-71140;06/06/2023;AG003;174;Non Résolu;3;9,18;Email;Panne compteur;Oui;Non;Non Renseigné;0;Non
+CNT-71141;04/06/2023;AG001;215;En Attente;4;48,78;Réseaux Sociaux;Souscription contrat;Non;Non;Non Renseigné;;Non
+CNT-71142;29/06/2023;AG008;257;Résolu;5;49,8;Réseaux Sociaux;Litige paiement;Oui;Non;Non;10;Non
+CNT-71143;01/09/2023;AG003;329;Non Résolu;5;;Chat;Souscription contrat;Oui;Non;Non Renseigné;9;Non
+CNT-71144;09/04/2023;AG002;209;Résolu;4;13,83;Email;Résiliation;Non;Non;Oui;;Non
+CNT-71145;24/01/2023;AG005;280;En Attente;4;46,56;Téléphone;Litige paiement;Oui;Non;Oui;6;Non
+CNT-71146;16/04/2023;AG006;364;Résolu;5;45,83;Téléphone;Souscription contrat;Oui;Non;Oui;9;Non
+CNT-71147;15/05/2023;AG009;299;En Attente;;;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;9;Non
+CNT-71148;17/03/2023;AG004;198;En Attente;4;16,72;Chat;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71149;16/06/2023;AG009;252;Résolu;;11,73;Chat;Réclamation;Oui;Non;Oui;5;Non
+CNT-71150;22/03/2023;AG004;223;Non Résolu;4;13,85;Email;Facturation;Oui;Non;Non Renseigné;;Non
+CNT-71151;19/12/2023;AG006;133;Résolu;3;15,84;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;10;Non
+CNT-71152;13/10/2023;AG001;62;Non Résolu;4;28,17;Email;Réclamation;Oui;Non;Oui;6;Non
+CNT-71153;23/11/2023;AG007;193;Résolu;4;26,6;Email;Réclamation;;Non;Non;;Non
+CNT-71154;18/01/2023;AG005;314;En Attente;4;13,42;Email;Résiliation;Oui;Non;Oui;;Non
+CNT-71155;08/08/2023;AG003;278;En Attente;4;13,07;Réseaux Sociaux;Réclamation;Non;Non;Oui;6;Non
+CNT-71156;11/08/2023;AG007;262;Résolu;4;40,42;Téléphone;Panne compteur;Oui;Non;Non;8;Non
+CNT-71157;27/02/2023;AG006;378;En Attente;;17,83;Téléphone;Réclamation;Oui;Non;Oui;5;Non
+CNT-71158;21/04/2023;AG006;179;Résolu;5;45,71;Téléphone;Changement d'offre;Oui;Oui;Oui;;Non
+CNT-71159;17/10/2023;AG001;287;En Attente;4;41,49;Téléphone;Litige paiement;Oui;Non;Non Renseigné;;Non
+CNT-71160;31/01/2023;AG007;221;Non Résolu;;18,12;Réseaux Sociaux;Souscription contrat;Non;Non;Oui;;Non
+CNT-71161;12/08/2023;AG005;291;En Attente;5;32,66;Téléphone;Déménagement;Oui;Non;Oui;8;Non
+CNT-71162;24/01/2023;AG007;344;Résolu;;33,93;Email;Résiliation;Oui;Non;Non Renseigné;1;Non
+CNT-71163;12/01/2023;AG008;136;Résolu;4;13,43;Téléphone;Litige paiement;Oui;Non;Oui;7;Non
+CNT-71164;22/12/2023;AG008;319;Non Résolu;5;15,61;Téléphone;Panne compteur;Oui;Oui;Non;;Non
+CNT-71165;31/08/2023;AG006;282;Non Résolu;4;33,48;Téléphone;Souscription contrat;Oui;Non;Non Renseigné;9;Oui
+CNT-71166;02/01/2023;AG009;207;Non Résolu;4;20,77;Chat;Demande d'information;Oui;Non;Oui;6;Non
+CNT-71167;27/07/2023;AG006;54;Résolu;3;23,52;Chat;Litige paiement;Oui;Non;Oui;9;Non
+CNT-71168;18/04/2023;AG001;261;Non Résolu;;24,73;Téléphone;Litige paiement;Oui;Non;Oui;;Non
+CNT-71169;17/02/2023;AG001;495;En Attente;1;31,11;Email;Litige paiement;Oui;Non;Oui;8;Non
+CNT-71170;08/12/2023;AG006;108;Résolu;3;28,02;Chat;Résiliation;Oui;Non;Oui;;Non
+CNT-71171;15/01/2023;AG007;130;En Attente;4;20,32;Téléphone;Relevé compteur;Non;Non;Non Renseigné;5;Non
+CNT-71172;19/02/2023;AG006;282;En Attente;3;43,55;Téléphone;Facturation;Oui;Non;Oui;8;Non
+CNT-71173;20/03/2023;AG008;130;Résolu;5;15,27;Email;Panne compteur;yes;Oui;Oui;;Non
+CNT-71174;06/11/2023;AG002;329;En Attente;4;27,26;Téléphone;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-71175;22/04/2023;AG002;275;En Attente;4;;Email;Déménagement;Oui;Oui;Oui;10;Non
+CNT-71176;14/04/2023;AG007;328;Résolu;2;24,5;Réseaux Sociaux;Résiliation;Oui;Non;Oui;5;Non
+CNT-71177;07/06/2023;AG001;131;Résolu;5;34,68;Téléphone;Relevé compteur;yes;Non;Oui;6;Non
+CNT-71178;26/05/2023;AG004;351;Résolu;5;20,31;Téléphone;Déménagement;Oui;Non;Oui;0;Non
+CNT-71179;02/05/2023;AG008;108;Résolu;4;11,09;Chat;Souscription contrat;Non;Non;Oui;9;Non
+CNT-71180;18/02/2023;AG001;320;En Attente;5;14,16;Téléphone;Litige paiement;Oui;Non;Oui;;Non
+CNT-71181;01/01/2023;AG007;446;Résolu;5;16,76;Email;Panne compteur;Oui;Non;Oui;3;Non
+CNT-71182;01/12/2023;AG001;321;Résolu;3;16,09;Téléphone;Déménagement;Oui;Non;Oui;10;Non
+CNT-71183;29/08/2023;AG007;227;Résolu;4;46,84;Réseaux Sociaux;Déménagement;Oui;Non;Oui;5;Non
+CNT-71184;03/11/2023;AG008;441;Résolu;5;13,52;Email;Réclamation;Oui;Non;Non;9;Non
+CNT-71185;20/06/2023;AG001;279;Résolu;;20,03;Réseaux Sociaux;Résiliation;Oui;Oui;Oui;;Non
+CNT-71186;05/07/2023;AG002;166;Résolu;5;14,29;Email;Facturation;Oui;Non;Non Renseigné;8;Non
+CNT-71187;20/06/2023;AG005;197;Résolu;4;18,56;Email;Réclamation;Oui;Non;Oui;;Non
+CNT-71188;27/11/2023;AG003;194;En Attente;4;31,7;Réseaux Sociaux;Facturation;Oui;Non;Non;;Non
+CNT-71189;05/11/2023;AG001;469;Résolu;3;14,02;Chat;Facturation;Oui;Non;Non;7;Non
+CNT-71190;23/07/2023;AG006;319;Résolu;4;9,89;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;6;Non
+CNT-71191;08/12/2023;AG003;323;Résolu;5;24,72;Réseaux Sociaux;Facturation;Oui;Non;Oui;7;Oui
+CNT-71192;28/03/2023;AG009;;Résolu;4;18,69;Téléphone;Relevé compteur;Oui;Non;Non Renseigné;8;Non
+CNT-71193;29/05/2023;AG009;286;Résolu;4;27,71;Téléphone;Facturation;Non;Non;Oui;6;Non
+CNT-71194;23/11/2023;AG009;213;En Attente;;30,41;Téléphone;Panne compteur;Oui;Non;Non;;Non
+CNT-71195;03/01/2023;AG008;145;Résolu;4;11,19;Téléphone;Litige paiement;Oui;Non;Non;6;Non
+CNT-71196;09/04/2023;AG004;295;Résolu;;42,99;Email;Déménagement;Non;Non;Oui;8;Non
+CNT-71197;22/09/2023;AG004;438;Résolu;1;20,14;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71198;18/02/2023;AG005;290;En Attente;5;16,8;Téléphone;Déménagement;Oui;Oui;Oui;8;Non
+CNT-71199;02/04/2023;AG007;389;Non Résolu;5;36,76;Téléphone;Souscription contrat;Oui;Non;Non Renseigné;9;Non
+CNT-71200;29/10/2023;AG009;87;Résolu;5;37,03;Réseaux Sociaux;Changement d'offre;Non;Non;Oui;5;Non
+CNT-71201;23/01/2023;AG003;291;Non Résolu;5;49,15;Chat;Relevé compteur;;Non;Oui;;Non
+CNT-71202;26/09/2023;AG002;207;En Attente;5;31,22;Téléphone;Réclamation;yes;Non;Oui;;Non
+CNT-71203;06/06/2023;AG005;161;Résolu;5;15,98;Chat;Souscription contrat;Oui;Non;Oui;7;Oui
+CNT-71204;07/06/2023;AG004;410;Résolu;3;48,08;Email;Changement d'offre;Oui;Non;Non;0;Non
+CNT-71205;18/11/2023;AG005;219;Non Résolu;3;49,4;Chat;Réclamation;Oui;Non;Oui;10;Non
+CNT-71206;07/05/2023;AG001;319;Résolu;2;;Chat;Panne compteur;Oui;Non;Non Renseigné;;Non
+CNT-71207;12/07/2023;AG008;249;Résolu;4;10,45;Chat;Souscription contrat;Oui;Non;Oui;5;Non
+CNT-71208;16/04/2023;AG002;335;Résolu;4;19,23;Téléphone;Résiliation;Oui;Oui;Oui;9;Non
+CNT-71209;15/09/2023;AG005;389;Résolu;5;29,8;Email;Souscription contrat;Oui;Non;Non Renseigné;5;Non
+CNT-71210;08/11/2023;AG008;390;Résolu;5;;Chat;Panne compteur;Oui;Oui;Oui;;Non
+CNT-71211;05/07/2023;AG003;112;En Attente;2;15,51;Téléphone;Litige paiement;Oui;Non;Oui;9;Oui
+CNT-71212;03/07/2023;AG004;176;Non Résolu;4;29,63;Téléphone;Résiliation;yes;Non;Oui;;Non
+CNT-71213;14/07/2023;AG007;208;Non Résolu;3;;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+CNT-71214;29/04/2023;AG008;128;Résolu;5;39,06;Réseaux Sociaux;Résiliation;Oui;Non;Oui;5;Non
+CNT-71215;15/11/2023;AG001;257;En Attente;4;23,83;Téléphone;Facturation;Oui;Oui;Non Renseigné;8;Oui
+CNT-71216;14/08/2023;AG003;204;En Attente;4;32,11;Email;Réclamation;Oui;Oui;Oui;7;Non
+CNT-71217;31/03/2023;AG005;157;Non Résolu;4;38,79;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;8;Non
+CNT-71218;21/06/2023;AG004;531;Résolu;3;14,7;Chat;Changement d'offre;yes;Non;Oui;7;Oui
+CNT-71219;08/07/2023;AG005;67;En Attente;4;46,5;Téléphone;Demande d'information;Oui;Oui;Oui;9;Non
+CNT-71220;06/06/2023;AG003;280;En Attente;5;9,72;Téléphone;Déménagement;Oui;Non;Oui;;Non
+CNT-71221;07/05/2023;AG006;308;Non Résolu;4;31,02;Téléphone;Demande d'information;Oui;Non;Oui;8;Non
+CNT-71222;13/11/2023;AG002;384;Résolu;;25,69;Chat;Résiliation;Oui;Non;Oui;6;Non
+CNT-71223;09/03/2023;AG001;306;Non Résolu;4;22,11;Email;Souscription contrat;Oui;Non;Oui;;Non
+CNT-71224;29/05/2023;AG005;143;En Attente;;23,64;Téléphone;Souscription contrat;yes;Non;Non;7;Oui
+CNT-71225;13/06/2023;AG009;247;Résolu;4;44,16;Email;Déménagement;Oui;Non;Oui;8;Non
+CNT-71226;06/10/2023;AG006;234;Non Résolu;;49,88;Chat;Souscription contrat;Oui;Non;Oui;;Non
+CNT-71227;15/01/2023;AG002;162;Résolu;4;16,11;Téléphone;Facturation;yes;Non;Oui;;Non
+CNT-71228;25/08/2023;AG006;336;Résolu;4;40,48;Email;Demande d'information;Oui;Oui;Oui;7;Non
+CNT-71229;18/07/2023;AG005;383;Résolu;3;29,27;Email;Souscription contrat;Oui;Non;Oui;10;Non
+CNT-71230;22/04/2023;AG006;205;Résolu;5;27,44;Chat;Demande d'information;Non;Non;Oui;8;Non
+CNT-71231;19/12/2023;AG001;120;Résolu;4;46,78;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;6;Non
+CNT-71232;05/04/2023;AG005;201;Non Résolu;4;;Chat;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-71233;10/08/2023;AG009;267;Résolu;2;25,72;Réseaux Sociaux;Demande d'information;Oui;Non;Non Renseigné;7;Non
+CNT-71234;19/06/2023;AG007;306;En Attente;3;33,57;Chat;Facturation;Oui;Non;Oui;9;Non
+CNT-71235;06/03/2023;AG003;251;Résolu;5;35,06;Téléphone;Réclamation;Oui;Non;Oui;8;Non
+CNT-71236;07/10/2023;AG009;355;Non Résolu;5;35,04;Chat;Panne compteur;Oui;Non;Oui;8;Non
+CNT-71237;31/10/2023;AG006;335;Non Résolu;4;18,72;Téléphone;Déménagement;Oui;Non;Non;10;Non
+CNT-71238;15/03/2023;AG004;297;En Attente;3;39,42;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+CNT-71239;09/12/2023;AG003;320;Résolu;4;49,86;Chat;Demande d'information;Oui;Non;Oui;;Non
+CNT-71240;20/08/2023;AG009;309;Non Résolu;2;48,01;Téléphone;Facturation;;Non;Oui;10;Non
+CNT-71241;07/11/2023;AG006;305;Résolu;4;15,2;Chat;Réclamation;;Non;Oui;6;Non
+CNT-71242;06/06/2023;AG002;530;Résolu;4;22,5;Téléphone;Panne compteur;Oui;Oui;Non;;Non
+CNT-71243;27/12/2023;AG002;252;Résolu;3;43,42;Téléphone;Souscription contrat;Non;Non;Oui;2;Non
+CNT-71244;12/05/2023;AG007;339;En Attente;4;49,88;Téléphone;Déménagement;Oui;Non;Non Renseigné;;Non
+CNT-71245;17/07/2023;AG008;353;Non Résolu;2;19,63;Réseaux Sociaux;Résiliation;Non;Oui;Oui;8;Non
+CNT-71246;12/07/2023;AG002;296;Résolu;5;21,83;Chat;Résiliation;Oui;Non;Oui;;Non
+CNT-71247;22/05/2023;AG008;426;Résolu;2;15,58;Email;Réclamation;Oui;Oui;Oui;;Non
+CNT-71248;21/02/2023;AG006;281;Résolu;;42,82;Email;Souscription contrat;Oui;Non;Non Renseigné;;Non
+CNT-71249;26/12/2023;AG009;348;En Attente;5;;Réseaux Sociaux;Réclamation;Oui;Non;Non;;Non
+CNT-71250;22/07/2023;AG003;111;Résolu;5;22,84;Chat;Changement d'offre;yes;Non;Non Renseigné;7;Non
+CNT-71251;03/12/2023;AG001;284;Résolu;1;24,64;Chat;Réclamation;Non;Non;Oui;3;Non
+CNT-71252;27/09/2023;AG008;259;Résolu;4;48,52;Réseaux Sociaux;Panne compteur;Non;Oui;Oui;;Non
+CNT-71253;29/05/2023;AG006;276;Résolu;5;25,22;Réseaux Sociaux;Litige paiement;Non;Oui;Oui;7;Oui
+CNT-71254;20/04/2023;AG002;180;En Attente;3;20,74;Réseaux Sociaux;Panne compteur;Oui;Oui;Oui;;Oui
+CNT-71255;17/01/2023;AG008;268;Résolu;2;12,61;Réseaux Sociaux;Litige paiement;Oui;Non;Oui;;Oui
+CNT-71256;13/04/2023;AG001;286;Non Résolu;3;45,99;Téléphone;Réclamation;Oui;Oui;Non Renseigné;;Non
+CNT-71257;19/02/2023;AG004;365;Non Résolu;4;37,22;Téléphone;Litige paiement;Oui;Non;Oui;;Non
+CNT-71258;02/07/2023;AG003;261;Non Résolu;1;35,19;Téléphone;Changement d'offre;Oui;Non;Oui;;Non
+CNT-71259;31/05/2023;AG009;308;En Attente;5;32,63;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-71260;14/01/2023;AG002;381;En Attente;4;35,43;Email;Demande d'information;Oui;Non;Oui;3;Non
+CNT-71261;19/11/2023;AG002;254;Résolu;4;41,85;Téléphone;Litige paiement;Oui;Non;Oui;;Oui
+CNT-71262;24/03/2023;AG006;199;Non Résolu;4;35,66;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+CNT-71263;12/04/2023;AG003;316;Résolu;3;17,19;Réseaux Sociaux;Facturation;Oui;Non;Oui;10;Non
+CNT-71264;07/01/2023;AG009;435;En Attente;4;49,89;Email;Réclamation;Oui;Non;Non;7;Non
+CNT-71265;05/03/2023;AG001;342;Résolu;5;10,25;Chat;Litige paiement;Oui;Non;Oui;;Non
+CNT-71266;27/04/2023;AG003;379;Résolu;4;43,61;Chat;Déménagement;Oui;Oui;Oui;6;Non
+CNT-71267;26/04/2023;AG009;222;Non Résolu;4;39,22;Réseaux Sociaux;Facturation;Oui;Non;Oui;;Non
+CNT-71268;19/11/2023;AG004;229;Résolu;5;;Téléphone;Changement d'offre;Oui;Non;Oui;;Oui
+CNT-71269;08/03/2023;AG009;328;En Attente;5;12,61;Email;Litige paiement;Oui;Non;Oui;7;Non
+CNT-71270;02/08/2023;AG005;352;Résolu;5;22,93;Email;Souscription contrat;Oui;Non;Oui;10;Non
+CNT-71271;06/05/2023;AG005;366;Résolu;5;24,58;Email;Réclamation;Oui;Non;Oui;;Oui
+CNT-71272;05/05/2023;AG002;187;En Attente;1;10,6;Téléphone;Litige paiement;Oui;Oui;Oui;2;Non
+CNT-71273;25/01/2023;AG003;364;En Attente;3;39,45;Téléphone;Souscription contrat;Non;Non;Oui;0;Non
+CNT-71274;02/07/2023;AG001;381;En Attente;5;;Email;Litige paiement;Oui;Non;Oui;;Non
+CNT-71275;09/06/2023;AG005;167;Non Résolu;5;38,01;Téléphone;Résiliation;Oui;Oui;Oui;;Non
+CNT-71276;10/02/2023;AG002;411;Résolu;4;32,82;Téléphone;Relevé compteur;Oui;Non;Oui;6;Non
+CNT-71277;21/03/2023;AG005;278;Non Résolu;1;20,75;Réseaux Sociaux;Résiliation;Oui;Non;Oui;5;Non
+CNT-71278;03/06/2023;AG004;319;Non Résolu;5;9,52;Email;Déménagement;Oui;Non;Oui;;Non
+CNT-71279;29/12/2023;AG001;415;Résolu;;45,97;Chat;Litige paiement;Oui;Non;Oui;;Non
+CNT-71280;07/02/2023;AG004;368;Résolu;4;45,19;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;2;Non
+CNT-71281;27/10/2023;AG005;273;Résolu;5;27,24;Chat;Déménagement;Non;Non;Non Renseigné;;Non
+CNT-71282;06/12/2023;AG005;;Non Résolu;4;27,43;Email;Réclamation;Oui;Non;Oui;10;Non
+CNT-71283;31/05/2023;AG008;;Non Résolu;4;45,7;Email;Litige paiement;Non;Oui;Oui;;Non
+CNT-71284;08/08/2023;AG003;221;Non Résolu;4;34,02;Chat;Déménagement;Oui;Oui;Oui;7;Non
+CNT-71285;14/02/2023;AG009;289;En Attente;4;49,83;Téléphone;Déménagement;Oui;Non;Oui;5;Non
+CNT-71286;29/05/2023;AG001;394;Non Résolu;5;40,53;Téléphone;Changement d'offre;yes;Non;Non;;Non
+CNT-71287;28/04/2023;AG005;305;En Attente;4;23,36;Email;Demande d'information;Oui;Non;Non;;Non
+CNT-71288;06/03/2023;AG001;401;En Attente;4;;Téléphone;Litige paiement;Oui;Non;Non Renseigné;8;Non
+CNT-71289;26/05/2023;AG002;179;Non Résolu;5;29,5;Téléphone;Réclamation;Oui;Non;Oui;4;Non
+CNT-71290;25/05/2023;AG008;429;Résolu;3;40,88;Téléphone;Réclamation;Oui;Non;Oui;1;Non
+CNT-71291;10/08/2023;AG001;316;Résolu;4;20,13;Téléphone;Panne compteur;;Non;Oui;9;Non
+CNT-71292;01/03/2023;AG004;214;En Attente;5;;Chat;Demande d'information;yes;Non;Oui;5;Non
+CNT-71293;20/07/2023;AG007;183;Non Résolu;4;29,81;Téléphone;Déménagement;Oui;Non;Non Renseigné;7;Non
+CNT-71294;29/10/2023;AG005;342;Résolu;4;11,19;Chat;Changement d'offre;Oui;Non;Non Renseigné;8;Non
+CNT-71295;25/12/2023;AG008;70;Résolu;5;29,9;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;;Non
+CNT-71296;09/08/2023;AG004;317;Non Résolu;;26,32;Réseaux Sociaux;Déménagement;Oui;Non;Oui;7;Non
+CNT-71297;05/11/2023;AG007;39;Résolu;3;20,65;Email;Facturation;Oui;Oui;Non;7;Non
+CNT-71298;06/12/2023;AG009;311;Non Résolu;1;31,09;Réseaux Sociaux;Réclamation;Non;Non;Oui;;Non
+CNT-71299;27/03/2023;AG009;282;Résolu;4;44,93;Téléphone;Déménagement;Oui;Oui;Non;;Non
+CNT-71300;26/08/2023;AG003;;Non Résolu;4;27,74;Réseaux Sociaux;Facturation;Oui;Non;Oui;7;Non
+CNT-71301;24/05/2023;AG007;152;Résolu;;9,33;Téléphone;Facturation;Oui;Non;Oui;9;Non
+CNT-71302;14/01/2023;AG002;54;Résolu;4;36,46;Chat;Déménagement;Oui;Non;Oui;7;Non
+CNT-71303;23/07/2023;AG008;170;Non Résolu;5;47,47;Chat;Relevé compteur;Oui;Non;Oui;8;Non
+CNT-71304;26/02/2023;AG005;234;En Attente;4;27,21;Téléphone;Déménagement;Oui;Non;Non Renseigné;7;Non
+CNT-71305;29/06/2023;AG006;199;Non Résolu;;27,66;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;9;Non
+CNT-71306;26/03/2023;AG007;229;Résolu;4;10,11;Email;Changement d'offre;Oui;Oui;Non Renseigné;5;Non
+CNT-71307;28/10/2023;AG005;408;Résolu;5;38,11;Réseaux Sociaux;Demande d'information;Oui;Non;Non;2;Non
+CNT-71308;03/10/2023;AG006;263;Résolu;5;32,83;Email;Souscription contrat;yes;Non;Oui;;Oui
+CNT-71309;01/02/2023;AG009;362;Résolu;4;15,68;Chat;Relevé compteur;Oui;Non;Oui;8;Non
+CNT-71310;10/09/2023;AG008;189;Résolu;4;26,66;Chat;Litige paiement;Oui;Non;Oui;4;Non
+CNT-71311;28/04/2023;AG001;185;Résolu;5;47,05;Email;Panne compteur;Oui;Non;Oui;;Non
+CNT-71312;26/03/2023;AG009;121;Non Résolu;5;19,91;Chat;Panne compteur;Oui;Non;Oui;;Non
+CNT-71313;26/11/2023;AG006;269;Résolu;4;24,74;Chat;Panne compteur;Oui;Non;Oui;8;Non
+CNT-71314;27/07/2023;AG001;160;Résolu;4;25,09;Chat;Changement d'offre;Oui;Non;Oui;7;Non
+CNT-71315;23/09/2023;AG005;464;Non Résolu;3;32,15;Chat;Facturation;Oui;Non;Oui;9;Non
+CNT-71316;02/01/2023;AG003;;Résolu;3;10;Email;Réclamation;Oui;Non;Oui;8;Oui
+CNT-71317;24/06/2023;AG007;248;En Attente;4;19,3;Téléphone;Résiliation;Oui;Non;Oui;2;Non
+CNT-71318;29/03/2023;AG001;233;Non Résolu;;;Email;Réclamation;Non;Non;Oui;;Non
+CNT-71319;27/01/2023;AG006;193;Non Résolu;3;40,69;Chat;Réclamation;Non;Non;Non Renseigné;6;Non
+CNT-71320;27/02/2023;AG001;337;En Attente;5;43,95;Réseaux Sociaux;Réclamation;Oui;Oui;Oui;7;Non
+CNT-71321;09/03/2023;AG008;411;En Attente;5;20,56;Chat;Déménagement;Oui;Non;Non Renseigné;9;Non
+CNT-71322;27/01/2023;AG007;235;Résolu;3;25,44;Chat;Déménagement;Oui;Non;Oui;10;Non
+CNT-71323;03/10/2023;AG006;352;En Attente;5;25,62;Réseaux Sociaux;Déménagement;Oui;Non;Oui;8;Non
+CNT-71324;06/02/2023;AG005;220;Résolu;5;;Téléphone;Facturation;Oui;Non;Oui;9;Oui
+CNT-71325;05/03/2023;AG004;171;Non Résolu;;22,09;Téléphone;Réclamation;Non;Non;Non Renseigné;;Non
+CNT-71326;23/11/2023;AG009;222;Résolu;4;14,07;Réseaux Sociaux;Demande d'information;Oui;Non;Oui;;Non
+CNT-71327;17/05/2023;AG006;346;Résolu;2;35,47;Chat;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71328;20/11/2023;AG008;264;Non Résolu;1;18,83;Réseaux Sociaux;Souscription contrat;;Non;Oui;;Non
+CNT-71329;29/03/2023;AG003;127;Non Résolu;4;47,23;Téléphone;Réclamation;Oui;Non;Non Renseigné;;Non
+CNT-71330;12/03/2023;AG009;173;En Attente;3;18,93;Téléphone;Résiliation;Non;Non;Non;9;Non
+CNT-71331;24/10/2023;AG006;94;Résolu;;45,52;Téléphone;Facturation;Oui;Non;Non;10;Non
+CNT-71332;11/07/2023;AG005;244;Non Résolu;5;35,92;Réseaux Sociaux;Déménagement;Oui;Non;Oui;;Non
+CNT-71333;06/05/2023;AG003;340;Résolu;;15,79;Réseaux Sociaux;Panne compteur;Oui;Non;Non Renseigné;9;Non
+CNT-71334;05/09/2023;AG006;458;En Attente;;24,8;Téléphone;Relevé compteur;Oui;Non;Oui;;Oui
+CNT-71335;01/11/2023;AG007;161;Non Résolu;2;23,66;Réseaux Sociaux;Déménagement;Oui;Non;Non Renseigné;8;Non
+CNT-71336;17/08/2023;AG003;298;Non Résolu;5;20,04;Téléphone;Changement d'offre;Oui;Non;Oui;;Non
+CNT-71337;29/05/2023;AG003;434;Non Résolu;2;49,97;Téléphone;Demande d'information;Non;Non;Oui;1;Non
+CNT-71338;09/10/2023;AG003;430;Résolu;5;36,98;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-71339;26/02/2023;AG004;344;Non Résolu;4;43,66;Réseaux Sociaux;Panne compteur;Oui;Non;Non;7;Non
+CNT-71340;21/04/2023;AG004;332;Résolu;5;37,1;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;;Non
+CNT-71341;03/02/2023;AG009;;Résolu;4;25,95;Téléphone;Déménagement;Oui;Non;Non;10;Non
+CNT-71342;02/09/2023;AG009;393;Non Résolu;3;39,39;Téléphone;Souscription contrat;Non;Non;Non;;Non
+CNT-71343;16/05/2023;AG009;182;Résolu;5;33,89;Chat;Déménagement;Oui;Non;Oui;7;Non
+CNT-71344;25/12/2023;AG003;301;En Attente;5;31,63;Email;Relevé compteur;Oui;Oui;Oui;7;Non
+CNT-71345;12/09/2023;AG003;239;Non Résolu;3;41,41;Chat;Panne compteur;Oui;Non;Oui;9;Non
+CNT-71346;10/11/2023;AG001;197;Résolu;4;44,86;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-71347;06/10/2023;AG007;144;Résolu;4;11,05;Email;Changement d'offre;Oui;Non;Oui;;Oui
+CNT-71348;16/04/2023;AG007;;Résolu;5;39,8;Réseaux Sociaux;Souscription contrat;Non;Non;Oui;5;Non
+CNT-71349;17/12/2023;AG008;457;Résolu;;;Réseaux Sociaux;Relevé compteur;Non;Non;Non Renseigné;;Non
+CNT-71350;12/04/2023;AG005;167;Résolu;5;46,97;Réseaux Sociaux;Réclamation;Oui;Non;Oui;9;Oui
+CNT-71351;20/12/2023;AG007;188;En Attente;4;;Téléphone;Changement d'offre;Oui;Oui;Oui;3;Non
+CNT-71352;11/05/2023;AG006;167;Non Résolu;4;16,91;Chat;Demande d'information;Oui;Non;Non;;Non
+CNT-71353;19/03/2023;AG006;276;Non Résolu;4;49,95;Téléphone;Relevé compteur;Oui;Non;Oui;8;Non
+CNT-71354;06/08/2023;AG004;304;Résolu;5;26,23;Chat;Litige paiement;Oui;Non;Oui;;Non
+CNT-71355;30/01/2023;AG008;;Non Résolu;2;45,31;Téléphone;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-71356;12/02/2023;AG002;315;Résolu;;9,44;Téléphone;Facturation;Oui;Oui;Non;9;Non
+CNT-71357;20/10/2023;AG006;405;Non Résolu;4;45,07;Téléphone;Résiliation;Oui;Non;Oui;10;Non
+CNT-71358;01/06/2023;AG001;333;Non Résolu;4;29,32;Téléphone;Facturation;Oui;Non;Oui;3;Oui
+CNT-71359;23/10/2023;AG009;250;Résolu;5;37,46;Téléphone;Réclamation;Oui;Non;Non;4;Non
+CNT-71360;26/01/2023;AG009;269;Résolu;5;22,86;Email;Déménagement;Non;Non;Oui;9;Non
+CNT-71361;06/06/2023;AG009;243;Résolu;4;23,41;Réseaux Sociaux;Réclamation;Oui;Non;Oui;;Non
+CNT-71362;27/03/2023;AG001;204;Résolu;5;45,57;Téléphone;Réclamation;Non;Oui;Oui;;Non
+CNT-71363;22/04/2023;AG007;158;Non Résolu;4;24,1;Chat;Déménagement;Oui;Oui;Non;;Non
+CNT-71364;26/11/2023;AG001;219;Non Résolu;4;33,24;Réseaux Sociaux;Panne compteur;Non;Non;Oui;;Non
+CNT-71365;01/09/2023;AG009;281;En Attente;2;28,76;Email;Réclamation;Oui;Non;Oui;5;Non
+CNT-71366;10/06/2023;AG009;410;En Attente;5;16,91;Téléphone;Demande d'information;Oui;Non;Oui;9;Non
+CNT-71367;28/07/2023;AG007;235;Résolu;3;32,06;Email;Résiliation;Non;Non;Non Renseigné;4;Non
+CNT-71368;29/11/2023;AG004;238;Non Résolu;;;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-71369;16/08/2023;AG005;199;Non Résolu;5;18,26;Téléphone;Souscription contrat;Non;Non;Oui;2;Non
+CNT-71370;06/10/2023;AG004;251;Non Résolu;;39,79;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;2;Non
+CNT-71371;17/02/2023;AG004;441;En Attente;;30,13;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+CNT-71372;22/10/2023;AG003;282;Résolu;5;43,16;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-71373;06/05/2023;AG002;221;Non Résolu;4;46,04;Chat;Panne compteur;Oui;Non;Non Renseigné;;Non
+CNT-71374;26/01/2023;AG003;413;Résolu;2;39,83;Email;Réclamation;Non;Non;Oui;;Non
+CNT-71375;12/01/2023;AG006;303;Résolu;;;Chat;Réclamation;yes;Non;Oui;9;Non
+CNT-71376;29/12/2023;AG007;232;Résolu;2;11,91;Téléphone;Relevé compteur;;Non;Non;8;Non
+CNT-71377;07/05/2023;AG001;231;Résolu;4;22,12;Réseaux Sociaux;Litige paiement;Oui;Oui;Oui;7;Non
+CNT-71378;24/04/2023;AG005;270;Résolu;5;26,67;Chat;Litige paiement;Oui;Non;Oui;8;Non
+CNT-71379;19/11/2023;AG007;259;En Attente;2;38,78;Téléphone;Réclamation;yes;Non;Non Renseigné;;Non
+CNT-71380;17/06/2023;AG004;161;Non Résolu;2;11,4;Téléphone;Déménagement;Non;Non;Oui;4;Non
+CNT-71381;23/06/2023;AG003;324;En Attente;2;31,39;Chat;Facturation;Oui;Non;Oui;4;Non
+CNT-71382;06/03/2023;AG004;338;En Attente;3;24,66;Chat;Réclamation;Non;Non;Oui;3;Non
+CNT-71383;28/02/2023;AG003;232;En Attente;;37,27;Réseaux Sociaux;Résiliation;Oui;Non;Oui;;Non
+CNT-71384;24/10/2023;AG004;201;En Attente;3;12,21;Email;Facturation;Oui;Non;Oui;5;Oui
+CNT-71385;04/12/2023;AG006;272;Non Résolu;4;9,85;Email;Résiliation;Oui;Non;Oui;5;Non
+CNT-71386;30/01/2023;AG005;395;Résolu;4;16,08;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-71387;23/04/2023;AG005;188;Résolu;4;33,84;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;;Non
+CNT-71388;07/02/2023;AG006;351;Résolu;4;41,73;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;8;Non
+CNT-71389;05/08/2023;AG007;194;En Attente;4;40,79;Téléphone;Déménagement;Oui;Non;Oui;1;Non
+CNT-71390;18/07/2023;AG002;78;Résolu;5;42,19;Email;Résiliation;Oui;Non;Oui;7;Non
+CNT-71391;04/04/2023;AG009;280;En Attente;5;16,63;Chat;Demande d'information;Oui;Non;Oui;10;Non
+CNT-71392;24/11/2023;AG009;172;En Attente;5;36,64;Téléphone;Litige paiement;Oui;Non;Oui;6;Non
+CNT-71393;22/04/2023;AG007;201;En Attente;3;37,14;Email;Déménagement;Oui;Non;Non Renseigné;8;Non
+CNT-71394;20/02/2023;AG005;160;En Attente;5;;Chat;Litige paiement;Oui;Non;Oui;6;Non
+CNT-71395;04/12/2023;AG004;439;Résolu;5;13,11;Email;Souscription contrat;Oui;Non;Oui;9;Non
+CNT-71396;20/06/2023;AG009;261;Non Résolu;4;25,69;Email;Résiliation;Oui;Non;Oui;6;Non
+CNT-71397;22/11/2023;AG003;348;En Attente;;33,14;Réseaux Sociaux;Demande d'information;Oui;Non;Oui;9;Non
+CNT-71398;03/03/2023;AG008;228;Non Résolu;3;25,63;Téléphone;Déménagement;Oui;Oui;Oui;9;Non
+CNT-71399;07/05/2023;AG001;233;Non Résolu;4;18,32;Téléphone;Litige paiement;yes;Oui;Oui;;Non
+CNT-71400;23/01/2023;AG008;302;Non Résolu;4;30,76;Téléphone;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71401;22/07/2023;AG009;232;Résolu;4;28,82;Réseaux Sociaux;Litige paiement;Non;Non;Oui;7;Non
+CNT-71402;11/06/2023;AG003;286;Résolu;3;13,6;Chat;Changement d'offre;Oui;Non;Oui;9;Non
+CNT-71403;19/03/2023;AG003;271;Résolu;5;43,17;Email;Litige paiement;Oui;Non;Oui;;Non
+CNT-71404;25/09/2023;AG006;150;En Attente;3;21,18;Chat;Litige paiement;Non;Non;Non Renseigné;7;Non
+CNT-71405;06/06/2023;AG004;286;Résolu;5;28,78;Téléphone;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-71406;13/09/2023;AG007;152;Non Résolu;5;30,93;Téléphone;Résiliation;;Non;Oui;;Non
+CNT-71407;27/10/2023;AG005;339;En Attente;5;37,07;Email;Réclamation;Non;Non;Oui;8;Non
+CNT-71408;07/09/2023;AG007;370;Non Résolu;2;;Réseaux Sociaux;Demande d'information;Oui;Non;Oui;;Non
+CNT-71409;08/03/2023;AG003;244;Non Résolu;1;44,65;Email;Demande d'information;Oui;Non;Oui;2;Non
+CNT-71410;21/05/2023;AG003;306;Résolu;4;12,1;Email;Résiliation;Oui;Oui;Oui;;Non
+CNT-71411;12/02/2023;AG002;257;Résolu;4;9,14;Téléphone;Changement d'offre;Oui;Non;Oui;;Non
+CNT-71412;24/03/2023;AG005;399;Non Résolu;2;34,8;Email;Déménagement;Oui;Non;Non Renseigné;2;Non
+CNT-71413;03/10/2023;AG005;95;Résolu;3;28,53;Email;Demande d'information;Non;Non;Oui;7;Non
+CNT-71414;14/04/2023;AG008;255;Résolu;3;43,94;Téléphone;Demande d'information;Oui;Non;Non Renseigné;;Non
+CNT-71415;25/06/2023;AG006;254;Non Résolu;4;44,58;Email;Réclamation;Oui;Non;Oui;8;Oui
+CNT-71416;16/05/2023;AG005;377;En Attente;1;33,5;Téléphone;Facturation;Non;Oui;Oui;8;Non
+CNT-71417;30/07/2023;AG001;384;Non Résolu;5;17,32;Email;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71418;18/08/2023;AG009;435;Non Résolu;4;31,03;Réseaux Sociaux;Réclamation;Oui;Non;Non;4;Non
+CNT-71419;06/03/2023;AG009;195;Résolu;4;9,76;Email;Panne compteur;Oui;Oui;Oui;8;Non
+CNT-71420;29/09/2023;AG004;329;Non Résolu;5;46,85;Email;Facturation;Oui;Oui;Oui;8;Non
+CNT-71421;20/12/2023;AG005;117;Non Résolu;5;12,94;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-71422;28/06/2023;AG004;;Non Résolu;4;25,82;Chat;Changement d'offre;Oui;Non;Oui;;Oui
+CNT-71423;05/09/2023;AG003;281;Résolu;3;43,26;Chat;Panne compteur;Oui;Non;Oui;;Non
+CNT-71424;17/07/2023;AG005;;Résolu;4;11,7;Email;Demande d'information;Oui;Non;Non;;Non
+CNT-71425;25/05/2023;AG002;243;Résolu;;;Email;Réclamation;Oui;Non;Oui;8;Non
+CNT-71426;20/08/2023;AG002;249;Résolu;5;38,45;Téléphone;Déménagement;Non;Non;Oui;;Non
+CNT-71427;19/12/2023;AG005;208;En Attente;4;17,35;Email;Résiliation;Oui;Non;Non Renseigné;6;Non
+CNT-71428;12/03/2023;AG003;395;Résolu;;19,46;Téléphone;Résiliation;Oui;Oui;Non;8;Non
+CNT-71429;23/02/2023;AG003;366;En Attente;;;Réseaux Sociaux;Panne compteur;Oui;Non;Non Renseigné;6;Non
+CNT-71430;02/12/2023;AG005;423;Résolu;;28,13;Email;Demande d'information;Oui;Non;Oui;7;Non
+CNT-71431;16/11/2023;AG002;348;En Attente;4;22,81;Chat;Résiliation;Oui;Non;Oui;6;Non
+CNT-71432;08/08/2023;AG002;283;Résolu;4;26,5;Chat;Relevé compteur;Oui;Non;Oui;10;Non
+CNT-71433;27/09/2023;AG001;265;Non Résolu;3;25,06;Téléphone;Souscription contrat;yes;Non;Oui;;Non
+CNT-71434;23/09/2023;AG005;179;En Attente;3;31,68;Téléphone;Relevé compteur;Oui;Non;Non Renseigné;;Non
+CNT-71435;29/07/2023;AG008;253;En Attente;3;22,48;Chat;Réclamation;Oui;Oui;Oui;;Non
+CNT-71436;09/11/2023;AG008;250;Résolu;;9,14;Email;Demande d'information;Oui;Non;Oui;3;Non
+CNT-71437;18/01/2023;AG009;;Résolu;4;25,47;Email;Relevé compteur;Oui;Non;Oui;9;Non
+CNT-71438;22/10/2023;AG003;279;En Attente;5;20,4;Chat;Demande d'information;Oui;Non;Oui;;Non
+CNT-71439;06/08/2023;AG004;115;Résolu;3;29,24;Téléphone;Déménagement;Oui;Non;Oui;5;Non
+CNT-71440;08/05/2023;AG008;94;En Attente;5;37,72;Réseaux Sociaux;Litige paiement;Oui;Non;Oui;;Non
+CNT-71441;24/07/2023;AG004;214;Résolu;4;14,19;Chat;Souscription contrat;Non;Non;Oui;;Non
+CNT-71442;17/03/2023;AG009;258;En Attente;5;28,18;Téléphone;Résiliation;Oui;Non;Oui;9;Non
+CNT-71443;28/03/2023;AG008;470;Non Résolu;;29,39;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-71444;28/08/2023;AG007;56;Résolu;3;29,49;Téléphone;Changement d'offre;Oui;Non;Oui;4;Non
+CNT-71445;16/10/2023;AG006;140;Résolu;5;30,67;Email;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71446;27/03/2023;AG001;370;Résolu;4;24,48;Téléphone;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71447;20/07/2023;AG003;360;Non Résolu;1;25,96;Réseaux Sociaux;Réclamation;Oui;Non;Oui;;Non
+CNT-71448;30/09/2023;AG003;324;Non Résolu;5;27,59;Email;Souscription contrat;Oui;Non;Oui;5;Non
+CNT-71449;08/04/2023;AG002;37;En Attente;;45,47;Téléphone;Litige paiement;Oui;Non;Non;7;Non
+CNT-71450;05/09/2023;AG006;321;Résolu;5;38,07;Email;Réclamation;Oui;Non;Oui;6;Non
+CNT-71451;04/06/2023;AG009;290;Résolu;5;48,81;Téléphone;Réclamation;Non;Non;Oui;4;Non
+CNT-71452;05/12/2023;AG007;295;En Attente;5;15,48;Réseaux Sociaux;Panne compteur;Oui;Oui;Oui;10;Non
+CNT-71453;11/10/2023;AG001;270;Non Résolu;4;11,15;Réseaux Sociaux;Litige paiement;Oui;Oui;Non Renseigné;;Non
+CNT-71454;27/08/2023;AG004;288;Résolu;5;26,12;Téléphone;Réclamation;;Oui;Oui;;Non
+CNT-71455;04/04/2023;AG004;264;Non Résolu;3;17,69;Téléphone;Panne compteur;Oui;Non;Non Renseigné;;Non
+CNT-71456;13/03/2023;AG007;476;Non Résolu;4;21,92;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;;Oui
+CNT-71457;17/09/2023;AG008;291;Résolu;5;38,31;Téléphone;Déménagement;Oui;Non;Oui;9;Non
+CNT-71458;09/07/2023;AG003;159;En Attente;;24,23;Réseaux Sociaux;Résiliation;Oui;Non;Oui;8;Non
+CNT-71459;25/07/2023;AG008;139;En Attente;2;25,18;Réseaux Sociaux;Résiliation;Oui;Non;Oui;4;Non
+CNT-71460;11/01/2023;AG003;283;Résolu;4;23,98;Réseaux Sociaux;Résiliation;Oui;Non;Oui;7;Non
+CNT-71461;04/06/2023;AG009;224;Non Résolu;;45,07;Téléphone;Déménagement;Oui;Non;Non;1;Non
+CNT-71462;29/01/2023;AG008;19;Non Résolu;4;30,26;Chat;Réclamation;Oui;Non;Non Renseigné;8;Non
+CNT-71463;17/12/2023;AG003;304;Résolu;4;22,31;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-71464;02/03/2023;AG004;182;En Attente;4;34,47;Email;Litige paiement;Oui;Non;Oui;7;Non
+CNT-71465;27/10/2023;AG009;283;En Attente;5;20,29;Téléphone;Souscription contrat;Oui;Oui;Oui;;Non
+CNT-71466;10/04/2023;AG004;263;Non Résolu;;32,72;Email;Souscription contrat;Oui;Non;Oui;8;Non
+CNT-71467;20/04/2023;AG007;225;Résolu;4;26,49;Email;Déménagement;Oui;Non;Oui;8;Non
+CNT-71468;16/10/2023;AG007;169;Non Résolu;3;29,95;Email;Panne compteur;Oui;Non;Oui;;Non
+CNT-71469;02/12/2023;AG001;286;Non Résolu;3;29,39;Email;Demande d'information;;Non;Oui;8;Non
+CNT-71470;30/03/2023;AG009;274;En Attente;;42,14;Chat;Résiliation;Oui;Non;Oui;3;Non
+CNT-71471;08/08/2023;AG009;198;Résolu;5;;Email;Résiliation;Oui;Non;Oui;8;Non
+CNT-71472;10/03/2023;AG001;182;Résolu;5;44,35;Téléphone;Changement d'offre;Oui;Non;Oui;6;Non
+CNT-71473;01/05/2023;AG002;324;Résolu;4;23,04;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-71474;07/08/2023;AG009;512;Résolu;5;19,15;Téléphone;Demande d'information;Oui;Non;Oui;3;Non
+CNT-71475;11/02/2023;AG007;224;Résolu;5;40,63;Email;Réclamation;Oui;Non;Oui;;Non
+CNT-71476;03/01/2023;AG002;248;Résolu;5;33,94;Réseaux Sociaux;Facturation;Oui;Non;Oui;;Non
+CNT-71477;30/11/2023;AG006;262;En Attente;;29,15;Téléphone;Réclamation;yes;Non;Oui;;Non
+CNT-71478;16/04/2023;AG003;229;Résolu;3;31,18;Chat;Déménagement;Non;Non;Non Renseigné;8;Non
+CNT-71479;30/07/2023;AG008;318;En Attente;5;21,98;Email;Relevé compteur;Oui;Oui;Oui;4;Non
+CNT-71480;14/05/2023;AG005;374;Résolu;4;29,43;Téléphone;Réclamation;Oui;Non;Oui;5;Non
+CNT-71481;08/05/2023;AG005;207;Non Résolu;5;25,26;Téléphone;Déménagement;yes;Non;Oui;;Non
+CNT-71482;11/11/2023;AG009;261;Résolu;5;28,16;Chat;Réclamation;Oui;Non;Oui;6;Oui
+CNT-71483;10/04/2023;AG004;332;Non Résolu;5;;Téléphone;Litige paiement;Non;Non;Non;6;Non
+CNT-71484;06/06/2023;AG001;142;Résolu;2;22,32;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;8;Non
+CNT-71485;25/09/2023;AG002;345;Résolu;5;47,21;Réseaux Sociaux;Résiliation;Oui;Non;Non Renseigné;;Non
+CNT-71486;31/03/2023;AG009;355;Résolu;3;20,12;Téléphone;Panne compteur;Oui;Non;Oui;5;Non
+CNT-71487;11/07/2023;AG009;312;En Attente;4;31,3;Téléphone;Demande d'information;Non;Non;Non;7;Non
+CNT-71488;27/12/2023;AG008;263;Résolu;5;24,9;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;5;Non
+CNT-71489;25/03/2023;AG001;135;Résolu;5;;Réseaux Sociaux;Panne compteur;Non;Non;Non Renseigné;;Non
+CNT-71490;29/09/2023;AG009;262;En Attente;5;;Téléphone;Litige paiement;Oui;Non;Non;;Non
+CNT-71491;24/07/2023;AG006;278;En Attente;1;40,76;Email;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71492;29/04/2023;AG004;303;En Attente;;10,81;Email;Réclamation;Oui;Non;Oui;7;Non
+CNT-71493;16/05/2023;AG005;337;Non Résolu;5;15,46;Email;Relevé compteur;Oui;Non;Oui;7;Oui
+CNT-71494;24/12/2023;AG001;172;Non Résolu;5;18,88;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-71495;09/02/2023;AG001;102;Résolu;4;11,65;Email;Souscription contrat;Oui;Non;Oui;;Non
+CNT-71496;07/09/2023;AG008;84;Résolu;3;41,64;Email;Souscription contrat;Non;Non;Oui;;Non
+CNT-71497;26/05/2023;AG005;283;Résolu;5;9,33;Chat;Réclamation;Oui;Non;Oui;;Non
+CNT-71498;01/03/2023;AG003;358;Résolu;;47,28;Téléphone;Panne compteur;Oui;Non;Non;9;Oui
+CNT-71499;08/12/2023;AG007;351;Non Résolu;5;17,57;Téléphone;Résiliation;Oui;Non;Non;2;Non
+CNT-71500;17/12/2023;AG001;176;En Attente;5;31,38;Chat;Relevé compteur;Oui;Non;Oui;5;Oui
+CNT-71501;14/09/2023;AG003;395;En Attente;4;35,81;Email;Relevé compteur;Oui;Non;Oui;8;Non
+CNT-71502;02/08/2023;AG008;408;Non Résolu;;12,38;Email;Déménagement;Oui;Non;Non Renseigné;;Non
+CNT-71503;20/09/2023;AG001;347;Résolu;;23,58;Réseaux Sociaux;Facturation;Oui;Non;Oui;5;Non
+CNT-71504;28/01/2023;AG008;98;Résolu;3;16,08;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-71505;07/10/2023;AG004;215;Non Résolu;;14,7;Chat;Facturation;Oui;Oui;Oui;7;Non
+CNT-71506;09/07/2023;AG009;248;Non Résolu;3;11,58;Réseaux Sociaux;Réclamation;Oui;Non;Non;;Non
+CNT-71507;30/06/2023;AG007;30;Résolu;5;47,8;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-71508;01/05/2023;AG006;337;Résolu;3;16,09;Email;Litige paiement;Non;Non;Oui;;Non
+CNT-71509;31/07/2023;AG002;349;En Attente;2;33,76;Email;Facturation;yes;Non;Oui;;Non
+CNT-71510;04/11/2023;AG001;296;Non Résolu;5;39,65;Téléphone;Réclamation;Oui;Non;Oui;9;Non
+CNT-71511;22/06/2023;AG002;262;En Attente;1;32,61;Email;Résiliation;Oui;Non;Oui;;Non
+CNT-71512;21/02/2023;AG005;242;Non Résolu;;9,62;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-71513;11/02/2023;AG006;278;Résolu;4;37,3;Téléphone;Relevé compteur;Oui;Non;Non Renseigné;8;Non
+CNT-71514;30/07/2023;AG001;173;Résolu;;34,77;Chat;Litige paiement;Oui;Non;Oui;9;Non
+CNT-71515;25/01/2023;AG005;352;Résolu;5;46,61;Téléphone;Déménagement;Oui;Non;Oui;5;Non
+CNT-71516;26/05/2023;AG002;154;Non Résolu;1;13,37;Téléphone;Réclamation;Oui;Non;Oui;7;Non
+CNT-71517;06/12/2023;AG002;191;Résolu;2;14,35;Téléphone;Panne compteur;Oui;Non;Oui;9;Non
+CNT-71518;22/09/2023;AG006;76;Non Résolu;2;37,97;Téléphone;Changement d'offre;Oui;Non;Oui;7;Non
+CNT-71519;03/01/2023;AG006;190;Non Résolu;5;44,68;Email;Demande d'information;Oui;Non;Oui;8;Non
+CNT-71520;18/03/2023;AG002;275;Non Résolu;3;13,2;Téléphone;Litige paiement;Non;Non;Oui;7;Non
+CNT-71521;05/07/2023;AG003;408;Résolu;3;38,1;Chat;Souscription contrat;yes;Non;Oui;;Non
+CNT-71522;12/12/2023;AG005;190;En Attente;3;43,54;Réseaux Sociaux;Litige paiement;Oui;Non;Oui;;Oui
+CNT-71523;26/04/2023;AG008;236;Non Résolu;5;22,87;Email;Demande d'information;Non;Non;Oui;8;Non
+CNT-71524;04/11/2023;AG003;302;Non Résolu;5;45,99;Réseaux Sociaux;Panne compteur;Oui;Non;Non Renseigné;8;Non
+CNT-71525;30/12/2023;AG004;228;Résolu;5;22,9;Réseaux Sociaux;Relevé compteur;Oui;Non;Non Renseigné;;Non
+CNT-71526;25/07/2023;AG006;361;Non Résolu;5;39,07;Téléphone;Changement d'offre;Oui;Non;Oui;9;Non
+CNT-71527;10/02/2023;AG007;75;Résolu;5;11,59;Téléphone;Demande d'information;Oui;Non;Non Renseigné;;Oui
+CNT-71528;29/12/2023;AG005;314;En Attente;4;19,75;Chat;Panne compteur;Oui;Non;Non;9;Non
+CNT-71529;27/09/2023;AG002;271;Non Résolu;1;46,26;Réseaux Sociaux;Panne compteur;Oui;Non;Non;3;Non
+CNT-71530;18/03/2023;AG009;179;Résolu;4;39,24;Téléphone;Demande d'information;Oui;Non;Non;9;Non
+CNT-71531;16/12/2023;AG007;338;En Attente;5;41,69;Téléphone;Réclamation;Oui;Non;Oui;10;Non
+CNT-71532;26/07/2023;AG004;342;Non Résolu;2;42,3;Email;Panne compteur;Oui;Non;Oui;8;Non
+CNT-71533;22/03/2023;AG005;162;Résolu;5;23,7;Réseaux Sociaux;Déménagement;Oui;Oui;Oui;;Non
+CNT-71534;13/01/2023;AG003;295;En Attente;5;42,74;Réseaux Sociaux;Relevé compteur;Oui;Oui;Oui;6;Non
+CNT-71535;31/05/2023;AG007;265;Non Résolu;4;26,87;Téléphone;Facturation;Oui;Non;Oui;8;Non
+CNT-71536;06/10/2023;AG006;82;Non Résolu;5;15,69;Chat;Litige paiement;Oui;Non;Oui;6;Non
+CNT-71537;05/10/2023;AG006;289;Résolu;3;28,77;Téléphone;Déménagement;Oui;Non;Oui;7;Non
+CNT-71538;31/07/2023;AG004;421;Résolu;4;48,06;Téléphone;Résiliation;Non;Non;Oui;;Oui
+CNT-71539;08/10/2023;AG001;;En Attente;;33,76;Réseaux Sociaux;Demande d'information;Oui;Oui;Oui;9;Non
+CNT-71540;28/01/2023;AG009;162;Résolu;5;49,86;Chat;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71541;17/03/2023;AG006;287;Résolu;5;40,69;Chat;Facturation;Oui;Oui;Oui;;Non
+CNT-71542;19/08/2023;AG004;237;Résolu;4;29,59;Réseaux Sociaux;Réclamation;Oui;Non;Oui;8;Non
+CNT-71543;23/10/2023;AG001;;Résolu;;30,41;Email;Résiliation;Non;Non;Oui;8;Non
+CNT-71544;03/04/2023;AG009;320;En Attente;5;46,02;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-71545;27/03/2023;AG003;162;Résolu;;15,71;Email;Changement d'offre;Oui;Non;Oui;;Non
+CNT-71546;05/02/2023;AG003;281;Non Résolu;1;20,2;Téléphone;Facturation;Non;Non;Oui;;Non
+CNT-71547;10/04/2023;AG004;222;En Attente;;34,58;Téléphone;Souscription contrat;Oui;Non;Non Renseigné;6;Non
+CNT-71548;30/11/2023;AG001;152;Résolu;5;42,42;Téléphone;Résiliation;Oui;Non;Oui;3;Non
+CNT-71549;29/04/2023;AG001;378;Non Résolu;;31,55;Téléphone;Résiliation;;Non;Oui;;Non
+CNT-71550;28/03/2023;AG007;296;Résolu;3;44,61;Téléphone;Relevé compteur;Oui;Oui;Oui;10;Non
+CNT-71551;27/03/2023;AG002;310;Résolu;5;9,83;Téléphone;Facturation;Oui;Oui;Oui;8;Non
+CNT-71552;20/05/2023;AG009;229;Résolu;4;27,13;Email;Changement d'offre;Non;Non;Non Renseigné;8;Non
+CNT-71553;06/08/2023;AG003;240;En Attente;2;45,49;Réseaux Sociaux;Facturation;Oui;Oui;Oui;6;Non
+CNT-71554;08/07/2023;AG006;378;En Attente;4;22,41;Chat;Réclamation;Oui;Non;Non Renseigné;5;Non
+CNT-71555;12/08/2023;AG001;249;Résolu;4;;Réseaux Sociaux;Litige paiement;Oui;Non;Oui;9;Oui
+CNT-71556;16/04/2023;AG007;333;Résolu;;;Téléphone;Changement d'offre;Oui;Oui;Oui;;Non
+CNT-71557;15/06/2023;AG008;230;Non Résolu;5;26,46;Téléphone;Litige paiement;Oui;Non;Non Renseigné;9;Non
+CNT-71558;11/03/2023;AG002;193;En Attente;3;47,9;Téléphone;Facturation;Oui;Non;Oui;9;Non
+CNT-71559;08/03/2023;AG001;333;Résolu;4;32,56;Email;Panne compteur;Oui;Non;Non;10;Non
+CNT-71560;08/08/2023;AG006;231;Résolu;4;29,2;Email;Résiliation;Oui;Non;Oui;10;Non
+CNT-71561;16/02/2023;AG006;278;Non Résolu;;45,94;Téléphone;Changement d'offre;Oui;Non;Oui;7;Non
+CNT-71562;07/04/2023;AG008;207;En Attente;5;16,06;Email;Relevé compteur;Oui;Non;Oui;8;Non
+CNT-71563;07/03/2023;AG007;78;Non Résolu;5;38,93;Réseaux Sociaux;Réclamation;Oui;Non;Oui;;Non
+CNT-71564;28/12/2023;AG009;207;En Attente;3;36,19;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;7;Non
+CNT-71565;17/08/2023;AG003;152;Résolu;4;28,77;Email;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71566;02/11/2023;AG007;295;Résolu;5;18,44;Chat;Facturation;Oui;Non;Oui;;Non
+CNT-71567;18/01/2023;AG007;195;Non Résolu;;25,99;Chat;Panne compteur;Oui;Non;Non;;Non
+CNT-71568;25/04/2023;AG001;146;En Attente;;45,88;Email;Résiliation;Oui;Oui;Oui;9;Non
+CNT-71569;04/05/2023;AG009;131;Résolu;4;39,41;Réseaux Sociaux;Réclamation;Oui;Non;Oui;;Oui
+CNT-71570;30/10/2023;AG002;267;Résolu;4;;Réseaux Sociaux;Relevé compteur;;Non;Oui;;Non
+CNT-71571;14/08/2023;AG003;296;En Attente;5;18,91;Chat;Réclamation;Oui;Non;Non;8;Non
+CNT-71572;15/01/2023;AG002;139;Résolu;3;;Téléphone;Résiliation;Oui;Non;Oui;7;Non
+CNT-71573;01/05/2023;AG002;144;En Attente;1;;Réseaux Sociaux;Panne compteur;Oui;Oui;Non;;Non
+CNT-71574;26/02/2023;AG001;379;Résolu;1;30,76;Chat;Litige paiement;Oui;Non;Oui;7;Non
+CNT-71575;30/11/2023;AG006;140;Résolu;2;24,8;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;0;Non
+CNT-71576;19/02/2023;AG008;229;Résolu;4;41,2;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;;Non
+CNT-71577;25/09/2023;AG003;238;Résolu;4;13,61;Téléphone;Litige paiement;Oui;Non;Non Renseigné;7;Non
+CNT-71578;14/01/2023;AG005;184;Non Résolu;3;12,01;Chat;Facturation;Non;Non;Oui;8;Non
+CNT-71579;06/10/2023;AG002;407;Résolu;3;42,32;Téléphone;Relevé compteur;Oui;Oui;Non;4;Non
+CNT-71580;24/10/2023;AG007;112;Résolu;5;45,68;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-71581;12/02/2023;AG008;304;Résolu;;10,86;Téléphone;Réclamation;Oui;Non;Oui;5;Oui
+CNT-71582;30/04/2023;AG003;324;Non Résolu;4;38,08;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-71583;20/09/2023;AG009;184;Résolu;3;20,86;Email;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-71584;26/05/2023;AG009;160;Résolu;3;30,16;Chat;Changement d'offre;Oui;Non;Oui;;Non
+CNT-71585;05/02/2023;AG004;;Résolu;5;46,32;Email;Résiliation;Oui;Oui;Oui;10;Oui
+CNT-71586;08/09/2023;AG005;80;Résolu;4;39,51;Téléphone;Réclamation;Oui;Non;Oui;4;Non
+CNT-71587;26/04/2023;AG008;434;Non Résolu;;48,6;Email;Facturation;Oui;Non;Oui;7;Non
+CNT-71588;08/05/2023;AG009;206;En Attente;5;46,43;Réseaux Sociaux;Résiliation;Oui;Non;Oui;;Oui
+CNT-71589;04/06/2023;AG006;219;Résolu;4;36,43;Téléphone;Demande d'information;Oui;Oui;Non;;Non
+CNT-71590;03/08/2023;AG003;456;Résolu;4;39,57;Téléphone;Facturation;Oui;Non;Non;9;Non
+CNT-71591;15/06/2023;AG008;93;Résolu;3;40,69;Email;Demande d'information;Non;Non;Oui;7;Non
+CNT-71592;06/12/2023;AG006;246;Résolu;3;;Téléphone;Facturation;Oui;Non;Non;9;Non
+CNT-71593;02/03/2023;AG009;338;Non Résolu;5;21,03;Téléphone;Litige paiement;Oui;Oui;Oui;8;Non
+CNT-71594;30/03/2023;AG003;150;En Attente;1;33,38;Email;Relevé compteur;Oui;Oui;Oui;7;Non
+CNT-71595;24/04/2023;AG007;441;Résolu;2;26,22;Téléphone;Souscription contrat;Oui;Non;Oui;3;Oui
+CNT-71596;09/11/2023;AG001;249;Résolu;4;37,33;Réseaux Sociaux;Réclamation;Oui;Non;Oui;10;Non
+CNT-71597;31/08/2023;AG009;140;Résolu;4;41,77;Téléphone;Relevé compteur;Oui;Non;Oui;4;Non
+CNT-71598;10/06/2023;AG001;133;En Attente;5;26;Téléphone;Déménagement;Oui;Non;Oui;;Non
+CNT-71599;07/06/2023;AG005;257;En Attente;;41,24;Réseaux Sociaux;Relevé compteur;Oui;Non;Non;;Non
+CNT-71600;07/08/2023;AG008;427;En Attente;4;29,8;Téléphone;Facturation;Non;Non;Oui;8;Non
+CNT-71601;24/07/2023;AG009;185;En Attente;3;18,89;Email;Relevé compteur;Oui;Non;Non Renseigné;;Non
+CNT-71602;09/12/2023;AG006;113;Résolu;4;11,75;Téléphone;Résiliation;yes;Non;Oui;9;Non
+CNT-71603;27/02/2023;AG001;272;Non Résolu;5;29,62;Email;Panne compteur;Oui;Non;Oui;;Non
+CNT-71604;01/04/2023;AG002;447;Non Résolu;;39,53;Chat;Déménagement;Oui;Non;Oui;8;Non
+CNT-71605;25/03/2023;AG001;259;Non Résolu;4;38,84;Chat;Résiliation;yes;Non;Oui;;Oui
+CNT-71606;14/03/2023;AG007;436;Résolu;5;32,65;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+CNT-71607;09/05/2023;AG007;139;Non Résolu;2;26,28;Email;Demande d'information;Oui;Non;Oui;;Non
+CNT-71608;22/07/2023;AG005;318;En Attente;;16,91;Chat;Déménagement;Oui;Oui;Oui;10;Non
+CNT-71609;08/02/2023;AG001;272;Non Résolu;4;46,14;Email;Demande d'information;Oui;Oui;Non Renseigné;8;Non
+CNT-71610;05/02/2023;AG007;246;Résolu;5;20,81;Email;Souscription contrat;Non;Non;Oui;;Non
+CNT-71611;22/08/2023;AG007;228;En Attente;5;34,68;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-71612;21/01/2023;AG002;307;Non Résolu;4;27,79;Téléphone;Facturation;Oui;Oui;Oui;8;Non
+CNT-71613;04/06/2023;AG003;363;Résolu;;47,25;Réseaux Sociaux;Résiliation;Oui;Non;Oui;7;Non
+CNT-71614;28/09/2023;AG003;259;En Attente;5;37,78;Téléphone;Réclamation;Non;Non;Oui;;Non
+CNT-71615;26/08/2023;AG005;388;Résolu;2;32,24;Téléphone;Relevé compteur;Non;Non;Oui;7;Non
+CNT-71616;24/07/2023;AG005;85;Non Résolu;4;27,95;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-71617;27/05/2023;AG006;350;Résolu;5;12,2;Email;Changement d'offre;Non;Non;Oui;8;Non
+CNT-71618;10/11/2023;AG009;397;En Attente;4;48,08;Chat;Facturation;Oui;Non;Oui;;Non
+CNT-71619;29/01/2023;AG004;;En Attente;4;;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;8;Oui
+CNT-71620;03/04/2023;AG007;266;Résolu;4;33,87;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-71621;19/10/2023;AG004;312;En Attente;;16,61;Téléphone;Demande d'information;Non;Non;Oui;;Non
+CNT-71622;30/12/2023;AG008;216;En Attente;4;20,67;Téléphone;Relevé compteur;Oui;Non;Oui;5;Non
+CNT-71623;02/10/2023;AG008;279;Non Résolu;4;36,4;Téléphone;Demande d'information;Oui;Non;Oui;7;Oui
+CNT-71624;20/05/2023;AG007;231;Non Résolu;4;43,11;Téléphone;Réclamation;Oui;Non;Oui;9;Non
+CNT-71625;24/04/2023;AG006;248;Résolu;4;;Réseaux Sociaux;Déménagement;Oui;Non;Oui;9;Non
+CNT-71626;13/07/2023;AG004;219;Résolu;4;12,07;Téléphone;Facturation;Non;Oui;Oui;7;Non
+CNT-71627;26/12/2023;AG004;242;Résolu;;19,32;Téléphone;Panne compteur;Oui;Oui;Oui;8;Non
+CNT-71628;13/07/2023;AG008;313;Résolu;5;22,19;Téléphone;Changement d'offre;Oui;Non;Oui;;Non
+CNT-71629;19/03/2023;AG004;197;En Attente;5;41,99;Chat;Litige paiement;Oui;Non;Oui;8;Non
+CNT-71630;02/03/2023;AG001;257;Non Résolu;4;37,21;Email;Litige paiement;Oui;Oui;Oui;;Non
+CNT-71631;17/07/2023;AG004;129;En Attente;5;35,73;Chat;Changement d'offre;Oui;Non;Oui;;Non
+CNT-71632;10/10/2023;AG002;331;Résolu;3;18,37;Email;Réclamation;Non;Non;Oui;;Non
+CNT-71633;23/03/2023;AG005;277;Résolu;4;29,24;Téléphone;Résiliation;Oui;Non;Non;;Oui
+CNT-71634;19/12/2023;AG006;124;Non Résolu;4;16,8;Chat;Déménagement;Non;Non;Oui;8;Oui
+CNT-71635;01/04/2023;AG005;335;Résolu;4;27,81;Téléphone;Relevé compteur;Oui;Oui;Oui;0;Non
+CNT-71636;16/04/2023;AG009;119;En Attente;3;21,33;Email;Déménagement;Oui;Oui;Oui;;Non
+CNT-71637;02/10/2023;AG003;323;Non Résolu;5;34,16;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-71638;09/01/2023;AG007;275;Résolu;5;41,1;Téléphone;Demande d'information;;Oui;Oui;;Non
+CNT-71639;24/09/2023;AG005;298;Résolu;5;24,04;Chat;Litige paiement;Oui;Oui;Non;7;Non
+CNT-71640;21/10/2023;AG006;225;Résolu;5;42,09;Réseaux Sociaux;Facturation;Oui;Non;Non Renseigné;8;Non
+CNT-71641;05/02/2023;AG002;88;En Attente;5;27,71;Téléphone;Demande d'information;Oui;Oui;Oui;;Non
+CNT-71642;08/01/2023;AG005;225;Résolu;3;14,37;Chat;Facturation;Oui;Non;Oui;;Non
+CNT-71643;13/06/2023;AG006;155;Résolu;3;44,7;Réseaux Sociaux;Demande d'information;Oui;Oui;Oui;5;Non
+CNT-71644;01/04/2023;AG002;322;Résolu;4;48,87;Réseaux Sociaux;Déménagement;Oui;Non;Oui;8;Non
+CNT-71645;24/04/2023;AG003;285;Non Résolu;4;29,38;Réseaux Sociaux;Souscription contrat;Oui;Non;Non Renseigné;8;Non
+CNT-71646;05/04/2023;AG004;190;Non Résolu;3;18,14;Email;Panne compteur;Non;Non;Oui;3;Non
+CNT-71647;06/12/2023;AG003;199;Résolu;4;38,05;Chat;Panne compteur;Oui;Non;Oui;;Non
+CNT-71648;09/07/2023;AG007;421;Résolu;5;36,28;Email;Réclamation;Oui;Non;Oui;8;Non
+CNT-71649;06/03/2023;AG001;382;En Attente;4;24,25;Téléphone;Déménagement;Oui;Non;Oui;;Non
+CNT-71650;25/11/2023;AG002;275;Résolu;5;13,32;Téléphone;Panne compteur;Oui;Non;Oui;7;Non
+CNT-71651;13/01/2023;AG004;398;En Attente;5;41,68;Email;Réclamation;Oui;Non;Oui;9;Non
+CNT-71652;19/07/2023;AG004;231;Résolu;5;15,01;Réseaux Sociaux;Demande d'information;yes;Non;Oui;10;Non
+CNT-71653;09/09/2023;AG008;15;Non Résolu;5;44,58;Téléphone;Changement d'offre;Oui;Non;Non;10;Non
+CNT-71654;07/09/2023;AG003;352;En Attente;4;36,51;Téléphone;Litige paiement;Oui;Non;Oui;;Non
+CNT-71655;22/10/2023;AG007;189;Résolu;4;33,52;Réseaux Sociaux;Facturation;Non;Non;Non;10;Non
+CNT-71656;21/12/2023;AG004;202;En Attente;4;10,94;Téléphone;Réclamation;Oui;Oui;Oui;;Non
+CNT-71657;11/10/2023;AG007;196;Non Résolu;5;18,87;Téléphone;Déménagement;Oui;Non;Oui;0;Non
+CNT-71658;22/06/2023;AG006;;Résolu;3;24,02;Téléphone;Facturation;Oui;Oui;Non Renseigné;6;Non
+CNT-71659;15/05/2023;AG007;213;En Attente;;39,94;Téléphone;Relevé compteur;Oui;Non;Non;;Non
+CNT-71660;10/07/2023;AG001;403;Non Résolu;4;49,03;Téléphone;Déménagement;;Non;Oui;8;Non
+CNT-71661;18/09/2023;AG008;229;En Attente;4;18,83;Téléphone;Souscription contrat;Oui;Non;Oui;8;Non
+CNT-71662;04/09/2023;AG002;293;En Attente;4;42,51;Chat;Souscription contrat;Oui;Non;Oui;;Non
+CNT-71663;09/08/2023;AG009;358;En Attente;4;35,72;Chat;Souscription contrat;Oui;Non;Oui;;Oui
+CNT-71664;17/05/2023;AG004;114;Résolu;;11,87;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;6;Non
+CNT-71665;15/10/2023;AG001;219;Résolu;4;30,96;Email;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71666;26/04/2023;AG008;357;En Attente;5;40,53;Chat;Panne compteur;yes;Non;Non;;Non
+CNT-71667;23/07/2023;AG007;;En Attente;4;20,55;Réseaux Sociaux;Panne compteur;yes;Non;Non;8;Oui
+CNT-71668;16/12/2023;AG007;155;Résolu;4;41,51;Téléphone;Relevé compteur;yes;Non;Oui;;Non
+CNT-71669;16/12/2023;AG006;160;Non Résolu;5;47,45;Téléphone;Litige paiement;Oui;Non;Non;7;Non
+CNT-71670;02/08/2023;AG004;310;En Attente;5;18,95;Réseaux Sociaux;Résiliation;Non;Non;Oui;8;Non
+CNT-71671;11/09/2023;AG001;394;En Attente;5;30,56;Téléphone;Demande d'information;Oui;Non;Oui;8;Non
+CNT-71672;18/01/2023;AG007;328;Non Résolu;;24,87;Téléphone;Changement d'offre;Oui;Non;Non;;Oui
+CNT-71673;05/04/2023;AG003;200;Résolu;5;43,18;Email;Réclamation;Oui;Non;Non;2;Oui
+CNT-71674;01/03/2023;AG004;374;Non Résolu;4;22,67;Email;Changement d'offre;Non;Non;Non;8;Non
+CNT-71675;06/02/2023;AG008;218;Non Résolu;4;27,05;Réseaux Sociaux;Relevé compteur;Non;Non;Oui;7;Non
+CNT-71676;04/06/2023;AG006;194;Résolu;4;47,88;Email;Déménagement;Oui;Oui;Oui;;Non
+CNT-71677;03/10/2023;AG007;277;En Attente;3;32,52;Téléphone;Relevé compteur;Oui;Oui;Oui;7;Non
+CNT-71678;05/09/2023;AG009;384;Résolu;5;44,5;Réseaux Sociaux;Facturation;Oui;Non;Oui;2;Non
+CNT-71679;23/07/2023;AG001;262;Non Résolu;;30,41;Téléphone;Litige paiement;Oui;Non;Non;;Non
+CNT-71680;03/05/2023;AG005;283;Non Résolu;;23,52;Téléphone;Facturation;Oui;Non;Oui;;Non
+CNT-71681;18/12/2023;AG004;;Résolu;4;28,03;Téléphone;Changement d'offre;Oui;Oui;Oui;;Non
+CNT-71682;20/04/2023;AG002;166;Résolu;3;42,73;Réseaux Sociaux;Souscription contrat;Oui;Non;Non Renseigné;;Non
+CNT-71683;13/01/2023;AG001;90;Non Résolu;4;33,33;Email;Changement d'offre;Oui;Oui;Oui;9;Oui
+CNT-71684;17/02/2023;AG003;165;Résolu;3;22,77;Téléphone;Déménagement;Oui;Non;Oui;9;Non
+CNT-71685;17/04/2023;AG008;169;Non Résolu;3;43,57;Réseaux Sociaux;Facturation;Non;Non;Oui;5;Non
+CNT-71686;29/07/2023;AG003;285;Résolu;2;18,3;Chat;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-71687;28/12/2023;AG009;334;Résolu;;17,98;Téléphone;Relevé compteur;Oui;Non;Non;3;Non
+CNT-71688;29/08/2023;AG002;209;En Attente;;43,22;Téléphone;Résiliation;Non;Non;Non;;Non
+CNT-71689;07/01/2023;AG003;104;Résolu;5;40,61;Téléphone;Facturation;Oui;Non;Oui;10;Non
+CNT-71690;13/07/2023;AG009;267;Résolu;4;46,37;Téléphone;Réclamation;Non;Oui;Oui;9;Non
+CNT-71691;27/09/2023;AG004;395;Résolu;5;22,36;Téléphone;Panne compteur;Oui;Non;Non Renseigné;8;Non
+CNT-71692;03/09/2023;AG007;308;Résolu;4;31,11;Téléphone;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71693;21/04/2023;AG004;180;En Attente;2;44,04;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-71694;12/11/2023;AG007;357;En Attente;1;10,65;Téléphone;Facturation;Oui;Non;Oui;9;Non
+CNT-71695;31/12/2023;AG004;129;En Attente;5;33,99;Téléphone;Changement d'offre;Non;Non;Oui;;Non
+CNT-71696;15/08/2023;AG007;174;Résolu;4;17,83;Chat;Souscription contrat;Oui;Non;Oui;9;Non
+CNT-71697;10/12/2023;AG001;400;En Attente;4;31,04;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-71698;24/03/2023;AG002;210;En Attente;3;19,35;Réseaux Sociaux;Facturation;Oui;Non;Oui;5;Oui
+CNT-71699;26/06/2023;AG009;353;En Attente;3;20,44;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-71700;20/10/2023;AG007;245;En Attente;4;9,15;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-71701;24/07/2023;AG002;306;En Attente;5;;Téléphone;Réclamation;Oui;Non;Oui;7;Non
+CNT-71702;02/01/2023;AG007;330;En Attente;2;14,27;Email;Réclamation;Oui;Non;Oui;;Non
+CNT-71703;19/07/2023;AG004;359;En Attente;4;49,38;Téléphone;Déménagement;Oui;Non;Oui;;Non
+CNT-71704;10/12/2023;AG001;261;Résolu;4;24,67;Téléphone;Changement d'offre;Oui;Non;Oui;;Non
+CNT-71705;25/07/2023;AG006;507;Résolu;3;;Email;Déménagement;Oui;Non;Oui;6;Non
+CNT-71706;14/09/2023;AG007;234;En Attente;4;;Chat;Résiliation;Oui;Non;Oui;;Oui
+CNT-71707;24/04/2023;AG009;299;Résolu;4;20,72;Chat;Demande d'information;Oui;Oui;Oui;4;Non
+CNT-71708;03/10/2023;AG006;293;Non Résolu;2;33,42;Téléphone;Résiliation;Oui;Non;Oui;8;Non
+CNT-71709;01/10/2023;AG001;211;En Attente;2;33,97;Téléphone;Panne compteur;yes;Non;Oui;;Oui
+CNT-71710;26/12/2023;AG006;323;En Attente;5;40,38;Réseaux Sociaux;Facturation;Oui;Non;Non Renseigné;;Non
+CNT-71711;04/02/2023;AG003;142;Résolu;5;23,67;Téléphone;Déménagement;Oui;Non;Oui;;Non
+CNT-71712;23/05/2023;AG004;203;En Attente;2;40,08;Chat;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-71713;19/04/2023;AG003;372;Résolu;;10,38;Email;Relevé compteur;Oui;Non;Oui;2;Oui
+CNT-71714;12/03/2023;AG004;307;Résolu;4;49,23;Téléphone;Litige paiement;Oui;Non;Non;;Non
+CNT-71715;31/07/2023;AG005;265;Résolu;4;20,55;Téléphone;Panne compteur;Oui;Non;Non;;Non
+CNT-71716;30/10/2023;AG004;189;Non Résolu;5;44,81;Chat;Litige paiement;Oui;Non;Oui;7;Non
+CNT-71717;04/11/2023;AG001;250;Résolu;4;32,31;Email;Souscription contrat;Oui;Non;Oui;9;Non
+CNT-71718;13/09/2023;AG009;171;Non Résolu;4;47,82;Réseaux Sociaux;Relevé compteur;Non;Non;Oui;10;Non
+CNT-71719;14/09/2023;AG008;233;Résolu;5;30,74;Téléphone;Demande d'information;Oui;Non;Oui;9;Non
+CNT-71720;29/05/2023;AG007;169;Résolu;1;20,1;Chat;Facturation;Oui;Non;Oui;10;Non
+CNT-71721;30/05/2023;AG007;128;Résolu;;33,67;Téléphone;Changement d'offre;;Non;Oui;;Non
+CNT-71722;11/09/2023;AG006;388;Résolu;4;26,35;Téléphone;Facturation;Oui;Non;Oui;7;Non
+CNT-71723;06/12/2023;AG005;244;En Attente;5;19,34;Téléphone;Résiliation;Oui;Non;Oui;6;Non
+CNT-71724;21/06/2023;AG007;297;Résolu;2;47,37;Réseaux Sociaux;Demande d'information;Oui;Non;Oui;0;Non
+CNT-71725;29/10/2023;AG002;206;Résolu;3;29,98;Réseaux Sociaux;Résiliation;Oui;Non;Oui;9;Non
+CNT-71726;09/03/2023;AG003;239;Non Résolu;5;41,39;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-71727;28/10/2023;AG007;166;En Attente;4;26,99;Téléphone;Facturation;Oui;Oui;Oui;7;Non
+CNT-71728;29/11/2023;AG005;428;Résolu;;32,85;Réseaux Sociaux;Facturation;Oui;Non;Oui;10;Non
+CNT-71729;03/07/2023;AG002;58;Non Résolu;4;44,11;Téléphone;Réclamation;Oui;Oui;Oui;;Non
+CNT-71730;23/03/2023;AG008;352;Résolu;2;32,2;Téléphone;Souscription contrat;Oui;Non;Oui;10;Non
+CNT-71731;31/03/2023;AG005;204;Résolu;3;21,32;Chat;Litige paiement;Oui;Non;Oui;;Non
+CNT-71732;11/08/2023;AG009;165;En Attente;4;34,53;Chat;Facturation;Oui;Non;Oui;;Non
+CNT-71733;07/07/2023;AG002;121;En Attente;4;18,46;Chat;Souscription contrat;Oui;Non;Non Renseigné;0;Non
+CNT-71734;17/12/2023;AG006;273;En Attente;3;46,72;Email;Déménagement;Oui;Non;Oui;;Non
+CNT-71735;19/03/2023;AG007;338;Résolu;1;10,9;Téléphone;Demande d'information;Oui;Non;Non;;Non
+CNT-71736;12/03/2023;AG008;326;Résolu;3;10,5;Réseaux Sociaux;Facturation;Oui;Non;Oui;10;Non
+CNT-71737;27/03/2023;AG008;217;En Attente;4;26,88;Téléphone;Changement d'offre;Oui;Non;Oui;;Non
+CNT-71738;19/04/2023;AG001;238;En Attente;5;43,39;Téléphone;Changement d'offre;Non;Non;Non Renseigné;;Non
+CNT-71739;22/06/2023;AG005;163;En Attente;5;34,55;Téléphone;Panne compteur;Oui;Oui;Oui;;Non
+CNT-71740;15/10/2023;AG006;178;Résolu;5;;Chat;Relevé compteur;Oui;Non;Oui;7;Non
+CNT-71741;06/08/2023;AG004;388;Non Résolu;4;47,72;Téléphone;Déménagement;Oui;Non;Oui;9;Oui
+CNT-71742;06/08/2023;AG007;197;Résolu;5;26,49;Réseaux Sociaux;Litige paiement;Oui;Oui;Oui;8;Non
+CNT-71743;05/01/2023;AG001;428;Résolu;4;46,67;Réseaux Sociaux;Résiliation;Oui;Non;Oui;;Non
+CNT-71744;10/12/2023;AG002;429;Résolu;4;26,1;Téléphone;Litige paiement;Non;Non;Oui;7;Non
+CNT-71745;29/06/2023;AG007;322;Résolu;4;18,17;Téléphone;Litige paiement;Oui;Non;Oui;7;Non
+CNT-71746;28/09/2023;AG007;332;Non Résolu;3;29,56;Téléphone;Souscription contrat;Oui;Oui;Oui;6;Non
+CNT-71747;11/12/2023;AG008;410;En Attente;3;34,58;Chat;Réclamation;Oui;Non;Non Renseigné;3;Non
+CNT-71748;27/10/2023;AG001;321;Résolu;5;47,87;Email;Demande d'information;Oui;Non;Oui;4;Non
+CNT-71749;24/01/2023;AG002;198;Résolu;4;45,54;Chat;Relevé compteur;Non;Non;Oui;;Non
+CNT-71750;20/09/2023;AG005;171;En Attente;4;42,14;Réseaux Sociaux;Litige paiement;Oui;Non;Oui;7;Non
+CNT-71751;25/11/2023;AG006;91;Non Résolu;5;33,4;Chat;Facturation;Oui;Non;Non Renseigné;6;Non
+CNT-71752;06/12/2023;AG009;337;Résolu;4;30,98;Réseaux Sociaux;Facturation;Oui;Non;Oui;;Non
+CNT-71753;29/01/2023;AG002;268;Résolu;5;30,11;Chat;Déménagement;Oui;Non;Oui;8;Non
+CNT-71754;29/09/2023;AG004;176;Non Résolu;4;43,66;Email;Souscription contrat;Non;Non;Oui;5;Non
+CNT-71755;20/02/2023;AG007;17;Résolu;4;33,98;Réseaux Sociaux;Résiliation;Oui;Oui;Oui;9;Oui
+CNT-71756;27/07/2023;AG004;105;Non Résolu;4;43,19;Email;Déménagement;Oui;Non;Non;5;Non
+CNT-71757;16/11/2023;AG001;343;En Attente;4;15,8;Chat;Litige paiement;Oui;Non;Oui;5;Non
+CNT-71758;15/02/2023;AG009;168;Résolu;5;36,49;Chat;Litige paiement;Oui;Non;Oui;;Non
+CNT-71759;06/04/2023;AG007;161;Non Résolu;;17,93;Téléphone;Facturation;Oui;Non;Oui;;Non
+CNT-71760;04/10/2023;AG006;197;Résolu;5;15,04;Chat;Souscription contrat;Oui;Non;Oui;;Non
+CNT-71761;15/11/2023;AG001;286;Non Résolu;5;29,86;Chat;Déménagement;Oui;Non;Oui;7;Non
+CNT-71762;31/01/2023;AG009;267;En Attente;3;36,71;Téléphone;Litige paiement;Oui;Non;Non Renseigné;;Non
+CNT-71763;07/09/2023;AG001;283;Résolu;;34,63;Email;Changement d'offre;Oui;Non;Oui;;Non
+CNT-71764;11/06/2023;AG005;158;Non Résolu;5;31,29;Réseaux Sociaux;Réclamation;Oui;Oui;Non Renseigné;;Non
+CNT-71765;19/04/2023;AG005;295;Résolu;5;24,83;Téléphone;Litige paiement;Oui;Non;Oui;7;Non
+CNT-71766;22/07/2023;AG003;369;Résolu;5;14,26;Chat;Litige paiement;Oui;Non;Oui;;Non
+CNT-71767;17/01/2023;AG001;;En Attente;4;23,74;Téléphone;Résiliation;Oui;Non;Non Renseigné;7;Non
+CNT-71768;25/02/2023;AG006;225;Résolu;5;45,54;Réseaux Sociaux;Facturation;Non;Non;Oui;;Non
+CNT-71769;25/03/2023;AG002;206;En Attente;;28,79;Chat;Changement d'offre;Oui;Non;Oui;7;Non
+CNT-71770;24/07/2023;AG005;;En Attente;3;13,75;Chat;Déménagement;Oui;Non;Non;9;Non
+CNT-71771;31/10/2023;AG003;;Résolu;3;17,21;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;;Non
+CNT-71772;12/08/2023;AG006;251;Non Résolu;;42,07;Chat;Facturation;Oui;Non;Non;;Non
+CNT-71773;20/05/2023;AG004;197;Résolu;4;33,02;Chat;Déménagement;Oui;Oui;Oui;;Non
+CNT-71774;07/05/2023;AG004;133;Résolu;4;23,1;Téléphone;Déménagement;Oui;Non;Oui;;Non
+CNT-71775;21/01/2023;AG001;305;Résolu;4;43,65;Téléphone;Souscription contrat;Oui;Non;Oui;3;Non
+CNT-71776;23/07/2023;AG001;385;Résolu;4;22,04;Réseaux Sociaux;Changement d'offre;Non;Non;Oui;8;Non
+CNT-71777;15/08/2023;AG008;253;Non Résolu;5;22,89;Téléphone;Facturation;Oui;Oui;Oui;5;Non
+CNT-71778;24/05/2023;AG006;338;En Attente;;18,42;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;6;Non
+CNT-71779;25/06/2023;AG007;;Résolu;5;48,89;Téléphone;Facturation;Oui;Non;Oui;9;Non
+CNT-71780;25/10/2023;AG002;416;Résolu;5;48,4;Téléphone;Demande d'information;Oui;Non;Oui;8;Non
+CNT-71781;15/09/2023;AG005;327;Non Résolu;3;25,6;Réseaux Sociaux;Facturation;Oui;Oui;Non Renseigné;7;Non
+CNT-71782;04/12/2023;AG005;267;Non Résolu;1;20,88;Téléphone;Résiliation;Oui;Non;Oui;5;Non
+CNT-71783;14/09/2023;AG007;226;Résolu;5;26,75;Téléphone;Facturation;Oui;Non;Non Renseigné;8;Non
+CNT-71784;24/12/2023;AG001;185;Résolu;4;28,93;Réseaux Sociaux;Facturation;Oui;Non;Non;7;Oui
+CNT-71785;10/05/2023;AG007;258;Non Résolu;4;26,48;Chat;Réclamation;Oui;Non;Oui;8;Oui
+CNT-71786;08/09/2023;AG006;352;Non Résolu;;16,59;Réseaux Sociaux;Litige paiement;Oui;Oui;Oui;;Non
+CNT-71787;01/01/2023;AG001;394;Non Résolu;5;17,45;Chat;Changement d'offre;Oui;Non;Oui;;Non
+CNT-71788;15/11/2023;AG003;188;Résolu;5;35,95;Email;Réclamation;Non;Non;Oui;6;Non
+CNT-71789;24/06/2023;AG008;204;Résolu;4;49,77;Téléphone;Changement d'offre;Non;Non;Oui;;Non
+CNT-71790;12/09/2023;AG006;374;Non Résolu;5;25,81;Chat;Relevé compteur;yes;Oui;Oui;2;Non
+CNT-71791;10/12/2023;AG005;422;Résolu;3;21,82;Chat;Litige paiement;Oui;Non;Oui;;Non
+CNT-71792;26/02/2023;AG009;73;Non Résolu;5;40,58;Réseaux Sociaux;Relevé compteur;Oui;Non;Non;;Non
+CNT-71793;01/09/2023;AG007;257;Résolu;5;14,43;Chat;Changement d'offre;Oui;Non;Oui;1;Non
+CNT-71794;24/09/2023;AG009;326;Résolu;5;14,12;Téléphone;Réclamation;Oui;Non;Oui;7;Non
+CNT-71795;16/05/2023;AG005;315;En Attente;4;49,05;Téléphone;Litige paiement;yes;Non;Non;;Non
+CNT-71796;30/11/2023;AG004;95;Résolu;3;32,86;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+CNT-71797;30/03/2023;AG005;257;Résolu;;26,22;Téléphone;Réclamation;Oui;Oui;Oui;5;Non
+CNT-71798;22/03/2023;AG009;224;En Attente;;36,22;Téléphone;Relevé compteur;Oui;Non;Oui;7;Non
+CNT-71799;07/12/2023;AG002;123;Résolu;5;11,91;Téléphone;Souscription contrat;Oui;Non;Oui;5;Non
+CNT-71800;16/11/2023;AG007;333;En Attente;5;11,57;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-71801;31/07/2023;AG003;390;Résolu;5;48,55;Téléphone;Demande d'information;Oui;Non;Oui;7;Non
+CNT-71802;19/11/2023;AG005;266;Non Résolu;4;40,83;Téléphone;Relevé compteur;Oui;Non;Oui;0;Oui
+CNT-71803;07/06/2023;AG001;226;Non Résolu;;41,3;Réseaux Sociaux;Résiliation;Non;Non;Oui;;Non
+CNT-71804;17/03/2023;AG002;271;Résolu;;28,77;Chat;Changement d'offre;Oui;Non;Non;;Non
+CNT-71805;28/08/2023;AG009;340;Non Résolu;5;10,84;Chat;Panne compteur;Oui;Oui;Oui;;Oui
+CNT-71806;01/10/2023;AG003;56;Résolu;3;40,69;Email;Panne compteur;Oui;Non;Oui;7;Non
+CNT-71807;31/12/2023;AG008;398;En Attente;1;25,56;Réseaux Sociaux;Panne compteur;Non;Non;Oui;6;Non
+CNT-71808;05/03/2023;AG002;194;En Attente;5;14,45;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;10;Non
+CNT-71809;09/03/2023;AG001;290;Résolu;5;14,73;Chat;Litige paiement;Oui;Non;Oui;8;Non
+CNT-71810;31/12/2023;AG006;265;Résolu;;41,55;Chat;Panne compteur;Oui;Non;Non;4;Non
+CNT-71811;20/03/2023;AG002;;Résolu;4;34,03;Chat;Réclamation;Non;Non;Non;;Non
+CNT-71812;23/12/2023;AG005;438;Résolu;5;22,93;Téléphone;Demande d'information;Oui;Non;Oui;0;Oui
+CNT-71813;14/08/2023;AG006;334;En Attente;5;23,84;Téléphone;Résiliation;Oui;Non;Non;;Non
+CNT-71814;20/12/2023;AG004;373;Non Résolu;5;15,63;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-71815;12/04/2023;AG001;160;Non Résolu;2;;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-71816;23/09/2023;AG007;263;Non Résolu;4;47,64;Chat;Relevé compteur;Oui;Non;Oui;6;Non
+CNT-71817;27/06/2023;AG007;243;Résolu;4;33,99;Téléphone;Résiliation;Oui;Non;Non;;Oui
+CNT-71818;21/02/2023;AG006;326;Résolu;4;29,39;Email;Panne compteur;Oui;Non;Oui;;Non
+CNT-71819;07/07/2023;AG005;;Résolu;4;38,45;Email;Déménagement;Non;Non;Oui;10;Non
+CNT-71820;15/12/2023;AG002;207;Résolu;5;22,78;Téléphone;Réclamation;Oui;Oui;Oui;;Non
+CNT-71821;10/08/2023;AG001;321;En Attente;5;18,17;Téléphone;Relevé compteur;Oui;Non;Oui;6;Non
+CNT-71822;07/07/2023;AG001;359;En Attente;5;23,15;Email;Relevé compteur;Oui;Non;Oui;8;Non
+CNT-71823;28/09/2023;AG001;247;En Attente;4;24,35;Chat;Litige paiement;Oui;Non;Oui;6;Non
+CNT-71824;25/11/2023;AG001;264;Non Résolu;5;30,95;Réseaux Sociaux;Facturation;Oui;Non;Non;9;Non
+CNT-71825;15/03/2023;AG001;374;En Attente;5;44,29;Email;Demande d'information;Oui;Non;Non Renseigné;;Non
+CNT-71826;22/01/2023;AG004;460;Résolu;3;12,51;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;;Non
+CNT-71827;19/05/2023;AG007;249;Résolu;5;16,32;Téléphone;Résiliation;Oui;Oui;Non Renseigné;;Non
+CNT-71828;23/09/2023;AG002;246;Résolu;5;48,6;Téléphone;Résiliation;Oui;Oui;Oui;8;Non
+CNT-71829;10/01/2023;AG009;;Résolu;4;48,8;Téléphone;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-71830;10/11/2023;AG002;215;Résolu;3;48,53;Chat;Réclamation;Oui;Non;Non;;Oui
+CNT-71831;02/06/2023;AG008;345;Résolu;;37,26;Chat;Relevé compteur;yes;Non;Oui;;Non
+CNT-71832;16/04/2023;AG001;416;Résolu;5;9,68;Email;Demande d'information;yes;Oui;Oui;8;Non
+CNT-71833;02/11/2023;AG004;176;Non Résolu;4;14,99;Email;Facturation;Oui;Non;Non;;Non
+CNT-71834;02/07/2023;AG002;306;Non Résolu;3;23,93;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+CNT-71835;16/04/2023;AG001;364;Résolu;3;29,53;Chat;Relevé compteur;Oui;Oui;Oui;9;Oui
+CNT-71836;01/12/2023;AG002;284;Résolu;5;25,32;Chat;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-71837;02/07/2023;AG009;336;Résolu;5;13,93;Téléphone;Souscription contrat;Oui;Non;Non Renseigné;8;Non
+CNT-71838;27/07/2023;AG009;144;En Attente;5;29,44;Téléphone;Demande d'information;Non;Oui;Non;9;Non
+CNT-71839;02/09/2023;AG005;;Non Résolu;5;45,25;Téléphone;Facturation;Oui;Non;Oui;6;Non
+CNT-71840;28/04/2023;AG004;419;Non Résolu;4;24,97;Téléphone;Panne compteur;Oui;Non;Non;7;Non
+CNT-71841;28/05/2023;AG009;345;Résolu;5;10,19;Téléphone;Souscription contrat;Oui;Non;Oui;9;Oui
+CNT-71842;27/10/2023;AG002;316;Résolu;2;43,62;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-71843;30/10/2023;AG002;356;Résolu;5;33,62;Téléphone;Demande d'information;Oui;Non;Non Renseigné;4;Non
+CNT-71844;01/01/2023;AG001;230;Non Résolu;5;48,82;Téléphone;Demande d'information;Oui;Non;Oui;10;Oui
+CNT-71845;18/05/2023;AG003;160;En Attente;4;23,4;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;;Non
+CNT-71846;16/12/2023;AG005;139;En Attente;4;11,12;Email;Réclamation;Non;Non;Oui;;Non
+CNT-71847;05/09/2023;AG009;126;Résolu;4;13,88;Réseaux Sociaux;Demande d'information;;Oui;Oui;5;Non
+CNT-71848;13/10/2023;AG002;304;Résolu;1;11,6;Email;Changement d'offre;Non;Non;Oui;;Non
+CNT-71849;06/04/2023;AG001;219;Résolu;4;21,25;Téléphone;Litige paiement;Oui;Non;Oui;;Non
+CNT-71850;12/03/2023;AG002;412;Résolu;5;24,35;Téléphone;Résiliation;Oui;Non;Oui;;Oui
+CNT-71851;30/11/2023;AG003;386;Résolu;5;;Email;Litige paiement;Oui;Non;Non Renseigné;;Non
+CNT-71852;07/12/2023;AG005;327;Résolu;;42,26;Téléphone;Litige paiement;Oui;Non;Non;8;Non
+CNT-71853;06/03/2023;AG001;170;En Attente;3;14,68;Téléphone;Réclamation;Oui;Oui;Oui;;Non
+CNT-71854;01/12/2023;AG007;94;En Attente;4;15,89;Téléphone;Déménagement;Oui;Non;Oui;8;Non
+CNT-71855;23/09/2023;AG001;251;Résolu;2;39,11;Réseaux Sociaux;Réclamation;Oui;Oui;Oui;;Non
+CNT-71856;01/04/2023;AG004;112;Non Résolu;5;21,71;Chat;Réclamation;Oui;Non;Oui;9;Non
+CNT-71857;24/04/2023;AG002;279;Résolu;4;48,63;Téléphone;Changement d'offre;Oui;Non;Non;9;Non
+CNT-71858;17/03/2023;AG008;480;Résolu;4;24,45;Téléphone;Litige paiement;Oui;Non;Oui;4;Non
+CNT-71859;29/11/2023;AG006;188;Résolu;4;12,19;Téléphone;Panne compteur;Oui;Oui;Oui;3;Non
+CNT-71860;11/11/2023;AG003;416;En Attente;5;20,77;Téléphone;Souscription contrat;Oui;Non;Non;8;Oui
+CNT-71861;15/02/2023;AG008;94;Résolu;5;43,77;Téléphone;Résiliation;Oui;Oui;Oui;10;Non
+CNT-71862;23/08/2023;AG005;221;Résolu;4;14,12;Téléphone;Facturation;Oui;Non;Non;5;Non
+CNT-71863;21/03/2023;AG001;158;Résolu;3;25,6;Téléphone;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71864;06/09/2023;AG007;205;Non Résolu;3;31,29;Réseaux Sociaux;Résiliation;Oui;Non;Non Renseigné;;Non
+CNT-71865;24/06/2023;AG001;13;Résolu;4;20,27;Chat;Litige paiement;Oui;Non;Oui;;Non
+CNT-71866;02/04/2023;AG002;386;Résolu;3;21,96;Téléphone;Résiliation;Oui;Non;Oui;9;Non
+CNT-71867;27/07/2023;AG003;582;Résolu;4;43,04;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+CNT-71868;13/11/2023;AG002;61;Résolu;1;47,84;Email;Facturation;Oui;Non;Oui;10;Non
+CNT-71869;14/10/2023;AG004;313;Non Résolu;4;43,65;Chat;Demande d'information;Oui;Non;Oui;;Non
+CNT-71870;06/06/2023;AG001;114;Non Résolu;3;36,2;Téléphone;Changement d'offre;Oui;Non;Non;;Non
+CNT-71871;09/03/2023;AG003;179;Résolu;2;49,21;Email;Panne compteur;;Oui;Non Renseigné;;Non
+CNT-71872;24/05/2023;AG001;348;En Attente;3;22,49;Email;Résiliation;Oui;Non;Oui;7;Non
+CNT-71873;27/08/2023;AG004;289;Résolu;;25,69;Téléphone;Changement d'offre;Oui;Oui;Non;;Non
+CNT-71874;29/10/2023;AG007;281;Résolu;3;49,24;Email;Déménagement;Oui;Oui;Oui;6;Non
+CNT-71875;23/10/2023;AG007;293;En Attente;4;40,77;Téléphone;Souscription contrat;Oui;Non;Non Renseigné;10;Non
+CNT-71876;08/01/2023;AG009;410;Résolu;1;45,92;Email;Litige paiement;Oui;Non;Oui;;Non
+CNT-71877;18/07/2023;AG006;10;Résolu;3;31,62;Chat;Résiliation;Oui;Non;Oui;;Non
+CNT-71878;31/12/2023;AG005;217;En Attente;;30,17;Email;Demande d'information;;Non;Oui;7;Non
+CNT-71879;27/09/2023;AG002;;Résolu;1;12,97;Téléphone;Résiliation;Oui;Non;Oui;6;Non
+CNT-71880;04/05/2023;AG002;211;Non Résolu;2;25,6;Chat;Litige paiement;Oui;Non;Non Renseigné;;Non
+CNT-71881;02/11/2023;AG002;290;Résolu;4;41,99;Chat;Facturation;Non;Non;Oui;;Non
+CNT-71882;09/10/2023;AG003;381;Résolu;5;23,02;Chat;Facturation;Oui;Non;Non;7;Oui
+CNT-71883;30/09/2023;AG005;248;Résolu;4;48,26;Téléphone;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71884;23/05/2023;AG001;296;Résolu;3;18,51;Téléphone;Relevé compteur;Oui;Non;Oui;10;Non
+CNT-71885;01/12/2023;AG006;313;Résolu;;49,37;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71886;16/08/2023;AG003;324;En Attente;3;29,71;Téléphone;Facturation;Oui;Non;Oui;4;Non
+CNT-71887;20/03/2023;AG003;260;Non Résolu;5;28,35;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-71888;27/05/2023;AG003;62;En Attente;3;30,88;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;7;Oui
+CNT-71889;04/10/2023;AG007;199;En Attente;5;27,55;Email;Litige paiement;Non;Non;Non;;Non
+CNT-71890;05/10/2023;AG005;301;Résolu;;33,55;Téléphone;Relevé compteur;Non;Oui;Oui;8;Non
+CNT-71891;31/12/2023;AG009;227;Non Résolu;4;40,31;Téléphone;Relevé compteur;Oui;Oui;Oui;;Oui
+CNT-71892;29/06/2023;AG008;272;Non Résolu;5;;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;4;Non
+CNT-71893;06/03/2023;AG001;299;Résolu;4;;Chat;Facturation;Oui;Non;Oui;;Non
+CNT-71894;04/05/2023;AG006;221;Résolu;1;28,3;Réseaux Sociaux;Changement d'offre;yes;Oui;Non;9;Non
+CNT-71895;01/11/2023;AG009;136;Résolu;;45,71;Email;Panne compteur;Non;Non;Oui;9;Non
+CNT-71896;25/02/2023;AG005;84;Résolu;5;39,45;Chat;Résiliation;Oui;Non;Oui;;Non
+CNT-71897;30/10/2023;AG005;310;Non Résolu;5;;Réseaux Sociaux;Résiliation;Oui;Non;Oui;6;Oui
+CNT-71898;31/01/2023;AG009;134;Résolu;5;32,65;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71899;24/03/2023;AG005;262;En Attente;3;46,37;Email;Litige paiement;Oui;Non;Oui;;Non
+CNT-71900;05/05/2023;AG009;288;Non Résolu;5;24,46;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;6;Non
+CNT-71901;06/04/2023;AG005;374;En Attente;;12,57;Chat;Réclamation;Oui;Non;Oui;;Non
+CNT-71902;01/10/2023;AG008;423;En Attente;5;23,77;Téléphone;Litige paiement;Oui;Non;Oui;;Non
+CNT-71903;28/01/2023;AG009;240;Résolu;;18,65;Chat;Réclamation;Oui;Oui;Oui;10;Non
+CNT-71904;26/09/2023;AG008;166;En Attente;;14,94;Téléphone;Souscription contrat;Oui;Oui;Non;10;Non
+CNT-71905;04/05/2023;AG003;295;En Attente;4;13,23;Téléphone;Facturation;Oui;Oui;Oui;6;Non
+CNT-71906;15/04/2023;AG003;170;Résolu;5;43,55;Réseaux Sociaux;Litige paiement;Oui;Non;Oui;;Non
+CNT-71907;27/08/2023;AG007;287;Résolu;2;49,71;Chat;Changement d'offre;Oui;Non;Non Renseigné;9;Non
+CNT-71908;12/09/2023;AG002;186;Résolu;1;38,18;Réseaux Sociaux;Litige paiement;Non;Non;Oui;;Non
+CNT-71909;04/12/2023;AG004;47;Résolu;3;47,42;Réseaux Sociaux;Litige paiement;Oui;Non;Oui;7;Non
+CNT-71910;18/11/2023;AG004;311;Résolu;4;37,24;Email;Changement d'offre;Oui;Non;Oui;;Non
+CNT-71911;29/01/2023;AG008;192;Résolu;5;14,46;Téléphone;Déménagement;Oui;Non;Non;2;Non
+CNT-71912;31/03/2023;AG005;411;Résolu;;17,97;Email;Relevé compteur;Oui;Non;Non;5;Non
+CNT-71913;15/09/2023;AG002;261;Résolu;;44,72;Chat;Résiliation;Oui;Non;Non;10;Non
+CNT-71914;02/03/2023;AG007;105;Résolu;5;38,56;Téléphone;Relevé compteur;Non;Non;Oui;8;Non
+CNT-71915;11/02/2023;AG004;356;Résolu;4;41,08;Réseaux Sociaux;Résiliation;Oui;Non;Non;8;Non
+CNT-71916;17/11/2023;AG003;241;En Attente;4;37,13;Téléphone;Facturation;Oui;Non;Oui;;Non
+CNT-71917;28/05/2023;AG009;319;En Attente;1;33,71;Téléphone;Réclamation;yes;Non;Non Renseigné;7;Non
+CNT-71918;18/01/2023;AG005;358;Résolu;;9,13;Chat;Relevé compteur;;Non;Oui;10;Non
+CNT-71919;23/04/2023;AG005;266;Résolu;3;20,57;Téléphone;Changement d'offre;Oui;Non;Oui;8;Non
+CNT-71920;21/11/2023;AG006;129;Résolu;4;46,22;Chat;Relevé compteur;Oui;Non;Oui;0;Non
+CNT-71921;04/01/2023;AG009;275;Résolu;;35,55;Réseaux Sociaux;Litige paiement;Non;Non;Oui;6;Non
+CNT-71922;06/10/2023;AG008;395;Résolu;;27,49;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;9;Non
+CNT-71923;01/11/2023;AG002;250;Non Résolu;;31,9;Téléphone;Souscription contrat;Non;Non;Oui;6;Non
+CNT-71924;19/02/2023;AG003;301;Résolu;4;28,64;Réseaux Sociaux;Panne compteur;Oui;Oui;Oui;7;Non
+CNT-71925;01/06/2023;AG009;180;Non Résolu;5;21,37;Téléphone;Résiliation;Oui;Oui;Oui;2;Non
+CNT-71926;22/09/2023;AG005;114;Résolu;4;46,93;Email;Réclamation;Non;Non;Non;;Non
+CNT-71927;29/11/2023;AG005;243;Résolu;4;11,21;Téléphone;Panne compteur;Oui;Non;Oui;6;Non
+CNT-71928;06/04/2023;AG008;263;Résolu;4;34,38;Chat;Réclamation;Oui;Non;Oui;8;Non
+CNT-71929;31/12/2023;AG001;371;En Attente;5;21,41;Email;Déménagement;Oui;Oui;Oui;;Non
+CNT-71930;05/04/2023;AG008;269;Non Résolu;3;49,61;Téléphone;Litige paiement;Oui;Non;Oui;;Non
+CNT-71931;28/05/2023;AG005;362;Résolu;3;37,76;Téléphone;Relevé compteur;Oui;Non;Non;9;Non
+CNT-71932;12/07/2023;AG008;216;Non Résolu;5;22,71;Téléphone;Panne compteur;Non;Non;Oui;;Non
+CNT-71933;10/02/2023;AG001;126;En Attente;5;23,1;Réseaux Sociaux;Déménagement;Oui;Oui;Oui;;Non
+CNT-71934;09/09/2023;AG006;307;Résolu;5;10,56;Téléphone;Relevé compteur;Non;Non;Non Renseigné;;Non
+CNT-71935;22/10/2023;AG002;407;Non Résolu;5;44,98;Réseaux Sociaux;Résiliation;Oui;Non;Non;9;Non
+CNT-71936;14/10/2023;AG003;203;Résolu;4;30,84;Chat;Changement d'offre;Non;Non;Oui;9;Non
+CNT-71937;14/01/2023;AG003;322;Non Résolu;;18,2;Téléphone;Résiliation;Oui;Non;Oui;5;Non
+CNT-71938;17/05/2023;AG001;326;En Attente;2;10,67;Réseaux Sociaux;Facturation;Non;Non;Non Renseigné;9;Non
+CNT-71939;03/10/2023;AG006;115;Résolu;5;48,75;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;4;Oui
+CNT-71940;26/01/2023;AG003;239;Non Résolu;3;30,13;Téléphone;Changement d'offre;Oui;Non;Oui;3;Non
+CNT-71941;13/03/2023;AG004;;Résolu;;28,11;Réseaux Sociaux;Relevé compteur;Non;Non;Oui;;Non
+CNT-71942;04/04/2023;AG006;295;Résolu;5;20,4;Téléphone;Litige paiement;Oui;Non;Non Renseigné;8;Oui
+CNT-71943;14/03/2023;AG005;331;Non Résolu;4;27,32;Chat;Litige paiement;Oui;Oui;Non;;Oui
+CNT-71944;17/07/2023;AG005;313;Non Résolu;5;16,19;Téléphone;Demande d'information;Non;Oui;Non Renseigné;;Non
+CNT-71945;01/12/2023;AG003;251;En Attente;4;12,67;Téléphone;Litige paiement;Oui;Non;Oui;8;Non
+CNT-71946;23/12/2023;AG009;263;Résolu;5;36,05;Téléphone;Souscription contrat;Oui;Non;Oui;7;Non
+CNT-71947;18/02/2023;AG007;368;Résolu;;;Chat;Déménagement;Oui;Non;Oui;;Non
+CNT-71948;28/07/2023;AG008;186;Résolu;4;33,43;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-71949;25/05/2023;AG008;270;Résolu;2;9,56;Réseaux Sociaux;Résiliation;Oui;Oui;Oui;10;Non
+CNT-71950;04/08/2023;AG003;308;Résolu;5;21,47;Chat;Demande d'information;Oui;Non;Oui;;Non
+CNT-71951;10/06/2023;AG007;240;En Attente;;47,53;Téléphone;Litige paiement;Oui;Non;Oui;6;Non
+CNT-71952;21/03/2023;AG009;177;Non Résolu;5;34,76;Téléphone;Panne compteur;Oui;Non;Oui;0;Non
+CNT-71953;16/06/2023;AG001;149;Résolu;3;40,23;Chat;Changement d'offre;Oui;Non;Oui;7;Non
+CNT-71954;20/06/2023;AG006;363;Résolu;3;10,65;Chat;Résiliation;Oui;Oui;Oui;0;Non
+CNT-71955;14/07/2023;AG003;260;Non Résolu;3;46,81;Téléphone;Résiliation;Oui;Non;Oui;5;Non
+CNT-71956;09/01/2023;AG007;282;Résolu;4;25,44;Téléphone;Résiliation;Oui;Non;Oui;9;Non
+CNT-71957;13/04/2023;AG008;242;Non Résolu;3;43,14;Téléphone;Souscription contrat;Oui;Oui;Non Renseigné;8;Non
+CNT-71958;11/06/2023;AG009;161;Résolu;;46,64;Téléphone;Réclamation;Oui;Non;Non Renseigné;9;Non
+CNT-71959;14/02/2023;AG007;312;Non Résolu;4;19,07;Email;Changement d'offre;Non;Non;Oui;9;Non
+CNT-71960;22/10/2023;AG009;331;En Attente;5;13,34;Réseaux Sociaux;Panne compteur;Oui;Non;Oui;;Non
+CNT-71961;08/01/2023;AG009;202;Résolu;4;18,1;Téléphone;Facturation;Oui;Oui;Oui;10;Non
+CNT-71962;06/01/2023;AG001;388;En Attente;4;15,05;Email;Réclamation;Oui;Non;Oui;;Non
+CNT-71963;13/12/2023;AG006;261;Non Résolu;;31,45;Chat;Demande d'information;Non;Non;Oui;9;Non
+CNT-71964;20/02/2023;AG004;333;Non Résolu;5;;Email;Litige paiement;Oui;Oui;Oui;8;Non
+CNT-71965;24/12/2023;AG001;302;Résolu;;47,36;Chat;Résiliation;Non;Non;Oui;3;Non
+CNT-71966;14/02/2023;AG006;;En Attente;;26,78;Réseaux Sociaux;Résiliation;Non;Non;Non;8;Non
+CNT-71967;30/04/2023;AG005;376;Non Résolu;5;13,6;Réseaux Sociaux;Panne compteur;Oui;Oui;Oui;7;Non
+CNT-71968;27/08/2023;AG004;502;Résolu;4;37,28;Téléphone;Relevé compteur;Oui;Non;Oui;7;Non
+CNT-71969;05/06/2023;AG004;252;Résolu;4;38,51;Chat;Changement d'offre;yes;Non;Oui;;Non
+CNT-71970;16/12/2023;AG003;112;Résolu;3;47,63;Téléphone;Réclamation;Oui;Oui;Non;8;Non
+CNT-71971;15/05/2023;AG004;291;Résolu;5;37,56;Chat;Réclamation;Non;Non;Non;;Non
+CNT-71972;24/07/2023;AG002;184;Non Résolu;4;46,8;Email;Demande d'information;Non;Oui;Oui;8;Non
+CNT-71973;08/05/2023;AG005;148;Résolu;4;45,39;Chat;Souscription contrat;Oui;Non;Oui;8;Non
+CNT-71974;25/05/2023;AG006;212;Non Résolu;;10,99;Chat;Facturation;Oui;Non;Non Renseigné;;Non
+CNT-71975;14/06/2023;AG009;250;Non Résolu;5;20,64;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;;Non
+CNT-71976;28/06/2023;AG001;378;Non Résolu;3;34,99;Réseaux Sociaux;Facturation;Oui;Oui;Non Renseigné;6;Non
+CNT-71977;21/10/2023;AG005;441;Résolu;4;38,41;Email;Déménagement;Oui;Non;Oui;2;Non
+CNT-71978;08/08/2023;AG001;159;Non Résolu;4;12,09;Téléphone;Relevé compteur;Non;Non;Oui;;Non
+CNT-71979;11/09/2023;AG006;219;Résolu;3;35,28;Email;Souscription contrat;Oui;Non;Oui;10;Non
+CNT-71980;01/10/2023;AG006;317;Résolu;3;42,5;Téléphone;Déménagement;Oui;Non;Non;8;Non
+CNT-71981;24/06/2023;AG002;332;Résolu;4;;Téléphone;Demande d'information;Oui;Non;Oui;;Non
+CNT-71982;17/03/2023;AG001;381;Non Résolu;5;20,14;Chat;Changement d'offre;Oui;Non;Oui;;Non
+CNT-71983;04/07/2023;AG003;345;Non Résolu;5;49,71;Téléphone;Résiliation;Oui;Non;Oui;7;Non
+CNT-71984;04/06/2023;AG003;206;Résolu;5;20,85;Téléphone;Changement d'offre;Oui;Non;Oui;4;Non
+CNT-71985;12/11/2023;AG007;200;Résolu;4;48,99;Téléphone;Changement d'offre;Oui;Non;Non;;Non
+CNT-71986;04/09/2023;AG006;295;Résolu;4;48,8;Réseaux Sociaux;Facturation;Oui;Non;Oui;8;Non
+CNT-71987;15/11/2023;AG006;488;Résolu;2;37,52;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+CNT-71988;12/05/2023;AG007;245;Résolu;4;22,68;Téléphone;Résiliation;Oui;Non;Oui;;Non
+CNT-71989;10/05/2023;AG001;;Résolu;5;44,04;Réseaux Sociaux;Relevé compteur;Non;Oui;Oui;9;Non
+CNT-71990;12/01/2023;AG007;339;Non Résolu;5;22,81;Chat;Panne compteur;;Oui;Oui;8;Non
+CNT-71991;03/02/2023;AG001;261;Non Résolu;4;38,35;Email;Panne compteur;Oui;Non;Oui;9;Non
+CNT-71992;19/12/2023;AG007;491;Non Résolu;;29,68;Téléphone;Réclamation;Oui;Non;Oui;6;Non
+CNT-71993;22/10/2023;AG009;228;En Attente;5;48,65;Chat;Résiliation;yes;Non;Oui;8;Non
+CNT-71994;18/10/2023;AG006;152;Résolu;4;46,3;Téléphone;Souscription contrat;Oui;Non;Non Renseigné;;Non
+CNT-71995;13/07/2023;AG005;343;En Attente;;21,06;Téléphone;Relevé compteur;Oui;Non;Oui;9;Oui
+CNT-71996;25/07/2023;AG001;179;Résolu;5;45,9;Téléphone;Panne compteur;Oui;Non;Oui;;Non
+CNT-71997;03/11/2023;AG004;234;Résolu;4;20,73;Chat;Litige paiement;Oui;Non;Oui;2;Non
+CNT-71998;13/02/2023;AG007;290;Résolu;2;42,03;Téléphone;Relevé compteur;Oui;Non;Oui;;Non
+CNT-71999;04/09/2023;AG004;242;En Attente;1;14,78;Email;Litige paiement;Oui;Non;Non;9;Oui
+CNT-72000;21/10/2023;AG001;279;Non Résolu;4;12,22;Téléphone;Résiliation;Oui;Non;Oui;8;Non
+CNT-72001;12/04/2023;AG003;272;Non Résolu;4;42,83;Téléphone;Relevé compteur;Oui;Oui;Non Renseigné;;Non
+CNT-72002;07/03/2023;AG002;456;En Attente;4;29,21;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;7;Non
+CNT-72003;05/09/2023;AG008;315;Résolu;5;37,61;Chat;Réclamation;Non;Non;Non Renseigné;;Non
+CNT-72004;16/03/2023;AG007;255;En Attente;;15,19;Téléphone;Demande d'information;Oui;Non;Oui;5;Non
+CNT-72005;11/01/2023;AG004;209;Résolu;1;42,77;Email;Déménagement;Oui;Non;Oui;5;Non
+CNT-72006;03/03/2023;AG005;213;Non Résolu;5;26,58;Téléphone;Demande d'information;Oui;Oui;Non;;Non
+CNT-72007;05/07/2023;AG003;69;Non Résolu;3;40,67;Téléphone;Déménagement;Oui;Non;Oui;8;Non
+CNT-72008;06/12/2023;AG002;407;Résolu;5;12,01;Chat;Litige paiement;Oui;Oui;Oui;;Non
+CNT-72009;19/03/2023;AG004;250;En Attente;3;16,86;Téléphone;Facturation;Oui;Non;Oui;9;Non
+CNT-72010;21/05/2023;AG006;324;Résolu;5;12,07;Chat;Réclamation;Oui;Non;Oui;;Non
+CNT-72011;15/10/2023;AG001;267;Non Résolu;4;10,77;Téléphone;Relevé compteur;Non;Oui;Oui;8;Non
+CNT-72012;14/10/2023;AG003;301;Résolu;4;25,36;Réseaux Sociaux;Demande d'information;Oui;Non;Oui;9;Non
+CNT-72013;08/11/2023;AG004;159;Non Résolu;4;42,85;Téléphone;Demande d'information;Oui;Non;Non;;Non
+CNT-72014;07/02/2023;AG008;352;Non Résolu;4;37,09;Email;Changement d'offre;Oui;Non;Oui;;Non
+CNT-72015;17/03/2023;AG004;113;Résolu;4;14,09;Réseaux Sociaux;Demande d'information;Oui;Non;Oui;7;Non
+CNT-72016;06/03/2023;AG008;243;Non Résolu;4;38,24;Chat;Déménagement;Oui;Non;Non Renseigné;2;Non
+CNT-72017;30/01/2023;AG005;305;Résolu;4;30,49;Email;Déménagement;Oui;Non;Oui;8;Non
+CNT-72018;19/11/2023;AG006;314;Non Résolu;4;;Réseaux Sociaux;Souscription contrat;Oui;Non;Oui;;Oui
+CNT-72019;18/12/2023;AG004;216;Résolu;4;42,55;Téléphone;Relevé compteur;Non;Non;Oui;3;Non
+CNT-72020;25/02/2023;AG006;407;Non Résolu;4;19,57;Réseaux Sociaux;Panne compteur;Non;Oui;Non Renseigné;;Non
+CNT-72021;18/07/2023;AG008;86;Résolu;;37,28;Téléphone;Litige paiement;Oui;Oui;Non;;Non
+CNT-72022;07/12/2023;AG002;345;Résolu;3;17,91;Réseaux Sociaux;Réclamation;Oui;Non;Oui;;Non
+CNT-72023;22/07/2023;AG008;212;En Attente;4;9,61;Chat;Facturation;Oui;Non;Oui;;Non
+CNT-72024;01/03/2023;AG007;178;En Attente;;29,84;Chat;Réclamation;Non;Non;Non;3;Non
+CNT-72025;25/01/2023;AG001;199;Résolu;3;17,35;Email;Litige paiement;Oui;Non;Non;8;Non
+CNT-72026;14/09/2023;AG006;182;En Attente;4;37,99;Téléphone;Litige paiement;Oui;Oui;Non Renseigné;0;Oui
+CNT-72027;20/04/2023;AG006;338;Résolu;2;32,72;Chat;Relevé compteur;Oui;Non;Oui;9;Non
+CNT-72028;27/10/2023;AG006;296;En Attente;;24,84;Téléphone;Déménagement;Oui;Oui;Oui;10;Non
+CNT-72029;28/03/2023;AG008;312;En Attente;3;;Téléphone;Relevé compteur;Oui;Non;Oui;0;Non
+CNT-72030;17/12/2023;AG002;263;En Attente;5;17,94;Chat;Résiliation;Oui;Non;Oui;8;Non
+CNT-72031;25/04/2023;AG002;217;Résolu;4;31,87;Email;Déménagement;Oui;Non;Oui;6;Non
+CNT-72032;07/07/2023;AG003;505;En Attente;4;31,59;Réseaux Sociaux;Relevé compteur;Oui;Non;Oui;;Non
+CNT-72033;22/11/2023;AG003;151;Résolu;5;48,36;Téléphone;Souscription contrat;Oui;Non;Non;;Non
+CNT-72034;03/11/2023;AG004;378;Non Résolu;2;22,11;Chat;Panne compteur;Non;Non;Oui;7;Non
+CNT-72035;02/07/2023;AG001;277;Non Résolu;4;26,96;Réseaux Sociaux;Souscription contrat;yes;Non;Non Renseigné;6;Non
+CNT-72036;26/05/2023;AG004;81;Résolu;4;24,57;Chat;Résiliation;Oui;Non;Oui;4;Non
+CNT-72037;27/01/2023;AG005;236;Résolu;3;33,54;Téléphone;Changement d'offre;Oui;Oui;Oui;6;Non
+CNT-72038;02/10/2023;AG009;444;Non Résolu;5;23,42;Téléphone;Panne compteur;Oui;Non;Oui;3;Non
+CNT-72039;30/03/2023;AG007;368;Résolu;5;21,95;Téléphone;Souscription contrat;Oui;Oui;Oui;;Non
+CNT-72040;16/02/2023;AG009;161;Résolu;5;19,37;Téléphone;Réclamation;Oui;Non;Non Renseigné;9;Non
+CNT-72041;26/05/2023;AG002;289;Non Résolu;4;10,73;Téléphone;Demande d'information;Oui;Non;Non Renseigné;8;Oui
+CNT-72042;02/12/2023;AG003;254;Résolu;5;9,8;Réseaux Sociaux;Déménagement;Oui;Non;Oui;7;Oui
+CNT-72043;16/01/2023;AG004;;Non Résolu;5;19,06;Email;Facturation;Oui;Non;Oui;;Non
+CNT-72044;10/03/2023;AG005;209;Résolu;3;26,91;Chat;Demande d'information;Oui;Non;Oui;8;Non
+CNT-72045;23/12/2023;AG009;277;En Attente;4;46,44;Réseaux Sociaux;Changement d'offre;Non;Non;Oui;7;Non
+CNT-72046;25/08/2023;AG004;193;En Attente;2;46,92;Chat;Panne compteur;Oui;Non;Non;;Non
+CNT-72047;08/04/2023;AG008;359;Non Résolu;;;Téléphone;Résiliation;Oui;Non;Oui;8;Non
+CNT-72048;30/07/2023;AG005;206;Résolu;3;49,76;Téléphone;Demande d'information;Non;Non;Oui;7;Non
+CNT-72049;24/06/2023;AG007;238;En Attente;4;44,67;Téléphone;Réclamation;Oui;Oui;Oui;7;Non
+CNT-72050;09/09/2023;AG006;463;Non Résolu;5;36,52;Téléphone;Réclamation;Oui;Oui;Oui;7;Non
+CNT-72051;11/01/2023;AG002;218;Non Résolu;;16,97;Email;Facturation;Oui;Non;Oui;7;Non
+CNT-72052;17/10/2023;AG007;245;Résolu;5;46,37;Chat;Demande d'information;Non;Non;Oui;7;Non
+CNT-72053;23/12/2023;AG007;118;Résolu;2;9,41;Chat;Déménagement;Oui;Non;Non Renseigné;8;Non
+CNT-72054;05/06/2023;AG005;;Non Résolu;4;37,16;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-72055;04/09/2023;AG007;224;Résolu;5;11,4;Téléphone;Demande d'information;Oui;Non;Non;4;Non
+CNT-72056;12/12/2023;AG002;433;Résolu;4;11,71;Email;Panne compteur;Oui;Non;Oui;4;Non
+CNT-72057;20/04/2023;AG007;92;Non Résolu;1;14,54;Chat;Litige paiement;Oui;Non;Oui;;Non
+CNT-72058;24/08/2023;AG007;287;Non Résolu;2;15,63;Téléphone;Panne compteur;Oui;Non;Oui;9;Non
+CNT-72059;06/03/2023;AG006;468;Résolu;1;30,94;Email;Panne compteur;Oui;Non;Oui;;Non
+CNT-72060;17/10/2023;AG007;198;Résolu;3;9,26;Réseaux Sociaux;Demande d'information;Oui;Non;Oui;;Non
+CNT-72061;12/08/2023;AG009;280;Résolu;3;15,18;Réseaux Sociaux;Réclamation;Oui;Non;Oui;10;Non
+CNT-72062;23/06/2023;AG009;393;Résolu;;20,55;Chat;Facturation;Non;Non;Oui;9;Non
+CNT-72063;05/05/2023;AG004;226;En Attente;5;34,65;Téléphone;Souscription contrat;Oui;Non;Oui;9;Non
+CNT-72064;02/11/2023;AG007;115;En Attente;5;30,08;Téléphone;Litige paiement;Oui;Oui;Non;;Non
+CNT-72065;06/02/2023;AG009;211;Résolu;2;41,7;Téléphone;Réclamation;Oui;Non;Non;;Non
+CNT-72066;01/09/2023;AG009;288;Non Résolu;;22,88;Réseaux Sociaux;Résiliation;Oui;Non;Oui;8;Non
+CNT-72067;17/06/2023;AG001;287;Non Résolu;5;41,53;Téléphone;Panne compteur;Oui;Non;Non;;Non
+CNT-72068;20/06/2023;AG008;328;Résolu;4;47,88;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;6;Non
+CNT-72069;08/11/2023;AG009;176;Non Résolu;5;9,56;Téléphone;Réclamation;Oui;Oui;Non;6;Non
+CNT-72070;05/10/2023;AG009;458;Résolu;3;37,77;Chat;Demande d'information;Non;Oui;Oui;;Non
+CNT-72071;03/10/2023;AG001;179;Résolu;5;16,22;Chat;Changement d'offre;Oui;Non;Oui;;Non
+CNT-72072;20/02/2023;AG004;267;Résolu;5;15,74;Email;Panne compteur;;Non;Non;5;Non
+CNT-72073;13/01/2023;AG009;292;Résolu;;9,84;Email;Facturation;Oui;Non;Oui;5;Non
+CNT-72074;27/07/2023;AG006;282;En Attente;4;33,74;Email;Changement d'offre;;Oui;Oui;;Non
+CNT-72075;27/06/2023;AG003;150;Non Résolu;4;37,16;Réseaux Sociaux;Panne compteur;Oui;Oui;Non;6;Oui
+CNT-72076;03/07/2023;AG006;395;Résolu;;48,95;Téléphone;Changement d'offre;Oui;Non;Oui;9;Non
+CNT-72077;17/04/2023;AG007;207;Non Résolu;5;20,11;Téléphone;Relevé compteur;Oui;Non;Oui;;Oui
+CNT-72078;01/09/2023;AG007;301;Résolu;;37,14;Téléphone;Panne compteur;Non;Non;Oui;10;Non
+CNT-72079;28/05/2023;AG001;279;Non Résolu;;36,93;Téléphone;Demande d'information;Oui;Non;Oui;8;Oui
+CNT-72080;17/04/2023;AG002;279;Résolu;4;32,06;Chat;Souscription contrat;Oui;Non;Oui;;Non
+CNT-72081;18/05/2023;AG008;108;Résolu;;37,71;Téléphone;Réclamation;Oui;Non;Non Renseigné;7;Non
+CNT-72082;22/04/2023;AG008;199;Non Résolu;;34,52;Chat;Souscription contrat;yes;Non;Oui;5;Non
+CNT-72083;28/09/2023;AG001;300;Résolu;1;22,31;Email;Panne compteur;Oui;Non;Oui;8;Non
+CNT-72084;25/02/2023;AG002;112;Résolu;2;44,51;Réseaux Sociaux;Résiliation;Oui;Non;Oui;7;Non
+CNT-72085;04/09/2023;AG003;237;Résolu;1;33,03;Téléphone;Souscription contrat;Oui;Non;Oui;;Non
+CNT-72086;29/10/2023;AG008;270;Résolu;;14,08;Téléphone;Résiliation;Oui;Non;Oui;0;Non
+CNT-72087;11/06/2023;AG008;323;Résolu;4;16,01;Chat;Litige paiement;Oui;Non;Non;10;Oui
+CNT-72088;09/11/2023;AG005;268;En Attente;5;25,9;Téléphone;Réclamation;Oui;Non;Oui;;Non
+CNT-72089;16/01/2023;AG006;241;Résolu;3;21,6;Email;Résiliation;Oui;Non;Oui;;Non
+CNT-72090;25/09/2023;AG004;284;Non Résolu;4;11,62;Chat;Souscription contrat;Oui;Non;Oui;9;Non
+CNT-72091;25/04/2023;AG008;235;Non Résolu;4;20,88;Email;Réclamation;Oui;Non;Oui;5;Oui
+CNT-72092;27/09/2023;AG008;173;En Attente;;29,84;Email;Résiliation;Oui;Non;Oui;5;Non
+CNT-72093;10/07/2023;AG002;210;Résolu;2;9,48;Téléphone;Panne compteur;Oui;Non;Oui;7;Oui
+CNT-72094;23/05/2023;AG004;299;Non Résolu;;21,73;Chat;Déménagement;Oui;Non;Non;5;Non
+CNT-72095;21/06/2023;AG009;241;Non Résolu;5;23,78;Email;Litige paiement;Non;Non;Non;;Non
+CNT-72096;12/09/2023;AG001;519;Non Résolu;4;42,16;Chat;Demande d'information;Oui;Non;Oui;;Non
+CNT-72097;10/03/2023;AG009;147;Résolu;2;16,8;Chat;Facturation;Oui;Non;Oui;5;Non
+CNT-72098;29/09/2023;AG006;296;Résolu;5;38,63;Téléphone;Changement d'offre;Oui;Non;Oui;;Non
+CNT-72099;12/03/2023;AG008;312;Résolu;5;12,56;Email;Changement d'offre;Oui;Non;Oui;;Non
+CNT-71057;31/03/2023;AG007;172;En Attente;5;23,22;Chat;Litige paiement;Oui;Non;Oui;;Non
+CNT-72074;27/07/2023;AG006;282;En Attente;4;33,74;Email;Changement d'offre;;Oui;Oui;;Non
+CNT-71260;14/01/2023;AG002;381;En Attente;4;35,43;Email;Demande d'information;Oui;Non;Oui;3;Non
+CNT-72027;20/04/2023;AG006;338;Résolu;2;32,72;Chat;Relevé compteur;Oui;Non;Oui;9;Non
+CNT-72058;24/08/2023;AG007;287;Non Résolu;2;15,63;Téléphone;Panne compteur;Oui;Non;Oui;9;Non
+CNT-70301;24/04/2023;AG003;276;Résolu;4;48,81;Téléphone;Souscription contrat;Oui;Non;Oui;6;Non
+CNT-70273;27/12/2023;AG003;352;Résolu;5;38,95;Téléphone;Déménagement;Oui;Non;Oui;;Non
+CNT-71314;27/07/2023;AG001;160;Résolu;4;25,09;Chat;Changement d'offre;Oui;Non;Oui;7;Non
+CNT-70896;12/05/2023;AG002;480;Résolu;;30,19;Téléphone;Litige paiement;Oui;Oui;Non Renseigné;8;Non
+CNT-71579;06/10/2023;AG002;407;Résolu;3;42,32;Téléphone;Relevé compteur;Oui;Oui;Non;4;Non
+CNT-71875;23/10/2023;AG007;293;En Attente;4;40,77;Téléphone;Souscription contrat;Oui;Non;Non Renseigné;10;Non
+CNT-70131;11/07/2023;AG005;217;Résolu;;15,88;Téléphone;Déménagement;Oui;Non;Oui;8;Non
+CNT-70582;09/12/2023;AG007;288;En Attente;3;18,94;Chat;Déménagement;Non;Non;Oui;10;Non
+CNT-70398;04/10/2023;AG007;380;Non Résolu;1;34,52;Email;Déménagement;Oui;Non;Oui;6;Non
+CNT-71900;05/05/2023;AG009;288;Non Résolu;5;24,46;Réseaux Sociaux;Changement d'offre;Oui;Non;Oui;6;Non
+CNT-70236;28/07/2023;AG001;344;Résolu;5;41,91;Téléphone;Relevé compteur;Oui;Non;Oui;;Non
+CNT-72078;01/09/2023;AG007;301;Résolu;;37,14;Téléphone;Panne compteur;Non;Non;Oui;10;Non
+CNT-71404;25/09/2023;AG006;150;En Attente;3;21,18;Chat;Litige paiement;Non;Non;Non Renseigné;7;Non

@@ -98,6 +98,30 @@ Colonnes (en anglais) : `N_Contact`, `Date` (MM/JJ/AAAA), `Agent_ID`, `Handling_
 9. Nettoyage des valeurs aberrantes dans `Prix_Prestation` :
    - Remplacement des valeurs < 12 € par `null`.
 
+## Table Prestataire D
+
+1. Renommage et traduction des colonnes :
+   - Traduction des libellés anglais en français pour harmoniser la structure avec les autres prestataires.
+   - Exemple : `Social Media` → `Réseaux_Sociaux`.
+
+2. Normalisation des identifiants agents :
+   - Conversion des formats `AG101`, `AG102`, etc. vers un format standardisé `AG001`, `AG002`, etc.
+
+3. Correction des types de données :
+   - Conversion des colonnes `Note_Satisfaction_Client` et `NPS` depuis le type String vers le type Float.
+
+4. Correction du format de date :
+   - Détection et inversion des dates mal formatées (jour/mois inversés).
+   - Création d’une nouvelle colonne `Date_Corrigee` :
+     - Si le mois > jour et jour < mois, inversion automatique des positions jour/mois.
+     - Format final : `JJ/MM/AAAA`.
+
+5. Nettoyage des valeurs aberrantes dans `Temps_Traitement_Sec` :
+   - Remplacement des valeurs < 10 secondes par `null`.
+
+6. Conversion des colonnes binaires en valeurs textuelles :
+   - Transformation des valeurs numériques ou booléennes en `Oui` / `Non`.
+
 
 
 ## Modèle en étoile (à construire)
@@ -143,7 +167,7 @@ Colonnes (en anglais) : `N_Contact`, `Date` (MM/JJ/AAAA), `Agent_ID`, `Handling_
 │   └── corrigé/
 │        ├── Prestataire_A.corrigé.csv
 │        ├── Prestataire_B.corrigé.csv
-│        ├── Prestataire_C.corrigé.csv    
+│        ├── Prestataire_C.corrigé.csv
 │
 ├── excel/
 │   └── suivi_prestataires.xlsx
