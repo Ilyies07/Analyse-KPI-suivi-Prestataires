@@ -123,9 +123,9 @@ Colonnes (en anglais) : `N_Contact`, `Date` (MM/JJ/AAAA), `Agent_ID`, `Handling_
 6. Conversion des colonnes binaires en valeurs textuelles :
    - Transformation des valeurs numériques ou booléennes en `Oui` / `Non`.
 
-
-
-## Modèle en étoile (à construire)
+## Modèle en étoile 
+- **Dimensions  : `Dim_Agent`, `Dim_Agent`, `Dim_Prestataire`
+- **Tables faits : `Appels_Global`
 
 ## Plan de travail
 
