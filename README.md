@@ -149,7 +149,34 @@ Colonnes (en anglais) : `N_Contact`, `Date` (MM/JJ/AAAA), `Agent_ID`, `Handling_
 ### Documentation
 11. Mise à jour de ce README au fil du projet
 
-## Familles de KPI à définir
+##  Familles de KPI contrôlées
+
+Quatre familles de KPI ont été analysées afin d’évaluer la performance globale des prestataires :
+
+### 1️ KPI de qualité
+Mesurent la conformité et la fiabilité du traitement des appels.  
+**Indicateurs inclus :**
+- Nombre d’appels reçus  
+- Nombre d’appels traités  
+- Nombre d’appels contrôlés  
+- Taux de conformité  
+- Taux d’erreur  
+- Taux de reprises  
+- Taux de conformité au premier passage  
+- Taux de réclamation  
+
+### 2 KPI de délai
+Évaluent la rapidité de prise en charge et de résolution.  
+
+
+### 3️ KPI de satisfaction client
+Mesurent la perception du service par les clients.  
+
+
+### 4️ KPI de productivité
+Apprécient la capacité des équipes à absorber la charge de travail.  
+
+
 
 ## Stack
 
