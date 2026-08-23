@@ -68,6 +68,7 @@ Colonnes (en anglais) : `N_Contact`, `Date` (MM/JJ/AAAA), `Agent_ID`, `Handling_
 5. Conversion des colonnes binaires en valeurs textuelles :
    - `Oui` / `Non`
 6. Remplacement des champs vides dans les colonnes non quantitatives par `Non renseigné`.
+7. Ajout d'une colonne Réclammation
 
 ## Table Prestataire C
 
@@ -168,7 +169,7 @@ Colonnes (en anglais) : `N_Contact`, `Date` (MM/JJ/AAAA), `Agent_ID`, `Handling_
 │        ├── Prestataire_A.corrigé.csv
 │        ├── Prestataire_B.corrigé.csv
 │        ├── Prestataire_C.corrigé.csv
-│
+│        └── Prestataire_D.corrigé.csv
 ├── excel/
 │   └── suivi_prestataires.xlsx
 ├── powerbi/
