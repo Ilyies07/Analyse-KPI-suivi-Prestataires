@@ -1,187 +1,155 @@
-# Suivi de la performance de prestataires de relation client — Excel & Power BI
+#  Suivi & Performance des Prestataires de Relation Client (Excel & Power BI)
 
-## Objectif
+##  1. Objectif du Projet
 
-Consolider et piloter la performance de **4 prestataires externes** de relation client à partir de leurs exports bruts respectifs, hétérogènes dans leur format — exercice qui reproduit directement le pilotage multi-prestataires d'un service comme le DPEX chez EDF (suivi budgétaire, indicateurs métier, facturation, qualité).
+Ce projet vise à **consolider et piloter la performance de 4 prestataires externes** de relation client (Alpha Services, Beta Solutions, Cobalt Support, Delta Connect) à partir d'exports bruts hétérogènes. 
 
-Le projet couvre trois volets : **Excel** (harmonisation, formules complexes, TCD, macros VBA), **modélisation en étoile**, et **Power BI** (dashboard interactif).
+Cette démarche reproduit fidèlement le pilotage multi-prestataires d'un service d'exploitation (type DPEX chez EDF) en couvrant :
+* Le suivi budgétaire et de facturation
+* Le contrôle qualité et la conformité
+* La productivité et les délais de traitement
+* La satisfaction client (CSAT & NPS)
 
-## Sources de données
+Le projet s'articule autour de trois piliers principaux :
+1. **Excel & Power Query :** Nettoyage, harmonisation, calcul de KPI complexes, TCD et automatisation par Macros VBA.
+2. **Modélisation de Données :** Conception d'un schéma en étoile (*Star Schema*).
+3. **Power BI :** Dashboard analytique et interactif de pilotage.
 
-4 fichiers CSV, un par prestataire, générés pour simuler des systèmes de reporting différents (mêmes concepts métier, formats et nommages différents) — environ 9 600 lignes cumulées.
+---
 
-### Prestataire A
-Colonnes : `ID_Appel`, `Date_Appel` (JJ/MM/AAAA), `Agent`, `Duree_Traitement_Sec`, `Statut`, `Note_Satisfaction` (/5), `Montant_Facture_EUR`, `Canal`, `Sujet`, `Appel_Traite`, `Appel_Repris`, `Conformite`, `NPS` (/10), `Reclamation`
+##  2. Sources de Données & Harmonisation
 
-### Prestataire B
-Colonnes : `IdTicket`, `DateTicket` (AAAA-MM-JJ), `Operateur`, `TempsTraitement_Min`, `Resolu`, `Satisfaction_Client`, `CoutFacturation`, `Canal_Contact`, `Motif`, `Traite`, `Reprise_Appel`, `Conforme`, `Score_NPS`, `Motif_Reclamation`
+Le jeu de données comprend **4 fichiers CSV** (environ 9 600 lignes cumulées) simulant des systèmes de reporting d'entreprises distinctes avec des formats, unités et nommages variables.
 
-### Prestataire C
-Colonnes : `Reference_Dossier`, `Jour` (numéro de série Excel), `Nom_Agent`, `Duree_Min`, `Dossier_Cloture`, `Note_Client` (/5), `Prix_Prestation`, `Type_Contact`, `Objet`, `Traite`, `Repris`, `Conformite_Controle`, `NPS_Client` (/10), `Est_Reclamation`
+###  Table de Correspondance des Concepts
 
-### Prestataire D
-Colonnes (en anglais) : `N_Contact`, `Date` (MM/JJ/AAAA), `Agent_ID`, `Handling_Time_Sec`, `Status`, `Rating` (/5), `Billed_Amount`, `Channel`, `Topic`, `Handled`, `Repeat_Call`, `Compliance`, `NPS_Score` (/10), `Complaint`
+| Concept Métier | Prestataire A | Prestataire B | Prestataire C | Prestataire D |
+| :--- | :--- | :--- | :--- | :--- |
+| **Identifiant** | `ID_Appel` | `IdTicket` | `Reference_Dossier` | `N_Contact` |
+| **Date** | `Date_Appel` | `DateTicket` | `Jour` | `Date` |
+| **Agent** | `Agent` | `Operateur` | `Nom_Agent` | `Agent_ID` |
+| **Durée de traitement**| `Duree_Traitement_Sec` | `TempsTraitement_Min` | `Duree_Min` | `Handling_Time_Sec` |
+| **Résolution** | `Statut` | `Resolu` | `Dossier_Cloture` | `Status` |
+| **Satisfaction** | `Note_Satisfaction` | `Satisfaction_Client` | `Note_Client` | `Rating` |
+| **Montant facturé** | `Montant_Facture_EUR` | `CoutFacturation` | `Prix_Prestation` | `Billed_Amount` |
+| **Canal** | `Canal` | `Canal_Contact` | `Type_Contact` | `Channel` |
+| **Sujet** | `Sujet` | `Motif` | `Objet` | `Topic` |
+| **Appel traité** | `Appel_Traite` | `Traite` | `Traite` | `Handled` |
+| **Appel repris** | `Appel_Repris` | `Reprise_Appel` | `Repris` | `Repeat_Call` |
+| **Conformité** | `Conformite` | `Conforme` | `Conformite_Controle` | `Compliance` |
+| **NPS** | `NPS` | `Score_NPS` | `NPS_Client` | `NPS_Score` |
+| **Réclamation** | `Reclamation` | `Motif_Reclamation` | `Est_Reclamation` | `Complaint` |
 
-## Correspondance des concepts entre prestataires (à harmoniser)
+---
 
-| Concept métier | Prestataire A | Prestataire B | Prestataire C | Prestataire D |
-|---|---|---|---|---|
-| Identifiant | ID_Appel | IdTicket | Reference_Dossier | N_Contact |
-| Date | Date_Appel | DateTicket | Jour | Date |
-| Agent | Agent | Operateur | Nom_Agent | Agent_ID |
-| Durée de traitement | Duree_Traitement_Sec | TempsTraitement_Min | Duree_Min | Handling_Time_Sec |
-| Résolution | Statut | Resolu | Dossier_Cloture | Status |
-| Satisfaction | Note_Satisfaction | Satisfaction_Client | Note_Client | Rating |
-| Montant facturé | Montant_Facture_EUR | CoutFacturation | Prix_Prestation | Billed_Amount |
-| Canal | Canal | Canal_Contact | Type_Contact | Channel |
-| Sujet | Sujet | Motif | Objet | Topic |
-| Appel traité | Appel_Traite | Traite | Traite | Handled |
-| Appel repris | Appel_Repris | Reprise_Appel | Repris | Repeat_Call |
-| Conformité | Conformite | Conforme | Conformite_Controle | Compliance |
-| NPS | NPS | Score_NPS | NPS_Client | NPS_Score |
-| Réclamation | Reclamation | Motif_Reclamation | Est_Reclamation | Complaint |
+##  3. Synthèse du Nettoyage des Données (Power Query)
 
-## Synthèse nettoyage 
-
-## Table Prestataire A
+###  Table Prestataire A
 1. Renommage des colonnes et harmonisation des libellés en français.
-2. Nettoyage des valeurs aberrantes dans `Duree_Traitement_Sec` :
-   - Remplacement des valeurs < 10s et > 2000s par `null`.
-3. Correction des types de données :
-   - `Note_Satisfaction_Client` : String → Int
-   - `NPS` : String → Int
-   - `Montant_Facture` : String → Float
-4. Ajout d'une colonne `ID_Agent` basée sur le nom de l’agent.
-5. Remplacement des champs vides dans les colonnes non quantitatives par `Non renseigné`.
+2. Nettoyage des valeurs aberrantes dans `Duree_Traitement_Sec` (remplacement des valeurs < 10s et > 2000s par `null`).
+3. Typpage des données : `Note_Satisfaction_Client` (Int), `NPS` (Int), `Montant_Facture` (Float).
+4. Création de la colonne `ID_Agent` basée sur le nom de l’agent.
+5. Remplacement des valeurs vides non quantitatives par `Non renseigné`.
 
-## Table Prestataire B
-1. Renommage des colonnes et harmonisation des libellés en français.
-2. Création de la colonne `Duree_Traitement_Sec` :
-   - Conversion des minutes en secondes.
-3. Correction des types de données :
-   - `Note_Satisfaction_Client` : String → Int
-   - `NPS` : String → Int
-   - `Montant_Facture` : String → Float
-4. Normalisation des doublons dans `Canal` :
-   - `Tel` → `Téléphone`
-   - `Mail` → `Email`
-5. Conversion des colonnes binaires en valeurs textuelles :
-   - `Oui` / `Non`
-6. Remplacement des champs vides dans les colonnes non quantitatives par `Non renseigné`.
-7. Ajout d'une colonne Réclammation
+###  Table Prestataire B
+1. Renommage et harmonisation des colonnes.
+2. Conversion de la durée de minutes en secondes (`Duree_Traitement_Sec`).
+3. Normalisation des doublons dans `Canal` (`Tel` → `Téléphone`, `Mail` → `Email`).
+4. Conversion des indicateurs binaires en valeurs textuelles (`Oui` / `Non`).
+5. Ajout et structuration de la colonne `Réclamation`.
 
-## Table Prestataire C
+###  Table Prestataire C
+1. Normalisation des identifiants agents (`AGT-01` → `AG001`).
+2. Conversion de la colonne `Date` (type Date à partir du numéro de série Excel).
+3. Conversion de la durée de minutes en secondes (`Durée min × 60`).
+4. Normalisation des booléens textuels (`VRAI`, `FAUSSE`, `TRUE`, `FALSE` → `Oui` / `Non`).
+5. Traitement des valeurs aberrantes : `Duree_Traitement_Sec` (< 10s = `null`) et `Prix_Prestation` (< 12 € = `null`).
 
-1. Renommage des colonnes et harmonisation des libellés en français afin d’aligner la structure avec les tables A et B.
+###  Table Prestataire D
+1. Traduction globale des libellés et valeurs de l'anglais vers le français (ex: `Social Media` → `Réseaux_Sociaux`).
+2. Standardisation des identifiants agents (`AG101` → `AG001`).
+3. Correction des anomalies de formats de date inversés (`MM/JJ/AAAA` → `JJ/MM/AAAA`).
+4. Traitement des valeurs aberrantes sur les durées et conversion des booléens en `Oui` / `Non`.
 
-2. Normalisation des identifiants agents :
-   - Conversion des formats `AGT-01`, `AGT-02`, etc. vers un format standardisé `AG001`, `AG002`, etc.
+---
 
-3. Correction des types de données :
-   - Conversion de la colonne `Date` depuis un format texte (String) vers un type Date.
-   - Renommage de la colonne en `Date` après conversion.
+##  4. Volet Excel : Contrôle, TCD & Macros VBA
 
-4. Création de la colonne `Duree_Traitement_Sec` :
-   - Transformation de la durée exprimée en minutes vers une durée en secondes.
-   - Formule : `Durée (min) × 60`.
+En amont de Power BI, un outil opérationnel structuré sous Excel a été mis en place autour de deux pages :
 
-5. Remplacement des champs vides dans les colonnes non quantitatives par la valeur `Non renseigné` afin d’assurer une cohérence des données.
+###  Page 1 : « Contrôle de KPI »
+* **Calculs avancés :** Utilisation de formules complexes (`SOMME.SI.ENS`, `NB.SI.ENS`, etc.) pour agréger dynamiquement les indicateurs clés.
+* **Mise en forme conditionnelle :** Alertes visuelles instantanées en cas de dépassement de seuil ou de non-conformité.
+* **Macros VBA :**
+  * Macro de **basculement d'affichage** pour activer/désactiver la mise en forme conditionnelle.
+  * Macro d'**exportation automatique** de la vue sous format PDF.
 
-6. Conversion des colonnes binaires en valeurs textuelles :
-   - Transformation des valeurs numériques ou booléennes en `Oui` / `Non`.
+### 📊 Page 2 : « Dashboard Excel »
+* **TCD multi-angles :** Tableaux croisés dynamiques structurés par familles d'indicateurs (Volume, Qualité, Productivité, Coûts).
+* **Restitution visuelle :** Graphiques directement connectés aux TCD pour un pilotage synthétique.
+* **Reporting journalier :** Macro d'**exportation PDF en un clic** pour la génération du rapport quotidien.
 
-7. Normalisation des valeurs booléennes textuelles :
-   - Remplacement des valeurs `VRAI`, `FAUSSE`, `TRUE`, `FALSE` par `Oui` / `Non` dans les colonnes `Traite`, `Reclamation` et `Dossier_Cloture`.
+---
 
-8. Nettoyage des valeurs aberrantes dans `Duree_Traitement_Sec` :
-   - Remplacement des valeurs < 10 secondes par `null`.
+##  5. Modélisation des Données (Schéma en Étoile)
 
-9. Nettoyage des valeurs aberrantes dans `Prix_Prestation` :
-   - Remplacement des valeurs < 12 € par `null`.
+L'ensemble des tables nettoyées a été combiné (`Append`) dans une table de faits unique reliée à ses dimensions selon un schéma en étoile (`1:N`) à filtrage unidirectionnel :
 
-## Table Prestataire D
+* **Table de Faits :**
+  * `Appels_Global` : Contient l'historique exhaustif des interactions.
+* **Tables de Dimensions :**
+  * `Dim_Agent` (`Id Agent`, `Nombre d'heures travaillées`, `Nombre d'appels traités`, `Prestataire`)
+  * `Dim_Prestataire` (`Id Prestataire`, `Nom Prestataire`)
+  * `Dim_Date` (`Id Mois`, `Mois`, `Date_Appel`)
 
-1. Renommage et traduction des colonnes :
-   - Traduction des libellés anglais en français pour harmoniser la structure avec les autres prestataires.
-   - Exemple : `Social Media` → `Réseaux_Sociaux`.
+---
 
-2. Normalisation des identifiants agents :
-   - Conversion des formats `AG101`, `AG102`, etc. vers un format standardisé `AG001`, `AG002`, etc.
+##  6. Dashboard Power BI & Familles de KPI
 
-3. Correction des types de données :
-   - Conversion des colonnes `Note_Satisfaction_Client` et `NPS` depuis le type String vers le type Float.
+Le tableau de bord Power BI est structuré en 6 pages interactives permettant d'analyser la performance sous plusieurs angles :
 
-4. Correction du format de date :
-   - Détection et inversion des dates mal formatées (jour/mois inversés).
-   - Création d’une nouvelle colonne `Date_Corrigee` :
-     - Si le mois > jour et jour < mois, inversion automatique des positions jour/mois.
-     - Format final : `JJ/MM/AAAA`.
+### 1.  Vue d'Ensemble
+* **Volume global :** ~9,58K appels reçus | Montant total facturé : 279 k€
+* **Taux de résolution :** 58,78 % | **Satisfaction moyenne :** 3,78 / 5
+* **Backlog :** 2,9K appels en attente
+* **Répartition canaux :** Téléphone (43,7%), Courrier (21,1%), Email (20,9%), Chat, Réseaux Sociaux.
 
-5. Nettoyage des valeurs aberrantes dans `Temps_Traitement_Sec` :
-   - Remplacement des valeurs < 10 secondes par `null`.
+### 2.  Contrôle Qualité
+* **Taux de conformité global :** 76,75 %
+* **Taux d'erreur :** 23,25 % | **Taux de réclamation :** 21,19 %
+* **Analyse comparative :** Suivi des volumes conformes vs non-conformes et taux de reprise par prestataire.
 
-6. Conversion des colonnes binaires en valeurs textuelles :
-   - Transformation des valeurs numériques ou booléennes en `Oui` / `Non`.
+### 3.  Délais & Temps de Traitement
+* **Durée Moyenne de Traitement (DMT) :** 266,5 secondes (Min : 10s | Max : 684s).
+* **Volume total de traitement :** ~697 heures.
+* **Analyses croisées :** DMT par motif, par canal et par statut du ticket.
 
-## Modèle en étoile 
-- **Dimensions  : `Dim_Agent`, `Dim_Agent`, `Dim_Prestataire`
-- **Tables faits : `Appels_Global`
+### 4.  Productivité & Performance des Agents
+* **Agents actifs :** 34 agents
+* **Taux de productivité global :** 69,35 % | **Taux d'occupation :** 58,54 %
+* **Analyse individuelle :** Vue détaillée par agent (heures travaillées, volume traité, taux de résolution, taux de reprise).
 
-## Plan de travail
+### 5.  Satisfaction Client (NPS & CSAT)
+* **Score NPS moyen :** 6,92 / 10
+* **Corrélation :** Étude de l'impact du DMT sur les notes NPS et CSAT.
+* **Classement prestataires :** Comparatif de la satisfaction client selon le prestataire.
 
-### Excel
-1. Exploration de chaque fichier séparément, confirmation des problèmes listés ci-dessus
-2. Nettoyage individuel de chaque source (Power Query)
-3. Harmonisation : renommage des colonnes vers un nom commun, conversion des unités (durée), conversion des formats de date, uniformisation des booléens et de l'échelle NPS
-4. Fusion des 4 sources en une table unique (`Append`), avec colonne `Prestataire`
-5. Construction du modèle en étoile
-6. Formules complexes pour les KPI 
-7. Tableaux croisés dynamiques sur plusieurs angles (prestataire, mois, canal, sujet)
-8. Macros VBA :
-   - rafraîchissement des données
-   - contrôle qualité (ex : alerte si le taux de non-conformité ou de valeurs manquantes dépasse un seuil sur un prestataire)
-   - génération automatique d'un rapport de synthèse mensuel
+### 6.  Facturation & Suivi Budgétaire
+* **Budget facturé :** 279 184 € (Objectif : 300 000 €).
+* **Coût moyen par appel :** ~31 €
+* **Ventilation des coûts :** Par prestataire, par canal et par motif.
 
-### Power BI
-9. Import du modèle construit (ou reconstruction directe dans Power BI)
-10. Dashboard interactif comparant la performance des 4 prestataires
+---
 
-### Documentation
-11. Mise à jour de ce README au fil du projet
+##  7. Outils & Technologies Utilises
 
-##  Familles de KPI contrôlées
+* **Microsoft Excel & Power Query :** Nettoyage des données, formules complexes (`SOMME.SI.ENS`, `NB.SI.ENS`, `INDEX + EQUIV`, `RECHERCHEV/X` etc), TCD et visualisation.
+* **VBA (Visual Basic for Applications) :** Automatisations (exports PDF, mises en forme conditionnel).
+* **Power BI Desktop :** Modélisation relationnelle (Star Schema), mesures DAX avancées, visualisations et filtres dynamiques.
 
-Quatre familles de KPI ont été analysées afin d’évaluer la performance globale des prestataires :
+---
 
-### 1️ KPI de qualité
-Mesurent la conformité et la fiabilité du traitement des appels.  
-**Indicateurs inclus :**
-- Nombre d’appels reçus  
-- Nombre d’appels traités  
-- Nombre d’appels contrôlés  
-- Taux de conformité  
-- Taux d’erreur  
-- Taux de reprises  
-- Taux de conformité au premier passage  
-- Taux de réclamation  
-
-### 2 KPI de délai
-Évaluent la rapidité de prise en charge et de résolution.  
-
-
-### 3️ KPI de satisfaction client
-Mesurent la perception du service par les clients.  
-
-
-### 4️ KPI de productivité
-Apprécient la capacité des équipes à absorber la charge de travail.  
-
-
-
-## Stack
-
-- Excel (Power Query, formules, TCD, VBA)
-- Power BI (modélisation, DAX, dashboard)
+##  8. Structure du Repository
 
 ## Structure du repo 
 
